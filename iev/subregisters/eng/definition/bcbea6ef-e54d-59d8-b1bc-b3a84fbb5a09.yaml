@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: a6291cec-c123-532f-847e-2266d1c1333e
+  definition: finite and ordered set of related items of {{data, IEV:171-01-02}},
+    processed in sequence
+  examples: []
+  notes: []
+dateAccepted: '2019-03-01T00:00:00+00:00'
+id: bcbea6ef-e54d-59d8-b1bc-b3a84fbb5a09
+status: Standard

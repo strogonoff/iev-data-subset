@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - null
+  concept: 64f9c096-829a-5ce7-973a-cdc940674fd5
+  definition: a tapping whose tapping factor is lower than 1
+  examples: []
+  notes: []
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 73354616-6298-57c1-bfb8-0c0300db604d
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0441b89c-64ff-56cf-a88f-a9b0c558517e
+  definition: grandeur additive non négative attribuée à un objet unidimensionnel
+    dans l’espace
+  examples: []
+  notes:
+  - 1 La longueur est l’une des grandeurs de base du Système international de grandeurs
+    (ISQ) sur lequel est fondé le Système international d’unités (SI).
+  - 2 La longueur d’une courbe et la distance de deux points sont définies dans la
+    CEI 60050-102:2007, ({{102-04-18, IEV:102-04-18}} et {{102-03-24, IEV:102-03-24}}).
+  - 3 Le terme longueur est aussi employé par convention pour la plus grande dimension
+    d’un objet, par opposition à la largeur et à la hauteur ou l’épaisseur.
+  - 4 L’unité SI cohérente de longueur est le mètre, m (voir la CEI 60050-112:2010,
+    {{112-02-05, IEV:112-02-05}}). Des unités en-dehors du SI utilisées afin de répondre
+    aux besoins spécifiques de certains groupes sont l’ångström, Å (1 Å:= 10^−10^
+    m) et le mille marin (1 mille marin:= 1 852 m). Une unité en usage avec le SI,
+    dont la valeur est obtenue expérimentalement, est l’unité astronomique, ua, égale
+    approximativement à la distance moyenne entre le Soleil et la Terre.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 15d8c479-aa77-5d24-8cc2-a7f866812e22
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 62f66e66-9135-5fa1-bcb7-0cf2757be703
+  definition: transformateur de type sec dont un ou plusieurs enroulements sont encapsulés
+    dans une isolation solide
+  examples: []
+  notes: []
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 608c3976-5404-51bc-8ba6-7ad47c21e90c
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8fe8591c-08e9-5066-a48b-f6aa44dbd3d5
+  definition: intervalle durant lequel une valve bloquante en inverse ou un bras composé
+    de telles valves est à l'état bloqué dans le sens inverse
+  examples: []
+  notes: []
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: f92e1ce7-4cc5-5097-bc75-1600d90759b9
+status: Standard

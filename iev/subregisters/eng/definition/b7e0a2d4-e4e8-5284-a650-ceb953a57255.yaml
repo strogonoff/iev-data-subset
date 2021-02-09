@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 096f23b2-e5ac-5c78-900c-734a3f970615
+  definition: product of the length of a journey and the payload conveyed over that
+    distance during a certain period
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: b7e0a2d4-e4e8-5284-a650-ceb953a57255
+status: Standard

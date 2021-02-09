@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: b462e275-8f68-54f3-9d31-29b815ca342e
+  definition: tunnel diode whose peak and valley point currents are approximately
+    equal
+  examples: []
+  notes: []
+dateAccepted: '2002-05-01T00:00:00+00:00'
+id: ade86283-c387-5e7c-ba04-7553b0ee4004
+status: Standard

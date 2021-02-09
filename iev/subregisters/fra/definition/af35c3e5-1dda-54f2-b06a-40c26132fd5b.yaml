@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: c36817e5-0952-565d-b615-9d8261b67167
+  definition: variation des propriétés optiques d'une substance induite par un champ
+    magnétique
+  examples: []
+  notes:
+  - Les substances présentant un effet magnéto-optique sont généralement employées
+    pour produire une rotation de la polarisation d'une onde à polarisation rectiligne
+    autour de sa direction de propagation.
+  - Le phénomène le plus usuel est une variation de l'indice de réfraction.
+dateAccepted: '1991-10-01T00:00:00+00:00'
+id: af35c3e5-1dda-54f2-b06a-40c26132fd5b
+status: Standard

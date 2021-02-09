@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 87621e6f-6775-5610-b668-62f6f8188c62
+  definition: récepteur de télécopie assurant l'enregistrement en lignes successives
+    sur un support qui progresse d'un pas constant entre deux lignes consécutives
+    de façon à permettre l'enregistrement de plusieurs messages à la suite sans qu'une
+    intervention d'opérateur soit nécessaire pour changer le support entre les messages
+    consécutifs
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: f0e253df-6eef-5f37-9ef9-7807600ff8cb
+status: Standard

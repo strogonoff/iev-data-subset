@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: a1cceae5-83ed-5e5d-a334-6de394a4ea22
+  definition: radiogramme obtenu lorsque le faisceau utile de rayons X a traversé
+    le corps d'un côté à l'autre
+  examples: []
+  notes: []
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 061b9dfd-4f23-5cff-9c8f-1eca0c9c0083
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: '27'
+      original: ITU RR 27 MOD
+      ref: ITU RR
+      relationship:
+        type: modified
+  concept: 57032aa9-bea1-5417-b457-b44b107975a7
+  definition: space radiocommunication service intended to provide links, either between
+    radio stations fixed on the Earth's surface and mobile stations, or between mobile
+    stations
+  examples: []
+  notes: []
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: df800b82-8978-53b2-b46c-5cb3e825da13
+status: Standard

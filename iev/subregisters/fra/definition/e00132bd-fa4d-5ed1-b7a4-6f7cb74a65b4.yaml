@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7f494a24-0262-5676-9663-08bba0942258
+  definition: '{{relais de mesure, IEV:447-01-02}} qui, par conception ou utilisation,
+    est prévu pour répondre principalement à des défauts à la terre dans le réseau
+    électrique'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: e00132bd-fa4d-5ed1-b7a4-6f7cb74a65b4
+status: Standard

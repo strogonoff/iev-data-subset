@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: definition 793
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, definition 793, modified
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  concept: 16bc76a5-bf44-58e8-be5e-8aa17e3948a9
+  definition: phenomenon in which neutrons in a medium tend, through a process of
+    successive collisions, to migrate from regions of high concentration to regions
+    of low concentration
+  examples: []
+  notes:
+  - This entry was numbered 393-13-31 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: e433f02f-745b-56b4-b8e8-ca644f836140
+status: Standard

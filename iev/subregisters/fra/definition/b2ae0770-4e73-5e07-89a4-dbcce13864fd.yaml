@@ -1,0 +1,43 @@
+data:
+  authoritative_source:
+  - null
+  concept: b60d9c27-5571-5ede-8530-e779885d9446
+  definition: grandeur qui détermine la puissance géométrique maximale de rayonnement
+    transmis, reçu ou émis selon une configuration optique passive monopasse
+  examples: []
+  notes:
+  - 'Définissant un rayon comme l''échange de rayonnements confinés entre deux éléments
+    de surface sous-tendus dstem:[A] et dstem:[A]′ à une distance stem:[l], avec les
+    vecteurs normaux stem:[n_A] et stem:[n^( '' )_A] et les angles d''orientation
+    stem:[θ] et stem:[θ]′ par rapport à un axe optique commun, l''étendue géométrique
+    est égale à l''action de tous les rayons possibles entre les deux surfaces stem:[A]
+    et stem:[A]′. Ce phénomène est exprimé par l''intégrale étendue au produit de
+    tous les éléments de surface projetée dstem:[A] cos stem:[θ] et dstem:[A]′ cos stem:[θ] ′
+    pondérés par la distance au carré afin de tenir compte de la dimension apparente
+    des surfaces correspondantes:
+
+
+    stem:[G = (1)/((l^2)) underset(A)( int ) underset(A^( '' ))( int ) d A cos theta
+    * d A^( '' ) cos theta^( '' ) = int d G]
+
+
+    avec
+
+
+    stem:[d G \ = ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2)) = d A cos
+    Theta * d omega = d A^( '' ) cos theta^( '' ) * d omega^( '' ) = d G^( '' )]
+
+
+    où dstem:[Ω] et dstem:[Ω]′ sont les éléments des angles solides qui définissent
+    l''étendue angulaire de dstem:[A]′ à partir de dstem:[A] et de dstem:[A] à partir
+    de dstem:[A]′ respectivement.'
+  - '"Monopasse" signifie que le terme s''applique uniquement au transfert de rayonnement
+    dans une direction définie unique. Il ne s''applique pas à des dispositifs tels
+    que les cavités Fabry–Pérot.'
+  - Voir aussi "<a href="IEV845-21-048">étendue optique</a>".
+  - L'étendue géométrique est exprimée en mètre carré multipliée par le stéradian
+    (m^2^·sr).
+  - Cet article était numéroté 845-01-33 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: b2ae0770-4e73-5e07-89a4-dbcce13864fd
+status: Standard

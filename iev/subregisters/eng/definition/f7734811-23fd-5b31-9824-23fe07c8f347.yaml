@@ -1,0 +1,72 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4def0f8f-ffec-5bbc-814f-50033252fba3
+  definition: 'density of luminous intensity with respect to projected area in a specified
+    direction at a specified point on a real or imaginary surface
+
+
+    stem:[L_v = ((d I_v))/((d A)) (1)/((cos alpha))]
+
+
+    where stem:[I]~v~ is luminous intensity, stem:[A] is area and stem:[α] is the
+    angle between the normal to the surface at the specified point and the specified
+    direction'
+  examples: []
+  notes:
+  - 'In a practical sense, the definition of luminance can be thought of as dividing
+    a real or imaginary surface into an infinite number of infinitesimally small surfaces
+    which can be considered as <a href="IEV845-21-033">point sources</a>, each of
+    which has a specific luminous intensity, stem:[I]~v~, in the specified direction.
+    The luminance of the surface is then the integral of these luminance elements
+    over the whole surface.
+
+
+    The equation in the definition can mathematically be interpreted as a derivative
+    (i.e. a rate of change of luminous intensity with projected area) and could alternatively
+    be rewritten in terms of the average luminous intensity, stem:[bar I_v], as:
+
+
+    stem:[L_v = underset((A -&gt; 0))((lim)) ((bar I_v))/(A) (1)/((cos alpha))].
+
+
+    Hence, luminance is often considered as a quotient of averaged quantities; the
+    area, stem:[A], should be small enough so that uncertainties due to variations
+    in luminous intensity within that area are negligible; otherwise, the quotient
+    stem:[bar L_v = ((bar I_v))/(A) (1)/((cos alpha))] gives the average luminance
+    and the specific measurement conditions have to be reported with the result.'
+  - For a surface being irradiated, an equivalent formula in terms of illuminance,
+    stem:[E]~v~, and solid angle, stem:[Ω], is stem:[L_v = ((d E_v))/((d omega)) (1)/((cos
+    theta))], where stem:[θ] is the angle between the normal to the surface being
+    irradiated and the direction of irradiation. This form is useful when the source
+    has no surface (e.g. the sky, the plasma of a discharge).
+  - An equivalent formula is stem:[L_v = ((d Phi_v))/((d G))], where stem:[Φ]~v~ is
+    luminous flux and stem:[G] is geometric extent.
+  - "Luminous flux can be obtained by integrating luminance over projected area, stem:[A]·cos\
+    \ stem:[α], and solid angle, stem:[Ω]:\r\nstem:[Phi_v = ​ ∬ L_v * cos alpha d\
+    \ A d omega]."
+  - Since the <a href="IEV845-21-048">optical extent</a>, expressed by stem:[G·n]^2^,
+    where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant,
+    the quantity expressed by stem:[L]~v~stem:[·n]^−2^ is also invariant along the
+    path of the beam if the losses by absorption, reflection and diffusion are taken
+    as 0. That quantity is called "basic luminance".
+  - 'The equation in the definition can also be described as a function of luminous
+    flux, stem:[Φ]~v~. In this case, it is mathematically interpreted as a second
+    partial derivative of the luminous flux at a specified point (stem:[x], stem:[y])
+    in space in a specified direction (stem:[ϑ], stem:[φ]) with respect to projected
+    area, stem:[A]·cos stem:[α], and solid angle, stem:[Ω],
+
+
+    stem:[L_v ( x , y , vartheta , phi ) = ((del^2 Phi_v ( x , y , vartheta , phi
+    )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]
+
+
+    where stem:[α] is the angle between the normal to that area at the specified point
+    and the specified direction.'
+  - The corresponding radiometric quantity is "radiance". The corresponding quantity
+    for photons is "photon radiance".
+  - The luminance is expressed in candela per square metre (cd·m^−2^ = lm·m^−2^·sr^−1^).
+  - This entry was numbered 845-01-35 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: f7734811-23fd-5b31-9824-23fe07c8f347
+status: Standard

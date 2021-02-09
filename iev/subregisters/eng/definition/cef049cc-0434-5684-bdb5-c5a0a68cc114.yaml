@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4c96fdc3-28f0-56f0-a370-3f8992577a4b
+  definition: sensor that is separated from the equipment body and is connected to
+    a gas detection control unit or to a gas detection transmitter
+  examples: []
+  notes: []
+dateAccepted: '2020-03-01T00:00:00+00:00'
+id: cef049cc-0434-5684-bdb5-c5a0a68cc114
+status: Standard

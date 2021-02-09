@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2cfd7569-150c-59f5-9ce7-652fabf4482e
+  definition: that portion of the call duration available for information transfer
+    between calling and called parties
+  examples: []
+  notes: []
+dateAccepted: '1992-11-01T00:00:00+00:00'
+id: b9fac5b6-7a19-518b-bac7-424c9bedc985
+status: Standard

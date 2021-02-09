@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: db280a4f-b28b-5ef3-a0ca-beff7ca971bf
+  definition: déplacement ou mouvement vertical apparent de l'image dû à un défaut
+    de synchronisation de trame
+  examples: []
+  notes: []
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 83a2f576-75fd-57fb-8123-09e078049f6a
+status: Standard

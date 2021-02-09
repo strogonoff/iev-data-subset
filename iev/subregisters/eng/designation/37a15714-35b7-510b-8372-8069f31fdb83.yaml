@@ -1,0 +1,19 @@
+data:
+  concept: 48da5345-2d6e-546d-aff5-50004f1a4e7c
+  designation: 'stem:[r](stem:[λ]), stem:[g](stem:[λ]), stem:[b](stem:[λ]), &lt;CIE
+    1931 RGB colorimetric system&gt; &lt;système de référence colorimétrique CIE 1931&gt;
+
+    stem:[x](stem:[λ]), stem:[y](stem:[λ]), stem:[z](stem:[λ]), &lt;CIE 1931 standard
+    colorimetric system&gt; &lt;système de référence colorimétrique CIE 1931&gt;
+
+    stem:[r]~10~(stem:[λ]), stem:[g]~10~(stem:[λ]), stem:[b]~10~(stem:[λ]), &lt;CIE
+    1964 RGB colorimetric system&gt; &lt;système de référence colorimétrique CIE 1964&gt;
+
+    stem:[x]~10~(stem:[λ]), stem:[y]~10~(stem:[λ]), stem:[z]~10~(stem:[λ]), &lt;CIE
+    1964 standard colorimetric system&gt; &lt;système de référence colorimétrique
+    CIE 1964&gt;'
+  normativeStatus: null
+  type: symbol
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 37a15714-35b7-510b-8372-8069f31fdb83
+status: Standard

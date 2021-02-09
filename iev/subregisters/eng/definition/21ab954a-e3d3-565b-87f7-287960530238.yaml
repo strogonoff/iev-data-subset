@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 82c6a6ff-0cb5-5f9b-9272-e6f4dbbac644
+  definition: item under consideration defined according to function or effect
+  examples: []
+  notes:
+  - A functional unit produces the interactive effect between input variables and
+    output variables.
+  - A functional unit may be implemented by one or several physical units or program
+    modules.
+  - If compound terms are used to designate functional units, the following should
+    be used as the last word (in ascending order of rank),* element,* system.
+  - This entry was numbered 351-32-02 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 21ab954a-e3d3-565b-87f7-287960530238
+status: Standard

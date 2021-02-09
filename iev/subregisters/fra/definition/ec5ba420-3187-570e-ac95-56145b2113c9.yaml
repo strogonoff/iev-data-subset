@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: ded1fb3f-9f5d-5e31-97e2-fa4dfe626875
+  definition: groupe ordonné d'éléments, par exemple un {{multiplet, IEV:702-05-06}},
+    représentant selon un {{code, IEV:101-12-04}} une donnée élémentaire telle qu'un
+    {{caractère, IEV:702-05-10}}
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: ec5ba420-3187-570e-ac95-56145b2113c9
+status: Standard

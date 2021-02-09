@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - - original: UIT-R Rec. 592 MOD
+      ref: ITU-R Recommendation 592
+      relationship:
+        type: modified
+  concept: 3c01f253-8582-51d3-8108-204b680bd606
+  definition: modulation d'amplitude en quadrature dans laquelle le signal radiofréquence
+    peut prendre plus de quatre états de phase et d'amplitude à l'instant d'échantillonnage
+  examples: []
+  notes: []
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 05044c71-a2b3-5a27-a211-d0a2ea944e1e
+status: Standard

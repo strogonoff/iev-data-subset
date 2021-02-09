@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3f0e19f1-fbdf-56d5-9190-490add59bb23
+  definition: output level instability where the period of variations lasts more than
+    one second, and expressed in decibels as the ratio of the highest to the lowest
+    output levels measured over the entire length of the reel of tape
+  examples: []
+  notes: []
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 39ecc680-9032-5cbf-bd7a-f4256f9837de
+status: Standard

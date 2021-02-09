@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 39447480-4462-5720-89eb-ba31898cef78
+  definition: quotient de la différence entre les fréquences extrêmes d'oscillation
+    par la variation du courant d'électrode qui provoque la variation de fréquence,
+    les effets thermiques étant exclus
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: c9faa5af-0433-52a1-8768-45776f28f403
+status: Standard

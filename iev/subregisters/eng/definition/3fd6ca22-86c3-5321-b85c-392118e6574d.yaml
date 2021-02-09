@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 85028f35-cb4c-544e-9f4e-db0646dbc348
+  definition: depth below a large plane surface of a load where the power density
+    of a perpendicularly incident plane wave of a given frequency has decreased to
+    1/e of the surface value
+  examples: []
+  notes: []
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: 3fd6ca22-86c3-5321-b85c-392118e6574d
+status: Standard

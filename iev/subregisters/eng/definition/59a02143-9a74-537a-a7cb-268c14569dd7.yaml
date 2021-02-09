@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2075e110-7076-59bf-a925-1f03eb831bf4
+  definition: the process of routing messages in a telecommunication network, where
+    the messages are first cut into addressed packets; in certain nodes of the network,
+    these packets are received, stored and forwarded onto the appropriate transmission
+    channels; at the receiving end, the message is reconstituted from the received
+    packets
+  examples: []
+  notes:
+  - A packet occupies a channel only for its duration of transmission; at other times
+    the channel is available for the transmission of other packets belonging to the
+    same message or to other messages.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 59a02143-9a74-537a-a7cb-268c14569dd7
+status: Standard

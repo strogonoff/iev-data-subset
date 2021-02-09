@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: b147a761-e27f-52c0-9f43-08e18e6cf4d0
+  definition: décalage de la tache lumineuse dans la direction radiale par rapport
+    à l'axe de la piste
+  examples: []
+  notes: []
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: e3ff6b41-d5f3-5db9-b814-bf36a1efd057
+status: Standard

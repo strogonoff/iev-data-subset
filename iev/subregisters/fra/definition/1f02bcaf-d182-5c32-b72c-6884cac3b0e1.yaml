@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: f91fdeb8-6d2a-5374-9940-96e4088fe8f2
+  definition: chauffage électrique qui conduit à la génération de chaleur par absorption
+    de l'énergie cinétique de un ou plusieurs faisceaux électroniques accélérés dans
+    un champ électrique
+  examples: []
+  notes: []
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: 1f02bcaf-d182-5c32-b72c-6884cac3b0e1
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: d6a18475-7057-51c7-916a-1029a8e13ae5
+  definition: a call indicating device, other than a telephone bell or buzzer, providing
+    an audible tone
+  examples: []
+  notes: []
+dateAccepted: '1992-11-01T00:00:00+00:00'
+id: 0d208d6b-8aaa-5407-a0aa-643218e93a63
+status: Standard

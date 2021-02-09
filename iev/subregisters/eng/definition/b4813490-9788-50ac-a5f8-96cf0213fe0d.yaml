@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1db1b839-6be8-50e1-859d-4782105418a2
+  definition: a process applied to a scrambled signal in order to restore the original
+    signal
+  examples: []
+  notes: []
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: b4813490-9788-50ac-a5f8-96cf0213fe0d
+status: Standard

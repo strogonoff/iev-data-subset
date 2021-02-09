@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1233e1ba-309e-5952-9546-b79c4a98ba51
+  definition: assembly of insulated electric conductors, conductor seals and opening
+    seals that provides the passage for the electric conductors through an opening
+    in the nuclear containment structure, while providing a pressure barrier between
+    the inside and the outside of the containment structure
+  examples: []
+  notes:
+  - This entry was numbered 394-35-09 in IEC 60050-394:2007.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: b8f34074-a309-57ec-bdeb-09ff56ee97dd
+status: Standard

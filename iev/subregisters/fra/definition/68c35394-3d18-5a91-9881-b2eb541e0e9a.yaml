@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 1233e1ba-309e-5952-9546-b79c4a98ba51
+  definition: ensemble de conducteurs électriques isolés, de joints pour conducteurs
+    et de joints permettant le passage des divers conducteurs électriques à travers
+    une ouverture unique dans une structure de confinement nucléaire, tout en ménageant
+    une barrière de pression entre l’intérieur et l’extérieur de la structure de confinement
+  examples: []
+  notes:
+  - Cet article était numéroté 394-35-09 dans la CEI 60050-394:2007.
+dateAccepted: 2018-11-17
+id: 68c35394-3d18-5a91-9881-b2eb541e0e9a
+status: Standard

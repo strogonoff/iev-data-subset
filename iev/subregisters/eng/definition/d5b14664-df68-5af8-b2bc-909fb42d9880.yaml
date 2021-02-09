@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: bd78a7b4-98f1-5b1d-911d-736171a98fc9
+  definition: <a href="IEV845-21-014">monochromatic radiation</a> emitted or absorbed
+    in a transition between two energy levels
+  examples: []
+  notes:
+  - A spectral line is often observed as a sharp feature in a spectrum.
+  - This entry was numbered 845-01-09 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: d5b14664-df68-5af8-b2bc-909fb42d9880
+status: Standard

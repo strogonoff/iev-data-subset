@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 9d43633b-d81e-54ab-993c-81617699fa16
+  definition: condensateur utilisé pour la transmission de signaux sur un réseau de
+    puissance
+  examples: []
+  notes: []
+dateAccepted: '1990-09-01T00:00:00+00:00'
+id: d8007a38-df1d-5db7-b912-076b3a29d1db
+status: Standard

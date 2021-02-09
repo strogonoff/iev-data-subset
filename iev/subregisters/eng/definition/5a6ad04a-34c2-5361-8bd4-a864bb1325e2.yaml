@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 39447480-4462-5720-89eb-ba31898cef78
+  definition: the quotient of (1) the difference between the extremes of frequency
+    of oscillation to (2) the change in electrode current that produces the change
+    in frequency, thermal effects excluded
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 5a6ad04a-34c2-5361-8bd4-a864bb1325e2
+status: Standard

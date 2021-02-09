@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - null
+  concept: c28cea0e-aefd-5d8d-b5a4-e71e9b6b99c1
+  definition: retour d'un dispositif d'interrogation séquentielle à une origine fixe
+  examples: []
+  notes: []
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 08400293-fb92-5b99-acd7-44582af16c11
+status: Standard

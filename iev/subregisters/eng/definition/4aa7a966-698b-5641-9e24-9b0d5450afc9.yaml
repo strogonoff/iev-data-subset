@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 45853daf-3d95-5ea2-8884-e61d3f14ba21
+  definition: representation of an electric or magnetic device by means of a circuit
+    composed of ideal elements
+  examples: []
+  notes: []
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 4aa7a966-698b-5641-9e24-9b0d5450afc9
+status: Standard

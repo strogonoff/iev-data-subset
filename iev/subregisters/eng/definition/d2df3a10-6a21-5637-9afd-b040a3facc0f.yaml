@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: fda5b3c8-b338-5a00-b2f8-b3a471e53bfc
+  definition: a waveguide whose transverse cross-section dimensions change progressively
+    with distance along its longitudinal axis
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: d2df3a10-6a21-5637-9afd-b040a3facc0f
+status: Standard

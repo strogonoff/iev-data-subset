@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: da7267af-2a4f-559d-99f4-bc374820a1b1
+  definition: root-mean-square of instantaneous sound pressures over a given time
+    interval, unless specified otherwise
+  examples: []
+  notes: []
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 2274b718-24b8-5db5-a5cc-0e352bf8a0bb
+status: Standard

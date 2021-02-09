@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0da43196-705d-54aa-84db-d7beb7a37f1e
+  definition: en un point d'une surface séparant deux milieux de températures thermodynamiques
+    différentes, quotient de la norme du flux thermique surfacique *stem:[φ]* par
+    la valeur absolue de la différence de température Δstem:[T], soit stem:[K = ((|
+    phi |))/((| Delta T |))]
+  examples: []
+  notes:
+  - 1 Le coefficient de transmission thermique est nul pour une limite adiabatique
+    et infini pour une limite diathermique.
+  - 2 Le nom «transmittance thermique» et le symbole stem:[U] sont surtout utilisés
+    en technologie des bâtiments.
+  - 3 L'unité SI cohérente de coefficient de transmission thermique est le watt par
+    mètre carré kelvin, W/(m^2^·K).
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: e11d8b8d-f296-5e6d-9e21-ba8a9feb3555
+status: Standard

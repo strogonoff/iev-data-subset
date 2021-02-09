@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2ba5c6f2-1b86-55eb-849a-6143327af1ee
+  definition: moteur asynchrone ayant un (des) enroulement(s) secondaire(s) bobiné(s)
+    polyphasé(s)
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: bcd91a69-8d2a-5c36-97eb-91a2266fb7f4
+status: Standard

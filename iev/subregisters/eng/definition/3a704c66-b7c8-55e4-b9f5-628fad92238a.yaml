@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: f7164451-0b45-58b9-b179-792a6bf264c7
+  definition: derivative with respect to time stem:[t] of energy stem:[E] being transferred
+    or transformed, thus stem:[P = ((d E))/((d t))]
+  examples: []
+  notes:
+  - 1 For power in electric circuits, see IEC 60050-131.
+  - 2 The coherent SI unit of power is watt, W.
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 3a704c66-b7c8-55e4-b9f5-628fad92238a
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4de05b38-88cd-5966-ba93-892b51006a75
+  definition: the difference, expressed in decibels, between two levels of the same
+    signal, recorded, one on a stated magnetic medium and the other on a reference
+    magnetic medium, by the same magnetic head, energized by the same audio-frequency
+    current; the biasing current has in each case an adequate value
+  examples: []
+  notes: []
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: f7567808-e868-5c79-a61e-e6e5fa50d950
+status: Standard

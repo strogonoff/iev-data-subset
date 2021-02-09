@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - null
+  concept: 69ac68a4-8f5d-51a5-874d-bcfead33a521
+  definition: intégrale du produit d'une fonction et d'une ondelette décalée et dilatée
+    ou comprimée
+  examples: []
+  notes:
+  - 'Pour une fonction stem:[f ( t )] et une ondelette stem:[psi ( t )]:
+
+
+    stem:[C_f ( a , b ) = int_(- oo)^(+ oo) f ( t ) psi_(a , b)^( ** ) ( t ) d t]
+
+
+    où stem:[a] est le paramètre d’échelle, stem:[b] est le paramètre de position
+    et * note le complexe conjugué.'
+  - Une transformée discrète en ondelettes est obtenue en choisissant un nombre fini
+    de valeurs des deux paramètres. La transformée inverse exprime la fonction du
+    temps comme une superposition d'ondelettes.
+dateAccepted: 2018-11-17
+id: 0d903f56-c54f-58f3-b7ee-2bdd6beb3bf8
+status: Standard

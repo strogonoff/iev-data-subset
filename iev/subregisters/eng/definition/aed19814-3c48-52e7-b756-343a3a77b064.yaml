@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 8fe8591c-08e9-5066-a48b-f6aa44dbd3d5
+  definition: the interval during which a reverse blocking valve device or an arm
+    consisting of such devices is in the reverse blocking state
+  examples: []
+  notes: []
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: aed19814-3c48-52e7-b756-343a3a77b064
+status: Standard

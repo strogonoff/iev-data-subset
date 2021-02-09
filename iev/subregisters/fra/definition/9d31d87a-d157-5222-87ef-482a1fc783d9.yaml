@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 4de05b38-88cd-5966-ba93-892b51006a75
+  definition: différence, exprimée en décibels, entre deux niveaux enregistrés d'un
+    même signal l'un sur un support magnétique donné, et l'autre sur un support magnétique
+    de référence, par la même tête magnétique alimentée par le même courant audiofréquence,
+    le courant de polarisation ayant dans chaque cas une valeur appropriée
+  examples: []
+  notes: []
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 9d31d87a-d157-5222-87ef-482a1fc783d9
+status: Standard

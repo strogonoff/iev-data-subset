@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5f42551b-0fe1-5b8b-8512-b4b997778570
+  definition: réponse du matériel au gaz concerné en comparaison avec la réponse à
+    d'autres gaz
+  examples: []
+  notes:
+  - Dans le cas de sélectivité du gaz cible, les résultats sont moins ambigus et la
+    sensibilité transverse avec d'autres gaz est faible.
+dateAccepted: 2018-11-17
+id: befa3503-0fab-5b79-82d1-59df057d2274
+status: Standard

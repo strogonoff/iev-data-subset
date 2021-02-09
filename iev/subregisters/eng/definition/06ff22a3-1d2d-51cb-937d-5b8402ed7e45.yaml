@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0655454d-874a-55f4-9d50-d458af0cc7e1
+  definition: an answer signal which inhibits charging
+  examples: []
+  notes: []
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 06ff22a3-1d2d-51cb-937d-5b8402ed7e45
+status: Standard

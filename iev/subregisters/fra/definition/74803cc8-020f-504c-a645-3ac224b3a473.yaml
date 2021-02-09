@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - null
+  concept: 64f9c096-829a-5ce7-973a-cdc940674fd5
+  definition: prise dont le facteur de prise est inférieur à 1
+  examples: []
+  notes: []
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: 74803cc8-020f-504c-a645-3ac224b3a473
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0111de1c-3288-5688-8360-ccaf8a4f11c5
+  definition: state quantity of a system of fixed composition for which the infinitesimal
+    increase is equal to the quotient of the heat entering the system by the thermodynamic
+    temperature, plus an additional positive term if the change of state is irreversible
+  examples: []
+  notes:
+  - 1 The entropy of a system in a given macrostate is proportional to the logarithm
+    of the number of microstates in that macrostate.
+  - 2 The coherent SI unit of entropy is joule per kelvin, J/K.
+  - 3 Specific entropy, or entropy per mass, is denoted stem:[s].
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 1db694e7-938d-5962-b616-4dfd80fc64db
+status: Standard

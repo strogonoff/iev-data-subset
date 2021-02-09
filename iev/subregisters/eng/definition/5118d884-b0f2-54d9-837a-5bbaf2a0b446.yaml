@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - null
+  concept: db187bd0-6933-5928-b392-8e6f6647f375
+  definition: positive electrode of a DC arc plasma torch
+  examples: []
+  notes:
+  - The anode is usually made of a high electrical and thermal conductivity material,
+    such as copper, and water cooled.
+  - The return current electrode of a transferred plasma torch serves in most cases
+    as the anode.
+  - In a non-transferred plasma torch, the anode is often the torch nozzle.
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: 5118d884-b0f2-54d9-837a-5bbaf2a0b446
+status: Standard

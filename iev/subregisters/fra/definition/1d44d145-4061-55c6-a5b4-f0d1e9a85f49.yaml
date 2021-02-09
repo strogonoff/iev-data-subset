@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 2adf5060-d832-5090-8c24-4f2ea21494f2
+  definition: mémoriser les journaux et enregistrements sur un moyen permanent de
+    manière à pouvoir les consulter à une date ultérieure
+  examples: []
+  notes: []
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 1d44d145-4061-55c6-a5b4-f0d1e9a85f49
+status: Standard

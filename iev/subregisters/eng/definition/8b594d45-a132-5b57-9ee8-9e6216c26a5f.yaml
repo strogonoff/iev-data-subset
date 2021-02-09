@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6e601e18-eed8-5aac-95ed-f2e06934135b
+  definition: information sent in the forward direction and, in some circumstances,
+    in the backward direction, indicating the closed user group involved in the call
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 8b594d45-a132-5b57-9ee8-9e6216c26a5f
+status: Standard

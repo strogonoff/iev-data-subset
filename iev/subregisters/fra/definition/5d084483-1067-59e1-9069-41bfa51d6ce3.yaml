@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: b3bbcc5e-1f84-5b06-b56f-a1c09ca58452
+  definition: pour une antenne à ouverture, rapport de l'aire équivalente totale maximale
+    à l'aire géométrique de l'ouverture rayonnante
+  examples: []
+  notes: []
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: 5d084483-1067-59e1-9069-41bfa51d6ce3
+status: Standard

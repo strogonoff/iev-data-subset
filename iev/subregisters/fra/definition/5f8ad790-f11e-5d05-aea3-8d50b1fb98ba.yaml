@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: fb95b134-25a5-5e5b-afe0-2d2f884e701c
+  definition: ensemble des diverses opérations effectuées sur un signal de programme,
+    soit pour en faciliter la transmission, soit pour obtenir un son ou une image
+    mieux adaptés aux conditions de réception, soit pour introduire certains effets
+    sonores ou effets spéciaux sur les images, soit pour réduire les brouillages dans
+    les canaux adjacents
+  examples: []
+  notes: []
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 5f8ad790-f11e-5d05-aea3-8d50b1fb98ba
+status: Standard

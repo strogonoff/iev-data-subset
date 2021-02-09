@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: 446fadb6-fe0d-59e8-aeb5-5906fa3ffd4e
+  definition: faisceau de circuits prévu, sans possibilité de débordement, pour écouler
+    un flux de trafic donné
+  examples: []
+  notes:
+  - Un faisceau de dernier choix est un faisceau final ou un faisceau suffisant.
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: da0828d9-938f-5c62-a19b-2bce5b4e48bd
+status: Standard

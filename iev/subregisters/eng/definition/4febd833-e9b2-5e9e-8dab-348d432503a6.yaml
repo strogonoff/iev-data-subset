@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: b147a761-e27f-52c0-9f43-08e18e6cf4d0
+  definition: offset of the optical beam from the centre line of the track in a radial
+    direction
+  examples: []
+  notes: []
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 4febd833-e9b2-5e9e-8dab-348d432503a6
+status: Standard

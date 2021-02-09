@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: db280a4f-b28b-5ef3-a0ca-beff7ca971bf
+  definition: a vertical displacement or movement of the picture due to a field synchronization
+    fault
+  examples: []
+  notes: []
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 3491fad7-9e99-5bb5-88bc-60b35aa99c95
+status: Standard

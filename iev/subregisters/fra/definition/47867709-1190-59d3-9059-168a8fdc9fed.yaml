@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 096f23b2-e5ac-5c78-900c-734a3f970615
+  definition: produit de la longueur d'un parcours par les charges utiles transportées
+    sur ce parcours, pendant une certaine période
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 47867709-1190-59d3-9059-168a8fdc9fed
+status: Standard

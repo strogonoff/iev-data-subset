@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - null
+  concept: ded1fb3f-9f5d-5e31-97e2-fa4dfe626875
+  definition: ordered set of elements, for instance an {{stem:[n]-bit byte, IEV:702-05-06}},
+    defined by a {{code, IEV:101-12-04}} to represent an item of data such as a {{character,
+    IEV:702-05-10}}
+  examples: []
+  notes: []
+dateAccepted: '2016-12-01T00:00:00+00:00'
+id: 9b7fa2d2-27da-5b1c-a8fd-507688de6f2e
+status: Standard

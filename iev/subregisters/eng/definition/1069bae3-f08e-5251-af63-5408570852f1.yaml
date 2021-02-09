@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 87621e6f-6775-5610-b668-62f6f8188c62
+  definition: a facsimile receiver that records line by line on a medium which moves
+    on by a constant pitch between two consecutive lines so as to record several messages
+    in succession without the need for the operator to change the medium between consecutive
+    messages
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 1069bae3-f08e-5251-af63-5408570852f1
+status: Standard

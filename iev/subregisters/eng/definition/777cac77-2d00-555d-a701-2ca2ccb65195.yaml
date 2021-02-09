@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - - clause: 3.1.33
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.33
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  concept: ac5ac919-bf32-5a8e-b9b7-f7351d6d02cc
+  definition: '{{digital entity, IEV:741-01-14}} that represents a {{physical entity,
+    IEV:741-01-26}}'
+  examples: []
+  notes: []
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: 777cac77-2d00-555d-a701-2ca2ccb65195
+status: Standard

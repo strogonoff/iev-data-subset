@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: da7267af-2a4f-559d-99f4-bc374820a1b1
+  definition: racine сarréе de la moyenne quadratique des pressions acoustiques instantanées,
+    calculée sur un intervalle de temps donné, sauf indication contraire
+  examples: []
+  notes: []
+dateAccepted: '1994-07-01T00:00:00+00:00'
+id: 12ad0a6b-f78f-5086-95de-c4b55dca7ea2
+status: Standard

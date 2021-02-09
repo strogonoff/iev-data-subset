@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: ea64daba-4ab0-5341-891e-387982830a00
+  definition: a waveguide structure, usually of circular cross-section, whose propagation
+    medium provides that the plane of polarization, for a linearly polarized wave,
+    is rotated clockwise in one direction of propagation and anticlockwise in the
+    opposite direction
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 2ecebb27-20fd-5e44-a6f4-136089f6e838
+status: Standard

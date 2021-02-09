@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: d6a18475-7057-51c7-916a-1029a8e13ae5
+  definition: récepteur d'appel autre qu'une sonnerie téléphonique ou un ronfleur
+    fournissant une tonalité audible
+  examples: []
+  notes: []
+dateAccepted: '1992-11-01T00:00:00+00:00'
+id: 0f1b1ad1-6b72-5d7e-a791-e877064f6e4c
+status: Standard

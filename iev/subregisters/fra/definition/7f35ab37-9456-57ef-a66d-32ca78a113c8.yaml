@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: ed2d0219-f899-5605-9f21-aa04d98bbba3
+  definition: jeu de barres comprenant en série un disjoncteur ou un interrupteur
+    destiné à connecter ou à déconnecter les deux tronçons de jeu de barres
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 7f35ab37-9456-57ef-a66d-32ca78a113c8
+status: Standard

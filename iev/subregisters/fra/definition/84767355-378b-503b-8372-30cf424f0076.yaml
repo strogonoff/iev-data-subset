@@ -1,0 +1,30 @@
+data:
+  authoritative_source:
+  - null
+  concept: 7713338c-4b72-5026-9037-f28de75a3ff7
+  definition: forme bilinéaire définie pour tout couple de vecteurs d'un espace vectoriel
+    euclidien à stem:[n] dimensions
+  examples: []
+  notes:
+  - Pour une base orthonormée donnée, un tenseur stem:[T] du deuxième ordre peut être
+    représenté par stem:[n^2] coordonnées stem:[T_((i j))], généralement disposées
+    sous la forme d'une matrice carrée, telles que stem:[T] attribue au couple de
+    vecteurs *stem:[U]* et *stem:[V]* le scalaire stem:[sum_((i , j = 1))^n T_((i
+    j)) U_i V_j], où stem:[U_i] et stem:[V_j] sont les coordonnées des vecteurs *stem:[U]*
+    et *stem:[V]*.
+  - On peut définir un tenseur du deuxième ordre par toute forme bilinéaire opérant
+    sur deux vecteurs (tenseur covariant), sur deux formes linéaires (tenseur contravariant)
+    ou sur un vecteur et une forme linéaire (tenseur mixte). Cette distinction n'est
+    pas nécessaire pour un espace euclidien. On peut généraliser aussi à des tenseurs
+    d'ordre stem:[n] définis par des formes stem:[n]-linéaires et dont les coordonnées
+    ont stem:[n] indices. Les tenseurs d'ordre 1 sont considérés comme des vecteurs
+    et les tenseurs d'ordre 0 comme des scalaires.
+  - 'Un tenseur est représenté par un symbole littéral en gras sans empattement ou
+    par un symbole surmonté de deux flèches: stem:[T] ou stem:[vec vec T]. Le tenseur
+    stem:[T] de coordonnées stem:[T_((i j))] peut être représenté par stem:[( T_((i
+    j)) )].'
+  - 'Un tenseur complexe stem:[T] est défini par une partie réelle et une partie imaginaire:
+    stem:[T = A + j B] où stem:[A] et stem:[B] sont des tenseurs réels.'
+dateAccepted: 2018-11-17
+id: 84767355-378b-503b-8372-30cf424f0076
+status: Standard

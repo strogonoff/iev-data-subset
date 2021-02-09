@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: e057aaa1-a383-5ded-aba7-a40a8913eb92
+  definition: qualifies a machine to denote that it is excited by a winding in series
+    with the armature winding
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 7b52eac4-fddb-530a-bc2c-7b6b1481c9f8
+status: Standard

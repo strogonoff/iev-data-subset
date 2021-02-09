@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - null
+  concept: 6e935f16-fbb0-51a3-a6ee-38d34890fb3d
+  definition: signal lumineux commandant l'arrêt ou la voie libre aux mouvements de
+    manoeuvre et aux trains
+  examples: []
+  notes:
+  - Pour les mouvements des trains, la voie libre n'est toutefois donnée qu'en relation
+    avec le signal de sortie.
+dateAccepted: 2018-11-17
+id: 76d55c20-10f9-595a-adda-b220152feab2
+status: Standard

@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - null
+  concept: 745aaebf-1c7f-546e-937b-4a8c30e33c6f
+  definition: a part of a fuse provided to indicate whether the fuse has operated
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 2f8e3157-5429-52cf-8142-2c4c1a859467
+status: Standard

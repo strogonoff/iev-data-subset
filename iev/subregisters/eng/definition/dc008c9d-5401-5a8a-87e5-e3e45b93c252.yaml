@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 5379c8eb-183f-58b6-8c71-7cdbb5539610
+  definition: the position in which the predetermined continuity of the main circuit
+    of the device is secured
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: dc008c9d-5401-5a8a-87e5-e3e45b93c252
+status: Standard

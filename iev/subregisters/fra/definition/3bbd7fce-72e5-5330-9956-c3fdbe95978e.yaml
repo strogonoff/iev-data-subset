@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 977c3281-607d-5b7b-a3f2-a92180f04712
+  definition: échange thermique entre deux surfaces par interaction directe avec le
+    gaz résiduel présent dans le vide qui les sépare
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 3bbd7fce-72e5-5330-9956-c3fdbe95978e
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - - clause: '3.2'
+      link: https://www.iso.org/standard/29316.html
+      original: ISO/CEI 17000:2004, 3.2
+      ref: ISO/IEC 17000:2004
+      relationship:
+        type: identical
+  concept: 8593ef87-58ca-5a95-80e5-f82c7e6af0e0
+  definition: 'manière spécifiée d''effectuer une activité ou un processus
+
+
+    [ISO 9000:2000, 3.4.5]'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 5a5a2373-3a65-5aa0-9cbf-0995a16b0677
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 278fcb1f-11fe-535e-b0b6-76897e8ac4f2
+  definition: voltage control by means of an additional variable in-phase voltage
+    component
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 8ffc3c39-9a62-5a27-8a8e-342412e31451
+status: Standard

@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - null
+  concept: 745aaebf-1c7f-546e-937b-4a8c30e33c6f
+  definition: partie d'un fusible destinée à indiquer si celui-ci a fonctionné
+  examples: []
+  notes: []
+dateAccepted: '2000-07-01T00:00:00+00:00'
+id: f532aec6-cee2-5695-af05-f623891ac7ab
+status: Standard
