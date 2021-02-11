@@ -2,6 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 
+import '@blueprintjs/core/lib/css/blueprint.css';
+
+
 // Your top level component
 import App from './App'
 
