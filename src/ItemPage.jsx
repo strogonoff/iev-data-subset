@@ -6,4 +6,3 @@ import { itemClassConfiguration } from '@riboseinc/paneron-extension-glossarist/
 export default () => (
   <DefaultItemPage itemClassConfiguration={itemClassConfiguration} />
 )
-
