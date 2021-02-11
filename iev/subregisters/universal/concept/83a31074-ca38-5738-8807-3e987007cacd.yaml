@@ -1,0 +1,42 @@
+data:
+  definitions:
+    eng: 69c1ab15-ed96-584d-8ee7-b1f1e78f01a0
+    fra: 7b2574b3-6fba-5d0c-b485-0ccda4471398
+  designations:
+    ara:
+    - 0cb306e7-cc0c-5212-99ba-953b4636a5cc
+    deu:
+    - 81e2a5f3-7b89-5bce-b7e4-9e086620d8a1
+    eng:
+    - 8be44aa8-406a-58ba-b4c5-0cc630eb06fe
+    fin:
+    - 8a163d62-5afb-5d73-823c-0d7f0ffe2b07
+    fra:
+    - 3be98bb9-ab7f-584e-aab1-ba06737179ac
+    ita:
+    - 1efd57e8-88ef-5940-a824-a6d7585d319b
+    jpn:
+    - a54c9bb5-6def-5630-9ff1-70ebbb0a09f4
+    kor:
+    - 3aeed03e-bf08-567c-9bf1-5cbc607cb2e2
+    - b91cb8ac-38af-5c90-8dac-736156835678
+    mon:
+    - a75623cc-6e37-501a-84e5-36c8ff4ed885
+    nno:
+    - 5a9b4356-6538-5a29-a2e9-24832e71353f
+    nob:
+    - 5181c6db-1923-5c0d-affe-fa0c098b398e
+    pol:
+    - a6d0d561-f8cf-5e5c-ae5a-5b18c5a777f1
+    por:
+    - 7d5f49e4-a2dd-5b8e-8644-bc9f20ea9940
+    spa:
+    - 830e7634-bce5-5f28-88bf-d6b277a57f55
+    srp:
+    - a6edbfc6-9368-54ae-aad8-cc11f838ad3d
+    swe:
+    - 11e449e0-4e37-5554-a4a0-76d5c6fea9a8
+  identifier: 441-17-29
+dateAccepted: 2018-11-17
+id: 83a31074-ca38-5738-8807-3e987007cacd
+status: valid

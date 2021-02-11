@@ -1,4 +1,38 @@
 data:
+  definitions:
+    eng: d7123099-18e1-5390-8122-17f3b1c07fd8
+    fra: 6ee74415-e960-5794-be85-8a116b7fc2c1
+  designations:
+    ara:
+    - 7af5d1c3-6dca-58c0-979c-1a28efbeb0eb
+    deu:
+    - 91304600-1e1d-54b6-b3e5-3cfbf037c3fa
+    eng:
+    - 31c69586-e552-556e-9ee6-34d8b81042c0
+    fin:
+    - cb994fb3-2305-5cd7-8b60-39c1607a0717
+    fra:
+    - 5b00b56d-1931-5424-8b2d-5a3b52223f62
+    ita:
+    - 4aba8388-c5f6-5522-aea7-3978e23171cd
+    jpn:
+    - af59aa0c-47e2-5afa-8346-3179e1eb6d11
+    kor:
+    - f27b66fd-1ed1-51bd-8be6-0101c0b4b1c0
+    pol:
+    - 6ce9751c-c081-55d7-ab3f-82b045152df6
+    por:
+    - 878bf4a4-b3a3-5138-a117-367b26ae2a8d
+    - c68ec6a3-3d71-5b30-a052-b44a3069d86c
+    slv:
+    - 2a2d5e8f-78fa-5025-85f0-668f14162186
+    - 5e11cc37-743f-5779-98a8-ba3abf02c01b
+    spa:
+    - ebc01aa5-fe09-57c8-84fd-4ef1e887882b
+    srp:
+    - 64ce47bd-1b6e-5265-b104-9181a42c92ec
+    swe:
+    - 922a0b82-b723-57ad-8970-10dafb8cc036
   identifier: 411-36-05
 dateAccepted: 2018-11-17
 id: e057aaa1-a383-5ded-aba7-a40a8913eb92

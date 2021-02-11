@@ -1,4 +1,38 @@
 data:
+  definitions:
+    eng: a976513d-1852-55e6-bd4e-a38f2f4735ac
+    fra: 32e7e49d-3744-56e6-9d7e-c4b46e1aca5a
+  designations:
+    ara:
+    - 0827c06a-736c-5ff5-9da6-e03acdbeeede
+    deu:
+    - f8592598-7747-52fc-b450-11f61c77badf
+    eng:
+    - 0ac35f62-ad40-53ba-97e8-9f4c46160637
+    fin:
+    - bf2ae9cf-9633-53af-baf6-d706250aeb13
+    fra:
+    - cea9731e-b37e-5c79-815a-86130cc7df60
+    ita:
+    - 7b08f120-1672-585c-ac6b-fcb27c729f34
+    jpn:
+    - daef1221-c6b7-56d3-8914-90f8962a1b70
+    kor:
+    - 9f3682c1-a687-5118-a858-110e7f7d4f93
+    mon:
+    - 59bd1e8a-5dd8-5ec1-8a0e-7bbf5747da5b
+    pol:
+    - 15fd62d3-e75e-5535-b6e8-41ecb67d3fc0
+    por:
+    - 53e42254-4e72-5ffa-ba1f-4c82979cf687
+    slv:
+    - b0d377aa-1fdd-5fe2-88d7-5b27b5586d51
+    spa:
+    - 5be84156-a9a7-5a3c-ae83-38d57c0721c1
+    srp:
+    - a1d90c99-6774-5a37-b920-6ecbea1c0346
+    swe:
+    - 6d5be5d5-3ace-5cb2-ac40-1c541deffaef
   identifier: 605-02-06
 dateAccepted: 2018-11-17
 id: ed2d0219-f899-5605-9f21-aa04d98bbba3

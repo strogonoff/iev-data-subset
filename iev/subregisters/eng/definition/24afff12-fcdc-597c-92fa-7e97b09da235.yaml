@@ -1,0 +1,10 @@
+data:
+  definition: porous substrate placed between the {{catalyst layer, IEV:485-02-06}}
+    and the {{bipolar plate, IEV:485-06-04}} to serve as an electric contact and allow
+    the access of reactants to the catalyst layer and the removal of reaction products
+  examples: []
+  notes:
+  - The gas diffusion layer is a component of a {{gas diffusion electrode, IEV:485-02-02}}.
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: 24afff12-fcdc-597c-92fa-7e97b09da235
+status: Standard

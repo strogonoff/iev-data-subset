@@ -1,0 +1,9 @@
+data:
+  definition: intervalle de temps, suivant le début d'une décharge provoquant une
+    impulsion normale, pendant lequel un tube-compteur est insensible à d'autres événements
+    ionisants
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 6065941e-2644-5e49-bc89-399776860207
+status: Standard

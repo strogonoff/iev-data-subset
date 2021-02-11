@@ -1,0 +1,10 @@
+data:
+  definition: chaussure ou botte de protection comportant une semelle conductrice
+  examples: []
+  notes:
+  - La chaussure conductrice peut avoir une attache conductrice pour connexion au
+    {{vêtement conducteur, IEV:651-23-06}}.
+  - Une chaussure conductrice peut aussi procurer une certaine protection mécanique.
+dateAccepted: 2018-11-17
+id: 11ca1ea8-7141-5485-8e9d-7bb25276eec2
+status: Standard

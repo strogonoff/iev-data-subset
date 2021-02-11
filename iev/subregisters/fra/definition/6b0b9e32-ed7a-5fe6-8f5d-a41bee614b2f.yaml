@@ -1,0 +1,11 @@
+data:
+  definition: ensemble dont les éléments appartiennent tous à un ensemble donné
+  examples: []
+  notes:
+  - La notation stem:[A sube B] exprime que l'ensemble stem:[A] est un sous-ensemble
+    ou une partie de l'ensemble stem:[B]. Le symbole stem:[sub] est parfois employé
+    au lieu de stem:[sube], mais ce n'est pas recommandé. On dit aussi que stem:[A]
+    est inclus ou contenu dans stem:[B].
+dateAccepted: 2018-11-17
+id: 6b0b9e32-ed7a-5fe6-8f5d-a41bee614b2f
+status: Standard

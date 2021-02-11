@@ -1,4 +1,28 @@
 data:
+  definitions:
+    eng: 287d190a-4999-5453-b942-ecd616942575
+    fra: 7b958901-eed0-542a-8ea7-8d13455e1ced
+  designations:
+    ara:
+    - e496cbc2-a040-5ab7-92ca-4f9f7c4b64c2
+    deu:
+    - 8a8cfd61-4e0f-5094-b9af-9978ac717112
+    eng:
+    - 0ee0e2a0-e6a2-554b-99bf-d2076fc4985e
+    fra:
+    - 62f08851-10f9-5a48-85c9-c21d6f881260
+    ita:
+    - ee38217b-9490-5d29-8231-ffb14e59df77
+    jpn:
+    - 867c869d-b427-5bd7-9e8d-32b489973c80
+    kor:
+    - 4c3cf8b9-16a7-5156-936b-97d6d51723a1
+    pol:
+    - 5a09f4e1-8fb8-52ff-9051-b5edf9e13b96
+    por:
+    - 970a587e-2364-5522-b345-1a96e6b2b615
+    zho:
+    - 8bf25229-65d7-5471-86e9-401c346a808c
   identifier: 845-28-028
 dateAccepted: 2018-11-17
 id: b3a04157-2af7-591d-bf1e-9f17fa7aa712

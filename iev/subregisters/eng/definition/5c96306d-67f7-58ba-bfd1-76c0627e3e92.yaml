@@ -1,0 +1,10 @@
+data:
+  definition: response of the equipment to the gas of interest compared with the response
+    to other gases
+  examples: []
+  notes:
+  - If there is high selectivity to the target gas, the results will be less ambiguous
+    and the cross sensitivity to other gases will be low.
+dateAccepted: '2020-03-01T00:00:00+00:00'
+id: 5c96306d-67f7-58ba-bfd1-76c0627e3e92
+status: Standard

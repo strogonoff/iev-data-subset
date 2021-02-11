@@ -1,0 +1,13 @@
+data:
+  definition: 'ensemble des parties d''un relais connectées aux bornes, dans lesquelles
+    est produite une modification prédéterminée lorsque certaines conditions sont
+    remplies dans les circuits électriques d''entrée assurant la commande de l''appareil
+    (voir Figure 2)
+
+
+    <simg></simg>'
+  examples: []
+  notes: []
+dateAccepted: '2002-01-01T00:00:00+00:00'
+id: f24258e9-7732-5187-bb38-2e29ae1cb593
+status: Standard

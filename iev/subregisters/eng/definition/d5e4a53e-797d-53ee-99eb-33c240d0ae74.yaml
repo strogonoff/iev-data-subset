@@ -1,0 +1,10 @@
+data:
+  definition: set, the elements of which all belong to a given set
+  examples: []
+  notes:
+  - The notation stem:[A sube B] expresses that the set stem:[A] is a subset of the
+    set stem:[B]. The symbol stem:[sub] is sometimes used instead of stem:[sube],
+    but this is not recommended. stem:[A] is also said to be included in stem:[B].
+dateAccepted: '2008-08-01T00:00:00+00:00'
+id: d5e4a53e-797d-53ee-99eb-33c240d0ae74
+status: Standard

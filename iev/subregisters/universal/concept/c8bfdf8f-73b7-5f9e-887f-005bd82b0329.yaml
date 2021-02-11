@@ -1,4 +1,33 @@
 data:
+  definitions:
+    eng: 82e62fbf-cf63-5aaa-bc7f-e7720ef5f60f
+    fra: d77c5ac6-b5e9-546d-9051-589f1dc790d0
+  designations:
+    ara:
+    - 529a94c0-70bb-5b99-974c-1cbc72b1e750
+    deu:
+    - 08a45d26-1551-582a-a693-5f216dfcffe3
+    - 5c5d9018-f03c-5c81-8f98-f8fe48a6fa1e
+    eng:
+    - c490dfd8-e149-591b-8d08-a306d8cc81f4
+    - 0541a0d7-3fb4-572a-90f2-11b58cea59f2
+    fra:
+    - 45636f5d-f072-5aee-bcf8-0749cc9c88aa
+    - ee067ea1-5b99-51ed-8969-c6ed86b6214e
+    jpn:
+    - affd9f07-07c5-5276-b215-0186335752f8
+    - 5c5d9018-f03c-5c81-8f98-f8fe48a6fa1e
+    kor:
+    - 2a28ed9f-8b3e-56b1-b313-62bf3a616686
+    pol:
+    - 81bb7186-7e37-5f4b-a7ee-d6391fb2434a
+    por:
+    - e26c2a68-8a78-5113-a435-eda083bfdda4
+    spa:
+    - fe4d359f-2df4-5671-8762-46182edc0f86
+    zho:
+    - 381bfb0f-2c2c-5b27-a849-d18630cb4c4d
+    - 5c5d9018-f03c-5c81-8f98-f8fe48a6fa1e
   identifier: 821-01-58
 dateAccepted: 2018-11-17
 id: c8bfdf8f-73b7-5f9e-887f-005bd82b0329

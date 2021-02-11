@@ -1,0 +1,41 @@
+data:
+  definitions:
+    eng: 442aeb9b-acf5-56b5-839c-deea00e150bd
+    fra: ef00728e-ec6a-5181-908c-a9bf36017dbe
+  designations:
+    ara:
+    - f001e0b3-9650-5187-9ddc-82d2bb8b4833
+    deu:
+    - a5a1891a-700b-5415-88f9-0546e9ed8f5d
+    eng:
+    - bb7eb575-efa0-5819-bd81-62cdfe847c9e
+    fin:
+    - 7e04a866-cf7b-58c0-a18b-ee6e3a7f7348
+    fra:
+    - 245e9470-185a-5f61-a750-c03f3eaf01c2
+    ita:
+    - 428bd1e3-c553-5173-b114-e6b7b18d6d45
+    jpn:
+    - 0509f84b-6c0a-51a9-a01d-768f31bdf996
+    kor:
+    - cfb7c1ff-af69-5105-8ff7-9e818cc155a2
+    mon:
+    - 8ea907c2-8040-573b-aaa4-d0192f205d63
+    nno:
+    - bb008827-f8fc-5534-ae26-2964ec1d6fd0
+    nob:
+    - d31af573-72fb-5ee2-acb2-06425ed3268b
+    pol:
+    - cd316866-167e-5254-85b5-960b2c6c8e16
+    por:
+    - 00199413-dbaf-520f-a04e-8c78e78a02d2
+    spa:
+    - 606374a8-3df0-5870-9543-76ca1a5e6178
+    srp:
+    - 27709fea-b0be-5284-9d58-9e51a7dbdef4
+    swe:
+    - 147db46b-850d-5afe-b659-4316536b8ce4
+  identifier: 441-16-13
+dateAccepted: 2018-11-17
+id: 82b8d7a6-6317-5160-9a31-4c0bc71ac63a
+status: valid

@@ -1,0 +1,14 @@
+data:
+  definition: élément constituant d'un appareil de connexion associé exclusivement
+    à un chemin conducteur électriquement séparé appartenant à son circuit principal,
+    cet élément ne comprenant pas les éléments constituants assurant la fixation et
+    le fonctionnement d'ensemble de tous les pôles
+  examples: []
+  notes:
+  - Un appareil de connexion est appelé unipolaire s'il n'a qu'un pôle. S'il a plus
+    d'un pôle, il peut être appelé multipolaire (bipolaire, tripolaire, etc.) à condition
+    que les pôles soient ou puissent être liés entre eux de façon qu'ils fonctionnent
+    ensemble.
+dateAccepted: '2000-07-01T00:00:00+00:00'
+id: 70cd418a-b66d-5759-83ad-552412ce51bb
+status: Standard

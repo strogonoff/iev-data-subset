@@ -1,0 +1,38 @@
+data:
+  definitions:
+    eng: dab204f1-45a4-5a9e-a92f-427aaf989d93
+    fra: 9efd5810-6b48-5fb9-b3a3-e5fa7fc32e6b
+  designations:
+    ara:
+    - 58059e94-333f-5496-8870-c95514db0887
+    - 14538aee-e1bf-5224-95e9-2c47d02810ec
+    deu:
+    - 30acd2cd-a253-53b4-8a33-ceafedc2e973
+    eng:
+    - 58162918-bace-5c57-a643-97d3abf7e7b7
+    fin:
+    - e7cccd74-88fa-5c4a-833d-3841ea692ffc
+    fra:
+    - 18991f01-bb8a-57ad-b9a2-d246ca811177
+    ita:
+    - 201ccec7-33ad-564e-8e5f-d5b4ce9bf407
+    jpn:
+    - 186aa99a-4877-56cd-8720-4afc6959f9d4
+    kor:
+    - bfc92f9c-36c5-5cb2-b761-655827615f44
+    pol:
+    - 7d45cad1-59cb-59b2-9000-0b6382a4fe8d
+    por:
+    - e602a100-9e3b-5b67-ab1e-cbdf4d71f379
+    slv:
+    - 4cd7610c-ba0c-50ef-a039-8261f254cda1
+    spa:
+    - 43f5b31f-a16e-50fb-b975-893f4238c0cb
+    srp:
+    - ef808010-97b9-5e7b-899d-c5b753c95fc9
+    swe:
+    - db9128e1-f7bc-5f09-ab4d-22d2121430d3
+  identifier: 411-41-14
+dateAccepted: 2018-11-17
+id: 689f5503-382f-562e-b386-8360d09ba0cb
+status: valid

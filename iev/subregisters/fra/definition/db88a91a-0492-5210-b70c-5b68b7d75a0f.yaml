@@ -1,0 +1,10 @@
+data:
+  definition: augmentation non voulue de la luminosité d'une image noir et blanc obtenue
+    à partir d'un signal d'image en couleur, par suite d'une composante continue inutile,
+    provenant d'un redressement partiel du signal de chrominance, dû à la non-linéarité
+    des organes de synthèse de l' image
+  examples: []
+  notes: []
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: db88a91a-0492-5210-b70c-5b68b7d75a0f
+status: Standard

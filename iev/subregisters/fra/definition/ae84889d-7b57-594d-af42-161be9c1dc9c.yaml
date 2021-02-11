@@ -1,0 +1,19 @@
+data:
+  definition: '{{relais électrique, IEV:151-13-31}} qui sert à commander des équipements
+
+
+    Note 1 à l''article: Un relais de commande peut être un simple relais qui traduit
+    une commande externe en un signal de commande [par exemple, commande de fermeture
+    d''un {{disjoncteur, IEV:441-14-20}}], ou un {{dispositif, IEV:151-11-20}} plus
+    complexe qui traduit une commande externe en une suite de signaux de commande
+    [par exemple, fermeture et ouverture de {{sectionneurs, IEV:441-14-05}} et de
+    {{disjoncteurs, IEV:441-14-20}} pour basculer un circuit d''un tronçon de jeu
+    de barres à un autre]. Un relais de commande peut également servir à surveiller
+    une {{grandeur caractéristique, IEV:447-07-01}} (par exemple, tension, fréquence)
+    et à produire un signal de commande qui dépend de sa conception fonctionnelle
+    spécifique (par exemple, relais de délestage à baisse de fréquence).'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: ae84889d-7b57-594d-af42-161be9c1dc9c
+status: Standard

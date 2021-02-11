@@ -1,0 +1,12 @@
+data:
+  definition: '{{relais électrique, IEV:151-13-31}} alimenté par le courant dérivé
+    d''un circuit principal par l''intermédiaire d''un {{shunt, IEV:313-09-04}}
+
+
+    Note 1 à l''article: Le circuit principal comprend toutes les parties conductrices
+    prévues pour transmettre l''énergie électrique.'
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 71f3a483-ee54-5a2f-9e30-1b77eb4908ba
+status: Standard

@@ -1,0 +1,36 @@
+data:
+  definition: "three-dimensional, approximately uniform colour space produced by plotting\
+    \ in rectangular coordinates stem:[L]*, stem:[a]*, stem:[b]*, quantities defined\
+    \ by the equations:<ul style=\"list-style-type:none;\">* stem:[[[L,*,=,116,f,(\
+    \ Y // Y_n ),-,16],[a,*,=,500,f ( X // X_n ) - f ( Y // Y_n )],[b,*,=,200,f (\
+    \ Y // Y_n ) - f ( Z // Z_n )]]]\n\nwhere\n\n<ul style=\"list-style-type:none;\"\
+    >\n* stem:[f ( X // X_n ) = ( X // X_n )^(1 // 3)]\n\nif stem:[( X // X_n ) &gt;\
+    \ ( 6 // 29 )^3]\r\n\r\n* stem:[f ( X // X_n ) = ( 841 // 108 ) ( X // X_n ) +\
+    \ 4 // 29] if stem:[( X // X_n ) &lt;= ( 6 // 29 )^3]\n\n\nand\r\n<ul style=\"\
+    list-style-type:none;\">\n* stem:[f ( Y // Y_n ) = ( Y // Y_n )^(1 // 3)]\n\n\
+    if stem:[( Y // Y_n ) &gt; ( 6 // 29 )^3]\r\n\r\n* stem:[f ( Y // Y_n ) = ( 841\
+    \ // 108 ) ( Y // Y_n ) + 4 // 29] if stem:[( Y // Y_n ) &lt;= ( 6 // 29 )^3]\n\
+    \n\nand\r\n<ul style=\"list-style-type:none;\">\n* stem:[f ( Z // Z_n ) = ( Z\
+    \ // Z_n )^(1 // 3)]\n\nif stem:[( Z // Z_n ) &gt; ( 6 // 29 )^3]\r\n\r\n* stem:[f\
+    \ ( Z // Z_n ) = ( 841 // 108 ) ( Z // Z_n ) + 4 // 29] if stem:[( Z // Z_n )\
+    \ &lt;= ( 6 // 29 )^3]\n\n\nand stem:[X], stem:[Y], stem:[Z] describe the colour\
+    \ stimulus considered and stem:[X]~n~, stem:[Y]~n~, stem:[Z]~n~ describe a specified\
+    \ white achromatic stimulus"
+  examples: []
+  notes:
+  - "Approximate correlates of lightness, chroma, and hue can be calculated as follows:\n\
+    \nCIE 1976 lightness:<ul style=\"list-style-type:none;\">* stem:[L^( ** ) = 116\
+    \ f ( Y // Y_n ) - 16]\n\nwhere<ul style=\"list-style-type:none;\">\n* stem:[f\
+    \ ( Y // Y_n ) = ( Y // Y_n )^(1 // 3)]\n\nif stem:[( Y // Y_n ) &gt; ( 6 // 29\
+    \ )^3]\r\n\r\n* stem:[f ( Y // Y_n ) = ( 841 // 108 ) ( Y // Y_n ) + 4 // 29]\
+    \ if stem:[( Y // Y_n ) &lt;= ( 6 // 29 )^3]\n\n\nCIE 1976 stem:[a], stem:[b]\
+    \ chroma: <ul style=\"list-style-type:none;\">* \r\nstem:[Delta C_(ab)^( * ) =\
+    \ ( a^(* 2) + b^(* 2) )^(1 // 2)]\r\n\n\nCIE 1976 stem:[a], stem:[b] hue angle:\
+    \ <ul style=\"list-style-type:none;\">* \r\nstem:[h_((ab)) = arctan ( b^( * )\
+    \ // a^( * ) )]\r\n"
+  - See also CIE 15, stem:[Colorimetry.]
+  - 'See also ISO/CIE 11664-4, _Colorimetry – Part 4: CIE 1976 L*a*b* Colour Space_.'
+  - This entry was numbered 845-03-56 in IEC 60050-845:1987.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 46358fac-b218-5ad5-88aa-59c08e396282
+status: Standard

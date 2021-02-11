@@ -1,4 +1,32 @@
 data:
+  definitions:
+    eng: 8c008a4c-2c0e-5053-a05f-792e8d2595e3
+    fra: 5da9c250-0990-5431-a24f-55ce754d5c74
+  designations:
+    ara:
+    - e648c65b-0696-5cd4-9e09-9d99da44e2a8
+    deu:
+    - fbaaf9c3-9d48-53ca-8a36-2b374dc51d71
+    eng:
+    - d47e364e-c6d5-5349-9634-11b7c352340e
+    - a1c48d9d-1a53-5647-8a1a-7b332a2a8b84
+    fra:
+    - a455a809-a889-5592-a0d3-cb41e2b4d5ef
+    ita:
+    - 4af9f53c-9713-5f51-a8ed-204206e428e2
+    - e5d301da-ec26-5809-9506-d62d606ae4ce
+    jpn:
+    - cef46c9b-3ede-5018-9bbf-d2aa960c706a
+    - a0ed50a3-6161-5567-bcfc-91011d8c7f13
+    kor:
+    - 4fc71fc3-e49b-5bdd-a64b-2cdbfb1c3541
+    - 96c08438-b1ec-5a29-90ce-dcc0cb300684
+    pol:
+    - 2fd208c0-6a44-5b7d-b078-554c4f8ef8db
+    por:
+    - d2f3e816-3cf3-5252-a6b7-5cd5fc83edb5
+    zho:
+    - 6db483a3-01e8-5e84-8b06-be5e5191d6da
   identifier: 845-23-055
 dateAccepted: 2018-11-17
 id: 48da5345-2d6e-546d-aff5-50004f1a4e7c

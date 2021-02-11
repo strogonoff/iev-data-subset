@@ -1,0 +1,10 @@
+data:
+  definition: dans un solide, niveau d'énergie qui sépare les états occupés des états
+    inoccupés à la température de zéro kelvin
+  examples: []
+  notes:
+  - Quand une bande interdite sépare les états occupés des états inoccupés, le niveau
+    de Fermi est assigné au milieu de la bande interdite.
+dateAccepted: '2002-05-01T00:00:00+00:00'
+id: f1ceaa22-2e17-5370-89fe-aacb2f862011
+status: Standard

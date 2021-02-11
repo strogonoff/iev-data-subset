@@ -1,0 +1,10 @@
+data:
+  definition: composantes spectrales créées par échantillonnage d'un signal et n'appartenant
+    pas au signal original
+  examples: []
+  notes:
+  - Ces composantes parasites peuvent ou non se trouver dans la bande spectrale du
+    signal d'origine.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 620b1843-1593-513c-8dca-649807c1dc1a
+status: Standard

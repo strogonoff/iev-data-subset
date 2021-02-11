@@ -1,4 +1,33 @@
 data:
+  definitions:
+    eng: 5786a362-4213-543b-ad08-eb425ca93490
+    fra: 4f34507a-cab2-5171-b9cb-e4d4ba41b613
+  designations:
+    ara:
+    - 67bed270-50c3-5019-b610-308b27d5da00
+    - d20623a1-670b-5bc7-bd17-e8867bc3bb9e
+    deu:
+    - b74d4c0b-6cd0-539d-bd26-d978a9b469c5
+    eng:
+    - 059a8386-9b6e-50e3-b647-0348f120ea8b
+    - 7a95fccc-5cb3-527c-8b7f-793e103be54e
+    fra:
+    - 3762567e-bc53-5bbd-b931-98871659d149
+    - 945c6e7a-ef09-5602-94a9-54d0c78349f4
+    - 4b3bd979-b1d2-5785-800e-3c6ea53c74b9
+    ita:
+    - 86a57d71-20b2-5c8e-9ae9-5fbb905b9de4
+    jpn:
+    - 75997142-a023-5537-8ca5-95c99e27b2a0
+    kor:
+    - 7f98ca19-71a9-526b-8811-83922c083623
+    pol:
+    - ff60e3ff-244e-5f46-9af5-00be3400ee82
+    - 16b7663f-8fe3-5a45-895f-b1661c4474c8
+    por:
+    - faea68f2-e71c-5a18-8a91-ea1c6ac54b45
+    zho:
+    - 1b9a937a-56e8-5230-9c14-0fd7e19263d9
   identifier: 845-21-050
 dateAccepted: 2018-11-17
 id: 4def0f8f-ffec-5bbc-814f-50033252fba3

@@ -1,0 +1,10 @@
+data:
+  definition: phase d'une communication de données pendant laquelle des signaux de
+    commande du réseau sont échangés entre un terminal de données et le réseau pour
+    l'établissement de cette communication, ou pour sa libération ou pour une signalisation
+    de commande pendant la phase de transfert de données
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 10b1ffc7-f9e2-5d11-9834-c66c62ef5d7c
+status: Standard

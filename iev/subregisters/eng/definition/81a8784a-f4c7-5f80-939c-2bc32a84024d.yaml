@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '2.6'
+    link: https://www.iso.org/standard/39976.html
+    original: ISO/IEC Guide 2:2004, 2.6
+    ref: ISO/IEC Guide 2:2004
+    relationship:
+      type: identical
+  definition: preservation of the environment from unacceptable damage from the effects
+    and operations of products, processes and services
+  examples: []
+  notes: []
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 81a8784a-f4c7-5f80-939c-2bc32a84024d
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  definition: récepteur de télécopie assurant l'enregistrement en lignes successives
+    sur un support qui progresse d'un pas constant entre deux lignes consécutives
+    de façon à permettre l'enregistrement de plusieurs messages à la suite sans qu'une
+    intervention d'opérateur soit nécessaire pour changer le support entre les messages
+    consécutifs
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 41bdc851-0c4d-5b99-a960-c1505d52fee9
+status: Standard

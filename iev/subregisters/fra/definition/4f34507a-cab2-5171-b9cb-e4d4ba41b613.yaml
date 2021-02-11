@@ -1,0 +1,71 @@
+data:
+  definition: 'densité d''intensité lumineuse par rapport à l''aire projetée dans
+    une direction spécifiée en un point spécifié sur une surface réelle ou fictive
+
+
+    stem:[L_v = ((d I_v))/((d A)) (1)/((cos alpha))]
+
+
+    où stem:[I]~v~ est l''intensité lumineuse, stem:[A] est l''aire et stem:[α] est
+    l''angle entre la perpendiculaire à la surface au point spécifié et la direction
+    spécifiée'
+  examples: []
+  notes:
+  - 'Dans une acception pratique, la luminance peut être observée comme divisant une
+    surface réelle ou fictive en un nombre infini de surfaces infinitésimalement petites
+    qui peuvent être considérées comme des <a href="IEV845-21-033">sources ponctuelles</a>,
+    chacune de ces sources ayant une intensité lumineuse spécifique, stem:[I]~v~,
+    dans la direction spécifiée. La luminance de la surface est alors l''intégrale
+    de ces éléments de luminance sur toute la surface.
+
+
+    L''équation dans la définition peut être interprétée mathématiquement comme une
+    dérivée (c''est-à-dire un taux de variation de l''intensité lumineuse avec l''aire
+    projetée) et peut en variante être reformulée en tant qu''intensité lumineuse
+    moyenne stem:[bar I_v] sous la forme:
+
+
+    stem:[L_v = underset((A -&gt; 0))((lim)) ((bar I_v))/(A) (1)/((cos alpha))]
+
+
+    De fait, la luminance est souvent considérée comme un quotient des grandeurs moyennées;
+    il convient que l''aire, stem:[A], soit suffisamment petite de sorte que les incertitudes
+    dues aux variations de l''intensité lumineuse dans cette surface soient négligeables;
+    à défaut, le quotient stem:[bar L_v = ((bar I_v))/(A) (1)/((cos alpha))] donne
+    la luminance moyenne et les conditions de mesure spécifiques doivent être consignées
+    avec le résultat.'
+  - Pour une surface irradiée, une formule équivalente en matière d'éclairement lumineux,
+    stem:[E]~v~, et d'angle solide, stem:[Ω], est stem:[L_v = ((d E_v))/((d omega))
+    (1)/((cos theta))], où stem:[θ] est l'angle entre la perpendiculaire à la surface
+    irradiée et la direction d'irradiation. Cette forme est utile lorsque la source
+    n'a pas de surface (par exemple, le ciel, le plasma d'une décharge).
+  - Une formule équivalente est stem:[L_v = ((d Phi_v))/((d G))], où stem:[Φ]~v~ est
+    le flux lumineux et stem:[G] est l'étendue géométrique.
+  - 'Le flux lumineux peut être obtenu par intégration de la luminance dans une surface
+    projetée, stem:[A]·cos stem:[α], et l''angle solide, stem:[Ω]: stem:[Phi_v = ​
+    ∬ L_v * cos alpha d A d omega].'
+  - Puisque l'<a href="IEV845-21-048">étendue optique</a>, exprimée par stem:[G·n]^2^,
+    où stem:[G] est l'étendue et stem:[n] est l'indice de réfraction, est un invariant,
+    la grandeur exprimée par stem:[L]~v~stem:[·n]^−2^ est également un invariant le
+    long du trajet du faisceau si les pertes par absorption, réflexion et diffusion
+    sont considérées comme nulles. Cette grandeur est appelée "luminance réduite".
+  - 'L''équation dans la définition peut également être décrite en fonction du flux
+    lumineux, stem:[Φ]~v~. Dans ce cas, elle est mathématiquement interprétée comme
+    une dérivée partielle seconde du flux lumineux en un point spécifié (stem:[x],
+    stem:[y]) dans l''espace dans une direction spécifiée (stem:[ϑ], stem:[φ]) par
+    rapport à l''aire projetée, stem:[A]·cos stem:[α], et l''angle solide, stem:[Ω].
+
+
+    stem:[L_v ( x , y , vartheta , phi ) = ((del^2 Phi_v ( x , y , vartheta , phi
+    )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]
+
+
+    où stem:[α] est l''angle entre la perpendiculaire à cette surface au point spécifié
+    et dans la direction spécifiée.'
+  - La grandeur radiométrique correspondante est la "luminance énergétique". La grandeur
+    correspondante pour les photons est la "luminance photonique".
+  - La luminance est exprimée en candela par mètre carré (cd· m^−2^ = lm·m^−2^·sr^−1^).
+  - Cet article était numéroté 845-01-35 dans l'IEC 60050-845:1987.
+dateAccepted: 2018-11-17
+id: 4f34507a-cab2-5171-b9cb-e4d4ba41b613
+status: Standard

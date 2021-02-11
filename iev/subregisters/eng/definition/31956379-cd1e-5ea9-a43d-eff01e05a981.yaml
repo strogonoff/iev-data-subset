@@ -1,0 +1,8 @@
+data:
+  definition: duration required for transitioning from storage state to {{net electric
+    power, IEV:485-14-03}} output
+  examples: []
+  notes: []
+dateAccepted: '2020-02-01T00:00:00+00:00'
+id: 31956379-cd1e-5ea9-a43d-eff01e05a981
+status: Standard

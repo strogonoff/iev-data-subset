@@ -1,0 +1,18 @@
+data:
+  definition: integral of the product of a function and a shifted and scaled wavelet
+  examples: []
+  notes:
+  - 'For a function stem:[f ( t )] and a wavelet stem:[psi ( t )]:
+
+
+    stem:[C_f ( a , b ) = int_(- oo)^(+ oo) f ( t ) psi_(a , b)^( ** ) ( t ) d t]
+
+
+    where stem:[a] is the scale parameter, stem:[b] is the position parameter, and
+    * denotes the complex conjugate.'
+  - A discrete wavelet transform is obtained by choosing a finite number of values
+    of the two parameters. The inverse transform expresses the function of time as
+    a superposition of wavelets.
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: c0548fc8-e8e4-5bdd-ae7f-007ae6bdfdea
+status: Standard

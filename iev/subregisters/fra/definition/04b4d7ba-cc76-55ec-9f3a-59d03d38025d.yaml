@@ -1,0 +1,14 @@
+data:
+  definition: 'quotient par le produit stem:[ρ] dstem:[l], de la perte d''énergie
+    par rayonnement d''une particule chargée d''énergie spécifiéе dstem:[E]~rad~ traversant
+    une longueur dstem:[l] de matière de masse volumique stem:[ρ]:
+
+
+    stem:[((S_((rad))))/(rho) = (1)/(rho) (( ((d E))/((d l)) ))_((rad))]'
+  examples: []
+  notes:
+  - Les pertes d'énergies comprises dans le pouvoir d'arrêt massique par radiation
+    produisent le rayonnement de freinage.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 04b4d7ba-cc76-55ec-9f3a-59d03d38025d
+status: Standard

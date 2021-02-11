@@ -1,0 +1,13 @@
+data:
+  definition: 'the quotient of dstem:[E]~rad~ by the product of stem:[ρ] and dstem:[l],
+    where dstem:[E]~rad~ is the energy lost by a charged particle of specified energy
+    by radiation in traversing a path length dstem:[l] in a material of density stem:[ρ]:
+
+
+    stem:[((S_((rad))))/(rho) = (1)/(rho) (( ((d E))/((d l)) ))_((rad))]'
+  examples: []
+  notes:
+  - The energy losses included are those that produce bremsstrahlung.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 9034fefc-a1cf-594c-b72e-0248b58192c1
+status: Standard

@@ -1,0 +1,13 @@
+data:
+  definition: 'ensemble connexe de branches reliant tous les noeuds d''un réseau sans
+    former de boucle
+
+
+    image::/assets/images/parts/131/131-13-13.gif[]'
+  examples: []
+  notes:
+  - Les figures A, B, C et D ci-dessous représentent quatre arbres pour le réseau
+    de la figure 131-13-12
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 54f30207-898b-5acc-b676-930a6284cdca
+status: Standard

@@ -1,0 +1,11 @@
+data:
+  definition: at a stated operating point and frequency, the quotient of (1) the fundamental
+    frequency component of the short-circuit current into the accessible terminal
+    of an electrode by (2) the sinusoidal voltage applied to the terminal of another
+    electrode to cause the current, all other terminal potentials being maintained
+    constant
+  examples: []
+  notes: []
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 0a0b9f32-ece6-5dd6-b567-333b356eb415
+status: Standard

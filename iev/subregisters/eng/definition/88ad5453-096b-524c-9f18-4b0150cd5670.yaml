@@ -1,0 +1,10 @@
+data:
+  definition: range over which the pilot of an aircraft on the centreline of a runway
+    can see the runway surface markings or the lights delineating the runway or identifying
+    its centreline
+  examples: []
+  notes:
+  - See also "<a href="IEV845-31-021">visual range</a>".
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 88ad5453-096b-524c-9f18-4b0150cd5670
+status: Standard

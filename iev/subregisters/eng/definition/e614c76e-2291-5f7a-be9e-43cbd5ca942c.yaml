@@ -1,0 +1,19 @@
+data:
+  definition: maximum tube load specified by the manufacturer for stated operating
+    factors, the waveform of the X-ray tube voltage being such that coefficient stem:[f]
+    = 1
+  examples: []
+  notes:
+  - 'There are two maximum ratings:
+
+
+    a) The 2.5 h rating: This is the maximum rated tube load of an X-ray tube for
+    a time of 2.5 h given by the manufacturer for various types of use (assembly in
+    a shield, artificial cooling, use with long cables, etc.).
+
+
+    b) Temporary use: Unless indicated otherwise this is the maximum rated tube load
+    permitted for a time of 0.1 s and for a coefficient stem:[f] = 1.'
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: e614c76e-2291-5f7a-be9e-43cbd5ca942c
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  definition: quotient du flux hémisphérique supérieur d'un luminaire, mesuré dans
+    des conditions spécifiées avec sa ou ses propres lampes et équipements, par la
+    somme des flux lumineux individuels de la ou des mêmes lampes lorsqu'elles fonctionnent
+    à l'extérieur du luminaire avec les mêmes équipements, dans des conditions pratiques
+    spécifiées
+  examples: []
+  notes:
+  - L'unité de rendement normalisé supérieur est un.
+  - Le terme abrégé "ULOR" est dérivé du terme anglais développé correspondant "upward
+    light output ratio".
+dateAccepted: 2018-11-17
+id: f984e965-c856-53a8-97dc-faed834f2459
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  definition: 'élément de transfert pour lequel la variable de sortie est maintenue
+    constante pendant les intervalles de temps séparant les prises d''échantillon
+    de la variable d''entrée
+
+
+    VOIR: Figure 8d).'
+  examples: []
+  notes:
+  - La réponse dans le temps d’un élément de maintien est une fonction en échelons.
+  - 'Cet article était numéroté 351-28-40 dans la CEI 60050-351:2006.
+
+
+    image::/assets/images/parts/351/351-fig8.png[Figure 8 - Impulse-function sequence
+    c) and stepwise function d); Séquence de fonctions impulsions c) et fonction en
+    échelons d)]'
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 9976d9e7-3b85-5d52-ae5b-3df7e1d873a4
+status: Standard

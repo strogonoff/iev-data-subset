@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 121-11-22
+    link: https://webstore.iec.ch/publication/169
+    original: IEC 60050-121:1998, 121-11-22, modifié
+    ref: IEC 60050-121:1998
+    relationship:
+      type: modified
+  definition: quantum de flux magnétique, égal à stem:[h]/2stem:[e], où stem:[h] est
+    la constante de Planck et stem:[e] la charge électrique élémentaire
+  examples: []
+  notes:
+  - La valeur du quantum de flux est approximativement égale à 2,067 830 215 × 10^−15^
+    Wb.
+dateAccepted: 2018-11-17
+id: cf57a59c-69e5-5c16-a716-c816f0392afe
+status: Standard

@@ -1,0 +1,9 @@
+data:
+  definition: groupe ordonné d'éléments, par exemple un {{multiplet, IEV:702-05-06}},
+    représentant selon un {{code, IEV:101-12-04}} une donnée élémentaire telle qu'un
+    {{caractère, IEV:702-05-10}}
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 94c10563-6bca-511c-8813-8e9175111f99
+status: Standard

@@ -1,4 +1,44 @@
 data:
+  definitions:
+    eng: d4c40349-53ff-5cdd-9031-309ac2e37e90
+    fra: 79cf050a-7900-54e8-ade6-98e95b19b070
+  designations:
+    ara:
+    - 7921d987-9dc8-5f4a-9c3b-733860dc9612
+    deu:
+    - 109aa5fa-b178-58c4-a404-47766549faff
+    eng:
+    - c5908c0c-48b2-5910-b9f3-852e45e6598e
+    - 9b550d89-f298-5c4c-8f58-a0e251690a73
+    fin:
+    - 4fbf1f29-da74-5315-bb34-51685b9ce1fe
+    fra:
+    - a8d4f5a0-4977-549b-9371-a281a887b898
+    ita:
+    - 6386faf2-3493-512e-9fd1-c290a8ff8afc
+    jpn:
+    - bebd5c14-111a-5318-8dee-a85bbc5cde35
+    kor:
+    - 1c679a30-bf99-5985-a1d0-e3bd97e0cfc1
+    mon:
+    - 34a893ac-7103-5eab-9a07-5ac97f9b02c0
+    - ee8982f7-cc98-57ca-9592-c37ca54a2fa9
+    - 3508a28a-17ef-548d-a344-fb250246bb6f
+    nno:
+    - a273a7d8-1b9c-5e9b-ae34-10b1d5503277
+    nob:
+    - a273a7d8-1b9c-5e9b-ae34-10b1d5503277
+    pol:
+    - 7f301109-38e2-5da0-a47c-81e5a0b08752
+    por:
+    - 52606fb5-7c93-50cf-80c1-71ac9cf5495f
+    spa:
+    - 52606fb5-7c93-50cf-80c1-71ac9cf5495f
+    - dc4bb20b-8b38-5863-a571-6972fe793d59
+    srp:
+    - 48b2fc7e-a05a-5564-b9bf-38c5938c7770
+    swe:
+    - 52141bad-e199-5bae-b068-2aabe0644716
   identifier: 441-18-17
 dateAccepted: 2018-11-17
 id: 745aaebf-1c7f-546e-937b-4a8c30e33c6f

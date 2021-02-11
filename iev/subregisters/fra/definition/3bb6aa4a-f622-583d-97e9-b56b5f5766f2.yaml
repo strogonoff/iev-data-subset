@@ -1,0 +1,16 @@
+data:
+  definition: 'pour une certaine quantité de radionucléide, à un niveau d''énergie
+    considéré et à un instant donné, quotient de dstem:[N] par dstem:[t], où dstem:[N]
+    est le nombre de transitions nucléaires qui se produisent au sein d''un radionucléide,
+    à partir de ce niveau d''énergie, pendant le temps dstem:[t]:
+
+
+    stem:[A = ((d N))/((d t))]'
+  examples: []
+  notes:
+  - L'unité SI d'activité (s^−1^) est le becquerel (Bq). L'ancienne unité d'activité
+    encore utilisée temporairement est le curie (Ci). 1 Bq = 1 s^−1^ = 2,703 × 10^−11^
+    Ci approximativement.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 3bb6aa4a-f622-583d-97e9-b56b5f5766f2
+status: Standard

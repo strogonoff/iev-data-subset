@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.1.32
+    link: https://webstore.iec.ch/publication/7001
+    original: IEC 62425:2007, 3.1.32
+    ref: IEC 62425:2007
+    relationship:
+      type: identical
+  definition: time interval which begins when the existence of a fault is detected
+    and ends when a safe state is enforced
+  examples: []
+  notes: []
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 9cfe2ff7-0892-54c7-bf3f-cadc7dd8eae3
+status: Standard

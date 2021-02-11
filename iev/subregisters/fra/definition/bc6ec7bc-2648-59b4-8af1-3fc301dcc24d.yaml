@@ -1,0 +1,12 @@
+data:
+  definition: substrat poreux placé entre la {{couche catalytique, IEV:485-02-06}}
+    et la {{plaque bipolaire, IEV:485-06-04}} pour assurer le contact électrique et
+    permettre l'accès des réactifs à la couche catalytique et le retrait des produits
+    de réaction
+  examples: []
+  notes:
+  - La couche de diffusion du gaz est un composant d'une {{électrode de diffusion
+    du gaz, IEV:485-02-02}}.
+dateAccepted: 2018-11-17
+id: bc6ec7bc-2648-59b4-8af1-3fc301dcc24d
+status: Standard

@@ -1,0 +1,8 @@
+data:
+  definition: '{{measuring relay, IEV:447-01-02}} that, by its design or application,
+    is intended to respond primarily to power system earth faults (ground faults)'
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: 5093f70f-3d32-5359-8133-ec5f83e29e11
+status: Standard

@@ -1,0 +1,33 @@
+data:
+  definitions:
+    eng: b76f4d0a-f195-5d15-9bc5-ee906035ca83
+    fra: 0b7029cd-9efe-5656-9071-6539d57ceab5
+  designations:
+    ara:
+    - e037c392-9799-55e2-bc89-7eadeb9c953e
+    deu:
+    - 695c3496-5369-5b03-8314-e80d0932c1bf
+    - f376d621-c564-5f13-928e-99f83870bf15
+    eng:
+    - 97e24554-2a31-5a3b-91b9-271354ab1947
+    fra:
+    - c9b96e1f-fab8-5289-8b85-49081afabaaf
+    ita:
+    - ee6a232f-7127-5dde-90af-16f8105d01d6
+    jpn:
+    - 8babf73e-5066-5605-b86a-e133ac406f96
+    kor:
+    - fc8f3738-75f3-52f6-b933-c6158c665f7c
+    pol:
+    - aeade315-0df1-510a-8a5c-fa7ae9802389
+    por:
+    - f25e9a05-c10a-5848-a162-613114dd005a
+    - ae74948f-2d77-5488-bd19-69522da8cc10
+    spa:
+    - 934fd4d6-c63b-51bd-8e19-6b8e570d928f
+    zho:
+    - 716a3646-a6ba-54a8-8591-d9548e6172f0
+  identifier: 821-05-54
+dateAccepted: 2018-11-17
+id: 535963e3-8f5f-5f0e-8821-db2db02df0aa
+status: valid

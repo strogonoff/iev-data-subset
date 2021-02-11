@@ -1,0 +1,12 @@
+data:
+  definition: quotient of the upward luminous flux of a luminaire, measured under
+    specified conditions with its own lamp(s) and equipment, and the sum of the individual
+    luminous fluxes of the same lamp(s) when operated outside the luminaire with the
+    same equipment, under specified practical conditions
+  examples: []
+  notes:
+  - The upward light output ratio has unit one.
+  - This note applies to the French language only.
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: f79f99b8-f3d2-52b7-8b5d-bdcd3bd07547
+status: Standard

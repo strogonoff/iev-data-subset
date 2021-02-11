@@ -1,0 +1,9 @@
+data:
+  definition: light signal showing “Stop” or “Proceed” to shunting or train movements
+  examples: []
+  notes:
+  - A proceed aspect is only given for the train movements in conjunction with the
+    exit signal.
+dateAccepted: '2017-11-01T00:00:00+00:00'
+id: 0d3d0f01-e855-5554-8256-f93040f88703
+status: Standard

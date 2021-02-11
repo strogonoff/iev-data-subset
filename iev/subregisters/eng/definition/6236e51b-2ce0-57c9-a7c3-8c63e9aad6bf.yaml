@@ -1,0 +1,13 @@
+data:
+  definition: 'transfer element in which the output variable is held constant during
+    the time intervals between sampling instants of the input variable
+
+
+    SEE: Figure 8d).'
+  examples: []
+  notes:
+  - The time response of a holding element is a stepwise function.
+  - This entry was numbered 351-28-40 in IEC 60050-351:2006.
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 6236e51b-2ce0-57c9-a7c3-8c63e9aad6bf
+status: Standard

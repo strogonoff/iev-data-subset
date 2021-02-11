@@ -1,4 +1,36 @@
 data:
+  definitions:
+    eng: 1423a5f8-74c5-51d6-bca3-e51170fbfb0a
+    fra: b529d590-f5d2-5cd0-bd8f-c377c5c61cf1
+  designations:
+    ara:
+    - 90a5179c-d9a3-5a1e-8f19-6059a4bfb52e
+    deu:
+    - 294f5b8b-5b00-5505-aa10-300af165604c
+    eng:
+    - 919af229-80c4-5e5e-8133-9cc4ff5d761f
+    - 77c846a5-f585-55b8-b884-5b06a957a48a
+    fin:
+    - 612621f6-963e-5f9f-8720-cbe407e5fee2
+    fra:
+    - d09f65ee-1bbd-5320-ad57-4bb807cbfda8
+    ita:
+    - e51d6b86-a513-5255-ba08-2e0ef2dbfe7b
+    jpn:
+    - 92cda810-f298-5e10-b770-26c0a1f2d8ed
+    kor:
+    - 279cc813-3ca6-574d-b163-eb1f3aded40e
+    - 7b97eb5e-855d-5d82-abd0-8d4e83f12fc9
+    pol:
+    - 6ce6a2c1-f150-5a6b-b5dd-2a95afd2ef95
+    por:
+    - fe46a99b-fc04-5c96-97ea-6f226ca4bb48
+    spa:
+    - f2142fdd-8f02-5c1d-bb76-985ced55374b
+    - 07a0c71c-4718-5baa-a997-b32479327a23
+    swe:
+    - 837cff51-cbe2-5d52-b01e-223e461d3460
+    - 2972c5fa-2154-56cf-8220-3467472b8fb4
   identifier: 726-17-06
 dateAccepted: 2018-11-17
 id: ea64daba-4ab0-5341-891e-387982830a00

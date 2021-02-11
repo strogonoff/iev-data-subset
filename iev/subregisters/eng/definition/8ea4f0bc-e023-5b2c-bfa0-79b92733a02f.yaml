@@ -1,0 +1,8 @@
+data:
+  definition: device that can be attached to the equipment to present a test gas to
+    the sensor in a reproducible manner
+  examples: []
+  notes: []
+dateAccepted: '2020-03-01T00:00:00+00:00'
+id: 8ea4f0bc-e023-5b2c-bfa0-79b92733a02f
+status: Standard

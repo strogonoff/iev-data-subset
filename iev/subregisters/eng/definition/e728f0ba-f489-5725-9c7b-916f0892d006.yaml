@@ -1,0 +1,10 @@
+data:
+  definition: the phase of a data communication during which network control signals
+    are exchanged between data terminal equipment and the network for the purpose
+    of call establishment, call disconnection or for control signalling during the
+    data transfer phase
+  examples: []
+  notes: []
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: e728f0ba-f489-5725-9c7b-916f0892d006
+status: Standard

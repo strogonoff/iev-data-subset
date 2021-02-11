@@ -1,0 +1,10 @@
+data:
+  definition: spectral components arising from the process of sampling which are not
+    in the signal before sampling
+  examples: []
+  notes:
+  - These spurious components may fall inside or outside the spectrum of the original
+    signal.
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 821bd075-5fc5-5732-a887-15f010eedb20
+status: Standard

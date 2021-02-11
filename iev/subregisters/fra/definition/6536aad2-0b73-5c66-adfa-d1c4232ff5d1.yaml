@@ -1,0 +1,13 @@
+data:
+  definition: "électrode positive d’une torche à plasma d’arc à courant continu\r\n\
+    <note l est habituellement constitu d mat forte conductivit et thermique tel que\
+    \ le cuivre refroidie></note>"
+  examples: []
+  notes:
+  - Dans une torche à plasma à arc transféré, l’électrode de retour de courant joue
+    le plus souvent le rôle d’anode.
+  - Dans une torche à plasma à arc non-transféré, l'anode est souvent la tuyère de
+    la torche.
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: 6536aad2-0b73-5c66-adfa-d1c4232ff5d1
+status: Standard

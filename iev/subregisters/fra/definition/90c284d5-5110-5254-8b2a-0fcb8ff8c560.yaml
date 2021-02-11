@@ -1,0 +1,10 @@
+data:
+  definition: instabilité du niveau de sortie dont la période de variation a une durée
+    supérieure à une seconde, exprimée en décibels, sous forme du rapport du niveau
+    de sortie le plus élevé au niveau de sortie le plus faible, mesurés sur toute
+    la longueur d'une bande contenue dans une bobine
+  examples: []
+  notes: []
+dateAccepted: '1996-12-01T00:00:00+00:00'
+id: 90c284d5-5110-5254-8b2a-0fcb8ff8c560
+status: Standard

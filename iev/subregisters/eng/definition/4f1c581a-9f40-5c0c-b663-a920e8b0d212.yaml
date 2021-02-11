@@ -1,0 +1,12 @@
+data:
+  definition: '{{electric relay, IEV:151-13-31}} energized by the current derived
+    from a {{shunt, IEV:313-09-04}} in a main circuit
+
+
+    Note 1 to entry: The main circuit includes all the conductive parts, and is intended
+    for transmitting electrical energy.'
+  examples: []
+  notes: []
+dateAccepted: '2020-05-01T00:00:00+00:00'
+id: 4f1c581a-9f40-5c0c-b663-a920e8b0d212
+status: Standard

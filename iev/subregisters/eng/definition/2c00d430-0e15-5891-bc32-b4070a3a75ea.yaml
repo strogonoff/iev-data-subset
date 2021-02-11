@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: definition 93
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, definition 93, modified
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: region of fertile material placed around or within the core of a nuclear
+    reactor for the purpose of conversion
+  examples: []
+  notes:
+  - By extension, the term "blanket" may be used for the device to produce tritium
+    in a fusion reactor.
+  - This entry was numbered 393-17-17 in IEC 60050-393:2003.
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 2c00d430-0e15-5891-bc32-b4070a3a75ea
+status: Standard

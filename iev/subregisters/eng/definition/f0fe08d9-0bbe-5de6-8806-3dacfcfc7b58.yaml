@@ -1,0 +1,16 @@
+data:
+  definition: 'of an amount of a radionuclide in a particular energy state at a given
+    time, the quotient of dstem:[N] by dstem:[t], where dstem:[N] is the expectation
+    value of the number of spontaneous nuclear transitions from that energy state
+    in the time interval dstem:[t]:
+
+
+    stem:[A = ((d N))/((d t))]'
+  examples: []
+  notes:
+  - The SI unit of activity is the reciprocal second (s^−1^) and is given the special
+    name becquerel (Bq). The earlier special unit of activity, still in temporary
+    use, was the curie (Ci). 1 Bq = 1 s^−1^ = 2,703 × 10^−11^ Ci approximately.
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: f0fe08d9-0bbe-5de6-8806-3dacfcfc7b58
+status: Standard

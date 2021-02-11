@@ -1,0 +1,12 @@
+data:
+  definition: antenne constituée par une source primaire et un réflecteur composé
+    d'éléments disposés sur une surface et réglés de façon que l'onde réfléchie par
+    chacun d'eux ait la phase voulue pour que l'ensemble possède le diagramme de rayonnement
+    désiré
+  examples: []
+  notes:
+  - Les éléments du réflecteur sont en général des tronçons de guide d'ondes contenant
+    des déphaseurs électriques et terminés par des courts-circuits.
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: fd080e1a-11d5-587f-9f46-962a3843171a
+status: Standard

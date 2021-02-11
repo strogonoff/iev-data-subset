@@ -1,0 +1,12 @@
+data:
+  definition: the portion of a switching device associated exclusively with one electrically
+    separated conducting path of its main circuit and excluding those portions which
+    provide a means for mounting and operating all poles together
+  examples: []
+  notes:
+  - A switching device is called single-pole if it has only one pole. If it has more
+    than one pole, it may be called multipole (two-pole, three-pole, etc.) provided
+    the poles are or can be coupled in such a manner as to operate together.
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: c8aa456e-6898-5e46-a6f7-8fb879565489
+status: Standard

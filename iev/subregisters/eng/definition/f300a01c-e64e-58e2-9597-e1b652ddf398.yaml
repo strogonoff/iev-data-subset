@@ -1,0 +1,16 @@
+data:
+  definition: at a point on the surface separating two media with different thermodynamic
+    temperatures, magnitude of the density of heat flow rate *stem:[φ]* divided by
+    the absolute value of temperature difference Δstem:[T], thus stem:[K = ((| phi
+    |))/((| Delta T |))]
+  examples: []
+  notes:
+  - 1 The coefficient of heat transfer is zero for an adiabatic boundary and infinity
+    for a diathermic boundary.
+  - 2 The name “thermal transmittance” and the symbol stem:[U] are mainly used in
+    building technology.
+  - 3 The coherent SI unit of coefficient of heat transfer is watt per square metre
+    kelvin, W/(m^2^·K).
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: f300a01c-e64e-58e2-9597-e1b652ddf398
+status: Standard

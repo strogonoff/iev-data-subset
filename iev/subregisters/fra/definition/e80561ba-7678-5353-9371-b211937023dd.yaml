@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '2.6'
+    link: https://www.iso.org/standard/39976.html
+    original: Guide ISO/CEI 2:2004, 2.6
+    ref: ISO/IEC Guide 2:2004
+    relationship:
+      type: identical
+  definition: préservation de l'environnement de dommages inacceptables dus aux effets
+    et à l'exploitation de produits, processus ou services
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: e80561ba-7678-5353-9371-b211937023dd
+status: Standard

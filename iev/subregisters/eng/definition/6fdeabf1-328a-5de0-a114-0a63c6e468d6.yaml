@@ -1,0 +1,9 @@
+data:
+  definition: ordered set of elements, for instance an {{stem:[n]-bit byte, IEV:702-05-06}},
+    defined by a {{code, IEV:101-12-04}} to represent an item of data such as a {{character,
+    IEV:702-05-10}}
+  examples: []
+  notes: []
+dateAccepted: '2016-12-01T00:00:00+00:00'
+id: 6fdeabf1-328a-5de0-a114-0a63c6e468d6
+status: Standard

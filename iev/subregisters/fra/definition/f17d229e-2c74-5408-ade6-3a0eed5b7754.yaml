@@ -1,0 +1,11 @@
+data:
+  definition: grandeur qui peut être déterminée en tout point d'un système
+  examples: []
+  notes:
+  - En pratique, la définition d'une grandeur intensive implique une moyenne dans
+    un petit domaine tridimensionnel autour du point.
+  - 'Exemples: masse volumique, charge électrique volumique, résistivité, température
+    thermodynamique, pression, dureté C de Rockwell, tout champ (IEV 102-05-17).'
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: f17d229e-2c74-5408-ade6-3a0eed5b7754
+status: Standard

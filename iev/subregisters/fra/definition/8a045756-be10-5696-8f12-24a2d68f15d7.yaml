@@ -1,0 +1,10 @@
+data:
+  definition: fermeture des contacts d’un disjoncteur sous l’action des dispositifs
+    de commande manuels ou automatiques ou sous l'action de protection
+  examples: []
+  notes:
+  - Par extension, I’enclenchement d’un élément du réseau électrique (ligne, transformateur)
+    se dit pour l’enclenchement du ou des disjoncteurs associés.
+dateAccepted: 2018-11-17
+id: 8a045756-be10-5696-8f12-24a2d68f15d7
+status: Standard

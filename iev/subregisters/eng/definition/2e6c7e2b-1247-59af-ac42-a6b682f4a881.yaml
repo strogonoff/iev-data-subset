@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 28.04.07
+    link: https://www.iso.org/standard/7272.html
+    original: 'ISO/IEC 2382-28:1995, <i>Information technology – Vocabulary – Part
+      28: Artificial intelligence – Basic concepts and expert systems</i>, 28.04.07,
+      modified – There has been a slight change in the wording to adapt to usage in
+      control technology.'
+    ref: ISO/IEC 2382-28:1995
+    relationship:
+      modification: There has been a slight change in the wording to adapt to usage
+        in control technology.
+      type: modified
+  definition: 'component of an expert system that applies inference rules to draw
+    conclusions from the information stored in a knowledge base
+
+
+    Note 1 to entry: This entry was numbered 351-21-49 in IEC 60050-351:2006.'
+  examples: []
+  notes: []
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: 2e6c7e2b-1247-59af-ac42-a6b682f4a881
+status: Standard
