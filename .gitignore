@@ -1,8 +1,6 @@
 /node_modules
 /yarn-error.log
 /dist
-/_HomePage
-/_ItemClassPage
-/_SubregisterPage
-/_RegisterItemPage
 /artifacts
+/public
+/tmp
