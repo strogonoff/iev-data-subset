@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2007-08-01T00:00:00+00:00'
+  examples: []
+  id: 102-01-04
+  language_code: spa
+  notes: []
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: subconjunto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-08-01
+id: becb9ee0-41e6-5bda-b0af-70a8a4dd0d1d
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2012-05-01T00:00:00+00:00'
+  examples: []
+  id: 448-14-04
+  language_code: nno
+  notes: []
+  review_date: '2012-05-01T00:00:00+00:00'
+  review_decision_date: '2012-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: distansevern med omkopling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-05-01
+id: a11b68da-325a-5000-a87f-2952915636b9
+status: Standard

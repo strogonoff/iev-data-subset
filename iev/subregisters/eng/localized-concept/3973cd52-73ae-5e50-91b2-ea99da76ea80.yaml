@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  definition: relative displacement between pictures obtained from each image pickup
+    device in a video camera using more than one image pickup
+  examples: []
+  id: 808-02-13
+  language_code: eng
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: registration error
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 3973cd52-73ae-5e50-91b2-ea99da76ea80
+status: Standard

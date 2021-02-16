@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  definition: output level instability where the period of variations lasts more than
+    one second, and expressed in decibels as the ratio of the highest to the lowest
+    output levels measured over the entire length of the reel of tape
+  examples: []
+  id: 806-15-76
+  language_code: eng
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: long-term output level instability
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 86e5d007-16b4-5f61-95ad-53e496856dba
+status: Standard

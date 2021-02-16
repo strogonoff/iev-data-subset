@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: particule stable composée de 2 protons et de 2 neutrons étroitement
+    liés, ayant la même structure que le noyau d'hélium 4 et émis au cours d'une désintégration
+    nucléaire
+  examples: []
+  id: 881-02-65
+  language_code: fra
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: particule alpha
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: c58ec2bd-6f2d-55f3-a115-6bf8ff3ac1d2
+status: Standard

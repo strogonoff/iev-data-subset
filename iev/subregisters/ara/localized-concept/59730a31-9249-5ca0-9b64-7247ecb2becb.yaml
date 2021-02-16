@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2000-07-01T00:00:00+00:00'
+  examples: []
+  id: 441-15-01
+  language_code: ara
+  notes: []
+  review_date: '2000-07-01T00:00:00+00:00'
+  review_decision_date: '2000-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: قطب لمعدة فصل ووصل
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-07-01
+id: 59730a31-9249-5ca0-9b64-7247ecb2becb
+status: Standard

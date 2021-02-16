@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 603-04-25
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تحكم طوري (في الجهد)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: a55feb1d-6e32-5f62-8b68-c2d8a9b74533
+status: Standard

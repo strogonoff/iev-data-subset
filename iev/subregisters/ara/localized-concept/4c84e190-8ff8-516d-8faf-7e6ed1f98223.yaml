@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-46
+  language_code: ara
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: موصلية حرارية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 4c84e190-8ff8-516d-8faf-7e6ed1f98223
+status: Standard

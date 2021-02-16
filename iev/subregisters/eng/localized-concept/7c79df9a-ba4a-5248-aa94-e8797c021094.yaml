@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2015-11-01T00:00:00+00:00'
+  definition: transfer of heat between two surfaces by direct interaction with the
+    residual gas present in the vacuum space between them
+  examples: []
+  id: 815-15-14
+  language_code: eng
+  notes: []
+  review_date: '2015-11-01T00:00:00+00:00'
+  review_decision_date: '2015-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: residual gas heat transfer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-11-01
+id: 7c79df9a-ba4a-5248-aa94-e8797c021094
+status: Standard

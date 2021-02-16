@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2001-07-01T00:00:00+00:00'
+  definition: courant électrique dont la valeur dépasse une valeur limite spécifiée
+  examples: []
+  id: 151-15-28
+  language_code: fra
+  notes: []
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: surintensité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2001-07-01
+id: 4958df56-e00b-55e8-a095-6d4c909f0f13
+status: Standard

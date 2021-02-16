@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1998-02-01T00:00:00+00:00'
+  definition: cardiac fibrillation, limited to the atria, generally leading to ventricular
+    arrhythmia
+  examples: []
+  id: 891-01-15
+  language_code: eng
+  notes: []
+  review_date: '1998-02-01T00:00:00+00:00'
+  review_decision_date: '1998-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: atrial fibrillation
+    normative_status: preferred
+    type: expression
+  - designation: auricular fibrillation
+    type: expression
+dateAccepted: 1998-02-01
+id: e4765884-be20-5318-a819-92fce77959cc
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  definition: with respect to a given traffic parcel, a circuit group from which there
+    is no possibility of overflow
+  examples: []
+  id: 715-06-05
+  language_code: eng
+  notes:
+  - A last choice circuit group is a final circuit group or a fully provided circuit
+    group.
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: last choice circuit group
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: a3d92518-77ac-53d7-acff-2c6ed49916d7
+status: Standard

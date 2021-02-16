@@ -1,0 +1,26 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2010-01-01T00:00:00+00:00'
+  definition: quantity that is determinable at any point of a system
+  examples: []
+  id: 112-01-05
+  language_code: eng
+  notes:
+  - In practice, the definition of an intensive quantity involves an average over
+    a small three-dimensional domain around the point.
+  - 'Examples: mass density, electric charge density, resistivity, thermodynamic temperature,
+    pressure, Rockwell C hardness, any field quantity (IEV 102-05-17).'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: intensive quantity
+    normative_status: preferred
+    type: expression
+  - designation: local quantity
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: f64f4b4a-303f-5152-bc50-b133991d8593
+status: Standard

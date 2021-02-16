@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  definition: one of a set of nuclides having the same proton number but different
+    neutron numbers
+  examples: []
+  id: 113-05-38
+  language_code: eng
+  notes:
+  - A chemical element can consist of different isotopes.
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: isotope
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 69d413b2-f2d0-50ef-97f1-1d28f7cb0f89
+status: Standard

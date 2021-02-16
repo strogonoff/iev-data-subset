@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-11-01T00:00:00+00:00'
+  examples: []
+  id: 722-10-20
+  language_code: ara
+  notes: []
+  review_date: '1992-11-01T00:00:00+00:00'
+  review_decision_date: '1992-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: زمن المحادثة
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-11-01
+id: da2e9fd6-ec3f-58ee-90e8-95944622bace
+status: Standard

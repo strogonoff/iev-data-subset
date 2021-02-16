@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2000-07-01T00:00:00+00:00'
+  definition: manoeuvre effectuée exclusivement au moyen d'une énergie manuelle directement
+    appliquée, de telle sorte que la vitesse et la force de la manoeuvre dépendent
+    de l'action de l'opérateur
+  examples: []
+  id: 441-16-13
+  language_code: fra
+  notes: []
+  review_date: '2000-07-01T00:00:00+00:00'
+  review_decision_date: '2000-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: manoeuvre dépendante manuelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: a34e2819-9cf7-56e3-b2f9-9e3a02b41b88
+status: Standard

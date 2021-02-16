@@ -1,0 +1,25 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2016-12-01T00:00:00+00:00'
+  definition: ordered set of elements, for instance an {{stem:[n]-bit byte, IEV:702-05-06}},
+    defined by a {{code, IEV:101-12-04}} to represent an item of data such as a {{character,
+    IEV:702-05-10}}
+  examples: []
+  id: 702-05-17
+  language_code: eng
+  notes: []
+  release: 702-05-17:1992-03
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: code word
+    normative_status: preferred
+    type: expression
+  - designation: code combination
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: 8dd20165-7b30-5e10-bef8-4b0123b1666f
+status: Standard

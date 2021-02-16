@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 531-41-09
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: شكل الدفع
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 647f4fc4-67c5-5ddc-bb75-c719f607fcee
+status: Standard

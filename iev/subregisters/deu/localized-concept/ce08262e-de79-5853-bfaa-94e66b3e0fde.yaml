@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2009-03-01T00:00:00+00:00'
+  examples: []
+  id: 617-04-03
+  language_code: deu
+  notes: []
+  review_date: '2009-03-01T00:00:00+00:00'
+  review_decision_date: '2009-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Anschlussvereinbarung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2009-03-01
+id: ce08262e-de79-5853-bfaa-94e66b3e0fde
+status: Standard

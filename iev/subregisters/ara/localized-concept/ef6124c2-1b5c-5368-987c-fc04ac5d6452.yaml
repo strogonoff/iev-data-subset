@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  examples: []
+  id: 723-02-08
+  language_code: ara
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مزج (إشارات البرنامج)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: ef6124c2-1b5c-5368-987c-fc04ac5d6452
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: the telemonitoring of status information such as alarm conditions, or
+    switch positions, or valve positions
+  examples: []
+  id: 371-01-04
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: teleindication
+    normative_status: preferred
+    type: expression
+  - designation: telesignalisation
+    type: expression
+dateAccepted: 2021-01-01
+id: 4235d0f4-0cd0-50d1-8792-8a0368bca5a7
+status: Standard

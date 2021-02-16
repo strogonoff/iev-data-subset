@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2020-03-01T00:00:00+00:00'
+  definition: sensor that is separated from the equipment body and is connected to
+    a gas detection control unit or to a gas detection transmitter
+  examples: []
+  id: 426-24-48
+  language_code: eng
+  notes: []
+  review_date: '2020-03-01T00:00:00+00:00'
+  review_decision_date: '2020-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: remote sensor
+    normative_status: preferred
+    type: expression
+    usage_info: gas detection
+dateAccepted: 2020-03-01
+id: fa216e26-79bb-5b4e-bba8-cfaac8341246
+status: Standard

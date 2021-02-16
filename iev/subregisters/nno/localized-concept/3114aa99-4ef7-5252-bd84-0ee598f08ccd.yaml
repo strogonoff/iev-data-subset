@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-02-01T00:00:00+00:00'
+  examples: []
+  id: 421-01-20
+  language_code: nno
+  notes: []
+  review_date: '2013-02-01T00:00:00+00:00'
+  review_decision_date: '2013-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tørrisolert transformator med kapsla vikling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-01
+id: 3114aa99-4ef7-5252-bd84-0ee598f08ccd
+status: Standard

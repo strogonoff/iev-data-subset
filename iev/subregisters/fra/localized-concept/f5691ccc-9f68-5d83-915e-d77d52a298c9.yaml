@@ -1,0 +1,27 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  definition: grandeur d’état d’un système de composition fixe, telle que son accroissement
+    infinitésimal est égal au quotient de la quantité de chaleur qui entre dans le
+    système par la température thermodynamique, augmenté d’un terme positif si le
+    changement d’état est irréversible
+  examples: []
+  id: 113-04-22
+  language_code: fra
+  notes:
+  - 1 L’entropie d’un système dans un macro-état donné est proportionnelle au logarithme
+    du nombre de microétats dans ce macro-état.
+  - 2 L'unité SI cohérente d’entropie est le joule par kelvin, J/K.
+  - 3 L’entropie massique est notée stem:[s].
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: entropie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: f5691ccc-9f68-5d83-915e-d77d52a298c9
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2017-11-01T00:00:00+00:00'
+  definition: See {{IEV 411-41-01, IEV:411-41-01}}
+  examples: []
+  id: 811-14-19
+  language_code: eng
+  notes: []
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: brush
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 95eb6ad4-6aaa-5d51-a353-1b412741a7e4
+status: Standard

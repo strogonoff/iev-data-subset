@@ -1,0 +1,26 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1995-09-01T00:00:00+00:00'
+  definition: propagation troposphérique entre deux points situés au voisinage du
+    sol, le point de réception étant au-delà de l'horizon radioélectrique du point
+    d'émission
+  examples: []
+  id: 705-05-37
+  language_code: fra
+  notes:
+  - La propagation transhorizon peut mettre en jeu divers phénomènes tels que la diffraction,
+    la diffusion, et la réflexion sur des couches troposphériques. Toutefois, la propagation
+    troposphérique guidée n'est pas considérée comme une propagation transhorizon
+    car l'horizon radioélectrique n'est plus défini.
+  review_date: '1995-09-01T00:00:00+00:00'
+  review_decision_date: '1995-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: propagation transhorizon
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-09-01
+id: df9f5b9d-27dd-5923-9f89-25936d26e0b3
+status: Standard

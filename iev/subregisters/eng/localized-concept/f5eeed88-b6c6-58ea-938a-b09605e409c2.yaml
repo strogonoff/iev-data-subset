@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2020-12-01T00:00:00+00:00'
+  definition: locus of equal correlated colour temperature on a chromaticity diagram
+  examples: []
+  id: 845-23-082
+  language_code: eng
+  notes:
+  - Iso-temperature lines are perpendicular to the Planckian locus in the CIE 1960
+    uniform-chromaticity-scale diagram.
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: iso-temperature line
+    normative_status: preferred
+    type: expression
+    usage_info: in a chromaticity diagram
+dateAccepted: 2020-12-01
+id: f5eeed88-b6c6-58ea-938a-b09605e409c2
+status: Standard

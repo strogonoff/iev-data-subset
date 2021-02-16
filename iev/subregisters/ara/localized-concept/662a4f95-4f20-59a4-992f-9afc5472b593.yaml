@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-22
+  language_code: ara
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: القصور الحرارى
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 662a4f95-4f20-59a4-992f-9afc5472b593
+status: Standard

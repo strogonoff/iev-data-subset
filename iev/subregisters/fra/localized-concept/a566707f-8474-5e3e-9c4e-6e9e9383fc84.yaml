@@ -1,0 +1,23 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  definition: instabilité du niveau de sortie dont la période de variation a une durée
+    supérieure à une seconde, exprimée en décibels, sous forme du rapport du niveau
+    de sortie le plus élevé au niveau de sortie le plus faible, mesurés sur toute
+    la longueur d'une bande contenue dans une bobine
+  examples: []
+  id: 806-15-76
+  language_code: fra
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: instabilité à long terme
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: a566707f-8474-5e3e-9c4e-6e9e9383fc84
+status: Standard

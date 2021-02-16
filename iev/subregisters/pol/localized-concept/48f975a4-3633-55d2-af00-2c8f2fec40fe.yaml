@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2010-01-01T00:00:00+00:00'
+  examples: []
+  id: 112-01-05
+  language_code: pol
+  notes: []
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: wielkość lokalna
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 48f975a4-3633-55d2-af00-2c8f2fec40fe
+status: Standard

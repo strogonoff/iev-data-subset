@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  definition: linear speed of a disk groove with respect to a point such as a recording
+    or reproducing stylus tip
+  examples: []
+  id: 806-13-32
+  language_code: eng
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: groove speed
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 08cdf788-1061-5b1c-aa08-44da0404771e
+status: Standard

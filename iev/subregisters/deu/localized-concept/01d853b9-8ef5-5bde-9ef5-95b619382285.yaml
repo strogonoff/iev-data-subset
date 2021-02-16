@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  examples: []
+  id: 841-30-02
+  language_code: deu
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Elektronenstrahlerwärmung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-09-01
+id: 01d853b9-8ef5-5bde-9ef5-95b619382285
+status: Standard

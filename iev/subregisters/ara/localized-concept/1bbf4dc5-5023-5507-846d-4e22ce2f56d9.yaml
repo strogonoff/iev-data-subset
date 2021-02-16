@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  examples: []
+  id: 806-13-32
+  language_code: ara
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: سرعة أخدودِ
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 1bbf4dc5-5023-5507-846d-4e22ce2f56d9
+status: Standard

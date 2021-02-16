@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1998-02-01T00:00:00+00:00'
+  definition: instrument, comportant un fil maintenu incandescent au moyen d'un courant
+    électrique, destiné à brûler les tissus lors des opérations chirurgicales
+  examples: []
+  id: 891-05-16
+  language_code: fra
+  notes: []
+  review_date: '1998-02-01T00:00:00+00:00'
+  review_decision_date: '1998-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: électrocautère
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-02-01
+id: 25cf3f8d-4e85-5970-b8c7-c108876defa7
+status: Standard

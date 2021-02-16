@@ -1,0 +1,52 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1994-07-01T00:00:00+00:00'
+  definition: facteur d'absorption acoustique attribué à une surface et relié à la
+    durée de réverbération par la formule d'Eyring
+  examples: []
+  id: 801-31-09
+  language_code: fra
+  notes:
+  - 'La formule d''Eyring s''écrit:
+
+
+    stem:[T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))]
+
+
+    où:
+
+
+    stem:[T] est la durée de réverbération
+
+
+    stem:[V] est le volume de la salle
+
+
+    stem:[c] est la célérité du son dans l''air contenu dans la salle
+
+
+    stem:[S] = Σ stem:[S]~stem:[i]~ est l''aire totale des surfaces de la salle
+
+
+    stem:[bar alpha = Sigma S_i alpha_i // S] est le facteur d''Eyring moyen pour
+    toutes les surfaces
+
+
+    stem:[S]~stem:[i]~ est l''aire de la surface de rang stem:[i]
+
+
+    stem:[α]~stem:[i]~ est le facteur d''absorption acoustique (d''Eyring) attribué
+    à la surface de rang stem:[i]. L''aire d''absorption équivalente de la surface
+    de rang stem:[i] est stem:[S]~stem:[i]~stem:[α]~stem:[i]~.'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: facteur d'absorption d'Eyring
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1994-07-01
+id: c050b4f3-727c-5415-8760-c30ad77be47a
+status: Standard

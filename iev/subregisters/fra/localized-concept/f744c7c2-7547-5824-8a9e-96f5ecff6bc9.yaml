@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: qualifie une machine excitée par un enroulement en série avec l'enroulement
+    d'induit
+  examples: []
+  id: 411-36-05
+  language_code: fra
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: '... à excitation série'
+    normative_status: preferred
+    part_of_speech: adj
+    type: expression
+dateAccepted: 2021-01-01
+id: f744c7c2-7547-5824-8a9e-96f5ecff6bc9
+status: Standard

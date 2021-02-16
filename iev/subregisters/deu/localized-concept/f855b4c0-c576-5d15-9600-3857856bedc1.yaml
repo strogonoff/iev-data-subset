@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  examples: []
+  id: 841-29-02
+  language_code: deu
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Leistungseindringtiefe
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-09-01
+id: f855b4c0-c576-5d15-9600-3857856bedc1
+status: Standard

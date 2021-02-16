@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  definition: signal de réponse qui empêche la taxation
+  examples: []
+  id: 714-07-09
+  language_code: fra
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: signal de réponse (sans taxation)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 80e6dfb9-4c5e-555a-b884-80f327bb40de
+status: Standard

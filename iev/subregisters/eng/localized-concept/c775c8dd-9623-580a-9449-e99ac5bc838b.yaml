@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-11-01T00:00:00+00:00'
+  definition: acoustic noise which is present in the neighbourhood of a person using
+    a telephone set
+  examples: []
+  id: 722-15-18
+  language_code: eng
+  notes:
+  - The ambient noise is usually a composite of sounds from many sources, near and
+    far, and may interfere with the telephone conversation.
+  review_date: '1992-11-01T00:00:00+00:00'
+  review_decision_date: '1992-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: ambient noise
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-11-01
+id: c775c8dd-9623-580a-9449-e99ac5bc838b
+status: Standard

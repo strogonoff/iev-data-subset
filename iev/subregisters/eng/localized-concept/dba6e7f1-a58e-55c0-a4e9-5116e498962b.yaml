@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: voltage control by means of an additional variable in-phase voltage
+    component
+  examples: []
+  id: 603-04-25
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: in-phase (voltage) control
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: dba6e7f1-a58e-55c0-a4e9-5116e498962b
+status: Standard

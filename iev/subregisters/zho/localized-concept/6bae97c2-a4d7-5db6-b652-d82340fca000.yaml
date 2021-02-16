@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 901-03-06
+  language_code: zho
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 标准机构
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 6bae97c2-a4d7-5db6-b652-d82340fca000
+status: Standard

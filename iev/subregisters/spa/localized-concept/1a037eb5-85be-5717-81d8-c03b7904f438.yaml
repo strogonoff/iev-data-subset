@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: spa
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: longitud
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 1a037eb5-85be-5717-81d8-c03b7904f438
+status: Standard

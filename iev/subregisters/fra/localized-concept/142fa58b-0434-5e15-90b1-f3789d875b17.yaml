@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  definition: traitement de l'information définissant le type de terminal d'abonné
+    et les contraintes possibles d'utilisation et d'écoulement de trafic
+  examples: []
+  id: 714-04-26
+  language_code: fra
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: analyse de catégorie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 142fa58b-0434-5e15-90b1-f3789d875b17
+status: Standard

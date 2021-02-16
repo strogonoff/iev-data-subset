@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 411-41-14
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: قطاع مبدل
+    normative_status: preferred
+    type: expression
+  - designation: قطع عضو التوحيد
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: e522cd67-89f7-5fca-b5ea-6a7a3c7ca05f
+status: Standard

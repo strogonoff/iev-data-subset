@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1990-10-01T00:00:00+00:00'
+  examples: []
+  id: 466-08-25
+  language_code: ara
+  notes: []
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تطويل جسم البرج
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: dc043dbb-fd2d-5627-9d6d-2018509770c6
+status: Standard

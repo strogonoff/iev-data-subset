@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-50-29
+  language_code: zho
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 保持元件
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 68d6bd62-23f3-548a-9fff-5e44c8728afb
+status: Standard

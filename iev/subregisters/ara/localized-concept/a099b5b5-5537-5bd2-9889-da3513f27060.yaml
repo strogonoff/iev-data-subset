@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2009-03-01T00:00:00+00:00'
+  examples: []
+  id: 617-04-03
+  language_code: ara
+  notes: []
+  review_date: '2009-03-01T00:00:00+00:00'
+  review_decision_date: '2009-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: إتفاقية الربط
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-03-01
+id: a099b5b5-5537-5bd2-9889-da3513f27060
+status: Standard

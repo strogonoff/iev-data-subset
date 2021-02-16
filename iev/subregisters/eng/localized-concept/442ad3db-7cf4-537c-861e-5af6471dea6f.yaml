@@ -1,0 +1,46 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '1998-08-01T00:00:00+00:00'
+  definition: 'at a given point within a volume element of quasi-infinitesimal volume
+    stem:[V], vector quantity equal to the sum, for all free charge carriers within
+    the volume element, of the products of electric charge and velocity, divided by
+    the volume stem:[V]:
+
+
+    stem:[J = (1)/(V) sum_((i = 1))^n Q_i v_i]
+
+
+    where stem:[n] is the number of free carriers within the volume element, stem:[Q]~stem:[i]~
+    the electric charge of the stem:[i]^th^ carrier and stem:[*v*]~stem:[i]~ its velocity'
+  examples: []
+  id: 121-11-11
+  language_code: eng
+  notes:
+  - 'The flux of the electric current density *stem:[J]* through any directed surface
+    S is equal to the electric current stem:[I] through that surface:
+
+
+    stem:[I = underset(S)( int ) J * e_n d A]
+
+
+    where stem:[*e*]~n~dstem:[A] is the vector surface element.'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: (electric) current density
+    normative_status: preferred
+    type: expression
+  - designation: (conduction) current density
+    normative_status: preferred
+    type: expression
+  - designation: areic electric current
+    normative_status: preferred
+    type: expression
+  - designation: stem:[*J*]
+    international: true
+    type: symbol
+dateAccepted: 1998-08-01
+id: 442ad3db-7cf4-537c-861e-5af6471dea6f
+status: Standard

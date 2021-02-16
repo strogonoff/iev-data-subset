@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2010-01-01T00:00:00+00:00'
+  examples: []
+  id: 112-01-05
+  language_code: swe
+  notes: []
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: intensiv storhet
+    normative_status: preferred
+    type: expression
+  - designation: lokal storhet
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 5a5b193e-e989-5120-ad2b-7fb90ca8c78f
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  examples: []
+  id: 806-16-13
+  language_code: ara
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: كفاءة نسبية لوسط مغناطيسي (بالنسبة لوسط مغناطيسي مرجعي)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: c3310613-857c-525a-a8fc-a20e7eb5e8ff
+status: Standard

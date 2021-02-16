@@ -1,0 +1,25 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  definition: the process of routing messages in a telecommunication network, where
+    the messages are first cut into addressed packets; in certain nodes of the network,
+    these packets are received, stored and forwarded onto the appropriate transmission
+    channels; at the receiving end, the message is reconstituted from the received
+    packets
+  examples: []
+  id: 714-05-09
+  language_code: eng
+  notes:
+  - A packet occupies a channel only for its duration of transmission; at other times
+    the channel is available for the transmission of other packets belonging to the
+    same message or to other messages.
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: packet switching
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: d5bfd6c4-0814-5498-9ef3-f42572217677
+status: Standard

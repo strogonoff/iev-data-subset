@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-56-02
+  language_code: pol
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: jednostka funkcjonalna
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 58a0716e-58ff-5155-bdba-cd7c5fba75b7
+status: Standard

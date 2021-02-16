@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  examples: []
+  id: 881-12-51
+  language_code: ara
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: قدرة إيقاف الكتلة المشعة
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: dbfd481a-0328-5e04-8b55-cb603c51a4a1
+status: Standard

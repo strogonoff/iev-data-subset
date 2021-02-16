@@ -1,0 +1,23 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: composantes spectrales créées par échantillonnage d'un signal et n'appartenant
+    pas au signal original
+  examples: []
+  id: 723-10-78
+  language_code: fra
+  notes:
+  - Ces composantes parasites peuvent ou non se trouver dans la bande spectrale du
+    signal d'origine.
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: composantes de repliement
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 1997-03-01
+id: 27d9fbfb-5a34-5c69-8e61-a0a16f0abbc3
+status: Standard

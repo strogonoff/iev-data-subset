@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2010-01-01T00:00:00+00:00'
+  examples: []
+  id: 112-01-05
+  language_code: ita
+  notes: []
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: grandezza intensiva
+    normative_status: preferred
+    type: expression
+  - designation: grandezza locale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-01-01
+id: 71129ec5-be70-5176-9296-dee46c87d02d
+status: Standard

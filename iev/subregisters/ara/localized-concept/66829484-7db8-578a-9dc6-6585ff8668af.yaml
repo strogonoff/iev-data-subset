@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  examples: []
+  id: 881-02-78
+  language_code: ara
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تبعية الطاقة
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: 66829484-7db8-578a-9dc6-6585ff8668af
+status: Standard

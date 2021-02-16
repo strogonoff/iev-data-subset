@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: a busbar including a switch (or a circuit-breaker) in series, intended
+    to connect or disconnect two sections of that busbar
+  examples: []
+  id: 605-02-06
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: switchable busbar
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 7c08a14d-4509-51ac-a45d-1b51fe305ade
+status: Standard

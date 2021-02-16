@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: variation de la réponse d'un système physique ou biologique en fonction
+    d'une variation de l'énergie du rayonnement
+  examples: []
+  id: 881-02-78
+  language_code: fra
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: dépendance de l'énergie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: fb5bcb38-41cb-5ef5-ac23-248d15da6b86
+status: Standard

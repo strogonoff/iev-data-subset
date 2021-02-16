@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-22
+  language_code: zho
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 熵
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: c38c32e7-f7c8-5ea0-8725-b8d143a63f2d
+status: Standard

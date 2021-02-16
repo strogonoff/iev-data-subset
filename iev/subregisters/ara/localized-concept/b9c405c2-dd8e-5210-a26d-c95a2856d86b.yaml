@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 371-01-04
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: نقل القياسات عن بعد
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: b9c405c2-dd8e-5210-a26d-c95a2856d86b
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: unwanted fluctuations of power originating within the tube
+  examples: []
+  id: 531-15-01
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tube noise
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 85e11c13-58a9-58a5-bbc4-4ed9779033a5
+status: Standard

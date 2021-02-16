@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 461-09-05
+  language_code: ara
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: كابل قياس
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: d8e938ae-c164-5cd0-9e77-6e1bbaa25048
+status: Standard

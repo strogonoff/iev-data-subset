@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1994-07-01T00:00:00+00:00'
+  examples: []
+  id: 801-21-20
+  language_code: ara
+  notes: []
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: ضغط صوتي
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: 73efd334-215c-5251-90ae-58673031687d
+status: Standard

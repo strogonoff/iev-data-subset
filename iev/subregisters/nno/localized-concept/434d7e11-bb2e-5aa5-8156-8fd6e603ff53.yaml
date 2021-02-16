@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-02-01T00:00:00+00:00'
+  examples: []
+  id: 441-16-22
+  language_code: nno
+  notes: []
+  review_date: '2013-02-01T00:00:00+00:00'
+  review_decision_date: '2013-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: lukka stilling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-01
+id: 434d7e11-bb2e-5aa5-8156-8fd6e603ff53
+status: Standard

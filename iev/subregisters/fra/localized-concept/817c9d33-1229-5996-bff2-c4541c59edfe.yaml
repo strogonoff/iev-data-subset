@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2002-05-01T00:00:00+00:00'
+  definition: diode tunnel dont les courants de pic et de vallée sont approximativement
+    égaux
+  examples: []
+  id: 521-04-06
+  language_code: fra
+  notes: []
+  review_date: '2002-05-01T00:00:00+00:00'
+  review_decision_date: '2002-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: diode unitunnel
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-05-01
+id: 817c9d33-1229-5996-bff2-c4541c59edfe
+status: Standard

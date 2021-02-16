@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-03-52
+  language_code: jpn
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 力
+    normative_status: preferred
+    type: expression
+  - designation: 仕事率
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 337ed96f-f47f-526e-b0ee-2776c223be3f
+status: Standard

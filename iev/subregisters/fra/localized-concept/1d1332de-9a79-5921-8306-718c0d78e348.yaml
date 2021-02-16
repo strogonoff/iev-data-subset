@@ -1,0 +1,27 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: déplacement ou mouvement vertical apparent de l'image dû à un défaut
+    de synchronisation de trame
+  examples: []
+  id: 723-06-08
+  language_code: fra
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: glissement vertical
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: défilement vertical
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 1d1332de-9a79-5921-8306-718c0d78e348
+status: Standard

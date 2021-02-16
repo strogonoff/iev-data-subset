@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  examples: []
+  id: 715-06-05
+  language_code: ara
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مجموعة دارات ذات اولويةاخيرة
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 839c16a1-6852-5caa-93c7-dece1a8346dc
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2009-12-01T00:00:00+00:00'
+  examples: []
+  id: 103-04-12
+  language_code: ara
+  notes: []
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: التحويل الموجى المتصل
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: 7a8117c0-80cd-5fd9-a1ac-481c68466018
+status: Standard

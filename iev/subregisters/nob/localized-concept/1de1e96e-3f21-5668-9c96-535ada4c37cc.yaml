@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-02-01T00:00:00+00:00'
+  examples: []
+  id: 441-15-01
+  language_code: nob
+  notes: []
+  review_date: '2013-02-01T00:00:00+00:00'
+  review_decision_date: '2013-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: bryterpol
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-01
+id: 1de1e96e-3f21-5668-9c96-535ada4c37cc
+status: Standard

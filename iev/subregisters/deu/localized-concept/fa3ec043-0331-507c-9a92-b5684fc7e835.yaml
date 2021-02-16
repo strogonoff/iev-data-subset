@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-05-01T00:00:00+00:00'
+  examples: []
+  id: 702-04-39
+  language_code: deu
+  notes: []
+  review_date: '1992-05-01T00:00:00+00:00'
+  review_decision_date: '1992-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Durchschalten
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-05-01
+id: fa3ec043-0331-507c-9a92-b5684fc7e835
+status: Standard

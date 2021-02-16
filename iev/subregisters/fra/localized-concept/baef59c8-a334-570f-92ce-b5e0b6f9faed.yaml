@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: enroulement ondulé dans lequel le nombre de voies en parallèle est égal
+    à deux, quel que soit le nombre de pôles
+  examples: []
+  id: 411-37-34
+  language_code: fra
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: enroulement ondulé série
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: baef59c8-a334-570f-92ce-b5e0b6f9faed
+status: Standard

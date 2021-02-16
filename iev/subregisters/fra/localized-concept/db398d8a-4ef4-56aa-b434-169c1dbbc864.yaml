@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2009-03-01T00:00:00+00:00'
+  definition: accord conclu entre le gestionnaire du réseau et un utilisateur du réseau
+    qui fixe la procédure et les conditions pour le raccordement
+  examples: []
+  id: 617-04-03
+  language_code: fra
+  notes: []
+  review_date: '2009-03-01T00:00:00+00:00'
+  review_decision_date: '2009-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: contrat de raccordement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2009-03-01
+id: db398d8a-4ef4-56aa-b434-169c1dbbc864
+status: Standard

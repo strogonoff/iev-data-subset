@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1991-11-01T00:00:00+00:00'
+  definition: a facsimile receiver that records line by line on a medium which moves
+    on by a constant pitch between two consecutive lines so as to record several messages
+    in succession without the need for the operator to change the medium between consecutive
+    messages
+  examples: []
+  id: 721-13-07
+  language_code: eng
+  notes: []
+  review_date: '1991-11-01T00:00:00+00:00'
+  review_decision_date: '1991-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: continuous facsimile receiver
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 35b06a9c-258d-58d3-be71-4e01e09d8e42
+status: Standard

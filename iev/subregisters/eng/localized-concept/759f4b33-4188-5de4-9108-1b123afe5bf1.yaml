@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2016-02-01T00:00:00+00:00'
+  definition: connecting the contacts of a circuit-breaker by either manual or automatic
+    control or by protective devices
+  examples: []
+  id: 614-02-27
+  language_code: eng
+  notes:
+  - The expression “closing” of an item of the electric power network (line, transformer)
+    in fact means closing of the associated circuit-breaker(s).
+  review_date: '2016-02-01T00:00:00+00:00'
+  review_decision_date: '2016-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: closing
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-02-01
+id: 759f4b33-4188-5de4-9108-1b123afe5bf1
+status: Standard

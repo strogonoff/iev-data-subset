@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2020-03-01T00:00:00+00:00'
+  definition: device that can be attached to the equipment to present a test gas to
+    the sensor in a reproducible manner
+  examples: []
+  id: 426-24-75
+  language_code: eng
+  notes: []
+  review_date: '2020-03-01T00:00:00+00:00'
+  review_decision_date: '2020-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: mask for calibration and test
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: c5d27840-b1b6-535b-859f-a243b74a18ef
+status: Standard

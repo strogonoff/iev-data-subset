@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-11-01T00:00:00+00:00'
+  definition: partie de la durée de communication disponible du point de vue des utilisateurs
+    pour le transfert d'informations entre le demandeur et le ou les demandés
+  examples: []
+  id: 722-10-20
+  language_code: fra
+  notes: []
+  review_date: '1992-11-01T00:00:00+00:00'
+  review_decision_date: '1992-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: durée de conversation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-11-01
+id: 5b5edc11-645f-5a74-828b-52a8f52a16e6
+status: Standard
