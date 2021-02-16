@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-11-01T00:00:00+00:00'
+  definition: récepteur d'appel autre qu'une sonnerie téléphonique ou un ronfleur
+    fournissant une tonalité audible
+  examples: []
+  id: 722-02-21
+  language_code: fra
+  notes: []
+  review_date: '1992-11-01T00:00:00+00:00'
+  review_decision_date: '1992-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: annonciateur acoustique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1992-11-01T00:00:00+00:00'
+id: 2105ada5-1599-5632-a66d-1506a5f60fed
+status: Standard

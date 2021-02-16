@@ -1,0 +1,23 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2009-12-01T00:00:00+00:00'
+  examples: []
+  id: 103-04-12
+  language_code: deu
+  notes: []
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: kontinuierliche Wavelet-Transformierte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: CWT
+    normative_status: preferred
+    type: expression
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 58f2e757-b817-5092-9208-9412b7a75e99
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 436-02-11
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: холбооны конденсатор
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2505cdea-704f-56b0-bf66-9430ed0a2e59
+status: Standard

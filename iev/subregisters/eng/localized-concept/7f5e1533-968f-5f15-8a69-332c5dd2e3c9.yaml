@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  definition: representation of an electric or magnetic device by means of a circuit
+    composed of ideal elements
+  examples: []
+  id: 131-15-06
+  language_code: eng
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: electric circuit model
+    normative_status: preferred
+    type: expression
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 7f5e1533-968f-5f15-8a69-332c5dd2e3c9
+status: Standard

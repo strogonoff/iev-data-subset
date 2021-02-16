@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-08-23
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 영 위상 기준
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 914cb364-b882-5c81-8d9e-89e64f1b602e
+status: Standard

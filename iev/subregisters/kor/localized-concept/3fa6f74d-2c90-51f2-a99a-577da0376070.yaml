@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 395-02-22
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 중성자 확산
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3fa6f74d-2c90-51f2-a99a-577da0376070
+status: Standard

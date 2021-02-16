@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 821-05-54
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Ausschaltkontakt
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Öffner
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6fe44837-6960-5f2f-8633-223db0de44bd
+status: Standard

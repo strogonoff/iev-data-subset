@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  examples: []
+  id: 714-07-09
+  language_code: ara
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: إشارة اجابة (بدون رسوم)
+    normative_status: preferred
+    type: expression
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: a50ab668-c7d5-50e6-b39a-73b19e2f2480
+status: Standard

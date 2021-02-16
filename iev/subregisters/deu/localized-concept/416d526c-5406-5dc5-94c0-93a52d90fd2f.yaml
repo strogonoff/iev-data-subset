@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 721-13-07
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Endlosempfänger
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 416d526c-5406-5dc5-94c0-93a52d90fd2f
+status: Standard

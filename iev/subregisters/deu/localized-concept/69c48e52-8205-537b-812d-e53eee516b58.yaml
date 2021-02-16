@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 807-03-13
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Radialversatz (in einem CD-System)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 69c48e52-8205-537b-812d-e53eee516b58
+status: Standard

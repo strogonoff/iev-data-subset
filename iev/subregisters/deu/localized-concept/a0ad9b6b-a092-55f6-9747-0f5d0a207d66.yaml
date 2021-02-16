@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  examples: []
+  id: 705-05-37
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Überhorizontausbreitung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Transhorizontausbreitung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a0ad9b6b-a092-55f6-9747-0f5d0a207d66
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2010-01-01T00:00:00+00:00'
+  examples: []
+  id: 112-01-05
+  language_code: por
+  notes: []
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: grandeza intensiva
+    normative_status: preferred
+    type: expression
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: 2c05fa1a-2bcd-5aed-a36d-1a0bbb2db95b
+status: Standard

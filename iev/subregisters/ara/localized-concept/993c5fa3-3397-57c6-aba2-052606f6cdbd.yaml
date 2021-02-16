@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-03-52
+  language_code: ara
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: قدرة
+    normative_status: preferred
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 993c5fa3-3397-57c6-aba2-052606f6cdbd
+status: Standard

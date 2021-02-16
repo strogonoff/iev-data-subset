@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 444-04-01
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: lähtöpiiri
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cb4dfe31-86b7-5988-9b23-6d5cd22b9930
+status: Standard

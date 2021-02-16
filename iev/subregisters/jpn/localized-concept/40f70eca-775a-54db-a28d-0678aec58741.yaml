@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 801-31-09
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: アイリング吸音率
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 40f70eca-775a-54db-a28d-0678aec58741
+status: Standard

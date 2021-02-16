@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 881-04-42
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 活量
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: df845c92-46de-5268-ad47-d2437fc16750
+status: Standard

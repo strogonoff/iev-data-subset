@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 395-02-22
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Neutronendiffusion
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1d6ae3f2-f601-5352-b1d3-15d683316bf9
+status: Standard

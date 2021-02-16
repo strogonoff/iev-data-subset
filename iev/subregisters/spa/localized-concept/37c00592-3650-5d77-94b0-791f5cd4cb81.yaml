@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 395-02-22
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: difusión de neutrones
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 37c00592-3650-5d77-94b0-791f5cd4cb81
+status: Standard

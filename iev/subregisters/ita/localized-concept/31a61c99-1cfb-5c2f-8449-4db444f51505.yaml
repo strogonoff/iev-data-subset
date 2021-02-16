@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 881-02-78
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: dipendenza dall'energia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 31a61c99-1cfb-5c2f-8449-4db444f51505
+status: Standard

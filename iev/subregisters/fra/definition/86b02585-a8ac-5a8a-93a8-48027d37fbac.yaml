@@ -1,9 +1,0 @@
-data:
-  definition: balayage ligne par ligne dans lequel une image est explorée par trames
-    successives, régulièrement décalées dans le sens perpendiculaire aux lignes de
-    balayage, de façon que les lignes des trames successives soient intercalées
-  examples: []
-  notes: []
-dateAccepted: '1997-03-01T00:00:00+00:00'
-id: 86b02585-a8ac-5a8a-93a8-48027d37fbac
-status: Standard

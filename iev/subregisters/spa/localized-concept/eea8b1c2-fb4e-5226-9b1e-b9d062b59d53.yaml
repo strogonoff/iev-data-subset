@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 531-16-13
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: corriente de caldeo de arranque
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eea8b1c2-fb4e-5226-9b1e-b9d062b59d53
+status: Standard

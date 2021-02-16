@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 815-15-14
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przekaz ciepła przez gaz resztkowy
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7eecbcf6-8f49-5e9e-939e-df8a8ba08e66
+status: Standard

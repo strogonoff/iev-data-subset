@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 436-02-11
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kondensator sprzęgający
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 841bc3ac-9038-5c12-a6fe-75c476b967da
+status: Standard

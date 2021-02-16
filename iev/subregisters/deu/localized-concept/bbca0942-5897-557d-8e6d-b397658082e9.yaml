@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 421-01-20
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Gießharztransformator
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bbca0942-5897-557d-8e6d-b397658082e9
+status: Standard

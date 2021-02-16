@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 741-01-33
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 가상 실체
+    normative_status: preferred
+    type: expression
+  - designation: 디지털 실체
+    type: expression
+  - designation: 독립체
+    type: expression
+dateAccepted: 2018-11-17
+id: 88a304ce-ce42-5893-bfc7-eef915affa63
+status: Standard

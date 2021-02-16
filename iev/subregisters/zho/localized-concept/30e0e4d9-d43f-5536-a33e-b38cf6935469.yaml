@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 447-01-22
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 分流继电器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 30e0e4d9-d43f-5536-a33e-b38cf6935469
+status: Standard

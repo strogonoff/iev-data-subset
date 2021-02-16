@@ -1,0 +1,24 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: pour un point de fonctionnement et une fréquence donnés, quotient de
+    la composante fondamentale du courant de court-circuit dans la connexion accessible
+    d'une électrode par la tension sinusoïdale appliquée à la connexion d'une autre
+    électrode pour engendrer le courant, les potentiels de toutes les autres connexions
+    étant maintenus constants
+  examples: []
+  id: 531-17-12
+  language_code: fra
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: transadmittance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 5b72d4b7-3950-58ce-bc8c-21104710bb58
+status: Standard

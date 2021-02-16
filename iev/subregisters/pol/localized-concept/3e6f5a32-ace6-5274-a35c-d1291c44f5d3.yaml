@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 881-02-78
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zależność energetyczna
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3e6f5a32-ace6-5274-a35c-d1291c44f5d3
+status: Standard

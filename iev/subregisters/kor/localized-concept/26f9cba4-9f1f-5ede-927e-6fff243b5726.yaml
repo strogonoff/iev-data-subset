@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-21-047
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 기하학 범위
+    normative_status: preferred
+    type: expression
+  - designation: 전광속
+    type: expression
+dateAccepted: 2018-11-17
+id: 26f9cba4-9f1f-5ede-927e-6fff243b5726
+status: Standard

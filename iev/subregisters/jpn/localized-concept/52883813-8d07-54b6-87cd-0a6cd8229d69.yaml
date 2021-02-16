@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  examples: []
+  id: 732-02-02
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ネットワーク情報センター
+    normative_status: preferred
+    type: expression
+  - designation: NIC
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 52883813-8d07-54b6-87cd-0a6cd8229d69
+status: Standard

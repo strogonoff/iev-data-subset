@@ -1,38 +1,20 @@
 data:
-  definitions:
-    eng: a419d2e1-76d6-5143-83d1-6ddb06fa1460
-    fra: 39daa6fa-7b6e-5c47-8512-8a8e1b6ca4db
-  designations:
-    ara:
-    - 7dc5cb3f-77ed-51ae-8b2e-6d5a40261fce
-    deu:
-    - 8b9e556b-db4c-518c-80c6-5d195f12d66c
-    eng:
-    - 23ca0490-aa78-5f02-a6dd-f0021c798b3e
-    fra:
-    - d30ae319-dc6a-5a74-871b-6c5cf0d46da0
-    ita:
-    - 8c917258-c59f-5071-a137-2cb01bec333b
-    jpn:
-    - 52011cd5-898e-56b4-b053-1e0ffc97ebd9
-    kor:
-    - fc1735d3-3f2c-5f0f-9011-1209c2ff07ac
-    - dda8346b-7ad3-56c5-b3b3-1ccb662a6f56
-    mon:
-    - 92f66819-d1dc-5f3e-bd32-db6efb1af4e6
-    pol:
-    - a1386560-1a49-5640-9035-e9f9d4dd1154
-    por:
-    - fd8c3c67-1e07-53e3-9cbe-04d73ab1b254
-    slv:
-    - 6e30347e-24ab-5843-a15f-6f9d8ae7065b
-    spa:
-    - f384021e-265e-53d6-8287-61d51e8a2a2b
-    srp:
-    - 692c2438-fb11-52a8-9061-a2775143b8f3
-    swe:
-    - 00940464-ff3d-5bdb-9f45-eaeb86831e18
   identifier: 436-02-11
+  localizedConcepts:
+    ara: 5d02a24d-138f-55f6-b89a-6eddf7654f33
+    deu: cc8742a1-e836-5373-a667-38a3e60752c4
+    eng: 4af78ad0-dade-5a4d-a80f-4b7e68e0d11c
+    fra: dac57cdc-ebeb-5625-bed0-19d9d8bd8271
+    ita: 9df1afff-2e99-5f52-b6cd-781d4734a0cd
+    jpn: 557b9d82-dd1c-5e8f-885a-c1a0e2b39356
+    kor: ee804b1c-55b3-5cf5-86bf-d648426e2f5d
+    mon: 2505cdea-704f-56b0-bf66-9430ed0a2e59
+    pol: 841bc3ac-9038-5c12-a6fe-75c476b967da
+    por: 6fca7881-e918-555b-8e8a-4da702539ed3
+    slv: 457c70ca-f775-5ad8-a20a-3a4b4efea884
+    spa: 76080634-1bda-5bd9-86de-57b9d4a43be0
+    srp: 26943cb5-a960-56ec-94f4-67d555391f8d
+    swe: f0c8708e-a73d-5be8-a80c-6e5eb95082c8
 dateAccepted: 2018-11-17
 id: 9d43633b-d81e-54ab-993c-81617699fa16
 status: valid

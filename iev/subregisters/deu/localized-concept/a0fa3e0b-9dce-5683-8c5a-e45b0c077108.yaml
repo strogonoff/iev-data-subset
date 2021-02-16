@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 521-01-17
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Fermi-Niveau
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a0fa3e0b-9dce-5683-8c5a-e45b0c077108
+status: Standard

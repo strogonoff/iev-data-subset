@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 602-01-04
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: хидроелектрана
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1248fea5-3a4d-557e-baef-20bb763b5c70
+status: Standard

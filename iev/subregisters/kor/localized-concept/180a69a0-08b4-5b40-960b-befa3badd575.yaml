@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 371-01-04
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 원격 지시
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 180a69a0-08b4-5b40-960b-befa3badd575
+status: Standard

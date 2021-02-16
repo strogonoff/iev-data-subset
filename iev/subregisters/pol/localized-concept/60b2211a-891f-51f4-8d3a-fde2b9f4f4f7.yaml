@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 447-01-15
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przekaźnik sterujący
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: przekaźnik wyjściowy
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 60b2211a-891f-51f4-8d3a-fde2b9f4f4f7
+status: Standard

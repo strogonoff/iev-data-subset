@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 421-05-05
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: miinus-asento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f5eead1f-8c78-5ce0-ac3b-43295b6a5bc4
+status: Standard

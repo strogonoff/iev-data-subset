@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 821-12-39
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tempo di intervento della forzatura di sicurezza
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 51af0ac1-91cf-58fc-90ff-20d6630ec07c
+status: Standard

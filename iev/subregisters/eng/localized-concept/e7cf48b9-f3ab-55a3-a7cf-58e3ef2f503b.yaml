@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: an investigation for which the useful beam traverses the body from side
+    to side
+  examples: []
+  id: 881-10-21
+  language_code: eng
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: lateral projection
+    normative_status: preferred
+    type: expression
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: e7cf48b9-f3ab-55a3-a7cf-58e3ef2f503b
+status: Standard

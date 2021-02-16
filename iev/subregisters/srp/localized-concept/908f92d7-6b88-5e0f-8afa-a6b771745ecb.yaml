@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 411-53-58
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: термичка заштита
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 908f92d7-6b88-5e0f-8afa-a6b771745ecb
+status: Standard

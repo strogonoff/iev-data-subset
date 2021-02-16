@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1995-12-01T00:00:00+00:00'
+  examples: []
+  id: 448-14-04
+  language_code: ara
+  notes: []
+  review_date: '1995-12-01T00:00:00+00:00'
+  review_decision_date: '1995-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: حماية مسافية ذات تبديل
+    normative_status: preferred
+    type: expression
+dateAccepted: '1995-12-01T00:00:00+00:00'
+id: 28e1423a-27ab-5a78-92f2-fae45bd53428
+status: Standard

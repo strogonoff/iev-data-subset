@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 722-10-20
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 対話時間
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ec9f77ee-aead-5756-ba84-9488f919ee33
+status: Standard

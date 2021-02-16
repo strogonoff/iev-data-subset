@@ -1,37 +1,17 @@
 data:
-  definitions:
-    eng: 07e5ad1d-3fb8-577c-b326-3ee67601dbda
-    fra: 1cf629c1-c1cc-5ab4-9dad-03e92cc94d71
-  designations:
-    ara:
-    - fa452be1-0c29-5cb8-b1d9-f6578f39f97c
-    deu:
-    - 8e876b60-65d0-5375-96c1-c040dc913cd7
-    - 9a5fe804-cf3b-5418-8939-7cf94e6158de
-    eng:
-    - 4c4cbd21-e683-502e-bf3f-229a8afb5ab7
-    - de12830f-1264-5cb8-83ca-c0c05bfdc51f
-    fra:
-    - 9ec733c3-4dd0-56d7-b475-9f805a609a52
-    - 9a5fe804-cf3b-5418-8939-7cf94e6158de
-    ita:
-    - 5af694fb-feed-5ceb-9970-1896b5182c2b
-    - 4e79ca95-f59e-5ddc-a358-2ead89b38fef
-    jpn:
-    - 5d5d3728-c5c6-53e4-bb0a-5505951063ad
-    pol:
-    - 0e3a239b-0387-5ca1-bae5-f6f4b4970029
-    - 9a5fe804-cf3b-5418-8939-7cf94e6158de
-    por:
-    - 4dae8a4f-9994-50c1-8bde-ed2bb4dcfa7f
-    rus:
-    - 2702d72b-394a-550a-8b8c-e3107a021f74
-    spa:
-    - 337f7800-d534-5e1c-9915-6471d821f96a
-    zho:
-    - a9e78f26-fa44-5f89-8882-012b40a962c9
-    - 9a5fe804-cf3b-5418-8939-7cf94e6158de
   identifier: 426-24-21
+  localizedConcepts:
+    ara: bf419347-b1b7-5a77-8954-1a2f37b5cfcf
+    deu: a42361e9-85f7-5d4b-8448-0e88e73fbbf1
+    eng: 94b28c01-2bb2-5283-bf92-bac5857cc7a8
+    fra: 9eb60faf-c4e9-5ee4-a1e9-e3cac3ea736f
+    ita: 66fdc26b-dc43-5314-a034-2b4acfcad179
+    jpn: 192f2068-0527-57c9-8e45-c464e1d4ac11
+    pol: 9fea0bbf-b339-5815-a03a-ced8ab58f622
+    por: dfbf4900-104c-5c66-9799-e6959008fa47
+    rus: 0d5df82b-b6f2-54fb-ba6b-bf768c527057
+    spa: 3aea57bf-10ac-5956-89cf-5881d205156b
+    zho: 99080589-1993-5ebe-8601-4346214f3340
 dateAccepted: 2018-11-17
 id: 85459a68-893d-5bd0-9837-797ad45feda1
 status: valid

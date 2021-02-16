@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 102-03-39
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: тензор другог реда
+    normative_status: preferred
+    type: expression
+  - designation: тензор
+    type: expression
+dateAccepted: 2018-11-17
+id: 54838f53-e67c-5378-a1ea-a669f5e68481
+status: Standard

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2008-06-01T00:00:00+00:00'
+  definition: câble multiconducteur destiné à la transmission de signaux entre les
+    capteurs et les appareils de mesure correspondants
+  examples: []
+  id: 461-09-05
+  language_code: fra
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: câble de mesure
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: câble d'instrumentation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: e65d82f7-f7dd-50b6-9e5f-dd5d524b9290
+status: Standard

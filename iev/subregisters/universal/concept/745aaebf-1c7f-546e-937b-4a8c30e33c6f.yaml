@@ -1,45 +1,22 @@
 data:
-  definitions:
-    eng: d4c40349-53ff-5cdd-9031-309ac2e37e90
-    fra: 79cf050a-7900-54e8-ade6-98e95b19b070
-  designations:
-    ara:
-    - 7921d987-9dc8-5f4a-9c3b-733860dc9612
-    deu:
-    - 109aa5fa-b178-58c4-a404-47766549faff
-    eng:
-    - c5908c0c-48b2-5910-b9f3-852e45e6598e
-    - 9b550d89-f298-5c4c-8f58-a0e251690a73
-    fin:
-    - 4fbf1f29-da74-5315-bb34-51685b9ce1fe
-    fra:
-    - a8d4f5a0-4977-549b-9371-a281a887b898
-    ita:
-    - 6386faf2-3493-512e-9fd1-c290a8ff8afc
-    jpn:
-    - bebd5c14-111a-5318-8dee-a85bbc5cde35
-    kor:
-    - 1c679a30-bf99-5985-a1d0-e3bd97e0cfc1
-    mon:
-    - 34a893ac-7103-5eab-9a07-5ac97f9b02c0
-    - ee8982f7-cc98-57ca-9592-c37ca54a2fa9
-    - 3508a28a-17ef-548d-a344-fb250246bb6f
-    nno:
-    - a273a7d8-1b9c-5e9b-ae34-10b1d5503277
-    nob:
-    - a273a7d8-1b9c-5e9b-ae34-10b1d5503277
-    pol:
-    - 7f301109-38e2-5da0-a47c-81e5a0b08752
-    por:
-    - 52606fb5-7c93-50cf-80c1-71ac9cf5495f
-    spa:
-    - 52606fb5-7c93-50cf-80c1-71ac9cf5495f
-    - dc4bb20b-8b38-5863-a571-6972fe793d59
-    srp:
-    - 48b2fc7e-a05a-5564-b9bf-38c5938c7770
-    swe:
-    - 52141bad-e199-5bae-b068-2aabe0644716
   identifier: 441-18-17
+  localizedConcepts:
+    ara: 14b46a57-e1f6-55be-b4d5-1502e3f58ec4
+    deu: ffc507d5-018e-5f3f-b4a9-ae6893e4793e
+    eng: b7f49045-b7ad-5e80-b18b-293ae6406f81
+    fin: e474ed13-1bf5-548f-a26f-8ccd69f81977
+    fra: ba7c66e8-7369-5162-9e33-859c8a269471
+    ita: cefec979-044c-52f2-8e63-a8bd157deb28
+    jpn: 5fc43a26-6c70-5bc7-9623-49c2c759ee5e
+    kor: 8e9cde44-fe74-5fc3-a05e-24012328ec9a
+    mon: f5c11328-3dae-59d4-9b8d-19da92a4a278
+    nno: d834c6bb-95e8-5808-86e4-bcb65b42976e
+    nob: ec1e872d-e154-51bc-ac0b-1de0ca21752c
+    pol: 42c97c5f-9db3-5062-8766-92dca9395d68
+    por: 7a19d545-3049-5fc0-836d-926234beba75
+    spa: 70d5c7be-bf37-5546-97e1-31755a42819e
+    srp: 51658112-3a9e-591a-8315-a180e6ac6cb2
+    swe: bb7e6f0e-43d1-5c2b-98eb-1d7670483b35
 dateAccepted: 2018-11-17
 id: 745aaebf-1c7f-546e-937b-4a8c30e33c6f
 status: valid

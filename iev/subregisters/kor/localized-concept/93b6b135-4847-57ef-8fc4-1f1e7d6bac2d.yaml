@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 113-04-46
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 열 전도율
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 93b6b135-4847-57ef-8fc4-1f1e7d6bac2d
+status: Standard

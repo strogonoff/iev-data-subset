@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 426-24-54
+  language_code: rus
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: селективность
+    normative_status: preferred
+    type: expression
+  - designation: избирательность
+    type: expression
+dateAccepted: 2018-11-17
+id: 5e965538-45a4-5f2b-9afe-e45d207582d3
+status: Standard

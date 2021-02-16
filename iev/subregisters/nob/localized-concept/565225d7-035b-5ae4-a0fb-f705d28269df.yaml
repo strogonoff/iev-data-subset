@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-02-01T00:00:00+00:00'
+  examples: []
+  id: 421-05-05
+  language_code: nob
+  notes: []
+  review_date: '2013-02-01T00:00:00+00:00'
+  review_decision_date: '2013-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: minusreguleringsuttak
+    normative_status: preferred
+    type: expression
+dateAccepted: '2013-02-01T00:00:00+00:00'
+id: 565225d7-035b-5ae4-a0fb-f705d28269df
+status: Standard

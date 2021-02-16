@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 603-04-25
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: regolazione (di tensione) in fase
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a1cb2979-7209-5c0d-a0f0-3af6ca1e6ddd
+status: Standard

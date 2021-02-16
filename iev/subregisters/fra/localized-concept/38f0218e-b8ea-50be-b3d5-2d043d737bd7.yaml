@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  definition: ensemble de conducteurs électriques isolés, de joints pour conducteurs
+    et de joints permettant le passage des divers conducteurs électriques à travers
+    une ouverture unique dans une structure de confinement nucléaire, tout en ménageant
+    une barrière de pression entre l’intérieur et l’extérieur de la structure de confinement
+  examples: []
+  id: 395-07-61
+  language_code: fra
+  notes:
+  - Cet article était numéroté 394-35-09 dans la CEI 60050-394:2007.
+  review_decision_event: published
+  terms:
+  - designation: ensemble de traversée électrique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un réacteur nucléaire
+dateAccepted: 2018-11-17
+id: 38f0218e-b8ea-50be-b3d5-2d043d737bd7
+status: Standard

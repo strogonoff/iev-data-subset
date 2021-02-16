@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 841-22-14
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kylning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f6a655b4-f517-53a5-9fe0-2ec7a12d1313
+status: Standard

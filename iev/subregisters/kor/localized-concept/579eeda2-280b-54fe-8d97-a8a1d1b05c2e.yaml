@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 821-02-96
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 샷 입환신호
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 579eeda2-280b-54fe-8d97-a8a1d1b05c2e
+status: Standard

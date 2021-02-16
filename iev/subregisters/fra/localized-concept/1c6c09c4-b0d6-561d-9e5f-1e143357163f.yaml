@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1993-08-01T00:00:00+00:00'
+  definition: propriété d'une voie de transmission numérique, d'un circuit de télécommunication
+    numérique ou d'une chaîne de connexion numérique, qui permet de transmettre un
+    signal numérique sans modification de la succession des éléments de signal
+  examples: []
+  id: 704-17-21
+  language_code: fra
+  notes: []
+  review_date: '1993-08-01T00:00:00+00:00'
+  review_decision_date: '1993-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: intégrité de la suite des éléments numériques
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1993-08-01T00:00:00+00:00'
+id: 1c6c09c4-b0d6-561d-9e5f-1e143357163f
+status: Standard

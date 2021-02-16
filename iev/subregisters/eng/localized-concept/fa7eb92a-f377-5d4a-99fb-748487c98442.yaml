@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: a process applied to a scrambled signal in order to restore the original
+    signal
+  examples: []
+  id: 723-10-90
+  language_code: eng
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: descrambling
+    normative_status: preferred
+    type: expression
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: fa7eb92a-f377-5d4a-99fb-748487c98442
+status: Standard

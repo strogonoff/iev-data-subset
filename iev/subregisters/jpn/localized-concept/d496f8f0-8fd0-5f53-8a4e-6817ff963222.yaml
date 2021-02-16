@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 421-05-05
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 負タッピング
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d496f8f0-8fd0-5f53-8a4e-6817ff963222
+status: Standard

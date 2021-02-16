@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-46
+  language_code: jpn
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 熱伝導
+    normative_status: preferred
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: b2cbbf2a-22c9-597e-b958-0e1129808a48
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 713-03-04
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: servicio móvil por satélite
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b84707ff-3c4f-584c-970d-87c2e008fb53
+status: Standard

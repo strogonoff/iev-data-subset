@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 702-05-17
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Codewort
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Codekombination
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: aa6feca4-d39a-5639-a6d2-8462a2d72379
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: jeu de barres comprenant en série un disjoncteur ou un interrupteur
+    destiné à connecter ou à déconnecter les deux tronçons de jeu de barres
+  examples: []
+  id: 605-02-06
+  language_code: fra
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: jeu de barres tronçonnable
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 21ee4fb0-a07b-54fb-ab56-299399ab45ac
+status: Standard

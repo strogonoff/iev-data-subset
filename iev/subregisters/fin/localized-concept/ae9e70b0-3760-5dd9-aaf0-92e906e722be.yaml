@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 902-02-02
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: menettely
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ae9e70b0-3760-5dd9-aaf0-92e906e722be
+status: Standard

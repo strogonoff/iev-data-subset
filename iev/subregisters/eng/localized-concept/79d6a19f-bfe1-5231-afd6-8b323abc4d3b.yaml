@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - clause: 3.1.33
+    link: https://www.iso.org/standard/69470.html
+    original: ISO/IEC 20924:2018, 3.1.33
+    ref: ISO/IEC 20924:2018
+    relationship:
+      type: identical
+  date_amended: '2020-04-01T00:00:00+00:00'
+  definition: '{{digital entity, IEV:741-01-14}} that represents a {{physical entity,
+    IEV:741-01-26}}'
+  examples: []
+  id: 741-01-33
+  language_code: eng
+  notes: []
+  review_date: '2020-04-01T00:00:00+00:00'
+  review_decision_date: '2020-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: virtual entity
+    normative_status: preferred
+    type: expression
+dateAccepted: '2020-04-01T00:00:00+00:00'
+id: 79d6a19f-bfe1-5231-afd6-8b323abc4d3b
+status: Standard

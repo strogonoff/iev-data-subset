@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 531-41-09
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: coefficiente di spinta
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8a5b2eff-7bb7-5cda-aad4-3f029e00f6df
+status: Standard

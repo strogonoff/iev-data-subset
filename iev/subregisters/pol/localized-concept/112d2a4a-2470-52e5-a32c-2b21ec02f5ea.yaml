@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 561-04-05
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: autoklaw
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 112d2a4a-2470-52e5-a32c-2b21ec02f5ea
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 436-02-12
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: високонапонски кондензатор
+    normative_status: preferred
+    type: expression
+    usage_info: капацитивног делитеља
+dateAccepted: 2018-11-17
+id: b3824eee-9876-563f-8ce6-35012ef9f0c7
+status: Standard

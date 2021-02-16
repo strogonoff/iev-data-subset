@@ -1,0 +1,23 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2014-03-01T00:00:00+00:00'
+  definition: assembly of insulated electric conductors, conductor seals and opening
+    seals that provides the passage for the electric conductors through an opening
+    in the nuclear containment structure, while providing a pressure barrier between
+    the inside and the outside of the containment structure
+  examples: []
+  id: 395-07-61
+  language_code: eng
+  notes:
+  - This entry was numbered 394-35-09 in IEC 60050-394:2007.
+  review_date: '2014-03-01T00:00:00+00:00'
+  review_decision_date: '2014-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: electric penetration assembly
+    normative_status: preferred
+    type: expression
+    usage_info: of a nuclear reactor
+dateAccepted: '2014-03-01T00:00:00+00:00'
+id: 2b733220-577d-5a5b-94ab-0849d0e41ac5
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 841-31-41
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: анода
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eb6b5b5a-8b90-518c-bf4f-0fa435ec92e3
+status: Standard

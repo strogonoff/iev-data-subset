@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 722-02-21
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 톤 신호기
+    normative_status: preferred
+    type: expression
+  - designation: 음 신호기
+    type: expression
+dateAccepted: 2018-11-17
+id: c5b1f102-6d91-5564-9c0b-148c5adb358e
+status: Standard

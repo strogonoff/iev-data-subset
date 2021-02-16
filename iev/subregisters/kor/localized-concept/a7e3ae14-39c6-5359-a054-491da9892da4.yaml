@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-23-055
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 단색광 색도좌표
+    normative_status: preferred
+    type: expression
+  - designation: 분광 색도좌표
+    type: expression
+dateAccepted: 2018-11-17
+id: a7e3ae14-39c6-5359-a054-491da9892da4
+status: Standard

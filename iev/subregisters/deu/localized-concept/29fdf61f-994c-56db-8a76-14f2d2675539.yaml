@@ -1,0 +1,25 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2002-06-01T00:00:00+00:00'
+  examples: []
+  id: 131-15-06
+  language_code: deu
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Netzwerkmodell
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Schaltkreismodell
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 29fdf61f-994c-56db-8a76-14f2d2675539
+status: Standard

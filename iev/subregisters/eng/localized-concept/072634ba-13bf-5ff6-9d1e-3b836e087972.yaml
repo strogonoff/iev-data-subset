@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: the quotient of (1) the difference between the extremes of frequency
+    of oscillation to (2) the change in electrode current that produces the change
+    in frequency, thermal effects excluded
+  examples: []
+  id: 531-41-09
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: pushing figure
+    normative_status: preferred
+    type: expression
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 072634ba-13bf-5ff6-9d1e-3b836e087972
+status: Standard

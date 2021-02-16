@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 808-03-19
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: “V”形测试图
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d2ad16e8-31ac-5148-b7a6-139e45b7252a
+status: Standard

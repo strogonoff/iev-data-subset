@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 806-15-76
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 장기출력레벨 변동
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 44db0f89-fda6-5125-b0f8-edafc07908c2
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: radiogramme obtenu lorsque le faisceau utile de rayons X a traversé
+    le corps d'un côté à l'autre
+  examples: []
+  id: 881-10-21
+  language_code: fra
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: vue latérale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 3348b7af-c705-5154-aab5-af1e5b5b10ee
+status: Standard

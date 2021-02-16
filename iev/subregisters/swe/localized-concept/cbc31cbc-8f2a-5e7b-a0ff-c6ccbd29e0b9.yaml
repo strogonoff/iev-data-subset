@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 521-04-06
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: backdiod
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cbc31cbc-8f2a-5e7b-a0ff-c6ccbd29e0b9
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 561-02-83
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: unerwünschte Frequenzantwort
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c13459a8-ecf7-5666-99c4-fe179e4a44c8
+status: Standard

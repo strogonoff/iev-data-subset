@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 605-02-06
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 開閉可能母線バー
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1ee1ba4a-8a08-5331-b467-32705cd26103
+status: Standard

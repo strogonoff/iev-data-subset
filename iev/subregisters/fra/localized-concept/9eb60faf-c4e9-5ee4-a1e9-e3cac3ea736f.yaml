@@ -1,0 +1,24 @@
+data:
+  authoritativeSource: {}
+  definition: analyseur dont le fonctionnement dépend de la variation de température
+    d'une flamme causée par le gaz détecté
+  examples: []
+  id: 426-24-21
+  language_code: fra
+  notes:
+  - Le terme abrégé "FTA" est dérivé du terme anglais développé correspondant "flame
+    temperature analyzer".
+  review_decision_event: published
+  terms:
+  - designation: analyseur de température de flamme
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: FTA
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9eb60faf-c4e9-5ee4-a1e9-e3cac3ea736f
+status: Standard

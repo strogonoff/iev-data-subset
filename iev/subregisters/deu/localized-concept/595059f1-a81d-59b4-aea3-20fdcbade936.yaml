@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 815-16-08
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Sattelspule
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 595059f1-a81d-59b4-aea3-20fdcbade936
+status: Standard

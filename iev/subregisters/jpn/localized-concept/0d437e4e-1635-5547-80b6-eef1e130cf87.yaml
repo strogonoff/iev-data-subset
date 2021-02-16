@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 891-01-15
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 心房細動
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0d437e4e-1635-5547-80b6-eef1e130cf87
+status: Standard

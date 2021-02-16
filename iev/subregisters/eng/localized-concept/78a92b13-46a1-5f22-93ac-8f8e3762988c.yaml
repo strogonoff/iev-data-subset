@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: a wave winding in which the number of parallel circuits is two, whatever
+    the number of poles
+  examples: []
+  id: 411-37-34
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: simplex wave winding
+    normative_status: preferred
+    type: expression
+dateAccepted: '2021-01-01T00:00:00+00:00'
+id: 78a92b13-46a1-5f22-93ac-8f8e3762988c
+status: Standard

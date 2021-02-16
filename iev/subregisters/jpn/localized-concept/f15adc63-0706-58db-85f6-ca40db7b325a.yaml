@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-23-055
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: スペクトル色度座標
+    normative_status: preferred
+    type: expression
+  - designation: 単色光色度座標
+    type: expression
+dateAccepted: 2018-11-17
+id: f15adc63-0706-58db-85f6-ca40db7b325a
+status: Standard

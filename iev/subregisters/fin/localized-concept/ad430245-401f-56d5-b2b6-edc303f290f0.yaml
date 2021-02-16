@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 441-17-29
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: prospektiivinen palaava transienttijännite
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ad430245-401f-56d5-b2b6-edc303f290f0
+status: Standard

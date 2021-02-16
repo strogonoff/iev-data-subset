@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 702-04-39
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 게이팅
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bbf3d4bf-d9b4-5902-a52c-d5d245e05bde
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 714-15-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 자동추적
+    normative_status: preferred
+    type: expression
+  - designation: 호밍
+    type: expression
+dateAccepted: 2018-11-17
+id: 12476e98-fc47-57be-bf52-5996941aab72
+status: Standard

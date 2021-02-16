@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: ita
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: lunghezza
+    normative_status: preferred
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: c98dcca1-77c5-58b8-852e-5018f4a12ea6
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 901-01-16
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ympäristönsuojelu
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cfccefa3-bdcc-53a6-8bdf-5a3ea0429784
+status: Standard

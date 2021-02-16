@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 421-01-20
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 봉입 권선 건식 변압기
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f504086c-8ebe-54d7-ab0b-3f8cd828519b
+status: Standard

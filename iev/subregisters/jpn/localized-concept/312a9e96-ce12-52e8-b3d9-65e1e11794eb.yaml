@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 447-01-15
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 制御用リレー
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 312a9e96-ce12-52e8-b3d9-65e1e11794eb
+status: Standard

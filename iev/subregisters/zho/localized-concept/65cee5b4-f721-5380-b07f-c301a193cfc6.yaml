@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-21-016
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 光谱线
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 65cee5b4-f721-5380-b07f-c301a193cfc6
+status: Standard

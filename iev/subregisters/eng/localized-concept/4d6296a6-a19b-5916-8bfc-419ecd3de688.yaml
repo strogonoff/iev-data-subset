@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2009-03-01T00:00:00+00:00'
+  definition: agreement entered between the system operator and a system user which
+    governs the procedure and conditions for connection
+  examples: []
+  id: 617-04-03
+  language_code: eng
+  notes: []
+  review_date: '2009-03-01T00:00:00+00:00'
+  review_decision_date: '2009-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: connection agreement
+    normative_status: preferred
+    type: expression
+dateAccepted: '2009-03-01T00:00:00+00:00'
+id: 4d6296a6-a19b-5916-8bfc-419ecd3de688
+status: Standard

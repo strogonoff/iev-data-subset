@@ -1,32 +1,17 @@
 data:
-  definitions:
-    eng: 0e7038bc-9ddd-5e52-bcc4-47a31906398c
-    fra: a73c507c-0fb0-5d98-bdbc-189b62bf5512
-  designations:
-    ara:
-    - 730b663c-8dad-5608-837e-a172d085726a
-    deu:
-    - 1ff97ff4-c7b0-53ab-a947-261a84299d47
-    eng:
-    - 52b036f3-1f4e-55ff-a2e4-cb78b16b8068
-    fra:
-    - 4fb90955-c33c-585f-9460-8b3735bd1bed
-    ita:
-    - e7f081b0-c47e-51b2-904d-3462c0972d90
-    jpn:
-    - 612f8781-a59a-549a-aeaf-2a247e2388ee
-    kor:
-    - 61d73a1d-f281-5012-9c5d-3f89120f32dc
-    pol:
-    - 0c14579c-621a-5b0d-9d1d-bf01103cb127
-    - 40f6488c-0430-5dbe-9b1c-0c44dcdb6133
-    por:
-    - aecbf8d2-2f26-5877-a9dc-98a50d4230ef
-    spa:
-    - aecbf8d2-2f26-5877-a9dc-98a50d4230ef
-    zho:
-    - 726b3460-82e7-5698-8865-8ec75abf8e10
   identifier: 811-18-02
+  localizedConcepts:
+    ara: a8a71f63-c246-5543-afc9-dfefa9c46acf
+    deu: 9859b2c3-4da7-512f-bf73-382a2f8afd1b
+    eng: 5e5e2fd9-2b48-5dab-8408-97cfa6a8508c
+    fra: 86eb51e2-f7fd-5286-b385-ae49a4b0233b
+    ita: 48d175df-bdc5-5bd7-8710-07808b3f7e41
+    jpn: f5df0d17-5f91-5c63-9997-532f10deeb2f
+    kor: 99ab416b-d121-5f51-ae85-822e1277d0ce
+    pol: 6f6d319f-235d-5b29-a18e-4cda78049be0
+    por: c6a9b163-638d-5cda-972f-89b4c68dcfd8
+    spa: e6640011-6b3c-5c34-b019-85abfa9df4cc
+    zho: 872d65e2-bcac-562a-94b8-b30a0aa746c7
 dateAccepted: 2018-11-17
 id: 8aa39063-cda0-5e33-bd84-62b596a1ae0f
 status: valid

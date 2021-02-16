@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 103-04-12
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 연속 파형 요소 변환
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 19b88c66-bda4-54a4-9168-148f30f2f4a8
+status: Standard

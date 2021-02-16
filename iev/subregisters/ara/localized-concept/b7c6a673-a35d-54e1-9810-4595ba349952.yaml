@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-05-38
+  language_code: ara
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: إيزوتوب
+    normative_status: preferred
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: b7c6a673-a35d-54e1-9810-4595ba349952
+status: Standard

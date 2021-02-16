@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 712-05-06
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sprawność anteny (dla anteny z aperturą)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0d7860c5-3371-5e2c-9723-0ede954a6dc2
+status: Standard

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - clause: définition 793
+    link: https://www.iso.org/standard/5333.html
+    original: ISO 921:1997, définition 793, modifiée
+    ref: ISO 921:1997
+    relationship:
+      type: modified
+  definition: phénomène dans lequel des neutrons dans un milieu tendent, grâce à un
+    processus de collisions successives, à migrer des régions à concentration élevée
+    vers des régions à faible concentration
+  examples: []
+  id: 395-02-22
+  language_code: fra
+  notes:
+  - Cet article était numéroté 393-13-31 dans la CEI 60050-393:2003.
+  review_decision_event: published
+  terms:
+  - designation: diffusion des neutrons
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e1fbf371-900b-5fd7-97b3-3f92079937a5
+status: Standard

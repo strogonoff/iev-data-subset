@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 808-02-13
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: error de convergencia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0666c324-71d1-5c1b-bdd8-dceca79969c7
+status: Standard

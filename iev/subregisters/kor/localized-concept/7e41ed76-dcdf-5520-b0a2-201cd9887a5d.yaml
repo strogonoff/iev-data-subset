@@ -1,0 +1,15 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 441-16-22
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 폐쇄 위치
+    normative_status: preferred
+    type: expression
+    usage_info: 기계개폐장치
+dateAccepted: 2018-11-17
+id: 7e41ed76-dcdf-5520-b0a2-201cd9887a5d
+status: Standard

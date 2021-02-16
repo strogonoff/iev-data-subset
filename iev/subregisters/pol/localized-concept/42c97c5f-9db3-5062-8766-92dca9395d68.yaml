@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 441-18-17
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: wskaźnik zadziałania
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 42c97c5f-9db3-5062-8766-92dca9395d68
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1991-11-01T00:00:00+00:00'
+  definition: information sent in the forward direction and, in some circumstances,
+    in the backward direction, indicating the closed user group involved in the call
+  examples: []
+  id: 721-18-24
+  language_code: eng
+  notes: []
+  review_date: '1991-11-01T00:00:00+00:00'
+  review_decision_date: '1991-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: interlock code
+    normative_status: preferred
+    type: expression
+dateAccepted: '1991-11-01T00:00:00+00:00'
+id: 28e4407c-fc9b-5955-bdae-364240752262
+status: Standard

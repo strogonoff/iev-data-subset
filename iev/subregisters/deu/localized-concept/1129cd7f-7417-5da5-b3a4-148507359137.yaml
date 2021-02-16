@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  examples: []
+  id: 131-13-13
+  language_code: deu
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Baum
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: 1129cd7f-7417-5da5-b3a4-148507359137
+status: Standard

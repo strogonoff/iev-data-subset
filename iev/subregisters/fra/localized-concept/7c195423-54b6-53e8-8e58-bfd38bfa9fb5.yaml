@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: niveau d'un signal d'image intermédiaire entre le niveau du noir et
+    le niveau du blanc
+  examples: []
+  id: 723-05-74
+  language_code: fra
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: niveau de gris
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 7c195423-54b6-53e8-8e58-bfd38bfa9fb5
+status: Standard

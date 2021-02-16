@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 713-09-02
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: radiofrequente Strahlung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7c1c64f6-b42a-5d4c-b726-b670409bb2b5
+status: Standard

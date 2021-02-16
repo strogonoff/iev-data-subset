@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1998-11-01T00:00:00+00:00'
+  definition: intervalle durant lequel une valve bloquante en inverse ou un bras composé
+    de telles valves est à l'état bloqué dans le sens inverse
+  examples: []
+  id: 551-16-51
+  language_code: fra
+  notes: []
+  review_date: '1998-11-01T00:00:00+00:00'
+  review_decision_date: '1998-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: intervalle de blocage dans le sens inverse
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1998-11-01T00:00:00+00:00'
+id: d5e3126c-6b6f-5a55-9914-80d35499baad
+status: Standard

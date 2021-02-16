@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 131-15-06
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: modelo de circuito eléctrico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3567fa3e-bd16-529d-8930-b6eb67e33070
+status: Standard

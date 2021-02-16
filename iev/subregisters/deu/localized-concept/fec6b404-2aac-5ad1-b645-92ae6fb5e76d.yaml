@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 551-16-51
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Rückwärts-Sperrdauer
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fec6b404-2aac-5ad1-b645-92ae6fb5e76d
+status: Standard

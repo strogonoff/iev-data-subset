@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2007-08-01T00:00:00+00:00'
+  examples: []
+  id: 102-01-04
+  language_code: pol
+  notes: []
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: podzbiór
+    normative_status: preferred
+    type: expression
+dateAccepted: '2007-08-01T00:00:00+00:00'
+id: ef6a116c-a5b6-5671-b676-2b17e9cfad67
+status: Standard

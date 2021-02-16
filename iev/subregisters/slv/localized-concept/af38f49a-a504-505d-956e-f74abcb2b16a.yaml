@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 603-04-25
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vzdolžna regulacija napetosti
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: af38f49a-a504-505d-956e-f74abcb2b16a
+status: Standard

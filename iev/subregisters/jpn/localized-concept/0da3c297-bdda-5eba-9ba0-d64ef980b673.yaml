@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2009-12-01T00:00:00+00:00'
+  examples: []
+  id: 103-04-12
+  language_code: jpn
+  notes: []
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 連続ウェーブレット変換
+    normative_status: preferred
+    type: expression
+dateAccepted: '2009-12-01T00:00:00+00:00'
+id: 0da3c297-bdda-5eba-9ba0-d64ef980b673
+status: Standard

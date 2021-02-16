@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2010-01-01T00:00:00+00:00'
+  examples: []
+  id: 112-01-05
+  language_code: zho
+  notes: []
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 强度量
+    normative_status: preferred
+    type: expression
+dateAccepted: '2010-01-01T00:00:00+00:00'
+id: d4762cee-ff6f-5ec8-b9fc-f3cfd1a47de2
+status: Standard

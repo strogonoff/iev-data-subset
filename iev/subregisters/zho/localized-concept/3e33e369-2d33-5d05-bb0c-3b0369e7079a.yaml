@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 521-04-06
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 反向二极管
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3e33e369-2d33-5d05-bb0c-3b0369e7079a
+status: Standard

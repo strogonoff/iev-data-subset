@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 411-33-08
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 巻線形誘導電動機
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4e115d58-b341-5731-9859-2a351e513bbd
+status: Standard

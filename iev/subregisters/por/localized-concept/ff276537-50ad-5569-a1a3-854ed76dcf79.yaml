@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 436-02-12
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: condensador de alta tensão (de um divisor capacitivo)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ff276537-50ad-5569-a1a3-854ed76dcf79
+status: Standard

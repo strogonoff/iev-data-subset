@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 801-31-09
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 아이링 흡수계수
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c4c3921d-245d-507c-af85-1f9e1e5d2fb7
+status: Standard

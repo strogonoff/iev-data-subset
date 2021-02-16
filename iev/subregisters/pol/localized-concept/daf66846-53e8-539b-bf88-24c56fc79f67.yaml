@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 806-13-32
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: prędkość przesuwu rowka
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: daf66846-53e8-539b-bf88-24c56fc79f67
+status: Standard

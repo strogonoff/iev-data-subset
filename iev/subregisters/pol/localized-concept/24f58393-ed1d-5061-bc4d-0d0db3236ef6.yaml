@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-02-08
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: miksowanie (sygnałów programowych)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 24f58393-ed1d-5061-bc4d-0d0db3236ef6
+status: Standard

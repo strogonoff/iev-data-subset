@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 821-05-54
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 动断触点
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c92b3819-c392-5827-8af8-017c5c76e944
+status: Standard

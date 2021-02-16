@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 466-08-25
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Mastverlängerung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 94d8a839-7102-508f-9cae-511f9091033b
+status: Standard

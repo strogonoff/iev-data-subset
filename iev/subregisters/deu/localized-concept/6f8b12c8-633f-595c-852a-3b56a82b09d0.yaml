@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 722-10-20
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Gesprächsdauer
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6f8b12c8-633f-595c-852a-3b56a82b09d0
+status: Standard

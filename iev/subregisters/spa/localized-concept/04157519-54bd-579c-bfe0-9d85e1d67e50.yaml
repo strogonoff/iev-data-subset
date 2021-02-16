@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 841-31-41
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ánodo (de una antorcha de plasma de arco no transferido o transferido)
+    normative_status: preferred
+    type: expression
+  - designation: electrodo positivo de una antorcha de plasma de arco en corriente
+      continua
+    type: expression
+dateAccepted: 2018-11-17
+id: 04157519-54bd-579c-bfe0-9d85e1d67e50
+status: Standard

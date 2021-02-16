@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-29-065
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: eficiência normalizada superior
+    normative_status: preferred
+    type: expression
+  - designation: rendimento normalizado superior
+    type: expression
+    usage_info: de uma luminária
+dateAccepted: 2018-11-17
+id: 298f9a85-900d-5d6c-b585-2a1ef699f2a3
+status: Standard

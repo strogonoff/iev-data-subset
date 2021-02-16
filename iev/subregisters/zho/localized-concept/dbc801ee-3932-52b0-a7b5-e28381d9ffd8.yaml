@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 131-15-06
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 电路模型
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dbc801ee-3932-52b0-a7b5-e28381d9ffd8
+status: Standard

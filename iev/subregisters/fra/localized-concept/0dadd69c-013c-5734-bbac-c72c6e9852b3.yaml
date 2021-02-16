@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  definition: '{{relais électrique, IEV:151-13-31}} alimenté par le courant dérivé
+    d''un circuit principal par l''intermédiaire d''un {{shunt, IEV:313-09-04}}
+
+
+    Note 1 à l''article: Le circuit principal comprend toutes les parties conductrices
+    prévues pour transmettre l''énergie électrique.'
+  examples: []
+  id: 447-01-22
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relais sur shunt
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0dadd69c-013c-5734-bbac-c72c6e9852b3
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 102-03-39
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tensor de segunda ordem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b06caa6a-9e74-5946-ac28-2e6892a6df45
+status: Standard

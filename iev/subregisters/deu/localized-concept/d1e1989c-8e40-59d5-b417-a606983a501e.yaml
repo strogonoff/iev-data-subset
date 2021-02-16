@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-46
+  language_code: deu
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Wärmeleitwert
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: d1e1989c-8e40-59d5-b417-a606983a501e
+status: Standard

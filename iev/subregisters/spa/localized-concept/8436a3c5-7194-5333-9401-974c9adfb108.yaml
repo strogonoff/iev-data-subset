@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 841-30-02
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: calentamiento por haz electrónico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8436a3c5-7194-5333-9401-974c9adfb108
+status: Standard

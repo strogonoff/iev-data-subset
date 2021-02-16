@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 721-19-28
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: nätstyrningsfas
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5e2b0008-6c33-586b-a85f-b9d161f13dab
+status: Standard

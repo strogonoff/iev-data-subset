@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: pol
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: długość
+    normative_status: preferred
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: fa6392d6-d86f-5448-9159-d8b325dfccf5
+status: Standard

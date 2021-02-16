@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-05-38
+  language_code: deu
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Isotop
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 8fb7fc45-9c60-5b6e-91a5-1afb770674d4
+status: Standard

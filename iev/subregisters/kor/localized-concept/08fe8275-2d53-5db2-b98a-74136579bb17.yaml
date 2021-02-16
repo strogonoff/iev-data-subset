@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 421-05-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 강압 탭 전환
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 08fe8275-2d53-5db2-b98a-74136579bb17
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1990-09-01T00:00:00+00:00'
+  definition: a capacitor used for the transmission of signals in a power system
+  examples: []
+  id: 436-02-11
+  language_code: eng
+  notes: []
+  review_date: '1990-09-01T00:00:00+00:00'
+  review_decision_date: '1990-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: coupling capacitor
+    normative_status: preferred
+    type: expression
+dateAccepted: '1990-09-01T00:00:00+00:00'
+id: 4af78ad0-dade-5a4d-a80f-4b7e68e0d11c
+status: Standard

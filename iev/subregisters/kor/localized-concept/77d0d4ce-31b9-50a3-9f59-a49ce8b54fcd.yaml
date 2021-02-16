@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 102-04-38
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 기둥면
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 77d0d4ce-31b9-50a3-9f59-a49ce8b54fcd
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 561-02-83
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: odpowiedź niepożądana
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b594835b-864a-5b08-95dd-59dffc4452c5
+status: Standard

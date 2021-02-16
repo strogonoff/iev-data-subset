@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 421-05-05
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 负分接
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c985c060-03e1-50da-96c3-a5e318137948
+status: Standard

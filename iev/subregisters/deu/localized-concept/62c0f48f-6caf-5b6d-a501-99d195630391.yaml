@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 605-02-06
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Sammelschiene mit Längskupplung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 62c0f48f-6caf-5b6d-a501-99d195630391
+status: Standard

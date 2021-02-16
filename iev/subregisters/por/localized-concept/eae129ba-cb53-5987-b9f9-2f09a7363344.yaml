@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 447-01-22
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relé de stem:[shunt]
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eae129ba-cb53-5987-b9f9-2f09a7363344
+status: Standard

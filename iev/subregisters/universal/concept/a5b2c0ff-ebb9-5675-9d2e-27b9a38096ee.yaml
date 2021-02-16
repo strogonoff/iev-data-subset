@@ -1,55 +1,25 @@
 data:
-  definitions:
-    eng: 367d6be7-fe68-5463-a88f-977130118870
-    fra: cd0b233a-9fff-5832-8e84-83fcf1e6a55f
-    rus: 245c56f4-7a7c-5396-af68-e714d3091010
-  designations:
-    ara:
-    - 4b82966e-7a4c-5fbd-a737-fbad5624bb59
-    deu:
-    - a3479268-5269-5875-bd6e-102d0d023e22
-    eng:
-    - f568bf42-3375-5d32-874a-82d2facfdf0c
-    - 13fb2871-fce0-50a8-934c-ae878bd7b33d
-    fin:
-    - a449e7f4-6c87-5331-8317-694ede846c0e
-    - 5a9d0e87-7631-5a3c-bc74-7f45d2408691
-    fra:
-    - 00683084-035c-510f-8a79-9bcee8ba139d
-    - d462f2cb-526c-510c-9448-fbe861b66d83
-    ita:
-    - e0d36c20-05bd-5936-8fb1-71ffb934d5d4
-    jpn:
-    - e4067e48-635e-5e97-817a-2d5f11045bcd
-    kor:
-    - d4267339-202e-5612-aa6f-fed1d53cfa09
-    - 2b6fe676-f201-514a-93e4-89946b123cba
-    mon:
-    - ea5660f2-a707-5ce8-a37e-59390425931c
-    nno:
-    - eea5cff3-7928-5345-a917-dadd589631f3
-    nob:
-    - eea5cff3-7928-5345-a917-dadd589631f3
-    pol:
-    - 6a7e6314-bb2c-534a-a0c5-f62efb10dd1c
-    - de18a350-7a03-51bc-94e4-d2214e7158ea
-    por:
-    - dccd196d-5a8a-5700-85a3-cd6c8eef6ca4
-    - 1c66c588-5547-59b4-9b66-11cdb7db40dd
-    rus:
-    - 86d9ee50-8594-5187-9a36-c97823e0c002
-    slv:
-    - 93947449-d3eb-5363-bed9-e5cd936ccd6b
-    spa:
-    - 4a22bafd-779e-54aa-985f-f93faf5c8fbf
-    srp:
-    - 04df9eba-7258-51ac-991a-51a9ac8ffabf
-    - 5931ee6d-cd9f-5098-8eb0-00be81cf2c48
-    swe:
-    - a67bffcf-af9a-57c5-af13-af0b8e6ad98a
-    zho:
-    - 8da814db-e2dd-57a5-bfe6-d0a8ea2b53cc
   identifier: 461-09-05
+  localizedConcepts:
+    ara: e2158084-1c4b-551d-a558-a90c436e36f0
+    deu: c14836c3-db35-57ba-8c3b-95d033deb57a
+    eng: 94c39287-2d93-5084-9eff-366ca5ea151b
+    fin: 6663eeef-a3da-5d90-bb22-33e256e4d167
+    fra: e65d82f7-f7dd-50b6-9e5f-dd5d524b9290
+    ita: 8028f1a4-6267-539e-89cb-f2738040ebe6
+    jpn: e7337aa9-cee7-57c7-b2c5-85240985ec4c
+    kor: de50a670-797c-5b2e-ba1e-96637885967f
+    mon: 82326428-0eca-5fd2-ac42-ca806892a527
+    nno: 44680c49-c0be-5476-aaf3-ddc91849cad3
+    nob: dfbf8780-e3d0-5cd5-b504-035454e35857
+    pol: 64d7c940-665b-58e3-af58-56219d0aad7e
+    por: d171f422-8a1a-52ff-98be-03855c64f310
+    rus: c7e2bd0b-2d86-5a27-ba93-4ab466d271d4
+    slv: 5b751412-3392-57aa-beb9-ff9919fa91c1
+    spa: 1147d18d-912d-5b16-ae63-fabff3f493a4
+    srp: 19d173c7-47bd-565e-b767-5cd77a282ed7
+    swe: 0e272927-a3eb-5ae6-92ed-795761b149b9
+    zho: 1793250c-4b7c-5eed-bd18-5bb295217ec4
 dateAccepted: 2018-11-17
 id: a5b2c0ff-ebb9-5675-9d2e-27b9a38096ee
 status: valid

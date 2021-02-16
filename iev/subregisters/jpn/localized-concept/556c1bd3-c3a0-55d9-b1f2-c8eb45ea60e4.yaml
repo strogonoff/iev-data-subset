@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 603-04-25
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 同相（電圧）制御
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 556c1bd3-c3a0-55d9-b1f2-c8eb45ea60e4
+status: Standard

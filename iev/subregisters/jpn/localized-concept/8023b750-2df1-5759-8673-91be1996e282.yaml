@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  examples: []
+  id: 808-02-13
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: レジストレーション誤差
+    normative_status: preferred
+    type: expression
+  - designation: レジストレーションずれ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8023b750-2df1-5759-8673-91be1996e282
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 426-20-17
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: maksymalna temperatura otoczenia
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 938f8e5c-3788-532a-8b39-304c2f439b90
+status: Standard

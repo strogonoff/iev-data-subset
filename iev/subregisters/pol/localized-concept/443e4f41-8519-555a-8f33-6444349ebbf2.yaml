@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 821-05-54
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zestyk bierny
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: przekaźnika
+dateAccepted: 2018-11-17
+id: 443e4f41-8519-555a-8f33-6444349ebbf2
+status: Standard

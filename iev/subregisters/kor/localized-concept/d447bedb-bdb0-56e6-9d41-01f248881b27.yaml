@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 448-14-04
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 개폐 거리 보호
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d447bedb-bdb0-56e6-9d41-01f248881b27
+status: Standard

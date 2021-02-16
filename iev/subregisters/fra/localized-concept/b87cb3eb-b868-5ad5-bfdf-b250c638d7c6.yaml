@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  definition: <a href="IEV845-21-014">radiation monochromatique</a> émise ou absorbée
+    lors d'une transition entre deux niveaux énergétiques
+  examples: []
+  id: 845-21-016
+  language_code: fra
+  notes:
+  - Une raie spectrale est souvent observée comme une caractéristique précise d'un
+    spectre.
+  - Cet article était numéroté 845-01-09 dans l'IEC 60050-845:1987.
+  review_decision_event: published
+  terms:
+  - designation: raie spectrale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b87cb3eb-b868-5ad5-bfdf-b250c638d7c6
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 651-23-07
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: leitfähige Fußbekleidung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7658567a-a7e3-58a3-95d4-47e8bc839b4c
+status: Standard

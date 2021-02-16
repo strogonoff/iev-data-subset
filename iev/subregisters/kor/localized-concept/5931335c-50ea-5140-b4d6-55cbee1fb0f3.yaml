@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 881-07-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 최대 정격 엑스선관 부하
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5931335c-50ea-5140-b4d6-55cbee1fb0f3
+status: Standard

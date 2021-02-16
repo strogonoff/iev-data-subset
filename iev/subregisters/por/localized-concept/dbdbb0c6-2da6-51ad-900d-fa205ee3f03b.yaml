@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-39
+  language_code: por
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: coeficiente de transmissão térmica
+    normative_status: preferred
+    type: expression
+  - designation: transmitância térmica
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: dbdbb0c6-2da6-51ad-900d-fa205ee3f03b
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-21-047
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: wskaźnik geometryczny
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: eedec874-b789-5f6e-8aed-ba99d34e290a
+status: Standard

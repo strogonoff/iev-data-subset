@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - clause: 195-06-09
+    link: null
+    original: 195-06-09
+    ref: IEV
+    relationship:
+      type: identical
+  date_amended: '2008-06-01T00:00:00+00:00'
+  definition: isolation des parties actives dangereuses assurant un degré de protection
+    contre les chocs électriques équivalant à celui d'une double isolation
+  examples: []
+  id: 851-15-07
+  language_code: fra
+  notes:
+  - L’isolation renforcée peut comporter plusieurs couches qui ne peuvent pas être
+    essayées séparément en tant qu’isolation principale ou isolation supplémentaire.
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: isolation renforcée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2008-06-01T00:00:00+00:00'
+id: 00c2c705-4433-51d4-86a6-ede6f15cc536
+status: Standard

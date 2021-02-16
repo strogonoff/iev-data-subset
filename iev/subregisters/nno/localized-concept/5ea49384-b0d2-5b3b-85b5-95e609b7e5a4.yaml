@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 121-11-11
+  language_code: nno
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: elektrisk straumtettleik
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ea49384-b0d2-5b3b-85b5-95e609b7e5a4
+status: Standard

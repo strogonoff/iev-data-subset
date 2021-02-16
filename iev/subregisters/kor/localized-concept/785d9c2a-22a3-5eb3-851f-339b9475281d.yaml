@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 851-15-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 강화 절연
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 785d9c2a-22a3-5eb3-851f-339b9475281d
+status: Standard

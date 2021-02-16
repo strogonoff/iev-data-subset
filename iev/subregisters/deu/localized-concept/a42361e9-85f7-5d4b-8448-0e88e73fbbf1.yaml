@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 426-24-21
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Flammentemperaturanalysator
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: FTA
+    type: expression
+dateAccepted: 2018-11-17
+id: a42361e9-85f7-5d4b-8448-0e88e73fbbf1
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-05-38
+  language_code: jpn
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 同位体
+    normative_status: preferred
+    type: expression
+  - designation: アイソトープ
+    normative_status: preferred
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 57d2c1fa-4ea8-5f9a-bec7-ff0c5cdb142d
+status: Standard

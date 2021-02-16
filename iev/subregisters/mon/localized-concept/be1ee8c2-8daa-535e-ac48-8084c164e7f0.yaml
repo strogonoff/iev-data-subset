@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 421-01-20
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: тусгаарлагдсан ороомогтой хуурай трансформатор
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: be1ee8c2-8daa-535e-ac48-8084c164e7f0
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-03-01T00:00:00+00:00'
+  examples: []
+  id: 702-01-13
+  language_code: ara
+  notes: []
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: انحراف التردد
+    normative_status: preferred
+    type: expression
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 727bf399-9590-50b2-8994-7e76056c55b3
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 605-02-06
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 개폐 가능 모선
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3f61d3dd-5f53-5a86-b964-bd0f42d93a17
+status: Standard

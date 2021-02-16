@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 411-33-08
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vaihekäämiroottorinen epätahtimoottori
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e55a9104-3b89-594c-ade9-edf052e7fe1a
+status: Standard

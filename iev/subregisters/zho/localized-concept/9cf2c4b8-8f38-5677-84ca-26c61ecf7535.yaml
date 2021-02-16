@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-23-076
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: CIE 1976 L*a*b*色空间
+    normative_status: preferred
+    type: expression
+  - designation: CIELAB色空间
+    type: expression
+dateAccepted: 2018-11-17
+id: 9cf2c4b8-8f38-5677-84ca-26c61ecf7535
+status: Standard

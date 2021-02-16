@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 395-07-61
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przepust elektryczny
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: reaktora jądrowego
+dateAccepted: 2018-11-17
+id: b37f7d56-da4c-5208-91f3-7bb91919a085
+status: Standard

@@ -1,0 +1,26 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2010-06-01T00:00:00+00:00'
+  definition: organization that provides management of the configuration data of a
+    network and makes these data available, in addition to supplying technical support
+    and other administrative services to users of a network
+  examples: []
+  id: 732-02-02
+  language_code: eng
+  notes:
+  - The network information centres of the Internet form a hierarchy.
+  - A specific network information centre is the authority which assigns the network
+    numbers to the networks connected to the Internet.
+  - '"NIC" is an acronym of the full term.'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: network information centre
+    normative_status: preferred
+    type: expression
+  - designation: NIC
+    type: expression
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 9e3b9a62-ff09-59d6-987c-6a03b7084a66
+status: Standard

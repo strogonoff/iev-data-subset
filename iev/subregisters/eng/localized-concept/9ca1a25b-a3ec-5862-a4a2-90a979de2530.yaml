@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2014-04-01T00:00:00+00:00'
+  definition: protective footwear made with a conductive sole
+  examples: []
+  id: 651-23-07
+  language_code: eng
+  notes:
+  - The conductive footwear may have a conductive strap for connecting the {{conductive
+    clothing, IEV:651-23-06}}.
+  - Conductive footwear may also provide a certain mechanical protection.
+  review_date: '2014-04-01T00:00:00+00:00'
+  review_decision_date: '2014-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: conductive footwear
+    normative_status: preferred
+    type: expression
+dateAccepted: '2014-04-01T00:00:00+00:00'
+id: 9ca1a25b-a3ec-5862-a4a2-90a979de2530
+status: Standard

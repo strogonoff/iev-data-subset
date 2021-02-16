@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 713-03-04
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 移動衛星業務
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 14ef4966-a4d9-5e00-80a6-c61a6ccb8c06
+status: Standard

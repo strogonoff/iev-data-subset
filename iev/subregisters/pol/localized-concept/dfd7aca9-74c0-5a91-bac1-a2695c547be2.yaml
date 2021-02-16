@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 807-03-13
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przesunięcie promieniowe (w systemie CD)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dfd7aca9-74c0-5a91-bac1-a2695c547be2
+status: Standard

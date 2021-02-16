@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 441-18-17
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: dispositivo indicador
+    normative_status: preferred
+    type: expression
+  - designation: indicador
+    type: expression
+dateAccepted: 2018-11-17
+id: 70d5c7be-bf37-5546-97e1-31755a42819e
+status: Standard

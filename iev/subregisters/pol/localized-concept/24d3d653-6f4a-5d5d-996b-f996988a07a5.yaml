@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 821-01-58
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: poziom automatyzacji
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: sterowania pojazdem
+dateAccepted: 2018-11-17
+id: 24d3d653-6f4a-5d5d-996b-f996988a07a5
+status: Standard

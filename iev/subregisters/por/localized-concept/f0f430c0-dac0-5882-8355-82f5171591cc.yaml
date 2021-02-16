@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 551-16-51
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: intervalo de bloqueio no sentido inverso
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f0f430c0-dac0-5882-8355-82f5171591cc
+status: Standard

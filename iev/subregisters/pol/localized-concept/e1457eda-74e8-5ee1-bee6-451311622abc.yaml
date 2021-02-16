@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-10-32
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kwantowanie nierównomierne
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e1457eda-74e8-5ee1-bee6-451311622abc
+status: Standard

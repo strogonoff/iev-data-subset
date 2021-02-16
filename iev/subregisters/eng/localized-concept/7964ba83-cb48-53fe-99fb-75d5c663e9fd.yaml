@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-03-01T00:00:00+00:00'
+  definition: an undesired progressive and slow change in frequency with time
+  examples: []
+  id: 702-01-13
+  language_code: eng
+  notes: []
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: frequency drift
+    normative_status: preferred
+    type: expression
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: 7964ba83-cb48-53fe-99fb-75d5c663e9fd
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 721-13-07
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ricevitore a scorrimento continuo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6cca9f52-2c7e-5a00-b3ee-36bda7092aea
+status: Standard

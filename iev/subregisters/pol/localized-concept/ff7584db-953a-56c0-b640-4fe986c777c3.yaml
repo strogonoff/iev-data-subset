@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 714-05-09
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: komutacja pakietów
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ff7584db-953a-56c0-b640-4fe986c777c3
+status: Standard

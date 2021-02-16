@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  definition: Voir {{IEV 444-04-18, IEV:444-04-18}}
+  examples: []
+  id: 821-05-54
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: contact de repos
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a80b6989-48b1-5bd2-b970-b08a1f444fe0
+status: Standard

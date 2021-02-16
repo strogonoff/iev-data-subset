@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-06-48
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 정류 효과
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 30ae9db0-46af-500e-8db8-7f754d3a480e
+status: Standard

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1998-04-01T00:00:00+00:00'
+  definition: décalage de la tache lumineuse dans la direction radiale par rapport
+    à l'axe de la piste
+  examples: []
+  id: 807-03-13
+  language_code: fra
+  notes: []
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: décalage radial
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1998-04-01T00:00:00+00:00'
+id: 6b885884-96e1-58db-a0d8-aa99857ed171
+status: Standard

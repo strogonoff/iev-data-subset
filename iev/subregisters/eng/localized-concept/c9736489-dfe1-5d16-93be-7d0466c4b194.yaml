@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1990-10-01T00:00:00+00:00'
+  definition: a tapping whose tapping factor is lower than 1
+  examples: []
+  id: 421-05-05
+  language_code: eng
+  notes: []
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: minus tapping
+    normative_status: preferred
+    type: expression
+dateAccepted: '1990-10-01T00:00:00+00:00'
+id: c9736489-dfe1-5d16-93be-7d0466c4b194
+status: Standard

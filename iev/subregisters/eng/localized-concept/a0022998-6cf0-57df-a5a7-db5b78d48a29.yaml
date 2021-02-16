@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  definition: connected set of branches joining all the nodes of a network without
+    forming a loop
+  examples: []
+  id: 131-13-13
+  language_code: eng
+  notes:
+  - Figures A, B, C and D below represent four trees for the network of figure 131-13-12.
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tree
+    normative_status: preferred
+    type: expression
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: a0022998-6cf0-57df-a5a7-db5b78d48a29
+status: Standard

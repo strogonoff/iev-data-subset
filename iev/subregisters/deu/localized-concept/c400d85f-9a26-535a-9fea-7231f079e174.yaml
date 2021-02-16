@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 714-05-09
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Paketvermittlung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c400d85f-9a26-535a-9fea-7231f079e174
+status: Standard

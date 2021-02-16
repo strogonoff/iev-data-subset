@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 902-02-02
+  language_code: jpn
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 手順
+    normative_status: preferred
+    type: expression
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: d7f58645-768e-5543-94be-bf17c964ab1f
+status: Standard

@@ -1,40 +1,20 @@
 data:
-  definitions:
-    eng: dc59f3f4-3b72-5bf7-9b82-b3a309448d61
-    fra: fc7b6e93-b98e-5d8a-aae2-d00cb4282c7c
-  designations:
-    ara:
-    - cad068cd-7643-505e-a6a5-2e29e298c171
-    deu:
-    - a77b91de-63b1-550a-b800-1fd8f318dbb3
-    - 39f19485-3554-56d1-b54b-8f526ada5a55
-    eng:
-    - c63b5cef-eac2-5bec-a58d-4f15e6077f5c
-    fra:
-    - 5ad97e61-48b5-54db-a0f7-26e7db808503
-    ita:
-    - 204b5b9c-f87b-5eaf-914c-2bf40716c060
-    jpn:
-    - 6d2980b9-92a9-59b7-8fd5-a76ae86fdaae
-    - 3234df4d-bd0f-5105-a6b2-9c777a310d6d
-    kor:
-    - c4300f54-31c2-592e-baea-56b7f47b21ef
-    nno:
-    - f1a79a8f-7147-5c3c-bb74-cadd0feb9c0c
-    nob:
-    - 3ec2b96f-f9a3-53f7-92e7-464b1414523b
-    pol:
-    - c1f35550-7e96-5bf9-8dae-3117228566a2
-    - 29e2b51a-8762-5060-8ed1-62028d986099
-    por:
-    - 7c5472e3-520e-5b99-90f5-85a15a48a4d6
-    spa:
-    - f7173a4e-abbf-5f06-ad19-f9d21685282a
-    swe:
-    - d065ef22-f98c-5730-9b9d-42c7db703d15
-    zho:
-    - 88082c89-844a-553f-bf79-80287b14949a
   identifier: 131-15-06
+  localizedConcepts:
+    ara: 9d0c5337-341a-5a6b-bac6-2ba337efe549
+    deu: 29fdf61f-994c-56db-8a76-14f2d2675539
+    eng: 7f5e1533-968f-5f15-8a69-332c5dd2e3c9
+    fra: 67ef536a-28c3-5e50-87be-b57fcbdad6ed
+    ita: 6eb42e49-d749-5987-9812-4fffaa3b76b5
+    jpn: a9bb3f0b-85a0-5007-9d8b-9d713fb2dfa5
+    kor: 655748ba-a279-56e5-a475-8d896f05e566
+    nno: 9c8bce00-3135-55c3-83f4-1abf1e290120
+    nob: 4209a957-f298-526e-b7bc-a641b23f44a2
+    pol: bcffdcc3-5c30-5c32-9a1e-3c751267a1c0
+    por: 750a3e33-eb83-57be-8eca-d6f8e8d6bb41
+    spa: 3567fa3e-bd16-529d-8930-b6eb67e33070
+    swe: bd0b02a2-c9b7-506f-978c-67954459d2c1
+    zho: dbc801ee-3932-52b0-a7b5-e28381d9ffd8
 dateAccepted: 2018-11-17
 id: 45853daf-3d95-5ea2-8884-e61d3f14ba21
 status: valid

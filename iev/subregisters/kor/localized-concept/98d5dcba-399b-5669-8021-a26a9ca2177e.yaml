@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 561-04-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 고온고압솥
+    normative_status: preferred
+    type: expression
+  - designation: 오토클레이브
+    type: expression
+  - designation: 고압증기멸균기
+    type: expression
+dateAccepted: 2018-11-17
+id: 98d5dcba-399b-5669-8021-a26a9ca2177e
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 395-02-22
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: diffusione di neutroni
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cf36e886-34ec-51bd-945b-2d65aceb6954
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 713-03-04
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: serviço móvel por satélite
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 60cdb87f-17a7-5265-9ee5-1c2363982bfe
+status: Standard

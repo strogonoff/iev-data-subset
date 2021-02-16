@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-02-07
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: obróbka sygnału
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e6e778c1-70f6-5c72-a794-a1edbdb29d38
+status: Standard

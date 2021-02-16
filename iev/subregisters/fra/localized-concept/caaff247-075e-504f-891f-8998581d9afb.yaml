@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-03-01T00:00:00+00:00'
+  definition: action de connecter et déconnecter deux circuits électriques ou deux
+    voies de transmission à des instants déterminés ou pour des valeurs déterminées
+    d'un signal
+  examples: []
+  id: 702-04-39
+  language_code: fra
+  notes: []
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: portillonnage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: caaff247-075e-504f-891f-8998581d9afb
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 891-05-16
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Elektrokauter
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c595d945-4188-5682-b005-3d0b314765af
+status: Standard

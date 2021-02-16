@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 815-15-14
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Restgas-Wärmeübertragung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6968dfeb-c180-511a-b455-73b784e1e2cc
+status: Standard

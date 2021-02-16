@@ -1,0 +1,25 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '1974-01-01T00:00:00+00:00'
+  examples: []
+  id: 531-16-13
+  language_code: deu
+  notes: []
+  review_date: '1974-01-01T00:00:00+00:00'
+  review_decision_date: '1974-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Heizer-Einschaltstrom
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Faden-Einschaltstrom
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1974-01-01T00:00:00+00:00'
+id: 2920d57c-2ada-518f-b4da-3c9708ecb8db
+status: Standard

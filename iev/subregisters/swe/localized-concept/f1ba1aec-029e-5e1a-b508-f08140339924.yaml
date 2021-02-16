@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 411-33-08
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: asynkronmotor med faslindad rotor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f1ba1aec-029e-5e1a-b508-f08140339924
+status: Standard

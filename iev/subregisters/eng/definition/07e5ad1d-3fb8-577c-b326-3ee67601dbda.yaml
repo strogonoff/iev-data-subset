@@ -1,9 +1,0 @@
-data:
-  definition: analyzer, the operation of which depends upon the change of temperature
-    of a flame by the gas being detected
-  examples: []
-  notes:
-  - This note applies to the French language only.
-dateAccepted: '2020-03-01T00:00:00+00:00'
-id: 07e5ad1d-3fb8-577c-b326-3ee67601dbda
-status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  examples: []
+  id: 808-03-19
+  language_code: ara
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مخطط اختبار شكل "V"
+    normative_status: preferred
+    type: expression
+dateAccepted: '2002-06-01T00:00:00+00:00'
+id: c682ee61-0fbe-5d06-b669-75a62f661fbb
+status: Standard

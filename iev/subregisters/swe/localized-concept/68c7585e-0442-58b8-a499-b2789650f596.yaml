@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 371-01-04
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: fjärrindikering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 68c7585e-0442-58b8-a499-b2789650f596
+status: Standard

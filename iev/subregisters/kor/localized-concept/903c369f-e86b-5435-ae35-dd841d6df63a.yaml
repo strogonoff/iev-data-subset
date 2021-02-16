@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-02-20
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 합성
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 903c369f-e86b-5435-ae35-dd841d6df63a
+status: Standard

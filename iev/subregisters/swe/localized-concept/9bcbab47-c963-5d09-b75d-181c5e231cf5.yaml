@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 714-07-09
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: svarssignal utan debitering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9bcbab47-c963-5d09-b75d-181c5e231cf5
+status: Standard

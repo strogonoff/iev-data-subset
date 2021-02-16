@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - clause: '3.2'
+    link: https://www.iso.org/standard/29316.html
+    original: ISO/IEC 17000:2004, 3.2
+    ref: ISO/IEC 17000:2004
+    relationship:
+      type: identical
+  date_amended: '2013-11-01T00:00:00+00:00'
+  definition: 'specified way to carry out an activity or a process
+
+
+    [ISO 9000:2000, 3.4.5]'
+  examples: []
+  id: 902-02-02
+  language_code: eng
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: procedure
+    normative_status: preferred
+    type: expression
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: a7b3bf4c-f893-5aef-be6a-6bf22e8699fa
+status: Standard

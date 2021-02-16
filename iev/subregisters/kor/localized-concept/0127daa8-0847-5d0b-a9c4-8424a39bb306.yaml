@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 881-03-12
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 경사 효과
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0127daa8-0847-5d0b-a9c4-8424a39bb306
+status: Standard

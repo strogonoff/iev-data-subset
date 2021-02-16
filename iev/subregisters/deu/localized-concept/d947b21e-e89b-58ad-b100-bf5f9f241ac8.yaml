@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: deu
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Länge
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: d947b21e-e89b-58ad-b100-bf5f9f241ac8
+status: Standard

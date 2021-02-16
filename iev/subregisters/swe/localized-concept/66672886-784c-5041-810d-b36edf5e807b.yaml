@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-05-10
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: avsökning med linjesprång
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 66672886-784c-5041-810d-b36edf5e807b
+status: Standard

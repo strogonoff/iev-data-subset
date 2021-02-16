@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 531-15-01
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: шум цеви
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d886f4a7-08c1-5cfa-93d3-2594c15c4db6
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 444-04-01
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 出力回路
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 42ea6a73-745d-5aa1-a459-6dd16a6ffeca
+status: Standard

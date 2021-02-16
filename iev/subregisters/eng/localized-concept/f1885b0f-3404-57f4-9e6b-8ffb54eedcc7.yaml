@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2017-07-01T00:00:00+00:00'
+  definition: See {{IEV 161-06-20, IEV:161-06-20}}
+  examples: []
+  id: 713-09-08
+  language_code: eng
+  notes: []
+  release: 713-09-08:1998-04
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: intermodulation
+    normative_status: preferred
+    type: expression
+dateAccepted: '2017-07-01T00:00:00+00:00'
+id: f1885b0f-3404-57f4-9e6b-8ffb54eedcc7
+status: Standard

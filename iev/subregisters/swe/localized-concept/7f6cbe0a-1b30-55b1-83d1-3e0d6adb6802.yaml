@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 881-02-65
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: alfapartikel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7f6cbe0a-1b30-55b1-83d1-3e0d6adb6802
+status: Standard

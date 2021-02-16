@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 702-04-39
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: connessione controllata (abilitazione)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ae77eec-148e-5630-844f-8e615f4742a2
+status: Standard

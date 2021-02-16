@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-21-050
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: luminancja
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: luminancja świetlna
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 393e0721-d680-5f52-be83-5979f475c85e
+status: Standard

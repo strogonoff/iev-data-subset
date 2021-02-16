@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  examples: []
+  id: 121-11-11
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 電流密度
+    normative_status: preferred
+    type: expression
+  - designation: J
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cd814d58-d9b0-50cf-a3c6-b79a643d03f5
+status: Standard

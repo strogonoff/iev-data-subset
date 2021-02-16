@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 722-15-18
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 周囲騒音
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1dfe6397-8920-5771-9559-9a4a4175734e
+status: Standard

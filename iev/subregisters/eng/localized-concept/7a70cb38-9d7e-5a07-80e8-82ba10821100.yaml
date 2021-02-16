@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  definition: depth below a large plane surface of a load where the power density
+    of a perpendicularly incident plane wave of a given frequency has decreased to
+    1/e of the surface value
+  examples: []
+  id: 841-29-02
+  language_code: eng
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: power penetration depth
+    normative_status: preferred
+    type: expression
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: 7a70cb38-9d7e-5a07-80e8-82ba10821100
+status: Standard

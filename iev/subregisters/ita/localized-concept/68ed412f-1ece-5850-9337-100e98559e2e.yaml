@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 411-33-08
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: motore a induzione a rotore avvolto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 68ed412f-1ece-5850-9337-100e98559e2e
+status: Standard

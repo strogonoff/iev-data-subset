@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-06-08
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: bildhållningsfel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e86b0e3e-1059-566e-b0e1-1b948b470cf1
+status: Standard

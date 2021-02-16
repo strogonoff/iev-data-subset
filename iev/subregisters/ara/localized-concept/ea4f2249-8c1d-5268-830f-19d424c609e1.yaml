@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-03-01T00:00:00+00:00'
+  examples: []
+  id: 702-05-17
+  language_code: ara
+  notes: []
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: كلمة تشفير
+    normative_status: preferred
+    type: expression
+dateAccepted: '1992-03-01T00:00:00+00:00'
+id: ea4f2249-8c1d-5268-830f-19d424c609e1
+status: Standard

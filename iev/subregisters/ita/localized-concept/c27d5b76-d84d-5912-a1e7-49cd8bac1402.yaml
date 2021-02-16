@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 722-15-18
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: rumore ambiente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c27d5b76-d84d-5912-a1e7-49cd8bac1402
+status: Standard

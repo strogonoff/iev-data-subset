@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  definition: produit de la longueur d'un parcours par les charges utiles transportées
+    sur ce parcours, pendant une certaine période
+  examples: []
+  id: 811-03-04
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: trafic utile
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 616353c5-55c4-59b7-8344-472ee71553ce
+status: Standard

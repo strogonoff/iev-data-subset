@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  examples: []
+  id: 714-15-13
+  language_code: ara
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: رجوع الى المصدر
+    normative_status: preferred
+    type: expression
+dateAccepted: '1992-04-01T00:00:00+00:00'
+id: eaba3008-01da-576c-a19a-0cf5942c1612
+status: Standard

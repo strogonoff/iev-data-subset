@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 441-17-29
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: prospektiv transient återvändande spänning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4775c6dd-07c8-59dc-948a-d0c62c578ee1
+status: Standard

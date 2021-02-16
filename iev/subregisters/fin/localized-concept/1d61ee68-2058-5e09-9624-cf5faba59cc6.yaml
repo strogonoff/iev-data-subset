@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 801-21-20
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: äänenpaine
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1d61ee68-2058-5e09-9624-cf5faba59cc6
+status: Standard

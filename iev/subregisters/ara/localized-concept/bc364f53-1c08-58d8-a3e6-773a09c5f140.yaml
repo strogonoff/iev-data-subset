@@ -1,0 +1,15 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 845-23-082
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: المحل الهندسى لخطوط درجات حرارة اللون
+    normative_status: preferred
+    type: expression
+    usage_info: فى مخطط التلوين
+dateAccepted: 2018-11-17
+id: bc364f53-1c08-58d8-a3e6-773a09c5f140
+status: Standard

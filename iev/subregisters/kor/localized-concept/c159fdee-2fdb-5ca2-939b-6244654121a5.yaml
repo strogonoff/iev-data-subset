@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 102-03-39
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 2차 텐서
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c159fdee-2fdb-5ca2-939b-6244654121a5
+status: Standard

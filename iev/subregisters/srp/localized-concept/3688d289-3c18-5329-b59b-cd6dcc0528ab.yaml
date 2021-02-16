@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 531-17-12
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: преносна адмитанса
+    normative_status: preferred
+    type: expression
+  - designation: комплексна стрмина
+    type: expression
+dateAccepted: 2018-11-17
+id: 3688d289-3c18-5329-b59b-cd6dcc0528ab
+status: Standard

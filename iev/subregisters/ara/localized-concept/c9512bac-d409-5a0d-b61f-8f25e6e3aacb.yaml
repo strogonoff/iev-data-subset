@@ -1,0 +1,21 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-43-11
+  language_code: ara
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: يضع فى صورة أرشيفية
+    normative_status: preferred
+    type: expression
+  - designation: يخزن المدونات
+    normative_status: preferred
+    type: expression
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: c9512bac-d409-5a0d-b61f-8f25e6e3aacb
+status: Standard

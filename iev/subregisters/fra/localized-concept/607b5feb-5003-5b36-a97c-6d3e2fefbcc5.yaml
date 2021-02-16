@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  definition: valeur critique du facteur d’intensité des contraintes à laquelle une
+    fissure devient instable
+  examples: []
+  id: 815-17-07
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ténacité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 607b5feb-5003-5b36-a97c-6d3e2fefbcc5
+status: Standard

@@ -1,35 +1,16 @@
 data:
-  definitions:
-    eng: f79f99b8-f3d2-52b7-8b5d-bdcd3bd07547
-    fra: f984e965-c856-53a8-97dc-faed834f2459
-  designations:
-    ara:
-    - 7f929b08-ed9a-5893-a95f-afd7e12e0e4a
-    deu:
-    - 393baef6-6100-5db1-86b5-2031178ef764
-    eng:
-    - 561f2441-d8c2-5860-b12d-c823529cea2f
-    - ddaf8adb-f5ad-509d-b1a2-8e0f32bababa
-    fra:
-    - 87b6b89a-fd98-5633-8bf6-04508636f2a8
-    - 0ea9afc5-4ed6-5b3c-b0f0-ae0a54fe498e
-    ita:
-    - b66372ae-63d7-531b-ab43-a1739f4bf90a
-    - e53bb718-f396-579f-a94a-059d4f150379
-    jpn:
-    - c24a2079-dce2-5f13-9b2b-146a0db614df
-    - 8f0ddac8-7930-52b2-af46-e0c7734d1b6d
-    kor:
-    - 6d5c1202-7ccb-5e40-afd7-d5cd988ef170
-    pol:
-    - 930e5fa7-4673-5a87-b9b6-76e02304b20e
-    por:
-    - 6f289888-8393-59e0-ac64-89239bf557c0
-    - 2f246c3b-ed07-54e9-8ec6-dcd734cb3fce
-    zho:
-    - 423243b6-f788-5d83-8d3a-52f132fc5105
-    - e53bb718-f396-579f-a94a-059d4f150379
   identifier: 845-29-065
+  localizedConcepts:
+    ara: 88a3ded7-fca3-52f6-9145-4434d90b1697
+    deu: b2d1bb07-14ec-5c5f-ba6f-9378dcd3084b
+    eng: 33f447b8-06ac-542a-a32c-768110162faa
+    fra: b70be1e2-4b34-50a6-af3f-02a0772273e7
+    ita: 8923abef-b963-5b3c-ad81-f34031fcacdf
+    jpn: 0bb6c6bc-cdfc-5147-be50-608ac1e99134
+    kor: ac48e650-9673-5074-9c70-6efbf9797f96
+    pol: 94b73231-cad3-5465-9b99-968c8ffd9b2e
+    por: 298f9a85-900d-5d6c-b585-2a1ef699f2a3
+    zho: ea113bcc-e309-511b-a7a3-394c9fdbcb78
 dateAccepted: 2018-11-17
 id: 010247aa-2195-5d34-a651-7ec34c795cca
 status: valid

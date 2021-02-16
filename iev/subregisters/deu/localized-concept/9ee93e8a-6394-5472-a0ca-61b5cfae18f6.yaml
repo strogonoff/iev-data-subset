@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-08-23
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Nullphasenbezug
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9ee93e8a-6394-5472-a0ca-61b5cfae18f6
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 102-01-04
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: подскуп
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6dd4b262-3f3b-5d1f-b4f6-732f3e6d0690
+status: Standard

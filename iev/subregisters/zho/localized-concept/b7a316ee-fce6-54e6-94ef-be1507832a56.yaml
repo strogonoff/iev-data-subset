@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 485-04-05
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 气体扩散层
+    normative_status: preferred
+    type: expression
+  - designation: GDL
+    type: expression
+  - designation: 多孔传输层
+    type: expression
+  - designation: PTL
+    type: expression
+dateAccepted: 2018-11-17
+id: b7a316ee-fce6-54e6-94ef-be1507832a56
+status: Standard

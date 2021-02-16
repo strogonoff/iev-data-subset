@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 702-05-17
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: palavra de código
+    normative_status: preferred
+    type: expression
+  - designation: combinação codificada
+    type: expression
+  - designation: representação de código
+    type: expression
+dateAccepted: 2018-11-17
+id: b4b6bd5e-34d8-57e4-bf55-25f9457b15a2
+status: Standard

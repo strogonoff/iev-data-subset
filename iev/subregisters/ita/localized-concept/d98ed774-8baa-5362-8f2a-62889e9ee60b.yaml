@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 704-17-21
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: integrità della sequenza di cifra
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d98ed774-8baa-5362-8f2a-62889e9ee60b
+status: Standard

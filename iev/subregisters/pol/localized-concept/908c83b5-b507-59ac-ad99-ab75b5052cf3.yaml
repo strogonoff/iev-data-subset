@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 811-03-04
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: praca przewozowa netto
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 908c83b5-b507-59ac-ad99-ab75b5052cf3
+status: Standard

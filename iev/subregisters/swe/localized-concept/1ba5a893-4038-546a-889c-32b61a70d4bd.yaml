@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 436-02-12
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: högspänningsdel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1ba5a893-4038-546a-889c-32b61a70d4bd
+status: Standard

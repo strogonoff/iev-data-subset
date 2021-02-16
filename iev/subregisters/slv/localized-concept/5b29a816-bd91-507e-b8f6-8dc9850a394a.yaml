@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  examples: []
+  id: 421-05-05
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: minus odcep
+    normative_status: preferred
+    type: expression
+  - designation: negativni odcep
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b29a816-bd91-507e-b8f6-8dc9850a394a
+status: Standard

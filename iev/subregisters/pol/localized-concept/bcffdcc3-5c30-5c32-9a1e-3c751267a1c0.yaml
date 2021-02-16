@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 131-15-06
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: model obwodowy
+    normative_status: preferred
+    type: expression
+  - designation: schemat zastępczy
+    type: expression
+dateAccepted: 2018-11-17
+id: bcffdcc3-5c30-5c32-9a1e-3c751267a1c0
+status: Standard

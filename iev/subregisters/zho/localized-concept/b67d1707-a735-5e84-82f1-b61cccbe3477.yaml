@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 447-01-34
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 接地故障继电器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b67d1707-a735-5e84-82f1-b61cccbe3477
+status: Standard

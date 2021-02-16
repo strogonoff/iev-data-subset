@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 732-02-02
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 망 정보 센터
+    normative_status: preferred
+    type: expression
+  - designation: 엔아이시
+    type: expression
+dateAccepted: 2018-11-17
+id: 7a1dcd1b-44f8-5672-ab6b-868aa659290f
+status: Standard

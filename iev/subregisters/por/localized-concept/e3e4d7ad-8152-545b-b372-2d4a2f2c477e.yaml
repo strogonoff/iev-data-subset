@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 808-03-10
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mira vertical de ensaio de cinzento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e3e4d7ad-8152-545b-b372-2d4a2f2c477e
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 551-16-51
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vastaestoaika
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b504126-5863-5e7b-a533-2540520b32e2
+status: Standard

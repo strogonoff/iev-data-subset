@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: the change in the response of a physical or biological system with a
+    change in the energy of radiation
+  examples: []
+  id: 881-02-78
+  language_code: eng
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: energy dependence
+    normative_status: preferred
+    type: expression
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: f992bc95-3f60-54c9-8ce8-411204366f70
+status: Standard

@@ -1,0 +1,27 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: action de combiner des signaux de programme d'origines différentes en
+    vue de la production des signaux de programme définitifs
+  examples: []
+  id: 723-02-08
+  language_code: fra
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: mélange
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mixage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: 6841df82-ac2e-56d4-bfa9-9de49d5561cc
+status: Standard

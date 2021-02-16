@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 732-02-02
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: мрежни информациони центар
+    normative_status: preferred
+    type: expression
+  - designation: NIC
+    type: expression
+dateAccepted: 2018-11-17
+id: 45a8d817-f5cb-502b-b014-63a32133b3d1
+status: Standard

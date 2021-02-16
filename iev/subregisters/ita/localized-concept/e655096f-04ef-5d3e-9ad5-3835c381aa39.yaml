@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 441-15-01
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: polo di un apparecchio di manovra
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e655096f-04ef-5d3e-9ad5-3835c381aa39
+status: Standard

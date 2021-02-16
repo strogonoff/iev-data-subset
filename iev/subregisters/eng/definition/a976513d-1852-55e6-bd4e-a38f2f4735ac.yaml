@@ -1,8 +1,0 @@
-data:
-  definition: a busbar including a switch (or a circuit-breaker) in series, intended
-    to connect or disconnect two sections of that busbar
-  examples: []
-  notes: []
-dateAccepted: '2021-01-01T00:00:00+00:00'
-id: a976513d-1852-55e6-bd4e-a38f2f4735ac
-status: Standard

@@ -1,0 +1,30 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  definition: groupe ordonné d'éléments, par exemple un {{multiplet, IEV:702-05-06}},
+    représentant selon un {{code, IEV:101-12-04}} une donnée élémentaire telle qu'un
+    {{caractère, IEV:702-05-10}}
+  examples: []
+  id: 702-05-17
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: codet
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: mot de code
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: combinaison de code
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b95a8221-4340-54a6-9275-61d6531a4169
+status: Standard

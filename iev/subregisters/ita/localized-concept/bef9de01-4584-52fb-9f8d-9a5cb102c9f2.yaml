@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 808-03-19
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: immagine (quadro) di prova con lettere "V"
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bef9de01-4584-52fb-9f8d-9a5cb102c9f2
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 531-41-09
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: wskaźnik przeciągania prądowego
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 90dffc8c-3447-52ef-babf-acb44e5d7d14
+status: Standard

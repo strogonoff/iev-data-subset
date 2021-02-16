@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 732-02-02
+  language_code: swe
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: informationscentrum för nätverk
+    normative_status: preferred
+    type: expression
+dateAccepted: '2010-06-01T00:00:00+00:00'
+id: 6cb98342-9813-529d-9898-75fcec65e854
+status: Standard

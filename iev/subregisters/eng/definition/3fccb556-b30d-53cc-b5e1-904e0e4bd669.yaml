@@ -1,9 +1,0 @@
-data:
-  definition: reciprocal of the thermal resistance stem:[R] ({{113-04-45, IEV:113-04-45}}),
-    thus stem:[G] = 1/stem:[R]
-  examples: []
-  notes:
-  - The coherent SI unit of thermal conductance is watt per kelvin, W/K.
-dateAccepted: '2011-04-01T00:00:00+00:00'
-id: 3fccb556-b30d-53cc-b5e1-904e0e4bd669
-status: Standard

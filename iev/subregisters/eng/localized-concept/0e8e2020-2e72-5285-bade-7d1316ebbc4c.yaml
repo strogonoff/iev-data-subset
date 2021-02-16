@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: a barrier sufficient to attenuate scattered and/or leakage radiation
+    to the required degree
+  examples: []
+  id: 881-16-23
+  language_code: eng
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: secondary protective barrier
+    normative_status: preferred
+    type: expression
+dateAccepted: '1983-01-01T00:00:00+00:00'
+id: 0e8e2020-2e72-5285-bade-7d1316ebbc4c
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 531-15-01
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 진공관 잡음
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4b68ca2e-2a87-50fa-99dd-407bd8f74ec9
+status: Standard

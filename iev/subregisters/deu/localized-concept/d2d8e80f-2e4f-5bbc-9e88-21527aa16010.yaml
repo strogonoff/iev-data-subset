@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 726-17-06
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: nichtreziproker Polarisationsdreher
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d2d8e80f-2e4f-5bbc-9e88-21527aa16010
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 702-05-17
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: słowo kodu
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: ciąg kodowy
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c41d6e0c-9855-5090-abc8-c9eaa33bd882
+status: Standard

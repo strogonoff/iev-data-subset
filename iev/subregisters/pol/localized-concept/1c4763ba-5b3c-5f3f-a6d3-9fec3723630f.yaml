@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 881-07-07
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: obciążenie znamionowe maksymalne lampy rentgenowskiej
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1c4763ba-5b3c-5f3f-a6d3-9fec3723630f
+status: Standard

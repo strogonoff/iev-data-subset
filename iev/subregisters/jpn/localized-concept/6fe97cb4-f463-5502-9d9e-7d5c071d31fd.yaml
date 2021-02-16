@@ -1,0 +1,17 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2007-08-01T00:00:00+00:00'
+  examples: []
+  id: 102-01-04
+  language_code: jpn
+  notes: []
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 部分集合
+    normative_status: preferred
+    type: expression
+dateAccepted: '2007-08-01T00:00:00+00:00'
+id: 6fe97cb4-f463-5502-9d9e-7d5c071d31fd
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-03-52
+  language_code: deu
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Leistung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: c7ea4e9b-1693-5d5f-b800-ed291a3d2416
+status: Standard

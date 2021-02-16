@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  definition: génératrice de courant alternatif entraînée par un moteur à combustion
+    interne et alimentant les moteurs de traction
+  examples: []
+  id: 811-18-02
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: alternateur principal
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 86eb51e2-f7fd-5286-b385-ae49a4b0233b
+status: Standard

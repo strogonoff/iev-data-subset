@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 602-01-04
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vesivoimalaitos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 312ed4aa-dd46-5383-96fb-dbc79789d2f0
+status: Standard

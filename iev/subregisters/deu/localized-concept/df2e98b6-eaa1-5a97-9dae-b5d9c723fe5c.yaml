@@ -1,0 +1,16 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 411-33-08
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Induktionsmotor mit gewickeltem Läufer
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: df2e98b6-eaa1-5a97-9dae-b5d9c723fe5c
+status: Standard

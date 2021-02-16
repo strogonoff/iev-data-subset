@@ -1,0 +1,23 @@
+data:
+  authoritativeSource: {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: augmentation non voulue de la luminosité d'une image noir et blanc obtenue
+    à partir d'un signal d'image en couleur, par suite d'une composante continue inutile,
+    provenant d'un redressement partiel du signal de chrominance, dû à la non-linéarité
+    des organes de synthèse de l' image
+  examples: []
+  id: 723-06-48
+  language_code: fra
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: effet de redressement
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '1997-03-01T00:00:00+00:00'
+id: f3fd62da-8d01-58b1-80bf-c4375010c575
+status: Standard

@@ -1,0 +1,23 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  definition: dérivée par rapport au temps stem:[t] d’une énergie stem:[E] en cours
+    de transfert ou de transformation, soit stem:[P = ((d E))/((d t))]
+  examples: []
+  id: 113-03-52
+  language_code: fra
+  notes:
+  - 1 Pour la puissance dans les circuits électriques, voir la CEI 60050-131.
+  - 2 L'unité SI cohérente de puissance est le watt, W.
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2011-04-01T00:00:00+00:00'
+id: 3263ac74-3f16-563a-a675-9174a8db8a17
+status: Standard

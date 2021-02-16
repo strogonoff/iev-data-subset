@@ -1,0 +1,19 @@
+data:
+  authoritativeSource: {}
+  date_amended: '2020-12-01T00:00:00+00:00'
+  definition: lampholder designed to be built into a luminaire, an additional enclosure
+    or similar
+  examples: []
+  id: 845-28-028
+  language_code: eng
+  notes: []
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: lampholder for building-in
+    normative_status: preferred
+    type: expression
+dateAccepted: '2020-12-01T00:00:00+00:00'
+id: 290cb8fd-e603-5f34-9cd5-b51017ee8118
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 447-01-34
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relé de defeito à terra
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d4c5ee45-f4b9-52aa-b910-21c169da6883
+status: Standard

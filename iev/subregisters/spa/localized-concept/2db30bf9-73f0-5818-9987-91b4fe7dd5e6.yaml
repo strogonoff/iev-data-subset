@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 806-13-32
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: velocidad de desarrollo del surco
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2db30bf9-73f0-5818-9987-91b4fe7dd5e6
+status: Standard

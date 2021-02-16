@@ -1,0 +1,18 @@
+data:
+  authoritativeSource: {}
+  definition: récipient haute température et haute pression requis pour la croissance
+    du cristal de quartz synthétique
+  examples: []
+  id: 561-04-05
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: autoclave
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1941ccc2-a9b2-538d-b97e-6fd4d2899a9a
+status: Standard

@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 723-08-23
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: referencia de fase nula
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c45010b8-c460-596b-8b66-ba8930d6c040
+status: Standard

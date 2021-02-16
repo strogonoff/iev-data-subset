@@ -1,0 +1,25 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2004-09-01T00:00:00+00:00'
+  examples: []
+  id: 841-22-14
+  language_code: deu
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Abkühlen
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Kühlen
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2004-09-01T00:00:00+00:00'
+id: c378f9be-afbd-5651-98f8-d05e2ea13276
+status: Standard

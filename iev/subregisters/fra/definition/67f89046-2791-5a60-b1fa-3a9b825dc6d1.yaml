@@ -1,9 +1,0 @@
-data:
-  definition: lieu de température de couleur proximale sur un diagramme de chromaticité
-  examples: []
-  notes:
-  - Les lignes d'égale température sont perpendiculaires au lieu des corps noirs dans
-    le diagramme de chromaticité uniforme CIE 1960.
-dateAccepted: 2018-11-17
-id: 67f89046-2791-5a60-b1fa-3a9b825dc6d1
-status: Standard

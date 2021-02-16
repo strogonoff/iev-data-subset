@@ -1,0 +1,14 @@
+data:
+  authoritativeSource: {}
+  examples: []
+  id: 815-15-14
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 残留ガス熱伝達
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 922245ff-0f30-560c-bc2a-432d19e31304
+status: Standard

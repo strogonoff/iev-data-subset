@@ -1,0 +1,25 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  date_amended: '2001-07-01T00:00:00+00:00'
+  examples: []
+  id: 151-15-28
+  language_code: deu
+  notes: []
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Überstromstärke
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Überstrom
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2001-07-01T00:00:00+00:00'
+id: 2a890d3c-ddb1-5a70-a970-ff25ec037dbb
+status: Standard

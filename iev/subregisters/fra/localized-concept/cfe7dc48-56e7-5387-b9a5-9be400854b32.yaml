@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - clause: 28.04.07
+    link: https://www.iso.org/standard/7272.html
+    original: 'ISO/CEI 2382-28:1995, <i>Technologies de l''information – Vocabulaire
+      – Partie 28: Intelligence artificielle – Notions fondamentales et systèmes experts</i>,
+      28.04.07, modifiée – La formulation de la définition a été légèrement modifiée
+      pour l''adapter à l''usage dans la technologie de commande.'
+    ref: ISO/IEC 2382-28:1995
+    relationship:
+      modification: La formulation de la définition a été légèrement modifiée pour
+        l'adapter à l'usage dans la technologie de commande.
+      type: modified
+  date_amended: '2013-11-01T00:00:00+00:00'
+  definition: élément d'un système expert qui utilise des règles d'inférences pour
+    tirer des conclusions à partir des informations stockées dans une base de connaissances
+  examples: []
+  id: 351-42-39
+  language_code: fra
+  notes:
+  - Cet article était numéroté 351-21-49 dans la CEI 60050-351:2006.
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: moteur d'inférence
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: '2013-11-01T00:00:00+00:00'
+id: cfe7dc48-56e7-5387-b9a5-9be400854b32
+status: Standard

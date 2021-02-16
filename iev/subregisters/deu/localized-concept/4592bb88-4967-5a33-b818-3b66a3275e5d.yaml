@@ -1,0 +1,22 @@
+data:
+  authoritativeSource: {}
+  classification: Preferred
+  examples: []
+  id: 726-10-01
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: stufenloser Hohlleiterübergang
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: trichterförmiger Hohlleiterübergang
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4592bb88-4967-5a33-b818-3b66a3275e5d
+status: Standard
