@@ -1,26 +1,26 @@
-name: deploy-master
+name: deploy-staging
 
 on:
   schedule:
     - cron: '42 */12 * * *'
   push:
-    branches: [ master ]
+    branches: [ staging ]
   repository_dispatch:
-    types: [ deploy_master ]
+    types: [ deploy_staging ]
 
 jobs:
   build:
     name: Build site
     runs-on: ubuntu-latest
     environment:
-      name: production
-      url: https://iev.demo.paneron.org
+      name: staging
+      url: https://staging-iev.demo.paneron.org
     steps:
       - name: Use Node
         uses: actions/setup-node@v1
         with:
           node-version: '14.x'
-      - uses: actions/checkout@master
+      - uses: actions/checkout@staging
       - name: Install NPM dependencies
         run: |
           yarn install
