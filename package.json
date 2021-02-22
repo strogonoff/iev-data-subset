@@ -14,18 +14,15 @@
     "@emotion/core": "^10.0.35",
     "@reach/router": "^1.2.1",
     "@riboseinc/paneron-extension-glossarist": "^1.0.0-dev12",
-    "@riboseinc/react-static-plugin-paneron-registry": "^1.0.4",
+    "@riboseinc/react-static-plugin-paneron-registry": "^1.0.6",
     "axios": "^0.19.0",
     "chroma-js": "^2.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-static": "^7.2.0",
+    "react-static": "^7.4.2",
     "react-static-plugin-reach-router": "^7.2.0",
     "react-static-plugin-sitemap": "^7.2.0",
-    "react-static-plugin-source-filesystem": "^7.2.0",
-    "react-static-plugin-styled-components": "^7.3.0",
-    "react-static-plugin-typescript": "^7.2.0",
-    "styled-components": "^5.1.1"
+    "react-static-plugin-source-filesystem": "^7.2.0"
   },
   "devDependencies": {
     "@types/chroma-js": "^2.0.0",
@@ -35,11 +32,9 @@
     "@types/react-dom": "^16.8.5",
     "@types/react-helmet": "^6.1.0",
     "@types/react-hot-loader": "^4.1.0",
-    "@types/styled-components": "^5.1.2",
     "@types/webpack-env": "^1.14.0",
     "react-hot-loader": "^4.12.11",
     "react-static-plugin-file-watch-reload": "^1.0.4",
-    "serve": "^11.1.0",
-    "typescript": "^3.9.6"
+    "serve": "^11.1.0"
   }
 }
