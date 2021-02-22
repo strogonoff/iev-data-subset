@@ -22,6 +22,8 @@ export default {
         subregisters,
         itemClassPageTemplate: 'src/ItemClassPage',
         itemPageTemplate: 'src/ItemPage',
+        subregisterPageTemplate: 'src/SubregisterPage',
+        homePageTemplate: 'src/HomePage',
       },
     ],
     require.resolve('react-static-plugin-reach-router'),
