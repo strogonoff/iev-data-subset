@@ -1094,10 +1094,10 @@
     prop-types "^15.6.1"
     react-lifecycles-compat "^3.0.4"
 
-"@riboseinc/paneron-extension-glossarist@^1.0.0-dev12":
-  version "1.0.0-dev12"
-  resolved "https://registry.yarnpkg.com/@riboseinc/paneron-extension-glossarist/-/paneron-extension-glossarist-1.0.0-dev12.tgz#7744b914bb8cdeb6e91ec00412c10f75caaa0a01"
-  integrity sha512-uD6N74cLyVOJVJk7MNqrzkt7Gz21dUM01rWpx4HcuHeiMaPbIWc87my3bOPo7arGWBH/V6q7D30L+DyoWQW0vQ==
+"@riboseinc/paneron-extension-glossarist@^1.0.0-dev22":
+  version "1.0.0-dev22"
+  resolved "https://registry.yarnpkg.com/@riboseinc/paneron-extension-glossarist/-/paneron-extension-glossarist-1.0.0-dev22.tgz#5b0a93f797825d6394c03f4d99142f4906999316"
+  integrity sha512-HENiagJS06UUeZhtXfA/CpS/wISU/x7RVVlWBbsMzEx7v3kdQJ/W8+Xzhq6P9qIAcwrt3T4dqIrzvRjqIj44gw==
 
 "@riboseinc/paneron-extension-kit@=1.0.1":
   version "1.0.1"
@@ -1112,10 +1112,10 @@
   resolved "https://registry.yarnpkg.com/@riboseinc/paneron-registry-kit/-/paneron-registry-kit-1.0.0-alpha26.tgz#cf3b688d060853fe31f12474bef4c08b71e9435a"
   integrity sha512-wI1JP+frbs+Zd1aplrdbEz2xpEbh6PhHVLnbP7jKRTmlUoNfD6sdV/4mvatM3HB32oskAmXPCpvgCzg9yQSsug==
 
-"@riboseinc/react-static-plugin-paneron-registry@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@riboseinc/react-static-plugin-paneron-registry/-/react-static-plugin-paneron-registry-1.0.6.tgz#43f7f311c5eb958800b8f6916b5c54bae4996b37"
-  integrity sha512-dTeDPUO1rtnjqg8ItvL2GBRPwF9b2iVjtD6iETQg5OnRYBe23ixVr+hicIWHdIdkHK+AUj6eoDLtDIPlHdVTqQ==
+"@riboseinc/react-static-plugin-paneron-registry@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@riboseinc/react-static-plugin-paneron-registry/-/react-static-plugin-paneron-registry-1.0.7.tgz#b5633363d817988ddc81a25481885f1a1516b620"
+  integrity sha512-VO3Q1UYx1Qd1bfb+uMFiR6NEPWwrpxXOGDcIOAVsxSCZGh/ZhZXsVcbk0utZi9Z7fn9gP9noVffgNoyy5qwqLA==
   dependencies:
     "@reach/router" "^1.3.4"
     "@riboseinc/paneron-extension-kit" "=1.0.1"
