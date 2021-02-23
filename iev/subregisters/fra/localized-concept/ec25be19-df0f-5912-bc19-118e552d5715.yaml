@@ -6,13 +6,13 @@ data:
   id: 103-04-12
   language_code: fra
   notes:
-  - 'Pour une fonction stem:[f ( t )] et une ondelette stem:[psi ( t )]:
+  - 'Pour une fonction `[f ( t )]` et une ondelette `[psi ( t )]`:
 
 
-    stem:[C_f ( a , b ) = int_(- oo)^(+ oo) f ( t ) psi_(a , b)^( ** ) ( t ) d t]
+    `[C_f ( a , b ) = int_(- oo)^(+ oo) f ( t ) psi_(a , b)^( ** ) ( t ) d t]`
 
 
-    où stem:[a] est le paramètre d’échelle, stem:[b] est le paramètre de position
+    où `[a]` est le paramètre d’échelle, `[b]` est le paramètre de position
     et * note le complexe conjugué.'
   - Une transformée discrète en ondelettes est obtenue en choisissant un nombre fini
     de valeurs des deux paramètres. La transformée inverse exprime la fonction du
