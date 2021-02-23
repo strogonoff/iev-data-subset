@@ -3,7 +3,7 @@ data:
   date_amended: '1983-01-01T00:00:00+00:00'
   definition: puissance maximale indiquée par le constructeur pour un régime spécifié,
     la forme d'onde du potentiel d'accélération du tube radiogène étant telle que
-    le facteur stem:[f] soit égal à 1
+    le facteur `f` soit égal à 1
   examples: []
   id: 881-07-07
   language_code: fra
@@ -18,7 +18,7 @@ data:
 
 
     b) En service temporaire: Sauf indication contraire, puissance maximale permise
-    pendant une durée de 0,1 s et pour un facteur stem:[f] égal à 1.'
+    pendant une durée de 0,1 s et pour un facteur `f` égal à 1.'
   review_date: '1983-01-01T00:00:00+00:00'
   review_decision_date: '1983-01-01T00:00:00+00:00'
   review_decision_event: published

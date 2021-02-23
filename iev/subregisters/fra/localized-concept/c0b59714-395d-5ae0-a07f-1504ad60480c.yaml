@@ -1,8 +1,8 @@
 data:
   authoritativeSource: {}
   date_amended: '2011-04-01T00:00:00+00:00'
-  definition: inverse de la résistance thermique stem:[R] ({{113-04-45, IEV:113-04-45}}),
-    soit stem:[G] = 1/stem:[R]
+  definition: inverse de la résistance thermique `R` ({{113-04-45, IEV:113-04-45}}),
+    soit `G` = 1/`R`
   examples: []
   id: 113-04-46
   language_code: fra

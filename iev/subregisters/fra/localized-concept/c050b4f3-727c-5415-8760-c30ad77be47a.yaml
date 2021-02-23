@@ -10,34 +10,33 @@ data:
   - 'La formule d''Eyring s''écrit:
 
 
-    stem:[T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))]
+    `T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))`
 
 
     où:
 
 
-    stem:[T] est la durée de réverbération
+    `T` est la durée de réverbération
 
 
-    stem:[V] est le volume de la salle
+    `V` est le volume de la salle
 
 
-    stem:[c] est la célérité du son dans l''air contenu dans la salle
+    `c` est la célérité du son dans l''air contenu dans la salle
 
 
-    stem:[S] = Σ stem:[S]~stem:[i]~ est l''aire totale des surfaces de la salle
+    `S` = Σ `S`~`i`~ est l''aire totale des surfaces de la salle
 
 
-    stem:[bar alpha = Sigma S_i alpha_i // S] est le facteur d''Eyring moyen pour
-    toutes les surfaces
+    `bar alpha = Sigma S_i alpha_i // S` est le facteur d''Eyring moyen pour toutes
+    les surfaces
 
 
-    stem:[S]~stem:[i]~ est l''aire de la surface de rang stem:[i]
+    `S`~`i`~ est l''aire de la surface de rang `i`
 
 
-    stem:[α]~stem:[i]~ est le facteur d''absorption acoustique (d''Eyring) attribué
-    à la surface de rang stem:[i]. L''aire d''absorption équivalente de la surface
-    de rang stem:[i] est stem:[S]~stem:[i]~stem:[α]~stem:[i]~.'
+    `α`~`i`~ est le facteur d''absorption acoustique (d''Eyring) attribué à la surface
+    de rang `i`. L''aire d''absorption équivalente de la surface de rang `i` est `S`~`i`~`α`~`i`~.'
   review_date: '1994-07-01T00:00:00+00:00'
   review_decision_date: '1994-07-01T00:00:00+00:00'
   review_decision_event: published

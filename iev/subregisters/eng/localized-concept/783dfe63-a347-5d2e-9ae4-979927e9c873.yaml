@@ -1,8 +1,8 @@
 data:
   authoritativeSource: {}
   date_amended: '2011-04-01T00:00:00+00:00'
-  definition: derivative with respect to time stem:[t] of energy stem:[E] being transferred
-    or transformed, thus stem:[P = ((d E))/((d t))]
+  definition: derivative with respect to time `t` of energy `E` being transferred
+    or transformed, thus `P = ((d E))/((d t))`
   examples: []
   id: 113-03-52
   language_code: eng

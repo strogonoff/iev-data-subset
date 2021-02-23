@@ -8,28 +8,27 @@ data:
   language_code: eng
   notes:
   - 'Defining a ray as the confined radiation exchange between two subtended surface
-    area elements dstem:[A] and dstem:[A]′ at distance stem:[l], with normal vectors
-    stem:[n_A] and stem:[n^( '' )_A] and orientation angles stem:[θ] and stem:[θ]′
-    with respect to a common optical axis, the geometric extent is equal to the action
-    of all possible rays between both surface areas stem:[A] and stem:[A]′. This is
-    expressed by the integral over the product of all projected area elements dstem:[A] cos stem:[θ]
-    and dstem:[A]′ cos stem:[θ]′ weighted by the distance squared to account for the
-    apparent size of the subtending surfaces areas:
+    area elements d`A` and d`A`′ at distance `l`, with normal vectors `n_A` and `n^(
+    '' )_A` and orientation angles `θ` and `θ`′ with respect to a common optical axis,
+    the geometric extent is equal to the action of all possible rays between both
+    surface areas `A` and `A`′. This is expressed by the integral over the product
+    of all projected area elements d`A` cos `θ` and d`A`′ cos `θ`′ weighted by the
+    distance squared to account for the apparent size of the subtending surfaces areas:
 
 
-    stem:[G = (1)/((l^2)) underset(A)( int ) underset(A^( '' ))( int ) d A cos theta
-    * d A^( '' ) cos theta^( '' ) = int d G]
+    `G = (1)/((l^2)) underset(A)( int ) underset(A^( '' ))( int ) d A cos theta *
+    d A^( '' ) cos theta^( '' ) = int d G`
 
 
     with
 
 
-    stem:[d G \ = ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2)) = d A cos
-    Theta * d omega = d A^( '' ) cos theta^( '' ) * d omega^( '' ) = d G^( '' )]
+    `d G \ = ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2)) = d A cos Theta
+    * d omega = d A^( '' ) cos theta^( '' ) * d omega^( '' ) = d G^( '' )`
 
 
-    where dstem:[Ω] and dstem:[Ω]′ are the solid angle elements defining the angular
-    extent of dstem:[A]′ from dstem:[A] and dstem:[A] from dstem:[A]′ respectively.'
+    where d`Ω` and d`Ω`′ are the solid angle elements defining the angular extent
+    of d`A`′ from d`A` and d`A` from d`A`′ respectively.'
   - '"Single-pass" means that the term applies only for radiation transfer in a single
     defined direction. It does not apply to devices such as Fabry–Pérot cavities.'
   - See also "<a href="IEV845-21-048">optical extent</a>".

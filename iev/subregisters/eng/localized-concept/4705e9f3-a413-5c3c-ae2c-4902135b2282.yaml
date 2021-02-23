@@ -7,8 +7,8 @@ data:
     relationship:
       type: modified
   date_amended: '2015-11-01T00:00:00+00:00'
-  definition: quantum of magnetic flux, equal to stem:[h]/2stem:[e] where stem:[h]
-    is the Planck constant and stem:[e] is the elementary electric charge.
+  definition: quantum of magnetic flux, equal to `h`/2`e` where `h` is the Planck
+    constant and `e` is the elementary electric charge.
   examples: []
   id: 815-10-14
   language_code: eng

@@ -2,7 +2,7 @@ data:
   authoritativeSource: {}
   date_amended: '1983-01-01T00:00:00+00:00'
   definition: maximum tube load specified by the manufacturer for stated operating
-    factors, the waveform of the X-ray tube voltage being such that coefficient stem:[f]
+    factors, the waveform of the X-ray tube voltage being such that coefficient `f`
     = 1
   examples: []
   id: 881-07-07
@@ -17,7 +17,7 @@ data:
 
 
     b) Temporary use: Unless indicated otherwise this is the maximum rated tube load
-    permitted for a time of 0.1 s and for a coefficient stem:[f] = 1.'
+    permitted for a time of 0.1 s and for a coefficient `f` = 1.'
   review_date: '1983-01-01T00:00:00+00:00'
   review_decision_date: '1983-01-01T00:00:00+00:00'
   review_decision_event: published

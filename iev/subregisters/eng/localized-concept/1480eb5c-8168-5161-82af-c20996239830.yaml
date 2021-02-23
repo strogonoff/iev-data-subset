@@ -10,34 +10,33 @@ data:
   - 'The Eyring reverberation-time equation is:
 
 
-    stem:[T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))]
+    `T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))`
 
 
     where:
 
 
-    stem:[T] is the reverberation time
+    `T` is the reverberation time
 
 
-    stem:[V] is the volume of the room
+    `V` is the volume of the room
 
 
-    stem:[c] is the speed of sound in the contained air
+    `c` is the speed of sound in the contained air
 
 
-    stem:[S] = Σ stem:[S]~stem:[i]~ is the total area of surfaces of the room
+    `S` = Σ `S`~`i`~ is the total area of surfaces of the room
 
 
-    stem:[bar alpha = Sigma S_i alpha_i // S] is the area-weighted mean Eyring coefficient
+    `bar alpha = Sigma S_i alpha_i // S` is the area-weighted mean Eyring coefficient
     of all the surfaces
 
 
-    stem:[S]~stem:[i]~ is the area of the stem:[i]-th surface
+    `S`~`i`~ is the area of the `i`-th surface
 
 
-    stem:[α]~stem:[i]~ is Eyring sound power absorption coefficient attributed to
-    the stem:[i]-th surface. The equivalent absorption area of the stem:[i]-th surface
-    is stem:[S]~stem:[i]~stem:[α]~stem:[i]~.'
+    `α`~`i`~ is Eyring sound power absorption coefficient attributed to the `i`-th
+    surface. The equivalent absorption area of the `i`-th surface is `S`~`i`~`α`~`i`~.'
   review_date: '1994-07-01T00:00:00+00:00'
   review_decision_date: '1994-07-01T00:00:00+00:00'
   review_decision_event: published

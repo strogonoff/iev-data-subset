@@ -12,7 +12,7 @@ data:
   - 1 L’entropie d’un système dans un macro-état donné est proportionnelle au logarithme
     du nombre de microétats dans ce macro-état.
   - 2 L'unité SI cohérente d’entropie est le joule par kelvin, J/K.
-  - 3 L’entropie massique est notée stem:[s].
+  - 3 L’entropie massique est notée `s`.
   review_date: '2011-04-01T00:00:00+00:00'
   review_decision_date: '2011-04-01T00:00:00+00:00'
   review_decision_event: published

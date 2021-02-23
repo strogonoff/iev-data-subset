@@ -2,7 +2,7 @@ data:
   authoritativeSource: {}
   classification: Preferred
   date_amended: '2016-12-01T00:00:00+00:00'
-  definition: ordered set of elements, for instance an {{stem:[n]-bit byte, IEV:702-05-06}},
+  definition: ordered set of elements, for instance an {{`n`-bit byte, IEV:702-05-06}},
     defined by a {{code, IEV:101-12-04}} to represent an item of data such as a {{character,
     IEV:702-05-10}}
   examples: []

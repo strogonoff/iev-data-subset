@@ -1,8 +1,8 @@
 data:
   authoritativeSource: {}
   date_amended: '1983-01-01T00:00:00+00:00'
-  definition: the difference in optical density (stem:[D]~2~ – stem:[D]~1~) between
-    two areas of a radiograph of densities stem:[D]~2~ and stem:[D]~1~
+  definition: the difference in optical density (`D`~2~ – `D`~1~) between two areas
+    of a radiograph of densities `D`~2~ and `D`~1~
   examples: []
   id: 881-04-58
   language_code: eng
