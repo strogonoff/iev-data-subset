@@ -1,1 +1,14 @@
-name: IEV
+name: Electropedia (IEV Online)
+
+uniformResourceIdentifier: https://iev.demo.paneron.org
+
+contentSummary: >-
+  Terms and definitions contained in International Electrotechnical Vocabulary produced by IEC.
+  The world's most comprehensive online terminology database on “electrotechnology”.
+  (This website represents a subset as part of Paneron-based IEV implementation demo.)
+
+operatingLanguage:
+  name: English
+  languageCode: eng
+  characterEncoding: utf-8
+  country: N/A
