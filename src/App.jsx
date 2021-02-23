@@ -18,7 +18,7 @@ function App() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
-      <React.Suspense fallback={<em>Loading...</em>}>
+      <React.Suspense fallback={<em>Loading…</em>}>
         <Router>
           <Routes path="*" />
         </Router>
