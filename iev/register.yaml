@@ -3,8 +3,8 @@ name: Electropedia (IEV Online)
 uniformResourceIdentifier: https://iev.demo.paneron.org
 
 contentSummary: >-
-  Terms and definitions contained in International Electrotechnical Vocabulary produced by IEC.
-  The world's most comprehensive online terminology database on “electrotechnology”.
+  Containing terms and definitions from International Electrotechnical Vocabulary produced by IEC,
+  Electropedia is the world's most comprehensive online terminology database on “electrotechnology”.
   (This website represents a subset as part of Paneron-based IEV implementation demo.)
 
 operatingLanguage:
