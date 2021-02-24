@@ -6,7 +6,7 @@ contentSummary: >-
   Containing terms and definitions from International Electrotechnical Vocabulary produced by IEC,
   Electropedia (also known as IEV Online)
   is the world's most comprehensive online terminology database on “electrotechnology”.
-  (This website represents a subset as part of Paneron-based IEV implementation demo.)
+  (NOTE: this register represents a subset of Electropedia to demonstrate an implementation based on Paneron-powered ISO 19135-1 compliant registry solution currently under active development.)
 
 operatingLanguage:
   name: English
