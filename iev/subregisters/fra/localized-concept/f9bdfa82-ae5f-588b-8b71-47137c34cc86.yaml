@@ -6,8 +6,7 @@ data:
   id: 426-24-54
   language_code: fra
   notes:
-  - Dans le cas de sélectivité du gaz cible, les résultats sont moins ambigus et la
-    sensibilité transverse avec d'autres gaz est faible.
+  - ''
   review_decision_event: published
   terms:
   - designation: sélectivité

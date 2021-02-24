@@ -1,8 +1,8 @@
 data:
   authoritativeSource: {}
   date_amended: '1983-01-01T00:00:00+00:00'
-  definition: différence de densité optique (`D`~2~ – `D`~1~) entre deux zones d'un
-    radiogramme de densités `D`~2~ et `D`~1~
+  definition: '`D`~2~ – `D`~1~) entre deux zones d''un radiogramme de densités `D`~2~
+    et `D`~1~'
   examples: []
   id: 881-04-58
   language_code: fra

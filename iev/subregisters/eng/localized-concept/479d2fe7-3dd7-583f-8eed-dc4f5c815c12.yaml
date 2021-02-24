@@ -1,28 +1,22 @@
 data:
   authoritativeSource: {}
   date_amended: '2008-08-01T00:00:00+00:00'
-  definition: bilinear form defined for any pair of vectors of an `n`-dimensional
-    Euclidean vector space
+  definition: '`n`-dimensional Euclidean vector space'
   examples: []
   id: 102-03-39
   language_code: eng
   notes:
-  - For a given orthonormal base, a tensor `T` of the second order can be represented
-    by `n^2` components `T_((i j))`, generally presented in the form of a square matrix,
-    such that `T` attributes to the pair of vectors *`U`* and *`V`* the scalar `sum_((i
-    , j = 1))^n T_((i j)) U_i V_j`, where `U_i` and `V_j` are the coordinates of vectors
-    *`U`* and *`V`*.
-  - A tensor of the second order can be defined by a bilinear form applied to two
-    vectors (covariant tensor), to two linear forms (contravariant tensor), or to
-    a vector and a linear form (mixed tensor). This distinction is not necessary for
-    a Euclidean space. It is also possible to generalize to tensors of order `n` defined
-    by `n`-linear forms and for which the components have `n` indices. Tensors of
-    order 1 are considered as vectors and tensors of order 0 are considered as scalars.
-  - 'A tensor is indicated by a letter symbol in bold-face sans-serif type or by two
-    arrows above a letter symbol: *`T`* or `T` ou `vec vec T`. The tensor `T` with
-    components `T_((i j))` can be denoted `( T_((i j)) )`.'
-  - 'A complex tensor `T` is defined by a real part and an imaginary part: `T = A
-    + j B` where `A` and `B` are real tensors.'
+  - '`T` of the second order can be represented by `n^2` components `T_((i j))`, generally
+    presented in the form of a square matrix, such that `T` attributes to the pair
+    of vectors *`U`* and *`V`* the scalar `sum_((i , j = 1))^n T_((i j)) U_i V_j`,
+    where `U_i` and `V_j` are the coordinates of vectors *`U`* and *`V`*.'
+  - '`n` defined by `n`-linear forms and for which the components have `n` indices.
+    Tensors of order 1 are considered as vectors and tensors of order 0 are considered
+    as scalars.'
+  - '`T`* or `T` ou `vec vec T`. The tensor `T` with components `T_((i j))` can be
+    denoted `( T_((i j)) )`.'
+  - '`T` is defined by a real part and an imaginary part: `T = A + j B` where `A`
+    and `B` are real tensors.'
   review_date: '2008-08-01T00:00:00+00:00'
   review_decision_date: '2008-08-01T00:00:00+00:00'
   review_decision_event: published

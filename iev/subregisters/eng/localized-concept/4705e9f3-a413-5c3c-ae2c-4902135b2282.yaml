@@ -7,13 +7,13 @@ data:
     relationship:
       type: modified
   date_amended: '2015-11-01T00:00:00+00:00'
-  definition: quantum of magnetic flux, equal to `h`/2`e` where `h` is the Planck
-    constant and `e` is the elementary electric charge.
+  definition: '`h`/2`e` where `h` is the Planck constant and `e` is the elementary
+    electric charge.'
   examples: []
   id: 815-10-14
   language_code: eng
   notes:
-  - The value of flux quantum is approximately equal to 2,067 830 215 × 10^−15^ Wb.
+  - ''
   review_date: '2015-11-01T00:00:00+00:00'
   review_decision_date: '2015-11-01T00:00:00+00:00'
   review_decision_event: published
@@ -21,7 +21,7 @@ data:
   - designation: flux quantum
     normative_status: preferred
     type: expression
-  - designation: stem:[Φ]~0~
+  - designation: '`Φ`~0~'
     international: true
     type: symbol
 dateAccepted: 2015-11-01

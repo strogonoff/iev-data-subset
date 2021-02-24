@@ -1,24 +1,12 @@
 data:
   authoritativeSource: {}
   date_amended: '1983-01-01T00:00:00+00:00'
-  definition: puissance maximale indiquée par le constructeur pour un régime spécifié,
-    la forme d'onde du potentiel d'accélération du tube radiogène étant telle que
-    le facteur `f` soit égal à 1
+  definition: '`f` soit égal à 1'
   examples: []
   id: 881-07-07
   language_code: fra
   notes:
-  - 'On distingue deux puissances nominales:
-
-
-    a) En service pendant 2,5 heures (service longue durée): Puissance maximale absorbée
-    d''un tube ou d''une source radiogène pendant une durée de 2,5 h, indiquée par
-    le fabricant dans les divers cas d''utilisation (montage dans une gaine, refroidissement
-    artificiel, avec câbles longs, etc.).
-
-
-    b) En service temporaire: Sauf indication contraire, puissance maximale permise
-    pendant une durée de 0,1 s et pour un facteur `f` égal à 1.'
+  - '`f` égal à 1.'
   review_date: '1983-01-01T00:00:00+00:00'
   review_decision_date: '1983-01-01T00:00:00+00:00'
   review_decision_event: published

@@ -7,8 +7,7 @@ data:
   id: 723-10-78
   language_code: eng
   notes:
-  - These spurious components may fall inside or outside the spectrum of the original
-    signal.
+  - ''
   review_date: '1997-03-01T00:00:00+00:00'
   review_decision_date: '1997-03-01T00:00:00+00:00'
   review_decision_event: published

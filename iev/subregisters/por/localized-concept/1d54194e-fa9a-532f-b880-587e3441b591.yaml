@@ -6,7 +6,7 @@ data:
   notes: []
   review_decision_event: published
   terms:
-  - designation: espaço cromático stem:[L]* stem:[a]* stem:[b]* CIE 1976
+  - designation: '`L`* `a`* `b`* CIE 1976'
     normative_status: preferred
     type: expression
   - designation: espaço cromático CIELAB

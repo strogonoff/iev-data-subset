@@ -6,8 +6,7 @@ data:
   id: 192-10-22
   language_code: eng
   notes:
-  - Fault masking enhances software reliability by providing tolerance to faults,
-    thus enabling continuous system operation.
+  - ''
   review_date: '2015-02-01T00:00:00+00:00'
   review_decision_date: '2015-02-01T00:00:00+00:00'
   review_decision_event: published

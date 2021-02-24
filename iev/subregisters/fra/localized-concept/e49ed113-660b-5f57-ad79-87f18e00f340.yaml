@@ -2,20 +2,15 @@ data:
   authoritativeSource: {}
   classification: Preferred
   date_amended: '2011-04-01T00:00:00+00:00'
-  definition: en un point d'une surface séparant deux milieux de températures thermodynamiques
-    différentes, quotient de la norme du flux thermique surfacique *`φ`* par la valeur
-    absolue de la différence de température Δ`T`, soit `K = ((| phi |))/((| Delta
-    T |))`
+  definition: '`φ`* par la valeur absolue de la différence de température Δ`T`, soit
+    `K = ((| phi |))/((| Delta T |))`'
   examples: []
   id: 113-04-39
   language_code: fra
   notes:
-  - 1 Le coefficient de transmission thermique est nul pour une limite adiabatique
-    et infini pour une limite diathermique.
-  - 2 Le nom «transmittance thermique» et le symbole `U` sont surtout utilisés en
-    technologie des bâtiments.
-  - 3 L'unité SI cohérente de coefficient de transmission thermique est le watt par
-    mètre carré kelvin, W/(m^2^·K).
+  - ''
+  - '`U` sont surtout utilisés en technologie des bâtiments.'
+  - ''
   review_date: '2011-04-01T00:00:00+00:00'
   review_decision_date: '2011-04-01T00:00:00+00:00'
   review_decision_event: published

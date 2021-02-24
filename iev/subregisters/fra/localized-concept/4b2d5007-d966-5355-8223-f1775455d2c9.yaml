@@ -2,10 +2,9 @@ data:
   authoritativeSource: {}
   classification: Preferred
   date_amended: '1998-08-01T00:00:00+00:00'
-  definition: 'en un point donné à l’intérieur d’un élément d’espace de volume quasi-infinitésimal
-    `V`, grandeur vectorielle égale au quotient, par le volume `V`, de la somme, étendue
-    à tous les porteurs de charge libres situés à l''intérieur de l’élément d’espace,
-    des produits de leur charge électrique par leur vitesse:
+  definition: '`V`, grandeur vectorielle égale au quotient, par le volume `V`, de
+    la somme, étendue à tous les porteurs de charge libres situés à l''intérieur de
+    l’élément d’espace, des produits de leur charge électrique par leur vitesse:
 
 
     `J = (1)/(V) sum_((i = 1))^n Q_i v_i`
@@ -18,8 +17,8 @@ data:
   id: 121-11-11
   language_code: fra
   notes:
-  - 'Le flux de la densité de courant électrique `*J*`  à travers une surface orientée
-    quelconque S est égal au courant électrique `I` à travers cette surface:
+  - '`*J*`  à travers une surface orientée quelconque S est égal au courant électrique
+    `I` à travers cette surface:
 
 
     `I = underset(S)( int ) J * e_n d A`

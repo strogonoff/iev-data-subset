@@ -6,7 +6,7 @@ data:
   id: 845-23-055
   language_code: eng
   notes:
-  - This entry was numbered 845-03-36 in IEC 60050-845:1987.
+  - ''
   review_date: '2020-12-01T00:00:00+00:00'
   review_decision_date: '2020-12-01T00:00:00+00:00'
   review_decision_event: published
@@ -15,20 +15,17 @@ data:
     normative_status: preferred
     plurality: plural
     type: expression
-  - designation: 'stem:[r](stem:[λ]), stem:[g](stem:[λ]), stem:[b](stem:[λ]), &lt;CIE
-      1931 RGB colorimetric system&gt; &lt;système de référence colorimétrique CIE
-      1931&gt;
+  - designation: '`r`(`λ`), `g`(`λ`), `b`(`λ`), &lt;CIE 1931 RGB colorimetric system&gt;
+      &lt;système de référence colorimétrique CIE 1931&gt;
 
-      stem:[x](stem:[λ]), stem:[y](stem:[λ]), stem:[z](stem:[λ]), &lt;CIE 1931 standard
-      colorimetric system&gt; &lt;système de référence colorimétrique CIE 1931&gt;
+      `x`(`λ`), `y`(`λ`), `z`(`λ`), &lt;CIE 1931 standard colorimetric system&gt;
+      &lt;système de référence colorimétrique CIE 1931&gt;
 
-      stem:[r]~10~(stem:[λ]), stem:[g]~10~(stem:[λ]), stem:[b]~10~(stem:[λ]), &lt;CIE
-      1964 RGB colorimetric system&gt; &lt;système de référence colorimétrique CIE
-      1964&gt;
+      `r`~10~(`λ`), `g`~10~(`λ`), `b`~10~(`λ`), &lt;CIE 1964 RGB colorimetric system&gt;
+      &lt;système de référence colorimétrique CIE 1964&gt;
 
-      stem:[x]~10~(stem:[λ]), stem:[y]~10~(stem:[λ]), stem:[z]~10~(stem:[λ]), &lt;CIE
-      1964 standard colorimetric system&gt; &lt;système de référence colorimétrique
-      CIE 1964&gt;'
+      `x`~10~(`λ`), `y`~10~(`λ`), `z`~10~(`λ`), &lt;CIE 1964 standard colorimetric
+      system&gt; &lt;système de référence colorimétrique CIE 1964&gt;'
     international: true
     type: symbol
 dateAccepted: 2020-12-01

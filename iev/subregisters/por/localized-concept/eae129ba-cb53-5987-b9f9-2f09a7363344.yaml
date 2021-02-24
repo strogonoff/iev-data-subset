@@ -6,7 +6,7 @@ data:
   notes: []
   review_decision_event: published
   terms:
-  - designation: relé de stem:[shunt]
+  - designation: '`shunt`'
     normative_status: preferred
     type: expression
 dateAccepted: 2018-11-17

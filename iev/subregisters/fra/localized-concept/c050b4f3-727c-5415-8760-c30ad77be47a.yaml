@@ -7,10 +7,7 @@ data:
   id: 801-31-09
   language_code: fra
   notes:
-  - 'La formule d''Eyring s''écrit:
-
-
-    `T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))`
+  - '`T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))`
 
 
     où:

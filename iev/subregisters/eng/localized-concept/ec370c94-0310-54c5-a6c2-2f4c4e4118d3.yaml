@@ -1,13 +1,12 @@
 data:
   authoritativeSource: {}
   date_amended: '2011-04-01T00:00:00+00:00'
-  definition: reciprocal of the thermal resistance `R` ({{113-04-45, IEV:113-04-45}}),
-    thus `G` = 1/`R`
+  definition: '`R` ({{113-04-45, IEV:113-04-45}}), thus `G` = 1/`R`'
   examples: []
   id: 113-04-46
   language_code: eng
   notes:
-  - The coherent SI unit of thermal conductance is watt per kelvin, W/K.
+  - ''
   review_date: '2011-04-01T00:00:00+00:00'
   review_decision_date: '2011-04-01T00:00:00+00:00'
   review_decision_event: published
@@ -15,7 +14,7 @@ data:
   - designation: thermal conductance
     normative_status: preferred
     type: expression
-  - designation: stem:[G]
+  - designation: '`G`'
     international: true
     type: symbol
 dateAccepted: 2011-04-01

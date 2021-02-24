@@ -8,8 +8,7 @@ data:
   id: 485-04-05
   language_code: fra
   notes:
-  - La couche de diffusion du gaz est un composant d'une {{électrode de diffusion
-    du gaz, IEV:485-02-02}}.
+  - ''
   review_decision_event: published
   terms:
   - designation: couche de diffusion du gaz

@@ -6,8 +6,7 @@ data:
   id: 821-02-96
   language_code: fra
   notes:
-  - Pour les mouvements des trains, la voie libre n'est toutefois donnée qu'en relation
-    avec le signal de sortie.
+  - ''
   review_decision_event: published
   terms:
   - designation: signal de barrage

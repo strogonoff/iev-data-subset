@@ -5,10 +5,9 @@ data:
   id: 102-01-04
   language_code: fra
   notes:
-  - La notation `A sube B` exprime que l'ensemble `A` est un sous-ensemble ou une
-    partie de l'ensemble `B`. Le symbole `sub` est parfois employé au lieu de `sube`,
-    mais ce n'est pas recommandé. On dit aussi que `A` est inclus ou contenu dans
-    `B`.
+  - '`A sube B` exprime que l''ensemble `A` est un sous-ensemble ou une partie de
+    l''ensemble `B`. Le symbole `sub` est parfois employé au lieu de `sube`, mais
+    ce n''est pas recommandé. On dit aussi que `A` est inclus ou contenu dans `B`.'
   review_decision_event: published
   terms:
   - designation: sous-ensemble

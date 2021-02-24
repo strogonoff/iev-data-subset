@@ -15,11 +15,7 @@ data:
   id: 821-01-58
   language_code: eng
   notes:
-  - 'The following grades of automation are defined: GOA0 on-sight train operation
-    ({{IEV 821-09-12, IEV:821-09-12}}); GOA1 non-automated train operation ({{IEV
-    821-09-11, IEV:821-09-11}}); GOA2 semi-automated train operation ({{IEV 821-09-13,
-    IEV:821-09-13}}); GOA3 driverless train operation ({{IEV 821-09-10, IEV:821-09-10}});
-    GOA4 unattended train operation ({{IEV 821-09-14, IEV:821-09-14}}).'
+  - ''
   review_date: '2017-11-01T00:00:00+00:00'
   review_decision_date: '2017-11-01T00:00:00+00:00'
   review_decision_event: published

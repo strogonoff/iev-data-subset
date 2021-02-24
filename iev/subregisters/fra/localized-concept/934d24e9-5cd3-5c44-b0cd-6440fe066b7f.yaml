@@ -9,10 +9,7 @@ data:
   id: 441-15-01
   language_code: fra
   notes:
-  - Un appareil de connexion est appelé unipolaire s'il n'a qu'un pôle. S'il a plus
-    d'un pôle, il peut être appelé multipolaire (bipolaire, tripolaire, etc.) à condition
-    que les pôles soient ou puissent être liés entre eux de façon qu'ils fonctionnent
-    ensemble.
+  - ''
   review_date: '2000-07-01T00:00:00+00:00'
   review_decision_date: '2000-07-01T00:00:00+00:00'
   review_decision_event: published

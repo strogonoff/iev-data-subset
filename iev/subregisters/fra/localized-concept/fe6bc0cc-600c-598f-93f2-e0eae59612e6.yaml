@@ -5,9 +5,8 @@ data:
   id: 651-23-07
   language_code: fra
   notes:
-  - La chaussure conductrice peut avoir une attache conductrice pour connexion au
-    {{vêtement conducteur, IEV:651-23-06}}.
-  - Une chaussure conductrice peut aussi procurer une certaine protection mécanique.
+  - ''
+  - ''
   review_decision_event: published
   terms:
   - designation: chaussure conductrice

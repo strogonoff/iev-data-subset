@@ -6,14 +6,13 @@ data:
     ref: IEC 60050-121:1998
     relationship:
       type: modified
-  definition: quantum de flux magnétique, égal à `h`/2`e`, où `h` est la constante
-    de Planck et `e` la charge électrique élémentaire
+  definition: '`h`/2`e`, où `h` est la constante de Planck et `e` la charge électrique
+    élémentaire'
   examples: []
   id: 815-10-14
   language_code: fra
   notes:
-  - La valeur du quantum de flux est approximativement égale à 2,067 830 215 × 10^−15^
-    Wb.
+  - ''
   review_decision_event: published
   terms:
   - designation: quantum de flux

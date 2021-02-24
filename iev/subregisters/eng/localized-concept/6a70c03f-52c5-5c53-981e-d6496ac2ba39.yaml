@@ -6,9 +6,9 @@ data:
   id: 102-01-04
   language_code: eng
   notes:
-  - The notation `A sube B` expresses that the set `A` is a subset of the set `B`.
-    The symbol `sub` is sometimes used instead of `sube`, but this is not recommended.
-    `A` is also said to be included in `B`.
+  - '`A sube B` expresses that the set `A` is a subset of the set `B`. The symbol
+    `sub` is sometimes used instead of `sube`, but this is not recommended. `A` is
+    also said to be included in `B`.'
   review_date: '2008-08-01T00:00:00+00:00'
   review_decision_date: '2008-08-01T00:00:00+00:00'
   review_decision_event: published
