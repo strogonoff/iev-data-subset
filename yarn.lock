@@ -1148,10 +1148,10 @@
   resolved "https://registry.yarnpkg.com/@riboseinc/paneron-registry-kit/-/paneron-registry-kit-1.0.0-alpha26.tgz#cf3b688d060853fe31f12474bef4c08b71e9435a"
   integrity sha512-wI1JP+frbs+Zd1aplrdbEz2xpEbh6PhHVLnbP7jKRTmlUoNfD6sdV/4mvatM3HB32oskAmXPCpvgCzg9yQSsug==
 
-"@riboseinc/react-static-plugin-paneron-registry@1.0.14":
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/@riboseinc/react-static-plugin-paneron-registry/-/react-static-plugin-paneron-registry-1.0.14.tgz#3fb093db405f3039a4e3b09a8096b77c80ec7c69"
-  integrity sha512-9IeyjM/EDaJSICeJeKB+XkUBPFlBfT6pbFYvo2BMUsA3ECC5emIABiMB0qCUPm6lSY7+xROU60tYvgG+0l6ypQ==
+"@riboseinc/react-static-plugin-paneron-registry@1.0.15":
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/@riboseinc/react-static-plugin-paneron-registry/-/react-static-plugin-paneron-registry-1.0.15.tgz#3859360f4c55a22bb50eaf040a973881aaf2db58"
+  integrity sha512-HpTiLAZ2qFemd3lMGRcrT6TwbvYe7KEf7rtuHzGNbUZEHOKKoUVt0izuis97NxDWwx/IDSdX96Z+Pwbbq8VUsQ==
   dependencies:
     "@reach/router" "^1.3.4"
     "@riboseinc/paneron-extension-kit" "=1.0.1"
