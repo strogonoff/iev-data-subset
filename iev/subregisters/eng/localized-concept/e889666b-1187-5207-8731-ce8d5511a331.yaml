@@ -7,7 +7,13 @@ data:
   id: 441-17-29
   language_code: eng
   notes:
-  - ''
+  - The definition assumes that the switching device or the fuse, for which the prospective
+    transient recovery voltage is sought, is replaced by an ideal switching device,
+    i.e. having instantaneous transition from zero to infinite impedance at the very
+    instant of zero current, i.e. at the "natural" zero. For circuits where the current
+    can follow several different paths, e.g. a polyphase circuit, the definition further
+    assumes that the breaking of the current by the ideal switching device takes place
+    only in the pole considered.
   review_date: '2021-01-01T00:00:00+00:00'
   review_decision_date: '2021-01-01T00:00:00+00:00'
   review_decision_event: published

@@ -7,7 +7,9 @@ data:
   id: 705-05-37
   language_code: eng
   notes:
-  - ''
+  - Trans-horizon propagation may be due to a variety of tropospheric mechanisms such
+    as diffraction, scattering, reflection from tropospheric layers. However, ducting
+    is not included because in a duct there is no radio horizon.
   review_date: '1995-09-01T00:00:00+00:00'
   review_decision_date: '1995-09-01T00:00:00+00:00'
   review_decision_event: published

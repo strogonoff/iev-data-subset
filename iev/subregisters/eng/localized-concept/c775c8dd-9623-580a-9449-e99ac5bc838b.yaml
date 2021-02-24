@@ -7,7 +7,8 @@ data:
   id: 722-15-18
   language_code: eng
   notes:
-  - ''
+  - The ambient noise is usually a composite of sounds from many sources, near and
+    far, and may interfere with the telephone conversation.
   review_date: '1992-11-01T00:00:00+00:00'
   review_decision_date: '1992-11-01T00:00:00+00:00'
   review_decision_event: published

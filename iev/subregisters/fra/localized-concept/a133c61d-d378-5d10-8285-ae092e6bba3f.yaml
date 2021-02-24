@@ -8,9 +8,10 @@ data:
   id: 732-02-02
   language_code: fra
   notes:
-  - ''
-  - ''
-  - ''
+  - Les centres NIC de l’Internet forment une hiérarchie.
+  - Un centre NIC particulier attribue les numéros de réseau aux réseaux connectés
+    à l'Internet.
+  - L'abréviation NIC est le sigle du terme anglais « network information centre ».
   review_date: '2010-06-01T00:00:00+00:00'
   review_decision_date: '2010-06-01T00:00:00+00:00'
   review_decision_event: published

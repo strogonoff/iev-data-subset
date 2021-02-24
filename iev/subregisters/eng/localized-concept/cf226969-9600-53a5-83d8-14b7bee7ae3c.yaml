@@ -8,9 +8,11 @@ data:
   id: 113-04-39
   language_code: eng
   notes:
-  - ''
+  - 1 The coefficient of heat transfer is zero for an adiabatic boundary and infinity
+    for a diathermic boundary.
   - '`U` are mainly used in building technology.'
-  - ''
+  - 3 The coherent SI unit of coefficient of heat transfer is watt per square metre
+    kelvin, W/(m^2^·K).
   review_date: '2011-04-01T00:00:00+00:00'
   review_decision_date: '2011-04-01T00:00:00+00:00'
   review_decision_event: published

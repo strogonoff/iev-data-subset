@@ -16,7 +16,12 @@ data:
   id: 821-01-58
   language_code: fra
   notes:
-  - ''
+  - 'Les niveaux d''automatisation suivants sont définis: GOA0 exploitation en conduite
+    à vue ({{IEV 821-09-12, IEV:821-09-12}}); GOA1 exploitation non automatisée des
+    trains ({{IEV 821-09-11, IEV:821-09-11}}); GOA2 exploitation semi-automatisée
+    des trains ({{IEV 821-09-13, IEV:821-09-13}}); GOA3 exploitation des trains sans
+    conducteurs ({{IEV 821-09-10, IEV:821-09-10}}); GOA4 exploitation sans personnel
+    à bord des trains ({{IEV 821-09-14, IEV:821-09-14}}).'
   review_decision_event: published
   terms:
   - designation: niveau d'automatisation

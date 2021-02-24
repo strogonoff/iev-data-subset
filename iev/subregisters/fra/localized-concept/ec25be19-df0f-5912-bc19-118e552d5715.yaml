@@ -14,7 +14,9 @@ data:
 
     où `a` est le paramètre d’échelle, `b` est le paramètre de position et * note
     le complexe conjugué.'
-  - ''
+  - Une transformée discrète en ondelettes est obtenue en choisissant un nombre fini
+    de valeurs des deux paramètres. La transformée inverse exprime la fonction du
+    temps comme une superposition d'ondelettes.
   review_decision_event: published
   terms:
   - designation: transformée continue en ondelettes

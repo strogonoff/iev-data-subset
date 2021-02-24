@@ -7,8 +7,10 @@ data:
   id: 112-01-05
   language_code: eng
   notes:
-  - ''
-  - ''
+  - In practice, the definition of an intensive quantity involves an average over
+    a small three-dimensional domain around the point.
+  - 'Examples: mass density, electric charge density, resistivity, thermodynamic temperature,
+    pressure, Rockwell C hardness, any field quantity (IEV 102-05-17).'
   review_date: '2010-01-01T00:00:00+00:00'
   review_decision_date: '2010-01-01T00:00:00+00:00'
   review_decision_event: published

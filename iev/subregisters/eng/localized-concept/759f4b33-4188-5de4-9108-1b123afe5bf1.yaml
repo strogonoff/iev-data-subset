@@ -7,7 +7,8 @@ data:
   id: 614-02-27
   language_code: eng
   notes:
-  - ''
+  - The expression “closing” of an item of the electric power network (line, transformer)
+    in fact means closing of the associated circuit-breaker(s).
   review_date: '2016-02-01T00:00:00+00:00'
   review_decision_date: '2016-02-01T00:00:00+00:00'
   review_decision_event: published

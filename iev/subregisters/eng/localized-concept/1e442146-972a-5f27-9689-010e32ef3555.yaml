@@ -6,7 +6,8 @@ data:
   id: 821-02-96
   language_code: eng
   notes:
-  - ''
+  - A proceed aspect is only given for the train movements in conjunction with the
+    exit signal.
   review_date: '2017-11-01T00:00:00+00:00'
   review_decision_date: '2017-11-01T00:00:00+00:00'
   review_decision_event: published

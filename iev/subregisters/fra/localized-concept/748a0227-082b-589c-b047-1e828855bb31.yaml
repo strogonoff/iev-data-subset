@@ -12,7 +12,8 @@ data:
   id: 815-10-14
   language_code: fra
   notes:
-  - ''
+  - La valeur du quantum de flux est approximativement égale à 2,067 830 215 × 10^−15^
+    Wb.
   review_decision_event: published
   terms:
   - designation: quantum de flux

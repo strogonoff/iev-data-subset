@@ -5,7 +5,9 @@ data:
   id: 192-10-22
   language_code: fra
   notes:
-  - ''
+  - Le masquage de panne permet d’améliorer la fiabilité du logiciel en assurant la
+    tolérance aux pannes et, par conséquent, en permettant un fonctionnement continu
+    du système.
   review_decision_event: published
   terms:
   - designation: masquage de panne

@@ -8,7 +8,9 @@ data:
   id: 441-15-01
   language_code: eng
   notes:
-  - ''
+  - A switching device is called single-pole if it has only one pole. If it has more
+    than one pole, it may be called multipole (two-pole, three-pole, etc.) provided
+    the poles are or can be coupled in such a manner as to operate together.
   review_date: '2021-01-01T00:00:00+00:00'
   review_decision_date: '2021-01-01T00:00:00+00:00'
   review_decision_event: published

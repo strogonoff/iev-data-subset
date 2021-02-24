@@ -28,10 +28,13 @@ data:
 
     où d`Ω` et d`Ω`′ sont les éléments des angles solides qui définissent l''étendue
     angulaire de d`A`′ à partir de d`A` et de d`A` à partir de d`A`′ respectivement.'
-  - ''
-  - ''
-  - ''
-  - ''
+  - '"Monopasse" signifie que le terme s''applique uniquement au transfert de rayonnement
+    dans une direction définie unique. Il ne s''applique pas à des dispositifs tels
+    que les cavités Fabry–Pérot.'
+  - Voir aussi "<a href="IEV845-21-048">étendue optique</a>".
+  - L'étendue géométrique est exprimée en mètre carré multipliée par le stéradian
+    (m^2^·sr).
+  - Cet article était numéroté 845-01-33 dans l'IEC 60050-845:1987.
   review_decision_event: published
   terms:
   - designation: étendue géométrique

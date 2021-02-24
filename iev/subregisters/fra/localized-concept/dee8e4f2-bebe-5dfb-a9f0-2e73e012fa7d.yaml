@@ -12,8 +12,9 @@ data:
   id: 395-07-143
   language_code: fra
   notes:
-  - ''
-  - ''
+  - Par extension le terme "couverture" peut être utilisé pour le dispositif permettant
+    la production de tritium dans un réacteur à fusion.
+  - Cet article était numéroté 393-17-17 dans la CEI 60050-393:2003.
   review_decision_event: published
   terms:
   - designation: couche fertile

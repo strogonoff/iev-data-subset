@@ -49,9 +49,10 @@ data:
 
     where `α` is the angle between the normal to that area at the specified point
     and the specified direction.'
-  - ''
-  - ''
-  - ''
+  - The corresponding radiometric quantity is "radiance". The corresponding quantity
+    for photons is "photon radiance".
+  - The luminance is expressed in candela per square metre (cd·m^−2^ = lm·m^−2^·sr^−1^).
+  - This entry was numbered 845-01-35 in IEC 60050-845:1987.
   review_date: '2020-12-01T00:00:00+00:00'
   review_decision_date: '2020-12-01T00:00:00+00:00'
   review_decision_event: published

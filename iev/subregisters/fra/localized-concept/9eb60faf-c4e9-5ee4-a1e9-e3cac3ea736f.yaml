@@ -6,7 +6,8 @@ data:
   id: 426-24-21
   language_code: fra
   notes:
-  - ''
+  - Le terme abrégé "FTA" est dérivé du terme anglais développé correspondant "flame
+    temperature analyzer".
   review_decision_event: published
   terms:
   - designation: analyseur de température de flamme

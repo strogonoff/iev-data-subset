@@ -8,8 +8,10 @@ data:
   id: 841-31-41
   language_code: fra
   notes:
-  - ''
-  - ''
+  - Dans une torche à plasma à arc transféré, l’électrode de retour de courant joue
+    le plus souvent le rôle d’anode.
+  - Dans une torche à plasma à arc non-transféré, l'anode est souvent la tuyère de
+    la torche.
   review_date: '2004-09-01T00:00:00+00:00'
   review_decision_date: '2004-09-01T00:00:00+00:00'
   review_decision_event: published

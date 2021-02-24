@@ -11,7 +11,8 @@ data:
   id: 881-12-51
   language_code: fra
   notes:
-  - ''
+  - Les pertes d'énergies comprises dans le pouvoir d'arrêt massique par radiation
+    produisent le rayonnement de freinage.
   review_date: '1983-01-01T00:00:00+00:00'
   review_decision_date: '1983-01-01T00:00:00+00:00'
   review_decision_event: published

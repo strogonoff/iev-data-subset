@@ -6,7 +6,8 @@ data:
   id: 614-02-27
   language_code: fra
   notes:
-  - ''
+  - Par extension, I’enclenchement d’un élément du réseau électrique (ligne, transformateur)
+    se dit pour l’enclenchement du ou des disjoncteurs associés.
   review_decision_event: published
   terms:
   - designation: enclenchement

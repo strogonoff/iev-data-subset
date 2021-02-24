@@ -10,7 +10,9 @@ data:
   id: 714-05-09
   language_code: eng
   notes:
-  - ''
+  - A packet occupies a channel only for its duration of transmission; at other times
+    the channel is available for the transmission of other packets belonging to the
+    same message or to other messages.
   review_date: '1992-04-01T00:00:00+00:00'
   review_decision_date: '1992-04-01T00:00:00+00:00'
   review_decision_event: published

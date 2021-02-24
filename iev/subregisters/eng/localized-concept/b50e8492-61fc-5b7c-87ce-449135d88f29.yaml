@@ -14,7 +14,9 @@ data:
 
     where `a` is the scale parameter, `b` is the position parameter, and * denotes
     the complex conjugate.'
-  - ''
+  - A discrete wavelet transform is obtained by choosing a finite number of values
+    of the two parameters. The inverse transform expresses the function of time as
+    a superposition of wavelets.
   review_date: '2009-12-01T00:00:00+00:00'
   review_decision_date: '2009-12-01T00:00:00+00:00'
   review_decision_event: published

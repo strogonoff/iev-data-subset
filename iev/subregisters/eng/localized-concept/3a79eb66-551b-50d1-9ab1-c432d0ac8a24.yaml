@@ -8,8 +8,9 @@ data:
   id: 113-04-22
   language_code: eng
   notes:
-  - ''
-  - ''
+  - 1 The entropy of a system in a given macrostate is proportional to the logarithm
+    of the number of microstates in that macrostate.
+  - 2 The coherent SI unit of entropy is joule per kelvin, J/K.
   - '`s`.'
   review_date: '2011-04-01T00:00:00+00:00'
   review_decision_date: '2011-04-01T00:00:00+00:00'

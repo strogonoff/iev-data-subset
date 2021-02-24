@@ -8,7 +8,8 @@ data:
   id: 712-05-35
   language_code: eng
   notes:
-  - ''
+  - The reflecting elements are generally waveguides containing electrical phase shifters
+    and terminated by short circuits.
   review_date: '1992-04-01T00:00:00+00:00'
   review_decision_date: '1992-04-01T00:00:00+00:00'
   review_decision_event: published

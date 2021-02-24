@@ -6,10 +6,13 @@ data:
   id: 351-56-02
   language_code: eng
   notes:
-  - ''
-  - ''
-  - ''
-  - ''
+  - A functional unit produces the interactive effect between input variables and
+    output variables.
+  - A functional unit may be implemented by one or several physical units or program
+    modules.
+  - If compound terms are used to designate functional units, the following should
+    be used as the last word (in ascending order of rank),* element,* system.
+  - This entry was numbered 351-32-02 in IEC 60050-351:2006.
   review_date: '2013-11-01T00:00:00+00:00'
   review_decision_date: '2013-11-01T00:00:00+00:00'
   review_decision_event: published

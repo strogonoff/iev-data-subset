@@ -10,7 +10,9 @@ data:
   id: 881-04-42
   language_code: eng
   notes:
-  - ''
+  - The SI unit of activity is the reciprocal second (s^−1^) and is given the special
+    name becquerel (Bq). The earlier special unit of activity, still in temporary
+    use, was the curie (Ci). 1 Bq = 1 s^−1^ = 2,703 × 10^−11^ Ci approximately.
   review_date: '1983-01-01T00:00:00+00:00'
   review_decision_date: '1983-01-01T00:00:00+00:00'
   review_decision_event: published

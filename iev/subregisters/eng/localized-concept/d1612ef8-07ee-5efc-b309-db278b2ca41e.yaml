@@ -28,10 +28,11 @@ data:
 
     where d`Ω` and d`Ω`′ are the solid angle elements defining the angular extent
     of d`A`′ from d`A` and d`A` from d`A`′ respectively.'
-  - ''
-  - ''
-  - ''
-  - ''
+  - '"Single-pass" means that the term applies only for radiation transfer in a single
+    defined direction. It does not apply to devices such as Fabry–Pérot cavities.'
+  - See also "<a href="IEV845-21-048">optical extent</a>".
+  - The geometric extent is expressed in square metre times steradian (m^2^·sr).
+  - This entry was numbered 845-01-33 in IEC 60050-845:1987.
   review_date: '2020-12-01T00:00:00+00:00'
   review_decision_date: '2020-12-01T00:00:00+00:00'
   review_decision_event: published

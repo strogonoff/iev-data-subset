@@ -8,9 +8,10 @@ data:
   id: 732-02-02
   language_code: eng
   notes:
-  - ''
-  - ''
-  - ''
+  - The network information centres of the Internet form a hierarchy.
+  - A specific network information centre is the authority which assigns the network
+    numbers to the networks connected to the Internet.
+  - '"NIC" is an acronym of the full term.'
   review_date: '2010-06-01T00:00:00+00:00'
   review_decision_date: '2010-06-01T00:00:00+00:00'
   review_decision_event: published

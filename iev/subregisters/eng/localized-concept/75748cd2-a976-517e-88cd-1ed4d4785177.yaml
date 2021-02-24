@@ -28,8 +28,8 @@ data:
     \ 2)`\r\n\n\nCIE 1976 `a`, `b` hue angle: <ul style=\"list-style-type:none;\"\
     >* \r\n`h_((ab)) = arctan ( b^( * ) // a^( * ) )`\r\n"
   - '`Colorimetry.`'
-  - ''
-  - ''
+  - 'See also ISO/CIE 11664-4, _Colorimetry – Part 4: CIE 1976 L*a*b* Colour Space_.'
+  - This entry was numbered 845-03-56 in IEC 60050-845:1987.
   review_date: '2020-12-01T00:00:00+00:00'
   review_decision_date: '2020-12-01T00:00:00+00:00'
   review_decision_event: published

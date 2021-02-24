@@ -7,8 +7,10 @@ data:
   id: 731-01-43
   language_code: fra
   notes:
-  - ''
-  - ''
+  - Les substances présentant un effet magnéto-optique sont généralement employées
+    pour produire une rotation de la polarisation d'une onde à polarisation rectiligne
+    autour de sa direction de propagation.
+  - Le phénomène le plus usuel est une variation de l'indice de réfraction.
   review_date: '1991-10-01T00:00:00+00:00'
   review_decision_date: '1991-10-01T00:00:00+00:00'
   review_decision_event: published

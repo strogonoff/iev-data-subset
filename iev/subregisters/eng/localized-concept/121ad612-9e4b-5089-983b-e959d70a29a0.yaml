@@ -11,7 +11,7 @@ data:
   id: 881-12-51
   language_code: eng
   notes:
-  - ''
+  - The energy losses included are those that produce bremsstrahlung.
   review_date: '1983-01-01T00:00:00+00:00'
   review_decision_date: '1983-01-01T00:00:00+00:00'
   review_decision_event: published

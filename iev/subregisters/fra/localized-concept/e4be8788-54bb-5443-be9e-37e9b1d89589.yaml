@@ -14,11 +14,14 @@ data:
 
 
     `T_I = ((sum_i sum_j t_((i j))))/((sum_j n_j))`'
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - Seules les {{interruptions longues, IEV:692-07-02}} sont prises en compte.
+  - Le terme "client" désigne l’utilisateur final et non un réseau ou une compagnie
+    de distribution intermédiaire.
+  - La durée moyenne d’une interruption peut être utilisée pour décrire des performances
+    réalisées, ou pour estimer les performances futures attendues.
+  - Cette mesure est aussi égale au rapport de l’{{indisponibilité par client desservi,
+    IEV:692-08-03}} à la {{fréquence d’interruption par client desservi, IEV:692-08-01}}.
+  - Cet article portait le numéro 191-27-05 dans l’IEC 60050-191:1990.
   review_decision_event: published
   terms:
   - designation: durée moyenne d’une interruption
