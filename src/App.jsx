@@ -2,6 +2,7 @@ import React from 'react'
 import { Head, Root, Routes } from 'react-static'
 import { Router } from '@reach/router'
 import chroma from 'chroma-js'
+import { ContainerSkeleton } from '@riboseinc/react-static-plugin-paneron-registry/DefaultWidgets/Container';
 
 export const pageContainerSelector = 'body > #root > :first-child > :first-child'
 
@@ -18,7 +19,7 @@ function App() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
-      <React.Suspense fallback={<em>Loading…</em>}>
+      <React.Suspense fallback={<ContainerSkeleton />}>
         <Router>
           <Routes path="*" />
         </Router>
