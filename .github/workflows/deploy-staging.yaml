@@ -1,8 +1,6 @@
 name: deploy-staging
 
 on:
-  schedule:
-    - cron: '42 */12 * * *'
   push:
     branches: [ staging ]
   repository_dispatch:
@@ -20,7 +18,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '14.x'
-      - uses: actions/checkout@staging
+      - uses: actions/checkout@master
       - name: Install NPM dependencies
         run: |
           yarn install
