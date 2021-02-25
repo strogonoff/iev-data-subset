@@ -1,0 +1,12 @@
+id: db099d09-9a37-419c-b2b4-5d28fe40a192
+status: valid
+dateAccepted: 2021-02-25T11:17:01.360Z
+data:
+  terms:
+    - designation: Test designation
+      type: expression
+      normative_status: preferred
+      partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
+  definition: Test definition with `m`ath!
+  notes: []
+  examples: []
