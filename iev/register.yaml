@@ -13,3 +13,13 @@ operatingLanguage:
   languageCode: eng
   characterEncoding: utf-8
   country: N/A
+
+stakeholders:
+  - role: manager
+    name: Demo user
+    gitServerUsername: demouser
+    parties:
+      - name: ''
+        contacts:
+          - label: email
+            value: 'open@ribose.com'
