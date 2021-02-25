@@ -30,6 +30,7 @@ proposals:
     amendmentType: retirement
     classID: concept
     subregisterID: universal
+    accepted: true
 sponsor:
   role: manager
   name: Demo user
