@@ -25,6 +25,11 @@ proposals:
     classID: localized-concept
     subregisterID: eng
     accepted: true
+  0111de1c-3288-5688-8360-ccaf8a4f11c5:
+    type: amendment
+    amendmentType: retirement
+    classID: concept
+    subregisterID: universal
 sponsor:
   role: manager
   name: Demo user
