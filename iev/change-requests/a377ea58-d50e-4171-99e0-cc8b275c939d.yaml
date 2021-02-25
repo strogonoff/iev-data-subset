@@ -1,7 +1,26 @@
 id: a377ea58-d50e-4171-99e0-cc8b275c939d
 justification: Test-alpha19
 timeStarted: 2021-02-25T10:57:58.004Z
-proposals: {}
+proposals:
+  941ee07b-6dcd-5ba9-a6f9-91ee8f651438:
+    type: clarification
+    payload:
+      identifier: 713-07-27
+      localizedConcepts:
+        ara: a8f8ff20-fa48-51ab-9d1e-14d7da27bb2c
+        deu: e239cb35-a32b-5cec-ab1b-d2e9a42589a5
+        eng: 1e93fe6a-5322-5f1d-b28d-ff064a8e2954
+        fin: d41267f6-47f1-583f-8b70-759653deae5c
+        fra: 614eed8c-1f62-572f-a22f-53ffed9ed415
+        ita: 6f2bd362-8fbf-537a-8307-36602ed12b2a
+        jpn: f3b5ee29-3d77-531f-9800-11c3a2123796
+        kor: 6b78a472-b072-5195-8956-94b58cd9c8b3
+        pol: 56a1738f-09fb-547e-9dae-8c829daff5e8
+        por: 8fd76761-bb2b-55bf-9472-b80c87cf7db2
+        spa: e4606a15-c849-5cb6-9bfd-5d199d3c4016
+        swe: 5eca8057-9873-5e39-938a-c3da3301b99a
+    classID: concept
+    subregisterID: universal
 sponsor:
   role: manager
   name: Demo user
