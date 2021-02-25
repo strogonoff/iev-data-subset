@@ -36,6 +36,7 @@ proposals:
       examples: []
     classID: localized-concept
     subregisterID: zho
+    accepted: true
 sponsor:
   role: manager
   name: Demo user
