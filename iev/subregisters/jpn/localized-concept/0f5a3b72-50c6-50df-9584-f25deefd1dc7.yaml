@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-18-02
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 交流主発電機
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0f5a3b72-50c6-50df-9584-f25deefd1dc7
+status: Standard

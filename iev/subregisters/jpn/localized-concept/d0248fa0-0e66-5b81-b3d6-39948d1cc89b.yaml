@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-17-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 破壊じん性値
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d0248fa0-0e66-5b81-b3d6-39948d1cc89b
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-08
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przesuwanie obrazu w pionie
+    normative_status: preferred
+    type: expression
+  - designation: przesuwanie w pionie
+    type: expression
+dateAccepted: 2018-11-17
+id: 87eabb2c-cba1-5559-89c8-eba769dbcd3c
+status: Standard

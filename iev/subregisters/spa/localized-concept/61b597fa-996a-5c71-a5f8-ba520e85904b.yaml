@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: eficiencia de antena (para una antena del tipo apertura)
+    normative_status: preferred
+    type: expression
+  - designation: rendimiento de apertura
+    type: expression
+dateAccepted: 2018-11-17
+id: 61b597fa-996a-5c71-a5f8-ba520e85904b
+status: Standard

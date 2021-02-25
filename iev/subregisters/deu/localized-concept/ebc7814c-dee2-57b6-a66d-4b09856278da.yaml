@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '1998-08-01T00:00:00+00:00'
+  examples: []
+  id: 121-11-11
+  language_code: deu
+  notes: []
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Leitungsstromdichte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Stromdichte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: ebc7814c-dee2-57b6-a66d-4b09856278da
+status: Standard

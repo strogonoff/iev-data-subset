@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 901-03-06
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: standardisointielin
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f5a72cb7-1f71-51bd-b3f2-e54d795af2e7
+status: Standard

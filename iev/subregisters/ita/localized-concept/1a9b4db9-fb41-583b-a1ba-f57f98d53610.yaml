@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-12-51
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: potere frenante massico radiativo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1a9b4db9-fb41-583b-a1ba-f57f98d53610
+status: Standard

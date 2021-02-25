@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-29-065
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sprawność eksploatacyjna półprzestrzenna górna
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ad0e119-2be5-5062-8e3d-5c59aa26ef16
+status: Standard

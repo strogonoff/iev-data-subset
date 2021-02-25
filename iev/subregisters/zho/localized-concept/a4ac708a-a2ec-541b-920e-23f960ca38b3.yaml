@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-75
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 校准和测试罩
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a4ac708a-a2ec-541b-920e-23f960ca38b3
+status: Standard

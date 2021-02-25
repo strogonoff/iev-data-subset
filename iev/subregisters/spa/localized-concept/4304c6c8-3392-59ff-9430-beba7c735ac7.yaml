@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-02-07
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: densidad longitudinal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4304c6c8-3392-59ff-9430-beba7c735ac7
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-13-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 연속 팩스밀리 수신기
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4171f839-7c42-59c2-a95e-665f146b1e74
+status: Standard

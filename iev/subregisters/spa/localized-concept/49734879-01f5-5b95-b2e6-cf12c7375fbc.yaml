@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 151-15-28
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sobreintensidad
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 49734879-01f5-5b95-b2e6-cf12c7375fbc
+status: Standard

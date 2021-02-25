@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  examples: []
+  id: 881-16-23
+  language_code: ara
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: حاجز وقائي ثانوي
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: ef10fa53-31e2-5e7c-b2f9-cbf228a62c28
+status: Standard

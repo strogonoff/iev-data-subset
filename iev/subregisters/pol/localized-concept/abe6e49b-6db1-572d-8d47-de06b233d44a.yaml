@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: napięcie powrotne przejściowe spodziewane (obwodu)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: abe6e49b-6db1-572d-8d47-de06b233d44a
+status: Standard

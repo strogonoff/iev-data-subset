@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-01-58
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: grau de automatização
+    normative_status: preferred
+    type: expression
+    usage_info: do modo de operação de comboios
+dateAccepted: 2018-11-17
+id: 41a0faab-d593-5197-8f13-7b2354481191
+status: Standard

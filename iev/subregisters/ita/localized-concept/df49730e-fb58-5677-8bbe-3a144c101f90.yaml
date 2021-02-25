@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-04-05
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: strato diffusivo
+    normative_status: preferred
+    type: expression
+  - designation: strato poroso per la diffusione del gas
+    type: expression
+dateAccepted: 2018-11-17
+id: df49730e-fb58-5677-8bbe-3a144c101f90
+status: Standard

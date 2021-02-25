@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-07-09
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 応答信号（課金なし）
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b0610bcc-ab2b-52bf-95fd-efea0337bff7
+status: Standard

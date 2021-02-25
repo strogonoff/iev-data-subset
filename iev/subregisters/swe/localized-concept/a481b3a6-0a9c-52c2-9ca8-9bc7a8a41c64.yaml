@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 466-08-25
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: stolpkroppsförlängning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a481b3a6-0a9c-52c2-9ca8-9bc7a8a41c64
+status: Standard

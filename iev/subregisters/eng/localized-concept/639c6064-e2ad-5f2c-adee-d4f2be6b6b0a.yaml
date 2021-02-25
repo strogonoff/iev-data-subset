@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  definition: '`R` ({{113-04-45, IEV:113-04-45}}), thus `G` = 1/`R`'
+  examples: []
+  id: 113-04-46
+  language_code: eng
+  notes:
+  - The coherent SI unit of thermal conductance is watt per kelvin, W/K.
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: thermal conductance
+    normative_status: preferred
+    type: expression
+  - designation: '`G`'
+    international: true
+    type: symbol
+dateAccepted: 2011-04-01
+id: 639c6064-e2ad-5f2c-adee-d4f2be6b6b0a
+status: Standard

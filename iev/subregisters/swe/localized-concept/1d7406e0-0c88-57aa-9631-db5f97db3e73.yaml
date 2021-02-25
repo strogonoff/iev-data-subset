@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: brytarsektionerad samlingsskena
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1d7406e0-0c88-57aa-9631-db5f97db3e73
+status: Standard

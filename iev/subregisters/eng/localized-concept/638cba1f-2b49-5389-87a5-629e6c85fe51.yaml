@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2017-11-01T00:00:00+00:00'
+  definition: alternating current generator, driven by an internal combustion engine
+    and supplying the traction motors
+  examples: []
+  id: 811-18-02
+  language_code: eng
+  notes: []
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: main alternator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 638cba1f-2b49-5389-87a5-629e6c85fe51
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-07
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Signalverarbeitung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f7f8de4d-6b5f-50ae-b479-24d445022aaa
+status: Standard

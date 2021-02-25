@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-21
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 炎温度分析器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 34fc63eb-31e6-5365-a769-a1de71579028
+status: Standard

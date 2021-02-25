@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-04-06
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: díodo unitúnel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6fec10a4-2a80-5b37-a026-49ff17f2992e
+status: Standard

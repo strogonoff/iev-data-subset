@@ -1,0 +1,33 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2011-04-01T00:00:00+00:00'
+  definition: '`φ`* par la valeur absolue de la différence de température Δ`T`, soit
+    `K = ((| phi |))/((| Delta T |))`'
+  examples: []
+  id: 113-04-39
+  language_code: fra
+  notes:
+  - 1 Le coefficient de transmission thermique est nul pour une limite adiabatique
+    et infini pour une limite diathermique.
+  - '`U` sont surtout utilisés en technologie des bâtiments.'
+  - 3 L'unité SI cohérente de coefficient de transmission thermique est le watt par
+    mètre carré kelvin, W/(m^2^·K).
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: coefficient de transmission thermique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: transmittance thermique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 25046716-5a6a-5e91-bd76-e58dc56df733
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-61
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 电气贯穿件
+    normative_status: preferred
+    type: expression
+    usage_info: 核反应堆
+dateAccepted: 2018-11-17
+id: 0feca0ce-0660-577a-98db-616079f4db7b
+status: Standard

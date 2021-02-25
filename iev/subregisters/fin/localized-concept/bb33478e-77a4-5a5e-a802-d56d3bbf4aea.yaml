@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 371-01-04
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kaukomerkinanto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bb33478e-77a4-5a5e-a802-d56d3bbf4aea
+status: Standard

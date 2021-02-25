@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  examples: []
+  id: 815-10-14
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kwant strumienia
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: kwant strumienia magnetycznego
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 25f13089-2e58-51f9-bb85-309220a001b6
+status: Standard

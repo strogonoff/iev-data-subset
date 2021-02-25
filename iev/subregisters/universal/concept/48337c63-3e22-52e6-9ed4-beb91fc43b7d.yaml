@@ -1,16 +1,16 @@
 data:
   identifier: 395-07-143
   localizedConcepts:
-    deu: 50f2858a-ec52-5dfb-b72d-11faa22a1a74
-    eng: 51520999-e5c2-5861-8b84-d1a49d3e392d
-    fra: dee8e4f2-bebe-5dfb-a9f0-2e73e012fa7d
-    ita: 2515da2c-9259-53c2-a53c-eed303d4ea20
-    jpn: e4e87aaf-54e8-54aa-860c-9a9366be0ae5
-    kor: 48c95ffd-9293-5487-8271-9ea26caff343
-    pol: 0e29d3a0-c75d-5056-9193-222c109a7efd
-    por: 8147ded6-d2e9-55e9-b774-54c7c52020d5
-    spa: 01c01bec-5e84-586e-8b5a-3c4c81c0e236
-    zho: e9bd2514-ca86-525b-bee4-195cfe8587ec
+    deu: f2337cc4-0e68-5217-be11-8d1238d1b608
+    eng: 054f2cfc-d04d-5cbc-aa08-a35c207a23f6
+    fra: e8baf5af-24d5-51cd-9d8f-0f1a6eb9b3b3
+    ita: 013d2c28-5e22-51ce-98dd-0c0e8cf62269
+    jpn: f8384a61-8de5-59d2-a612-31a919600178
+    kor: f78a0f91-3f55-59a7-9367-fa88743350b5
+    pol: f285e221-4441-5fdb-aaca-bd602046caa3
+    por: 02464fab-9e46-5407-9aeb-69753af17a24
+    spa: 3784bde4-fe69-583c-b7dc-b6c5f5610d7e
+    zho: ca56572a-7087-5457-a612-45fead0413ae
 dateAccepted: 2018-11-17
 id: 48337c63-3e22-52e6-9ed4-beb91fc43b7d
 status: valid

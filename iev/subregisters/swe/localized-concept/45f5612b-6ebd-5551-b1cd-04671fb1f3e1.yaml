@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 448-14-04
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: distansskydd av omkopplingstyp
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 45f5612b-6ebd-5551-b1cd-04671fb1f3e1
+status: Standard

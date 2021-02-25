@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-31-051
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 활주로 가시 거리
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: afc8b84c-1443-570b-95a9-6da3c293bb3a
+status: Standard

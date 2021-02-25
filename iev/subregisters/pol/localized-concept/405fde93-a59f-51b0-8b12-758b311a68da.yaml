@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: czas rozruchu
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dla systemów zasilania opartych na ogniwach paliwowych które wymagają
+      zewnętrznej energii do podtrzymania stanu ładowania ogniw
+dateAccepted: 2018-11-17
+id: 405fde93-a59f-51b0-8b12-758b311a68da
+status: Standard

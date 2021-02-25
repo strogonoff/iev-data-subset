@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-31-051
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zasięg widzenia na pasie startowym
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ff535ff6-58b3-5e69-a9ca-ade0f45f2dd2
+status: Standard

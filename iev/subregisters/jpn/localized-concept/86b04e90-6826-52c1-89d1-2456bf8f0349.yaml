@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: アンテナ効率
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 86b04e90-6826-52c1-89d1-2456bf8f0349
+status: Standard

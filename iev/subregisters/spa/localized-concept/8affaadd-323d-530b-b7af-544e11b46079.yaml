@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-61
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: conjunto de penetración eléctrica
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: de un reactor nuclear
+dateAccepted: 2018-11-17
+id: 8affaadd-323d-530b-b7af-544e11b46079
+status: Standard

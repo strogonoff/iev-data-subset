@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-10-01
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: falowód zbieżny
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8310e885-207b-5c14-a1e4-5397a2e5dfe4
+status: Standard

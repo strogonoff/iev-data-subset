@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 902-02-02
+  language_code: zho
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 程序
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: a1304c75-21c3-5058-a091-b255c74f27a3
+status: Standard

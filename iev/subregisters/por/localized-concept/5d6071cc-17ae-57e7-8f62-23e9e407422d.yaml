@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 741-01-33
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: entidade virtual
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d6071cc-17ae-57e7-8f62-23e9e407422d
+status: Standard

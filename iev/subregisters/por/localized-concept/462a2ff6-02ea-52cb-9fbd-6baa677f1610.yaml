@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-16-13
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: eficácia relativa de um suporte magnético (em relação a um suporte
+      magnético de referência)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 462a2ff6-02ea-52cb-9fbd-6baa677f1610
+status: Standard

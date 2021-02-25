@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 461-09-05
+  language_code: zho
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 仪表电缆
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 4dec0a3e-1be4-5495-b01d-a23e396211a3
+status: Standard

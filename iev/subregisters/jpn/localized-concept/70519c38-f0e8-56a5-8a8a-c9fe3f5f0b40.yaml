@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 信号処理
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 70519c38-f0e8-56a5-8a8a-c9fe3f5f0b40
+status: Standard

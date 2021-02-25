@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 705-05-37
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 가시 외 전파
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 33798eb5-a142-5e6f-a66f-0bc66d8d9702
+status: Standard

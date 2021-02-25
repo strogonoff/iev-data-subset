@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: réaction de reformage qui se produit avant l'entrée dans la structure
+    de la {{pile à combustible, IEV:485-06-01}}
+  examples: []
+  id: 485-07-07
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: reformage externe
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 76247a49-d514-531e-ad70-62ce80d7bbed
+status: Standard

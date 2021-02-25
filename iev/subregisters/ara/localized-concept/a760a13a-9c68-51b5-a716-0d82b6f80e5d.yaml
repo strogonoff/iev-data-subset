@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-076
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: الأبعاد الثلاثية للألوان في الفراغ طبقا للمواصفة القياسية للإنارة
+      الدولية CIE1976
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a760a13a-9c68-51b5-a716-0d82b6f80e5d
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Kennmelder
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4c78af3b-b104-558a-8854-7837d31e1167
+status: Standard

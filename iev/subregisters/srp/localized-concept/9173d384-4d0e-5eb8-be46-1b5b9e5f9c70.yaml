@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-11
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: спрежни кондензатор
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9173d384-4d0e-5eb8-be46-1b5b9e5f9c70
+status: Standard

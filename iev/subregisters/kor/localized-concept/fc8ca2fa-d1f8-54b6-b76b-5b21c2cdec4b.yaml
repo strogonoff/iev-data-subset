@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 102-01-04
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 부분집합
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fc8ca2fa-d1f8-54b6-b76b-5b21c2cdec4b
+status: Standard

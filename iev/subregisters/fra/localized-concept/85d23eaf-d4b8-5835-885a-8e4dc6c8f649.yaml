@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{reformeur, IEV:485-07-03}} utilisant la chaleur produite par la combustion
+    catalytique'
+  examples: []
+  id: 485-07-04
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: reformeur à combustion catalytique
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 85d23eaf-d4b8-5835-885a-8e4dc6c8f649
+status: Standard

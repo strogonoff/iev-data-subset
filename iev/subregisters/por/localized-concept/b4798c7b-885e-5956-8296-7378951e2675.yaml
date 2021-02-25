@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: nível de cinzento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b4798c7b-885e-5956-8296-7378951e2675
+status: Standard

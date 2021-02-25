@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-20-17
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: massima temperatura ambiente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bce5b9d4-6e57-5daa-a32c-9974699480d8
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-54
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Selektivität
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: Gaserkennung
+dateAccepted: 2018-11-17
+id: ebb66321-f070-5b74-8781-0def45ab267c
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-22
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: затворени положај
+    normative_status: preferred
+    type: expression
+    usage_info: механичког расклопног апарата
+dateAccepted: 2018-11-17
+id: 3772b109-6a59-5b68-9f08-4af967e505a2
+status: Standard

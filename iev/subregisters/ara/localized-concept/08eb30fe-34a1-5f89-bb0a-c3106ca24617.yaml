@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1998-11-01T00:00:00+00:00'
+  examples: []
+  id: 551-16-51
+  language_code: ara
+  notes: []
+  review_date: '1998-11-01T00:00:00+00:00'
+  review_decision_date: '1998-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: فترة اعاقة عكسية لدائرة
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-11-01
+id: 08eb30fe-34a1-5f89-bb0a-c3106ca24617
+status: Standard

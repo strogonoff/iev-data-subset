@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-01-58
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: grado de automatización
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6f8afac4-0052-5125-bdf9-2c83f7beb56f
+status: Standard

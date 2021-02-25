@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 531-17-12
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: السماحيه المتبادله
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: a9d264e6-e6f9-5037-a113-daa2d825fbc6
+status: Standard

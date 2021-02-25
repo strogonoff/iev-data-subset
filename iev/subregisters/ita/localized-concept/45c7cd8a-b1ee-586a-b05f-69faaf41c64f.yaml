@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-082
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: linea isoterma
+    normative_status: preferred
+    type: expression
+    usage_info: in un diagramma di cromaticità
+dateAccepted: 2018-11-17
+id: 45c7cd8a-b1ee-586a-b05f-69faaf41c64f
+status: Standard

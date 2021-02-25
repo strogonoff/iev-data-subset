@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-28-028
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Einbaufassung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 44e7fea9-90c6-5e89-a008-b4ef1cda666a
+status: Standard

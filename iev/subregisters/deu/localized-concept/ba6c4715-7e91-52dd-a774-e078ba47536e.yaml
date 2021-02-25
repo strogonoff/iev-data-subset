@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 851-15-07
+  language_code: deu
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: verstärkte Isolierung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2008-06-01
+id: ba6c4715-7e91-52dd-a774-e078ba47536e
+status: Standard

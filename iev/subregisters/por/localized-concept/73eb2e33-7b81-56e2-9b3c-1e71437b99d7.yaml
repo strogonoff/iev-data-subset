@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-05-38
+  language_code: por
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: isótopo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 73eb2e33-7b81-56e2-9b3c-1e71437b99d7
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-01-13
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: dryft częstotliwości
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9ad849bf-b360-5286-9d3e-9f5d76521601
+status: Standard

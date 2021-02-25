@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1995-12-01T00:00:00+00:00'
+  definition: protection de distance ayant en général un seul élément de mesure pour
+    tous les types de défaut dans le réseau d'énergie et/ou pour toutes les zones
+  examples: []
+  id: 448-14-04
+  language_code: fra
+  notes: []
+  review_date: '1995-12-01T00:00:00+00:00'
+  review_decision_date: '1995-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: protection de distance à commutation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1995-12-01
+id: fc1297e0-b948-55c4-b795-a18f175ab965
+status: Standard

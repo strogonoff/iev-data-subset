@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  examples: []
+  id: 712-05-35
+  language_code: ara
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: هوائى مصفوفة عاكس
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: 818d309a-78c5-5a25-8580-71b007c30a74
+status: Standard

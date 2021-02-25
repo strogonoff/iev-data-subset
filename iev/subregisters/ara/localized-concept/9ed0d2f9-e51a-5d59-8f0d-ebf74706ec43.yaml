@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  examples: []
+  id: 723-02-07
+  language_code: ara
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: معالجة  تعديل الإشارات
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 9ed0d2f9-e51a-5d59-8f0d-ebf74706ec43
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-61
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: conjunto de penetração elétrica
+    normative_status: preferred
+    type: expression
+    usage_info: de um reator nuclear
+dateAccepted: 2018-11-17
+id: 368e97e6-4054-5222-bb3e-791bbe9b4027
+status: Standard

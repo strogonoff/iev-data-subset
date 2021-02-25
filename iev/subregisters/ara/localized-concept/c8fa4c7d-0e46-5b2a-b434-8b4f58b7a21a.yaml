@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-055
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: الإحداثيات الطيفية ثلاثية الألوان
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c8fa4c7d-0e46-5b2a-b434-8b4f58b7a21a
+status: Standard

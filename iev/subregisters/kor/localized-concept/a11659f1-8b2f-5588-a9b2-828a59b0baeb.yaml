@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-16-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 자기매체 상대효율
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a11659f1-8b2f-5588-a9b2-828a59b0baeb
+status: Standard

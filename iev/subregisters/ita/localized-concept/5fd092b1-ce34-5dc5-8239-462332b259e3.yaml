@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-02-65
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: particella alfa
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5fd092b1-ce34-5dc5-8239-462332b259e3
+status: Standard

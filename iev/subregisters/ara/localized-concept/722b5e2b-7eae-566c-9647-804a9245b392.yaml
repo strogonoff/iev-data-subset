@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: صافى حركة المرور
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 722b5e2b-7eae-566c-9647-804a9245b392
+status: Standard

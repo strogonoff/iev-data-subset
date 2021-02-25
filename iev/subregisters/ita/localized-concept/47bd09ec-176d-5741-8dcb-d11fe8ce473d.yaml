@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 851-15-07
+  language_code: ita
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: isolamento rinforzato
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 47bd09ec-176d-5741-8dcb-d11fe8ce473d
+status: Standard

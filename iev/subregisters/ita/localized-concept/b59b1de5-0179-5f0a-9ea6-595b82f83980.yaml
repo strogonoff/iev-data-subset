@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-17
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: auto-tenuta
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b59b1de5-0179-5f0a-9ea6-595b82f83980
+status: Standard

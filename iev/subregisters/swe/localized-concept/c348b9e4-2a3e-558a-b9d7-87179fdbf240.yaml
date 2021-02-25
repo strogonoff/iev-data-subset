@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-24-13
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: keramisk infravärmare
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c348b9e4-2a3e-558a-b9d7-87179fdbf240
+status: Standard

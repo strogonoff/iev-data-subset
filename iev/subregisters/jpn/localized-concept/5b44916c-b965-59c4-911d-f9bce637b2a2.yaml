@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-09-02
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 無線周波発射
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b44916c-b965-59c4-911d-f9bce637b2a2
+status: Standard

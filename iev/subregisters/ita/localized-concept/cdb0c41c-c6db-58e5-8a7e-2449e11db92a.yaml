@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: segnale di manovra
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cdb0c41c-c6db-58e5-8a7e-2449e11db92a
+status: Standard

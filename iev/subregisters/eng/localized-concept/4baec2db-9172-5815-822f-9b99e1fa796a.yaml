@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: a part of a fuse provided to indicate whether the fuse has operated
+  examples: []
+  id: 441-18-17
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: indicating device
+    normative_status: preferred
+    type: expression
+  - designation: indicator
+    type: expression
+dateAccepted: 2021-01-01
+id: 4baec2db-9172-5815-822f-9b99e1fa796a
+status: Standard

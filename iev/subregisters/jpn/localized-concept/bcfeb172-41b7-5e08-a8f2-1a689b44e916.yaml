@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-29-02
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: パワー発生深さ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bcfeb172-41b7-5e08-a8f2-1a689b44e916
+status: Standard

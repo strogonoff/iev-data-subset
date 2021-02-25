@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-30-02
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 电子束加热
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 18b5396d-6428-577e-9232-a70be2dc40c5
+status: Standard

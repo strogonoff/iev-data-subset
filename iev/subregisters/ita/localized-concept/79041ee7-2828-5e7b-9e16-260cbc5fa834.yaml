@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-15-01
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: rumore di un tubo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 79041ee7-2828-5e7b-9e16-260cbc5fa834
+status: Standard

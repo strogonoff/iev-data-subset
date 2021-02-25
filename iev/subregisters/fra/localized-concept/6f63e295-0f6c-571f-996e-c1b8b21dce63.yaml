@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: Voir {{IEV 411-41-01, IEV:411-41-01}}
+  examples: []
+  id: 811-14-19
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: balai
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6f63e295-0f6c-571f-996e-c1b8b21dce63
+status: Standard

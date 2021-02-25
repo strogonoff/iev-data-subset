@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: elektrownia wodna
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d7c19cef-f0a0-543b-8454-01ed0ffe6a53
+status: Standard

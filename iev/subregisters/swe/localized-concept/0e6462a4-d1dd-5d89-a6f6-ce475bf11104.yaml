@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 551-16-51
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: spärrintervall
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0e6462a4-d1dd-5d89-a6f6-ce475bf11104
+status: Standard

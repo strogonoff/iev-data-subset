@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-31-051
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: مدى رؤية مدرج الطائرة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a693d95-8d59-5384-85af-1f2e18d442d6
+status: Standard

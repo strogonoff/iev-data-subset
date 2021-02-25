@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: Voir {{IEV 161-06-20, IEV:161-06-20}}
+  examples: []
+  id: 713-09-08
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: intermodulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 288d62df-96f5-5b85-909f-877c5e7909da
+status: Standard

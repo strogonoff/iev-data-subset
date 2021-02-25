@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Antennenwirkungsgrad (einer Aperturantenne)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e9d3c069-c188-50d0-8baf-26f382d040c4
+status: Standard

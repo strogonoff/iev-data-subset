@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 113-05-38
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 동위 원소
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 76c96f4e-fd0e-5d88-beb9-a1cdf569c099
+status: Standard

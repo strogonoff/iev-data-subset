@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-58
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: contraste radiográfico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9fc1c081-5436-51dc-800d-b12ace0520e7
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: system szyn zbiorczych sekcjonowany wyłącznikiem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 58db21f9-9e26-5dd5-a374-77f7819e972e
+status: Standard

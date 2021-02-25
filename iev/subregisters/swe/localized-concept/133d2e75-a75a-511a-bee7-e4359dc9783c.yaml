@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-18-24
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: blockeringskod
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 133d2e75-a75a-511a-bee7-e4359dc9783c
+status: Standard

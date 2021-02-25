@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 212-18-31
+  language_code: pol
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: gazy wolne
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 54a79fc5-10f9-5cc3-bf24-fb84e3121e0c
+status: Standard

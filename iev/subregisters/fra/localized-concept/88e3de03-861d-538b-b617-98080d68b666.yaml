@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: aiguillage de protection de deux parcours qui, selon sa position, ne
+    peut protéger que l'un de ces parcours
+  examples: []
+  id: 821-04-12
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: aiguillage à protection sélective
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 88e3de03-861d-538b-b617-98080d68b666
+status: Standard

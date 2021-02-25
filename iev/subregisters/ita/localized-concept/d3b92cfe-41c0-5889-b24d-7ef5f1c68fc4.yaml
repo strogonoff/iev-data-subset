@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: chiusura
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d3b92cfe-41c0-5889-b24d-7ef5f1c68fc4
+status: Standard

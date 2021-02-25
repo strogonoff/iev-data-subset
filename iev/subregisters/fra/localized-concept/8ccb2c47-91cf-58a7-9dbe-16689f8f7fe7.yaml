@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: technique empêchant les pannes d’introduire des erreurs dans le résultat
+  examples: []
+  id: 192-10-22
+  language_code: fra
+  notes:
+  - Le masquage de panne permet d’améliorer la fiabilité du logiciel en assurant la
+    tolérance aux pannes et, par conséquent, en permettant un fonctionnement continu
+    du système.
+  review_decision_event: published
+  terms:
+  - designation: masquage de panne
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: d’un logiciel
+dateAccepted: 2018-11-17
+id: 8ccb2c47-91cf-58a7-9dbe-16689f8f7fe7
+status: Standard

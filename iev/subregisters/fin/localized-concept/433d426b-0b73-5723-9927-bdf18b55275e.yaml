@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-19
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: monitilainen kvadratuuri-amplitudimodulaatio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 433d426b-0b73-5723-9927-bdf18b55275e
+status: Standard

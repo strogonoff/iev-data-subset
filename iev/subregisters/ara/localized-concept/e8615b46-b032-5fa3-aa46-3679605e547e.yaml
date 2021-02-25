@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-15-06
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: نموذج دارة كهربائية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e8615b46-b032-5fa3-aa46-3679605e547e
+status: Standard

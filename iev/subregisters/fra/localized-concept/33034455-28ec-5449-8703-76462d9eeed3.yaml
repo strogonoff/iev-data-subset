@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: guide d'ondes dont les dimensions de la section droite varient progressivement
+    le long de l'axe longitudinal
+  examples: []
+  id: 726-10-01
+  language_code: fra
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: transition progressive
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 33034455-28ec-5449-8703-76462d9eeed3
+status: Standard

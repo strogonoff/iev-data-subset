@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: regulação (de tensão) em fase
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b472d27-ca13-5630-96d6-a7b66c46f8a7
+status: Standard

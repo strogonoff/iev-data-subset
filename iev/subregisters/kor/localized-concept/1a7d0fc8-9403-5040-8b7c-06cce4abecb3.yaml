@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-01-58
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 자동 등급
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1a7d0fc8-9403-5040-8b7c-06cce4abecb3
+status: Standard

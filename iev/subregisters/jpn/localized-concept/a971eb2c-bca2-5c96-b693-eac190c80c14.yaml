@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-07-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 最大定格X線管負荷
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a971eb2c-bca2-5c96-b693-eac190c80c14
+status: Standard

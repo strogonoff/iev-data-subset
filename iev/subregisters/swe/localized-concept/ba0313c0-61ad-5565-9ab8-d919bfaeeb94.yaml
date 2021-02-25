@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 705-05-37
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: bortomhorisontutbredning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ba0313c0-61ad-5565-9ab8-d919bfaeeb94
+status: Standard

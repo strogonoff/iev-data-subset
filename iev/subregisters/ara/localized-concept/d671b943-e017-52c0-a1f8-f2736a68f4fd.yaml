@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: غلق
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d671b943-e017-52c0-a1f8-f2736a68f4fd
+status: Standard

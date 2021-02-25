@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: a conducting member of a commutator, intended for connection to the
+    common end of consecutive sections of a winding
+  examples: []
+  id: 411-41-14
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: commutator segment
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 69ba11e9-12e6-583a-b9f4-e3751606aebb
+status: Standard

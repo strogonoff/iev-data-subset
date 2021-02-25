@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sensor remoto
+    normative_status: preferred
+    type: expression
+    usage_info: deteção de gás
+dateAccepted: 2018-11-17
+id: 6c8b61ac-1909-5f74-b8f8-18e70c4afaba
+status: Standard

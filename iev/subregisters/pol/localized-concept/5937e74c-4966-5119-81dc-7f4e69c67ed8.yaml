@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 741-01-33
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: jednostka wirtualna
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5937e74c-4966-5119-81dc-7f4e69c67ed8
+status: Standard

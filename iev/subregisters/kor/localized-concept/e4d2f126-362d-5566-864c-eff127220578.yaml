@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-90
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 복호화
+    normative_status: preferred
+    type: expression
+    usage_info: 디지털 전송
+dateAccepted: 2018-11-17
+id: e4d2f126-362d-5566-864c-eff127220578
+status: Standard

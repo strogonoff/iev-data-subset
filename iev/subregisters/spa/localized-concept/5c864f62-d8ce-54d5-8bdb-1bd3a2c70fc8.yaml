@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-31-09
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: factor de absorción de Eyring
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5c864f62-d8ce-54d5-8bdb-1bd3a2c70fc8
+status: Standard

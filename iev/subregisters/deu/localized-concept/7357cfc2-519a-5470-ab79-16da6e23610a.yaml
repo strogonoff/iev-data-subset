@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 171-02-32
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Liste
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7357cfc2-519a-5470-ab79-16da6e23610a
+status: Standard

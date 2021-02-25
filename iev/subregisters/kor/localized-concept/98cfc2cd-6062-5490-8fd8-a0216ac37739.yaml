@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-21-20
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 음압
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 98cfc2cd-6062-5490-8fd8-a0216ac37739
+status: Standard

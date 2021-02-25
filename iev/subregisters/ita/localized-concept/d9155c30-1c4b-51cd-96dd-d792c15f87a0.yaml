@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-08-23
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: riferimento di fase zero
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d9155c30-1c4b-51cd-96dd-d792c15f87a0
+status: Standard

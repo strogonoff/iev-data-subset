@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-12-51
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 방사질량 저지능
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e2e80f6-ecb9-5afc-9673-bcc608908f29
+status: Standard

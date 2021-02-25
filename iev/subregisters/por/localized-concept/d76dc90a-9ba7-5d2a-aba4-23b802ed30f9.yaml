@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tensão transitória de restabelecimento presumida (de um circuito)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d76dc90a-9ba7-5d2a-aba4-23b802ed30f9
+status: Standard

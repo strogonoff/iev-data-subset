@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-05-16
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kauter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f10c34ab-ef21-5f34-99e7-39199dcd7def
+status: Standard

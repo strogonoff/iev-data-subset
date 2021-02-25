@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 704-17-21
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ディジット順(序)保全性
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ad3f21c0-4b81-58e7-9910-b5411e64d10e
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-05-09
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: commutazione di pacchetto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 720f42cd-1d49-5791-88df-80e2c2dec80e
+status: Standard

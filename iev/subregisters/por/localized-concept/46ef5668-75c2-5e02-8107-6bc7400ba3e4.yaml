@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-35
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: antena catadióptrica
+    normative_status: preferred
+    type: expression
+  - designation: antena com agregado de reflectores
+    type: expression
+dateAccepted: 2018-11-17
+id: 46ef5668-75c2-5e02-8107-6bc7400ba3e4
+status: Standard

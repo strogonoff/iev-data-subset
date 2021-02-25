@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-29-02
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: profondità di penetrazione della potenza
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fbb3588a-49eb-56ae-a88e-ab470dc6dcf0
+status: Standard

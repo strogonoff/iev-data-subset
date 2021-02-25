@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 561-02-83
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 无用响应
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a979448-3eb0-5c31-913e-b143059965fc
+status: Standard

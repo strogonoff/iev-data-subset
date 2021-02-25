@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  examples: []
+  id: 841-22-14
+  language_code: ara
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تبريد
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-09-01
+id: 0022c391-9160-5610-95d5-3d73558a1dc7
+status: Standard

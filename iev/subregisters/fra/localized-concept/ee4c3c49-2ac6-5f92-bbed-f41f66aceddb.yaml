@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  definition: retour d'un dispositif d'interrogation séquentielle à une origine fixe
+  examples: []
+  id: 714-15-13
+  language_code: fra
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: retour à l'origine
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: ee4c3c49-2ac6-5f92-bbed-f41f66aceddb
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-36-05
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zaporedno vzbujan
+    normative_status: preferred
+    type: expression
+  - designation: kompaundirano vzbujan
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 55ca8b5e-f481-522c-bd95-d6a3a44b88ba
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-01-58
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 自动化等级
+    normative_status: preferred
+    type: expression
+  - designation: GOA
+    type: expression
+dateAccepted: 2018-11-17
+id: 6f6634fc-ef64-5090-93fe-501d98033760
+status: Standard

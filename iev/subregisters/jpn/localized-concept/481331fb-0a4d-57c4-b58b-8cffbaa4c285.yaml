@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-08-23
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 零位相基準
+    normative_status: preferred
+    type: expression
+    usage_info: ＰＡＬ方式
+dateAccepted: 2018-11-17
+id: 481331fb-0a4d-57c4-b58b-8cffbaa4c285
+status: Standard

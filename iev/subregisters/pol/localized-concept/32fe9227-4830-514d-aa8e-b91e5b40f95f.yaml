@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-42-39
+  language_code: pol
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: mechanizm wnioskowania
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 32fe9227-4830-514d-aa8e-b91e5b40f95f
+status: Standard

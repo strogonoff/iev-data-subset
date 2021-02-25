@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 466-08-25
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 継脚
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c9b2fd3f-4f51-5f42-8dc9-8590979edb17
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-78
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 折り返しひずみ成分
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d43c3aa4-1189-5281-8b69-2b546afc141c
+status: Standard

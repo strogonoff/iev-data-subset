@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-21-20
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ciśnienie akustyczne
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 942ea9b2-33fd-56d9-aa3c-bda162339c20
+status: Standard

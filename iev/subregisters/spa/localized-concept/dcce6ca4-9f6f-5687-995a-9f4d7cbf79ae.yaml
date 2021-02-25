@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2007-08-01T00:00:00+00:00'
+  examples: []
+  id: 102-03-39
+  language_code: spa
+  notes: []
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tensor de segundo orden
+    normative_status: preferred
+    type: expression
+  - designation: tensor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-08-01
+id: dcce6ca4-9f6f-5687-995a-9f4d7cbf79ae
+status: Standard

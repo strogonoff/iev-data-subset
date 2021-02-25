@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: irreciprok polarisationsvridare
+    normative_status: preferred
+    type: expression
+  - designation: irreciprok vågvridare
+    type: expression
+dateAccepted: 2018-11-17
+id: 037e833a-9de3-5021-aa12-d42e6c82d53a
+status: Standard

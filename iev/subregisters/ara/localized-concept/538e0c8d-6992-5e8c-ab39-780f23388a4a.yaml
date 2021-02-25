@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 531-16-13
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تيار التشغيل للفتيله او المسخن
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 538e0c8d-6992-5e8c-ab39-780f23388a4a
+status: Standard

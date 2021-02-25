@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-32
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: تحديد كمى غيرمنتظم
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e88ed583-775b-5844-9539-7bafa1171e69
+status: Standard

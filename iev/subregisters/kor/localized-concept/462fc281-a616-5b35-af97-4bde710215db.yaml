@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-09-08
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 상호 변조
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 462fc281-a616-5b35-af97-4bde710215db
+status: Standard

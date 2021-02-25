@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: réponse autre que celle associée au mode de vibration prévu pour l’application
+  examples: []
+  id: 561-02-83
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: résonance indésirable
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d028f292-363c-5a26-9449-f42ea7f0128f
+status: Standard

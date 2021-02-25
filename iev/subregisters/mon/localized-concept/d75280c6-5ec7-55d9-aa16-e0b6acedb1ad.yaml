@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 212-18-31
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: чөлөөт хий
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d75280c6-5ec7-55d9-aa16-e0b6acedb1ad
+status: Standard

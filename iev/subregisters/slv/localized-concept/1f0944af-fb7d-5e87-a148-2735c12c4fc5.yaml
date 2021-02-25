@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-33-08
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: asinhronski motor z navitim rotorjem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1f0944af-fb7d-5e87-a148-2735c12c4fc5
+status: Standard

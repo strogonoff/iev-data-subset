@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-27
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: neutrodino
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8fd76761-bb2b-55bf-9472-b80c87cf7db2
+status: Standard

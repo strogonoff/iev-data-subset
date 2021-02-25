@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-03-52
+  language_code: ita
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: potenza
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 6e37eaa5-042f-5b1e-9898-e7add5639105
+status: Standard

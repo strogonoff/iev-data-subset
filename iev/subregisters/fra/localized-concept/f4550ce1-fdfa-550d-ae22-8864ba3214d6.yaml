@@ -1,0 +1,40 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  definition: quotient de la somme des durées de toutes les {{interruptions de fourniture,
+    IEV:692-07-01}} d'énergie électrique à des clients individuels survenues pendant
+    un intervalle de temps, par le nombre de ces interruptions de fourniture
+  examples: []
+  id: 692-08-05
+  language_code: fra
+  notes:
+  - '`T`, `t`~`ij`~ est la durée de la `i`ème interruption subie par le client `j`
+    et `n`~`j`~ le nombre de fois où le client `j` a été affecté, alors la durée moyenne
+    d’une interruption est donnée par
+
+
+    `T_I = ((sum_i sum_j t_((i j))))/((sum_j n_j))`'
+  - Seules les {{interruptions longues, IEV:692-07-02}} sont prises en compte.
+  - Le terme "client" désigne l’utilisateur final et non un réseau ou une compagnie
+    de distribution intermédiaire.
+  - La durée moyenne d’une interruption peut être utilisée pour décrire des performances
+    réalisées, ou pour estimer les performances futures attendues.
+  - Cette mesure est aussi égale au rapport de l’{{indisponibilité par client desservi,
+    IEV:692-08-03}} à la {{fréquence d’interruption par client desservi, IEV:692-08-01}}.
+  - Cet article portait le numéro 191-27-05 dans l’IEC 60050-191:1990.
+  review_decision_event: published
+  terms:
+  - designation: durée moyenne d’une interruption
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: durée moyenne d’une coupure
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f4550ce1-fdfa-550d-ae22-8864ba3214d6
+status: Standard

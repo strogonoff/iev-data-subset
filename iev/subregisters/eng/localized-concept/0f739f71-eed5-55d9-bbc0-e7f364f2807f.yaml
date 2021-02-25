@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1998-02-01T00:00:00+00:00'
+  definition: instrument consisting of a wire which is rendered incandescent by an
+    electric current with the purpose of burning away tissue during surgery
+  examples: []
+  id: 891-05-16
+  language_code: eng
+  notes: []
+  review_date: '1998-02-01T00:00:00+00:00'
+  review_decision_date: '1998-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: electrocautery
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-02-01
+id: 0f739f71-eed5-55d9-bbc0-e7f364f2807f
+status: Standard

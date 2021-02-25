@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: coordonnées trichromatiques des stimuli monochromatiques
+  examples: []
+  id: 845-23-055
+  language_code: fra
+  notes:
+  - Cet article était numéroté 845-03-36 dans l'IEC 60050-845:1987.
+  review_decision_event: published
+  terms:
+  - designation: coordonnées trichromatiques spectrales
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: c3e3242e-aba0-50c3-8ee7-a2e0e6194497
+status: Standard

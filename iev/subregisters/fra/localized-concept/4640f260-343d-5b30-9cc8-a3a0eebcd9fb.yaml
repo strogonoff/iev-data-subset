@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: reconstitution du signal original à partir du signal produit par embrouillage
+  examples: []
+  id: 723-10-90
+  language_code: fra
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: désembrouillage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 4640f260-343d-5b30-9cc8-a3a0eebcd9fb
+status: Standard

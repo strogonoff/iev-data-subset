@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: jpn
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 長さ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 66e8e6eb-280d-541f-996a-e225650df322
+status: Standard

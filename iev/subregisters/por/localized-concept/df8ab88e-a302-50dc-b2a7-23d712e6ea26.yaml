@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-05-16
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: electrocautério
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: df8ab88e-a302-50dc-b2a7-23d712e6ea26
+status: Standard

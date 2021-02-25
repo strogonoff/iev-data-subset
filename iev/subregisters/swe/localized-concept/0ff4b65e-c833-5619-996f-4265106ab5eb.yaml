@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-21-20
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ljudtryck
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ff4b65e-c833-5619-996f-4265106ab5eb
+status: Standard

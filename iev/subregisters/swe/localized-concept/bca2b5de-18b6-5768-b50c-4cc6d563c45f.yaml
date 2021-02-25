@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-30-02
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: elektronstrålevärmning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bca2b5de-18b6-5768-b50c-4cc6d563c45f
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-15-06
+  language_code: nob
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: elektrisk kretsmodell
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 11d791d4-d76b-53c5-95d0-092735b3e8f5
+status: Standard

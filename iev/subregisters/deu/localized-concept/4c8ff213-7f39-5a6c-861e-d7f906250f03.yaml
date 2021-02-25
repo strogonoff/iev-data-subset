@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-43-11
+  language_code: deu
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: archivieren
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 4c8ff213-7f39-5a6c-861e-d7f906250f03
+status: Standard

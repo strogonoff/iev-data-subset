@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-08-23
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: nollfasreferens
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c658ebff-361c-58e4-a807-d7524d47265d
+status: Standard

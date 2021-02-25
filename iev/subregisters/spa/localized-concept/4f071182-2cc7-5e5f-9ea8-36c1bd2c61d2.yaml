@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 121-11-11
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: densidad de corriente (eléctrica)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4f071182-2cc7-5e5f-9ea8-36c1bd2c61d2
+status: Standard

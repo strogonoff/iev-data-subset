@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-30-02
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 電子ビーム加熱
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bb312dbb-6ead-5631-b454-45b5d14d8bd5
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 113-03-52
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 힘
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4e86ac0a-71a2-5b0c-a642-1442ca698efa
+status: Standard

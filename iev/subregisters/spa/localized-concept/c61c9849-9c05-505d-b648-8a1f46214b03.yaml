@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-16-13
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: "eficiencia relativa de un soporte magnético (respecto a un soporte\
+      \ magnético\r\nde referencia)"
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c61c9849-9c05-505d-b648-8a1f46214b03
+status: Standard

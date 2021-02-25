@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-02-65
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 알파입자
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7c4b7936-ade3-575f-b1ff-db3a6522598a
+status: Standard

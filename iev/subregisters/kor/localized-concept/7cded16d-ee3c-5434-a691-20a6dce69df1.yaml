@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 651-23-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 도전 신발
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7cded16d-ee3c-5434-a691-20a6dce69df1
+status: Standard

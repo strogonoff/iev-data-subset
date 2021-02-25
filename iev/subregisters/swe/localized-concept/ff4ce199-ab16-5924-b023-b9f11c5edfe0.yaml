@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-05-09
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: paketförmedling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ff4ce199-ab16-5924-b023-b9f11c5edfe0
+status: Standard

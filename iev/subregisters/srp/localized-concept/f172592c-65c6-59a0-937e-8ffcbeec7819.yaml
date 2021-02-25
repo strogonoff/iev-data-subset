@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 551-16-51
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: интервал инверзно-непроводног кола
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f172592c-65c6-59a0-937e-8ffcbeec7819
+status: Standard

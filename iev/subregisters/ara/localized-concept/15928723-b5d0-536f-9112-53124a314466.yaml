@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1991-11-01T00:00:00+00:00'
+  examples: []
+  id: 721-13-07
+  language_code: ara
+  notes: []
+  review_date: '1991-11-01T00:00:00+00:00'
+  review_decision_date: '1991-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مستقبل ناسوخ مستمر
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 15928723-b5d0-536f-9112-53124a314466
+status: Standard

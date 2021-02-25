@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 715-06-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 최종 선택 회선군
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e50efefd-84a8-504b-8e69-a225d5b7aafe
+status: Standard

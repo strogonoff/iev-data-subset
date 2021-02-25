@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  definition: entité pris en considération, défini selon sa fonction ou son effet
+  examples: []
+  id: 351-56-02
+  language_code: fra
+  notes:
+  - Une unité fonctionnelle produit un effet interactif entre les variables d'entrée
+    et les variables de sortie.
+  - Une unité fonctionnelle peut être mise en application par une ou plusieurs unités
+    physiques ou modules de programme.
+  - 'Si des termes composés sont utilisés pour désigner des unités fonctionnelles,
+    il convient d''utiliser les termes suivants comme premier terme (dans l''ordre
+    d''importance croissant),
+
+
+    * élément,*  système.'
+  - Cet article était numéroté 351-32-02 dans la CEI 60050-351:2006.
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: unité fonctionnelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: cf1705a0-384b-55db-9385-8ff0e76585de
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: боломжит шилжилтийн сэргэх хүчдэл
+    normative_status: preferred
+    type: expression
+    usage_info: хэлхээний
+dateAccepted: 2018-11-17
+id: 0926c92c-a100-5e3b-9c28-3847580f232e
+status: Standard

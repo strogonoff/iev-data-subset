@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-050
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 亮度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c9f2aaea-9660-5a4e-9c97-9de0d5eff1ee
+status: Standard

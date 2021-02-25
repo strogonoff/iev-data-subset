@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-19
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 다상태 변조
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ccccd096-7522-517f-9fdc-73312f3e3595
+status: Standard

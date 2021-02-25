@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 121-11-11
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 传导电流密度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 47ccba0b-8033-59f9-92df-792617f9d47c
+status: Standard

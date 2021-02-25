@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: nivel gris
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 42fd9a6c-1fa9-5ba3-b201-68ec8eb80855
+status: Standard

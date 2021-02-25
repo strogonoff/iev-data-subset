@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-19
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: modulazione multi-stato
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7a20bfe4-c383-5f06-a7d8-eb361481b107
+status: Standard

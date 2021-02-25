@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  definition: '`t` d’une énergie `E` en cours de transfert ou de transformation, soit
+    `P = ((d E))/((d t))`'
+  examples: []
+  id: 113-03-52
+  language_code: fra
+  notes:
+  - 1 Pour la puissance dans les circuits électriques, voir la CEI 60050-131.
+  - 2 L'unité SI cohérente de puissance est le watt, W.
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: puissance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 1ee6bf65-e414-5836-a947-2ca18cb9c725
+status: Standard

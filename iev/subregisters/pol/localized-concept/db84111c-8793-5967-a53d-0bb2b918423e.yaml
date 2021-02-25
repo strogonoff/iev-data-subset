@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przestawienie ręczne zależne (łącznika mechanizmowego)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: db84111c-8793-5967-a53d-0bb2b918423e
+status: Standard

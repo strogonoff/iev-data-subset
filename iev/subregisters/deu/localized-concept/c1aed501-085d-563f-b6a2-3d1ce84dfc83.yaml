@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Wasserkraftwerk
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c1aed501-085d-563f-b6a2-3d1ce84dfc83
+status: Standard

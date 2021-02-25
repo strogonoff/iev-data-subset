@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-33-08
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: motor assíncrono de rotor bobinado
+    normative_status: preferred
+    type: expression
+  - designation: motor de indução de rotor bobinado
+    type: expression
+dateAccepted: 2018-11-17
+id: eddd0657-826a-57b7-a943-31cef9f59393
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 466-08-25
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: их биеийн нэмэлт
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c8442410-942c-5328-9d55-a7d2135fd81c
+status: Standard

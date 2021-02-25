@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-13-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 連続式ファクシミリ受信機
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bf4c4a3c-00a2-5f01-9d81-3b9009aaf086
+status: Standard

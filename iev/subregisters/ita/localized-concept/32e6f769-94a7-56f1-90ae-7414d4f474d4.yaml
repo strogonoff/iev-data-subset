@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: livello del grigio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 32e6f769-94a7-56f1-90ae-7414d4f474d4
+status: Standard

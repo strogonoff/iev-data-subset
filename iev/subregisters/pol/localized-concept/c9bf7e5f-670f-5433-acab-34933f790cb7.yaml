@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-42
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: aktywność
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c9bf7e5f-670f-5433-acab-34933f790cb7
+status: Standard

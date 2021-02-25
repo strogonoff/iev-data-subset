@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  definition: mire d’essai de gris ayant subi une rotation de 90 degrés, utilisée
+    pour la seconde méthode de mesure du rapport signal sur bruit de la voie luminance
+  examples: []
+  id: 808-03-10
+  language_code: fra
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: mire d’essai de gris verticale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: dee6573d-0dfb-5119-8acb-b6538f3940e9
+status: Standard

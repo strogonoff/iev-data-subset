@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-27
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: neutrodina
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6f2bd362-8fbf-537a-8307-36602ed12b2a
+status: Standard

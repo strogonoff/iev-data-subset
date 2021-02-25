@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1995-09-01T00:00:00+00:00'
+  examples: []
+  id: 705-05-37
+  language_code: ara
+  notes: []
+  review_date: '1995-09-01T00:00:00+00:00'
+  review_decision_date: '1995-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: انتشار عبر الأفق
+    normative_status: preferred
+    type: expression
+dateAccepted: 1995-09-01
+id: 026a45cd-745f-5875-95e6-915f292ee658
+status: Standard

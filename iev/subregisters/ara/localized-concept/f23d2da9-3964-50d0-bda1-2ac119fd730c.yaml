@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2002-05-01T00:00:00+00:00'
+  examples: []
+  id: 521-04-06
+  language_code: ara
+  notes: []
+  review_date: '2002-05-01T00:00:00+00:00'
+  review_decision_date: '2002-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: صمام ثنائى احادى النفق
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-05-01
+id: f23d2da9-3964-50d0-bda1-2ac119fd730c
+status: Standard

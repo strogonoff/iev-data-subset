@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 지시장치
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9b026bef-c996-59df-8c87-cb6b4d8f05f9
+status: Standard

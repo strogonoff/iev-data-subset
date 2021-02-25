@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-08
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vertikaler Bildschlupf
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 55cb371b-146d-5322-a98a-ca5f02b8358e
+status: Standard

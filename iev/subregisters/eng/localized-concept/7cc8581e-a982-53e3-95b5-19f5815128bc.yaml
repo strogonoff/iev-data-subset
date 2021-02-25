@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2020-05-01T00:00:00+00:00'
+  definition: '{{measuring relay, IEV:447-01-02}} that, by its design or application,
+    is intended to respond primarily to power system earth faults (ground faults)'
+  examples: []
+  id: 447-01-34
+  language_code: eng
+  notes: []
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: earth fault relay
+    normative_status: preferred
+    type: expression
+  - designation: ground fault relay
+    geographical_area: US
+    type: expression
+dateAccepted: 2020-05-01
+id: 7cc8581e-a982-53e3-95b5-19f5815128bc
+status: Standard

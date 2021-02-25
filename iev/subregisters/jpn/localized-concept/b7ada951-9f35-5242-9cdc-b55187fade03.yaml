@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-02-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 直線トラック密度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b7ada951-9f35-5242-9cdc-b55187fade03
+status: Standard

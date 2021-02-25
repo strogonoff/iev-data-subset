@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-16-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: efficienza del supporto magnetico (rispetto a un supporto magnetico
+      di riferimento)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 13047c83-82be-543e-aa40-08c494e30c72
+status: Standard

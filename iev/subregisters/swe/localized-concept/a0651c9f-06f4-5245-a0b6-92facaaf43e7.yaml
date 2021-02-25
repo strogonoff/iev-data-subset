@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-42
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: aktivitet
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a0651c9f-06f4-5245-a0b6-92facaaf43e7
+status: Standard

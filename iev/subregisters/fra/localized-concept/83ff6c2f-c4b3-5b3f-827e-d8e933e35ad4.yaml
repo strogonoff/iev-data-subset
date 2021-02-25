@@ -1,0 +1,29 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2000-07-01T00:00:00+00:00'
+  definition: tension transitoire de rétablissement qui suit la coupure du courant
+    présumé symétrique par un appareil de connexion idéal
+  examples: []
+  id: 441-17-29
+  language_code: fra
+  notes:
+  - La définition implique que l'appareil de connexion ou le fusible, pour lequel
+    la tension transitoire de rétablissement est recherchée, est remplacé par un appareil
+    de connexion idéal, c'est-à-dire dont l'impédance passe instantanément de la valeur
+    zéro à la valeur infinie à l'instant du zéro de courant, c'est-à-dire au zéro
+    "naturel". Pour des circuits ayant plusieurs voies, par exemple un circuit polyphasé,
+    on suppose en outre que la coupure du courant par l'appareil de connexion idéal
+    n'a lieu que sur le pôle considéré.
+  review_date: '2000-07-01T00:00:00+00:00'
+  review_decision_date: '2000-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tension transitoire de rétablissement présumée
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 83ff6c2f-c4b3-5b3f-827e-d8e933e35ad4
+status: Standard

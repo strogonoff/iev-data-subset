@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 461-09-05
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: merilni kabel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0a0893ed-4f27-5fb0-9bd4-aec5ef2df0a1
+status: Standard

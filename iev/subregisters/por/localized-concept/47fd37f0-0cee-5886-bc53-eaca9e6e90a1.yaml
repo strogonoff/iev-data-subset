@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-050
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: luminância
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 47fd37f0-0cee-5886-bc53-eaca9e6e90a1
+status: Standard

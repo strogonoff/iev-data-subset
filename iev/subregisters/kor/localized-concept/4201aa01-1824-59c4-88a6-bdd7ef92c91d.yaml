@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 901-03-06
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 표준 단체
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4201aa01-1824-59c4-88a6-bdd7ef92c91d
+status: Standard

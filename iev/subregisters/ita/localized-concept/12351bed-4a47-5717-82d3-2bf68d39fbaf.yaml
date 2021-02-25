@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-02-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: errore di convergenza
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 12351bed-4a47-5717-82d3-2bf68d39fbaf
+status: Standard

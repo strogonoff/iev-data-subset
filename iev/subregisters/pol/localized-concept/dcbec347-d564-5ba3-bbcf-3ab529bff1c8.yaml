@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-03-12
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: efekt krawędziowy
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dcbec347-d564-5ba3-bbcf-3ab529bff1c8
+status: Standard

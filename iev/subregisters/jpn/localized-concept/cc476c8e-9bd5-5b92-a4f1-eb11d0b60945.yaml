@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 起動時間
+    normative_status: preferred
+    type: expression
+    usage_info: 保管停止状態を維持するために外部エネルギーを必要とする燃料電池発電システムの場合
+dateAccepted: 2018-11-17
+id: cc476c8e-9bd5-5b92-a4f1-eb11d0b60945
+status: Standard

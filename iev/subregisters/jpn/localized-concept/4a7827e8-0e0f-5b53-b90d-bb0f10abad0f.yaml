@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-047
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 幾何学的広がり
+    normative_status: preferred
+    type: expression
+    usage_info: 光ビームの
+  - designation: 幾何的広がり
+    type: expression
+dateAccepted: 2018-11-17
+id: 4a7827e8-0e0f-5b53-b90d-bb0f10abad0f
+status: Standard

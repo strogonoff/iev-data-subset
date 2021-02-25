@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-90
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: avskrambling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bd6c4d54-4be5-5853-87f1-8a0fca05c3fa
+status: Standard

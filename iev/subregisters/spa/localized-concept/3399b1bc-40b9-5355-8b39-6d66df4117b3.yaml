@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-13
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: retorno al origen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3399b1bc-40b9-5355-8b39-6d66df4117b3
+status: Standard

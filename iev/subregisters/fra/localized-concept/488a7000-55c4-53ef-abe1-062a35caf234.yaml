@@ -1,0 +1,37 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '1992-04-01T00:00:00+00:00'
+  definition: antenne constituée par une source primaire et un réflecteur composé
+    d'éléments disposés sur une surface et réglés de façon que l'onde réfléchie par
+    chacun d'eux ait la phase voulue pour que l'ensemble possède le diagramme de rayonnement
+    désiré
+  examples: []
+  id: 712-05-35
+  language_code: fra
+  notes:
+  - Les éléments du réflecteur sont en général des tronçons de guide d'ondes contenant
+    des déphaseurs électriques et terminés par des courts-circuits.
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: antenne catadioptrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: antenne à réflecteur déphaseur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: antenne à réflecteur réactif
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-04-01
+id: 488a7000-55c4-53ef-abe1-062a35caf234
+status: Standard

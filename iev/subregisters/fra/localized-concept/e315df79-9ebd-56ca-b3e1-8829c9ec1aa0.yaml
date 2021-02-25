@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: dispositif pouvant être fixé au matériel pour présenter un gaz d'essai
+    au capteur de manière reproductible
+  examples: []
+  id: 426-24-75
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: masque pour étalonnage et essai
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e315df79-9ebd-56ca-b3e1-8829c9ec1aa0
+status: Standard

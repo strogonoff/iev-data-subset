@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-78
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vikningskomponent
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 96ada788-5cfe-5c6e-a151-b9bcbfdc98cf
+status: Standard

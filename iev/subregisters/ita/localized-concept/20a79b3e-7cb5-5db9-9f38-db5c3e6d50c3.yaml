@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-31-051
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: portata visiva di pista
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 20a79b3e-7cb5-5db9-9f38-db5c3e6d50c3
+status: Standard

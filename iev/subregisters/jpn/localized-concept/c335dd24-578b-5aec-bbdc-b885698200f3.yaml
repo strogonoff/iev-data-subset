@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-17
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ラッチング
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c335dd24-578b-5aec-bbdc-b885698200f3
+status: Standard

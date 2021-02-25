@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-076
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: CIE 1976 L*a*b* Farbraum
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: CIELAB-Farbraum
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7c6a51d4-0a4f-5b97-aed6-7fba2a360a88
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2012-05-01T00:00:00+00:00'
+  examples: []
+  id: 466-08-25
+  language_code: nno
+  notes: []
+  review_date: '2012-05-01T00:00:00+00:00'
+  review_decision_date: '2012-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: masteforlenging
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-05-01
+id: be7f07af-6a7d-5aca-978d-21b80d5f0f82
+status: Standard

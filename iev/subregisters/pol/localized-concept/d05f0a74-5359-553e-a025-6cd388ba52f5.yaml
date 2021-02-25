@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-05-05
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zaczep ujemny
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d05f0a74-5359-553e-a025-6cd388ba52f5
+status: Standard

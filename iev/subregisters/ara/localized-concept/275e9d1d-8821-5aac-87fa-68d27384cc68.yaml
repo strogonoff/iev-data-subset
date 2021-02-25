@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-15
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: مُرَحِّل تحكم
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 275e9d1d-8821-5aac-87fa-68d27384cc68
+status: Standard

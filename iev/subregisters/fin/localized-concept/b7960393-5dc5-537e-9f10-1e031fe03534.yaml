@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-01-17
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: fermitaso
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b7960393-5dc5-537e-9f10-1e031fe03534
+status: Standard

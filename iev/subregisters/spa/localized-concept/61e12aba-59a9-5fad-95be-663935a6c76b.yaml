@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-15-76
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: inestabilidad del nivel de salida a largo plazo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 61e12aba-59a9-5fad-95be-663935a6c76b
+status: Standard

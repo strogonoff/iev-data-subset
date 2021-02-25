@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-31-41
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ânodo (de uma tocha de plasma de arco não transferido ou transferido)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cd6ef76a-1568-5eeb-b008-f5ed76e153c6
+status: Standard

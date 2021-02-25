@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1990-10-01T00:00:00+00:00'
+  definition: a dry-type transformer having one or more windings encapsulated with
+    solid insulation
+  examples: []
+  id: 421-01-20
+  language_code: eng
+  notes: []
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: encapsulated-winding dry-type transformer
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: 54a41876-92d8-5097-90c8-6c34af734758
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-15
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 控制继电器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a6a52747-0d46-579c-a11e-d0caed79a6b1
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-15-01
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kytkinlaitteen napa
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a3aa22a6-c096-517b-8faf-4821e8708ea8
+status: Standard

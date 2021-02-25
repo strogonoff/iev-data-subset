@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 461-09-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 측정 케이블
+    normative_status: preferred
+    type: expression
+  - designation: 측정 전선
+    type: expression
+dateAccepted: 2018-11-17
+id: ba961627-3370-5a1b-b4f8-225d88aac586
+status: Standard

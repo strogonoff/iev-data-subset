@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 448-14-04
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: једносистемска дистантна заштита
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2be1c01c-bf5f-599a-ab73-7dfd9c00c2e4
+status: Standard

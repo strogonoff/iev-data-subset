@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2001-07-01T00:00:00+00:00'
+  definition: electric current the value of which exceeds a specified limiting value
+  examples: []
+  id: 151-15-28
+  language_code: eng
+  notes: []
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: overcurrent
+    normative_status: preferred
+    type: expression
+dateAccepted: 2001-07-01
+id: 09905bf3-789d-55c4-8f00-abcefa56e1c0
+status: Standard

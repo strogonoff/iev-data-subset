@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-14-19
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: spazzola
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 15c049d3-1731-594a-a8a9-4b46565925ae
+status: Standard

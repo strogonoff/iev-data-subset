@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 停電需要家の一回当たりの平均停電時間
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4ebf8eae-0c51-5d16-81e5-00d876bb1e20
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-10
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mira de escala de grises vertical
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c790a6f3-45ae-52c9-9ce7-31452cb23863
+status: Standard

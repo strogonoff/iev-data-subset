@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tempo di avviamento
+    normative_status: preferred
+    type: expression
+    usage_info: per sistemi di potenza a celle a combustibile che richiedono energia
+      dall'esterno per mantenere lo stato di immagazzinamento
+dateAccepted: 2018-11-17
+id: 2b8a0432-da19-5a76-8182-e69e90b1639a
+status: Standard

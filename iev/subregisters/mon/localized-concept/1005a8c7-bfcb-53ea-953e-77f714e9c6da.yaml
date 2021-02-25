@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: усан цахилгаан станц
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1005a8c7-bfcb-53ea-953e-77f714e9c6da
+status: Standard

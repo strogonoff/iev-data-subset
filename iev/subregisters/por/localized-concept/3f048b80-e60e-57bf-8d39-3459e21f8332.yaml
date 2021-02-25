@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2007-11-01T00:00:00+00:00'
+  examples: []
+  id: 411-53-58
+  language_code: por
+  notes: []
+  review_date: '2007-11-01T00:00:00+00:00'
+  review_decision_date: '2007-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: protecção térmica
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01
+id: 3f048b80-e60e-57bf-8d39-3459e21f8332
+status: Standard

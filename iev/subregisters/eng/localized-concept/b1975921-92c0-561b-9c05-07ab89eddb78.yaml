@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2014-11-01T00:00:00+00:00'
+  definition: response other than that associated with the mode of vibration intended
+    for the application
+  examples: []
+  id: 561-02-83
+  language_code: eng
+  notes: []
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: unwanted response
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01
+id: b1975921-92c0-561b-9c05-07ab89eddb78
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  examples: []
+  id: 806-15-76
+  language_code: ara
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: عدم استقرار مستوى الخرج طويل المدى
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: 003258a3-ae7c-535c-a9b2-4900bb7a1545
+status: Standard

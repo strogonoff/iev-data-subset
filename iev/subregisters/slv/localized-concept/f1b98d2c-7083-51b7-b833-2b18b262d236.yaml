@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-11
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sklopni kondenzator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f1b98d2c-7083-51b7-b833-2b18b262d236
+status: Standard

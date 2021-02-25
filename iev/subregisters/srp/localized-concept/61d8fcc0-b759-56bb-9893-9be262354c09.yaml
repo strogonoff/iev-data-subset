@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 901-01-16
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: заштита животне средине
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 61d8fcc0-b759-56bb-9893-9be262354c09
+status: Standard

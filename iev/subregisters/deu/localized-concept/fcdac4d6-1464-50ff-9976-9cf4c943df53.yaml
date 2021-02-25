@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-13-32
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Relativgeschwindigkeit der Rille
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fcdac4d6-1464-50ff-9976-9cf4c943df53
+status: Standard

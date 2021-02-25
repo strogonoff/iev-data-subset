@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: échange thermique entre deux surfaces par interaction directe avec le
+    gaz résiduel présent dans le vide qui les sépare
+  examples: []
+  id: 815-15-14
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: échange thermique par gaz résiduel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ea13080d-c5f6-5270-a413-ee66d6672f33
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-20
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: överlagring
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 636f18cb-eff1-5ec7-b6d2-69481f123a5b
+status: Standard

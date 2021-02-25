@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-24-13
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: инфрацрвени керамички грејач
+    normative_status: preferred
+    type: expression
+  - designation: инфрацрвени керамички електротермички уређај
+    type: expression
+dateAccepted: 2018-11-17
+id: f3710e8b-ba09-51c3-87ad-12ef192ad906
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-31-41
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: anodo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 758f5fb8-b6f7-542f-afcc-679d6dc23d33
+status: Standard

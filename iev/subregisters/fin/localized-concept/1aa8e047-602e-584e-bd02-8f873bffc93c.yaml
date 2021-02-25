@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: pitkittäiskatkaisijakisko
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1aa8e047-602e-584e-bd02-8f873bffc93c
+status: Standard

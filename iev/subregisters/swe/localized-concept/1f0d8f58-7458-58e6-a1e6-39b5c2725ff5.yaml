@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-09-08
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: intermodulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1f0d8f58-7458-58e6-a1e6-39b5c2725ff5
+status: Standard

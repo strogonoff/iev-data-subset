@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-12-51
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: poder de frenado másico por radiación
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c521b2f0-19fc-5eef-a616-1519c6925c1f
+status: Standard

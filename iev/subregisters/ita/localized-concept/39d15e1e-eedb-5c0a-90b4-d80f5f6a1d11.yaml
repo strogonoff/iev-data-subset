@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-13-32
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: velocità del solco
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 39d15e1e-eedb-5c0a-90b4-d80f5f6a1d11
+status: Standard

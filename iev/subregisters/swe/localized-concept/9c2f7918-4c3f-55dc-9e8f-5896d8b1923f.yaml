@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-15-76
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: långtidsinstabilitet
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9c2f7918-4c3f-55dc-9e8f-5896d8b1923f
+status: Standard

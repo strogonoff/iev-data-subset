@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-61
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 전선 관통 장치
+    normative_status: preferred
+    type: expression
+    usage_info: 원자로
+  - designation: 전기 관통관 집합체
+    type: expression
+    usage_info: 원자로
+dateAccepted: 2018-11-17
+id: 6b8c0b42-aca7-5e2f-b1f3-78eeac96131d
+status: Standard

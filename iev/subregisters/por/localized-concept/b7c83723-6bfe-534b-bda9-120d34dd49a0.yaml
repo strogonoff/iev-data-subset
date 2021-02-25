@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-12-51
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: poder de paragem mássico por radiação
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b7c83723-6bfe-534b-bda9-120d34dd49a0
+status: Standard

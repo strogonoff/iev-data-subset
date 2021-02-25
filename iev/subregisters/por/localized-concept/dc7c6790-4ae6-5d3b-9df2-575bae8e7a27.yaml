@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-15-01
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ruído de tubo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dc7c6790-4ae6-5d3b-9df2-575bae8e7a27
+status: Standard

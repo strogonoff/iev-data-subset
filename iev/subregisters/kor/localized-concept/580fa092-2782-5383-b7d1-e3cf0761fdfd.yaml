@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-19
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 브이자형 도표
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 580fa092-2782-5383-b7d1-e3cf0761fdfd
+status: Standard

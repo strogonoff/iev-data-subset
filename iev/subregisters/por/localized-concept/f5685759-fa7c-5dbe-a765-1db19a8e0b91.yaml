@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 561-02-83
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ressonância indesejável
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f5685759-fa7c-5dbe-a765-1db19a8e0b91
+status: Standard

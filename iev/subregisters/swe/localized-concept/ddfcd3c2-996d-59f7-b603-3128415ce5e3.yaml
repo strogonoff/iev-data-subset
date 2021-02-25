@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-37-34
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: enkel våglindning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ddfcd3c2-996d-59f7-b603-3128415ce5e3
+status: Standard

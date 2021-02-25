@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 371-01-04
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 遠隔表示
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 97faae07-4e5d-521a-a952-9eef47220ee0
+status: Standard

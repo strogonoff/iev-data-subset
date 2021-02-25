@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-02-21
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: odbiornik przywołania tonalny
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bf1ee22d-2e69-5c5d-a15d-878820b168eb
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-03-04
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mobilradio via satellit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8910f31c-b166-59d1-9bf5-5026d9634f2b
+status: Standard

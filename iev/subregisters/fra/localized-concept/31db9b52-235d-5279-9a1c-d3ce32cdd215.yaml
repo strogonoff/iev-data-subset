@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: bobine dont l'enroulement est en forme de selle de cheval, de façon
+    à s’adapter sur une structure cylindrique, utilisée pour produire un champ magnétique
+    perpendiculaire à l’axe de la structure cylindrique
+  examples: []
+  id: 815-16-08
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: bobine en selle de cheval
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 31db9b52-235d-5279-9a1c-d3ce32cdd215
+status: Standard

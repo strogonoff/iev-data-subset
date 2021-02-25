@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: załączenie
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e91eb1b-752b-5f61-a69f-e1ee03b69017
+status: Standard

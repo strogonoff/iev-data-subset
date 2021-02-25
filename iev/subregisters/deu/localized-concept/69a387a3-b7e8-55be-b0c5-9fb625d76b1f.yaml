@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-01-13
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Frequenzdrift
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 69a387a3-b7e8-55be-b0c5-9fb625d76b1f
+status: Standard

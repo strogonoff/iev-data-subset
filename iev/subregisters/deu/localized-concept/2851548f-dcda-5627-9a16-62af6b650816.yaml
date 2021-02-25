@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-17-07
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Bruchzähigkeit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2851548f-dcda-5627-9a16-62af6b650816
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-14-19
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 브러시
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a2a6fab7-508c-55bb-863d-842f45b8265f
+status: Standard

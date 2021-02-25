@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-076
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: '`L`* `a`* `b`* CIE 1976'
+    normative_status: preferred
+    type: expression
+  - designation: espaço cromático CIELAB
+    type: expression
+dateAccepted: 2018-11-17
+id: 572174f2-fd80-5a67-90ff-32f223df15a8
+status: Standard

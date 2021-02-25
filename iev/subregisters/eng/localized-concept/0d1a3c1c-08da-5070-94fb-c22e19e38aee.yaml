@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: a vertical displacement or movement of the picture due to a field synchronization
+    fault
+  examples: []
+  id: 723-06-08
+  language_code: eng
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: vertical picture slip
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 0d1a3c1c-08da-5070-94fb-c22e19e38aee
+status: Standard

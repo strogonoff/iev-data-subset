@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-18-02
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: alternador principal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 677356f9-69d8-56a3-84f7-17d9c2c3e8d2
+status: Standard

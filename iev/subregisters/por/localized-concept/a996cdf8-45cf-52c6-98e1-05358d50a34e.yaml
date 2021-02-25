@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 461-09-05
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: cabo de medição
+    normative_status: preferred
+    type: expression
+  - designation: cabo de instrumentação
+    type: expression
+dateAccepted: 2018-11-17
+id: a996cdf8-45cf-52c6-98e1-05358d50a34e
+status: Standard

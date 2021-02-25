@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: rotator polaryzacji nieodwracalny
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c726fbe3-ec64-582c-a619-b43b588a2441
+status: Standard

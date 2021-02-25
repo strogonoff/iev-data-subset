@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-24-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 적외선 세라믹 가열기
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fc403904-99eb-5d2b-837c-ce98365a3de7
+status: Standard

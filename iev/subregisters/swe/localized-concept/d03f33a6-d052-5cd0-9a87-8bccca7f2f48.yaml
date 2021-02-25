@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-16-13
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: magnetiska mediets relativa verkningsgrad
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d03f33a6-d052-5cd0-9a87-8bccca7f2f48
+status: Standard

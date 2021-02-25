@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-19
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mehrrstufige Quadratur-Amplitudenmodulation
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2534b20e-fbea-5639-9606-fb8e14526e7b
+status: Standard

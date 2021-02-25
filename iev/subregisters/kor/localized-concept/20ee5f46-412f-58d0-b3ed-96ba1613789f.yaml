@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-03-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 방사상 편차
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 20ee5f46-412f-58d0-b3ed-96ba1613789f
+status: Standard

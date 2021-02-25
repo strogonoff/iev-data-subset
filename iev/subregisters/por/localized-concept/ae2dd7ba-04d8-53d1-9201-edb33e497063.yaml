@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: barramento interruptível
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ae2dd7ba-04d8-53d1-9201-edb33e497063
+status: Standard

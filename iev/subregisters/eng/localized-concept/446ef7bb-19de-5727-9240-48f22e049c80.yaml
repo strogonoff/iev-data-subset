@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2020-02-01T00:00:00+00:00'
+  definition: duration required for transitioning from storage state to {{net electric
+    power, IEV:485-14-03}} output
+  examples: []
+  id: 485-20-06
+  language_code: eng
+  notes: []
+  review_date: '2020-02-01T00:00:00+00:00'
+  review_decision_date: '2020-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: start-up time
+    normative_status: preferred
+    type: expression
+    usage_info: for fuel cell power systems that require external power to maintain
+      a storage state
+dateAccepted: 2020-02-01
+id: 446ef7bb-19de-5727-9240-48f22e049c80
+status: Standard

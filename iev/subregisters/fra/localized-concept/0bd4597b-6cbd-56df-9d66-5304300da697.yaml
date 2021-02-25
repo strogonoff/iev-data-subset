@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1990-09-01T00:00:00+00:00'
+  definition: condensateur utilisé pour la transmission de signaux sur un réseau de
+    puissance
+  examples: []
+  id: 436-02-11
+  language_code: fra
+  notes: []
+  review_date: '1990-09-01T00:00:00+00:00'
+  review_decision_date: '1990-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: condensateur de couplage
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1990-09-01
+id: 0bd4597b-6cbd-56df-9d66-5304300da697
+status: Standard

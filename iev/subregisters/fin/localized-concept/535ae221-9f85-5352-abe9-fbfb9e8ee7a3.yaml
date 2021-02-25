@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 461-09-05
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mittauskaapeli
+    normative_status: preferred
+    type: expression
+  - designation: instrumentointikaapeli
+    type: expression
+dateAccepted: 2018-11-17
+id: 535ae221-9f85-5352-abe9-fbfb9e8ee7a3
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-05-17
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: combinación de código
+    normative_status: preferred
+    type: expression
+  - designation: palabra de código
+    type: expression
+dateAccepted: 2018-11-17
+id: 6641573d-01e2-5565-ba00-1cc14be85f4b
+status: Standard

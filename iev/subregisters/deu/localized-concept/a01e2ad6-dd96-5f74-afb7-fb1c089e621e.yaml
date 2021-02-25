@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-04-26
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Klassenanalyse
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a01e2ad6-dd96-5f74-afb7-fb1c089e621e
+status: Standard

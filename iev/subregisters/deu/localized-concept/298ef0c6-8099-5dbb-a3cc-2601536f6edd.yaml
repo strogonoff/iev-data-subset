@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-61
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: elektrische Durchführungen
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: eines Kernreaktors
+dateAccepted: 2018-11-17
+id: 298ef0c6-8099-5dbb-a3cc-2601536f6edd
+status: Standard

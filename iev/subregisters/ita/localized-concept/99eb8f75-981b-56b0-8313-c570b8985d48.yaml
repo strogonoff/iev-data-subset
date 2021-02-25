@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-54
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: selettività
+    normative_status: preferred
+    type: expression
+    usage_info: rilevazione di gas
+dateAccepted: 2018-11-17
+id: 99eb8f75-981b-56b0-8313-c570b8985d48
+status: Standard

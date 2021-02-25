@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 602-01-04
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: محطة توليد كهرومائية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 59a9dcd7-fda5-54fd-951b-01e8bdfebb06
+status: Standard

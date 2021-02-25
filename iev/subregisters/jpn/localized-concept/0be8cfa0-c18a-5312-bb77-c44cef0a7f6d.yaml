@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 実輸送量
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0be8cfa0-c18a-5312-bb77-c44cef0a7f6d
+status: Standard

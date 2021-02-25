@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 715-06-05
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Letztwegbündel
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8b3a9bd4-ce92-53a2-93d2-b2bafaa6320d
+status: Standard

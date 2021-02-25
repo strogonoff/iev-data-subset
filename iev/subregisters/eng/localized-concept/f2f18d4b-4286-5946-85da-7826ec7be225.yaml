@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1991-10-01T00:00:00+00:00'
+  definition: a change in the optical characteristics of a material under the influence
+    of a magnetic field
+  examples: []
+  id: 731-01-43
+  language_code: eng
+  notes:
+  - Magneto-optic materials generally are used to rotate the polarization of a linearly
+    polarized wave.
+  - The most common effect results in a change in refractive index.
+  review_date: '1991-10-01T00:00:00+00:00'
+  review_decision_date: '1991-10-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: magneto-optic effect
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: f2f18d4b-4286-5946-85da-7826ec7be225
+status: Standard

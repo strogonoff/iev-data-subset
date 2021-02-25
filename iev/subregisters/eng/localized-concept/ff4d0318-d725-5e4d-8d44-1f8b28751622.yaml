@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2016-12-01T00:00:00+00:00'
+  definition: '`n`-bit byte, IEV:702-05-06}}, defined by a {{code, IEV:101-12-04}}
+    to represent an item of data such as a {{character, IEV:702-05-10}}'
+  examples: []
+  id: 702-05-17
+  language_code: eng
+  notes: []
+  release: 702-05-17:1992-03
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: code word
+    normative_status: preferred
+    type: expression
+  - designation: code combination
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-12-01
+id: ff4d0318-d725-5e4d-8d44-1f8b28751622
+status: Standard

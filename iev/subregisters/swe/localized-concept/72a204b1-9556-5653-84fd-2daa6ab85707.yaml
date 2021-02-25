@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-16-13
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: glödström vid inkoppling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 72a204b1-9556-5653-84fd-2daa6ab85707
+status: Standard

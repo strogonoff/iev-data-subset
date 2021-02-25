@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 151-15-28
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sovracorrente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c60927d1-7ce5-5912-b8e2-52cc3234986c
+status: Standard

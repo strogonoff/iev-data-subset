@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-12
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: өндөр хүчдэлийн конденсатор
+    normative_status: preferred
+    type: expression
+    usage_info: багтаамжийн хуваагчийн
+dateAccepted: 2018-11-17
+id: 2f576d85-7b17-59d8-bf8a-5ece4d79e965
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-01-17
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 페르미 레벨
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0bf46e9f-9f41-5886-affa-8d628bbf7bb7
+status: Standard

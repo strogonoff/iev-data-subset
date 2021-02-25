@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-19
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: V字チャート
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4a18b88d-9a9f-549e-9034-57213a7398af
+status: Standard

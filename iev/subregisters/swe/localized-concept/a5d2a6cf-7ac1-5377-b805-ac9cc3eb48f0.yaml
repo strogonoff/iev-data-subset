@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2007-08-01T00:00:00+00:00'
+  examples: []
+  id: 102-03-39
+  language_code: swe
+  notes: []
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tensor
+    normative_status: preferred
+    type: expression
+  - designation: tensor av andra ordningen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-08-01
+id: a5d2a6cf-7ac1-5377-b805-ac9cc3eb48f0
+status: Standard

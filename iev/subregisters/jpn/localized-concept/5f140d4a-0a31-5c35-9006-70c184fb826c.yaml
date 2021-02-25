@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 551-16-51
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 逆阻止期間
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5f140d4a-0a31-5c35-9006-70c184fb826c
+status: Standard

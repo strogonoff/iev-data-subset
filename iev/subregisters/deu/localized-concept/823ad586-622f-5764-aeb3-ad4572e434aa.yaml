@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 731-01-43
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: magnetooptischer Effekt
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 823ad586-622f-5764-aeb3-ad4572e434aa
+status: Standard

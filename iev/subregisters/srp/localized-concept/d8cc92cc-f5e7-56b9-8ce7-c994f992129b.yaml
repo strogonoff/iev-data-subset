@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-04-06
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: унитунел-диода
+    normative_status: preferred
+    type: expression
+  - designation: повратна диода
+    type: expression
+dateAccepted: 2018-11-17
+id: d8cc92cc-f5e7-56b9-8ce7-c994f992129b
+status: Standard

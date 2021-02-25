@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-43-11
+  language_code: ita
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: archiviare
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: dc970479-6943-5641-b2e4-54c50b82bc2b
+status: Standard

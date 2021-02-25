@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-15-06
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kretsmodel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1a3f9b6b-81cb-54a6-a6ca-8bd94b33cd3e
+status: Standard

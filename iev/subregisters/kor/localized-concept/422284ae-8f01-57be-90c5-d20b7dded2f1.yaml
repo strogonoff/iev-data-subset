@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-13-32
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 홈 선형속도
+    normative_status: preferred
+    type: expression
+  - designation: 그루브 선형속도
+    type: expression
+dateAccepted: 2018-11-17
+id: 422284ae-8f01-57be-90c5-d20b7dded2f1
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: efficienza dell'antenna
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d0453385-fe3e-597f-b2db-55cbfaae9300
+status: Standard

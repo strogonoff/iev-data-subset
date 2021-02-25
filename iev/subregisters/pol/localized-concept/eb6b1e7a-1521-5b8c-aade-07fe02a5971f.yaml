@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-41-14
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: wycinek komutatora
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eb6b1e7a-1521-5b8c-aade-07fe02a5971f
+status: Standard

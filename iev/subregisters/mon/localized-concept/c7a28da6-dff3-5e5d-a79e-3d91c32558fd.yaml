@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: хэрэглэгчийн тасалдлын дундаж үргэлжлэх хугацаа
+    normative_status: preferred
+    type: expression
+  - designation: хэрэглэгчийн дундаж тасалдлын үргэлжлэх хугацааны индекс
+    type: expression
+dateAccepted: 2018-11-17
+id: c7a28da6-dff3-5e5d-a79e-3d91c32558fd
+status: Standard

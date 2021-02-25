@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sinal de barragem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 705fcaff-c244-53c5-a14c-ab6c162f09c6
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 741-01-33
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: entità virtuale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fe21d818-8a28-5882-96bc-1e9018f270a9
+status: Standard

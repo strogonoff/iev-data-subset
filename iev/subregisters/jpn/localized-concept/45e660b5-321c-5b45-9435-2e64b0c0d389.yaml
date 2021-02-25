@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-10
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 飛越し走査
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 45e660b5-321c-5b45-9435-2e64b0c0d389
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 371-01-04
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Fernanzeigen
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9828211d-1735-5dee-ae5e-a05762fadcb2
+status: Standard

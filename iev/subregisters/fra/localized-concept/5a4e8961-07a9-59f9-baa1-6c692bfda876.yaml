@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: lieu de température de couleur proximale sur un diagramme de chromaticité
+  examples: []
+  id: 845-23-082
+  language_code: fra
+  notes:
+  - Les lignes d'égale température sont perpendiculaires au lieu des corps noirs dans
+    le diagramme de chromaticité uniforme CIE 1960.
+  review_decision_event: published
+  terms:
+  - designation: ligne d'égale température
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: dans un diagramme de chromaticité
+dateAccepted: 2018-11-17
+id: 5a4e8961-07a9-59f9-baa1-6c692bfda876
+status: Standard

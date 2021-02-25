@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 704-17-21
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: integridad de la secuencia de dígitos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: efefee1f-d35a-5e86-8dbf-31efb397b2b3
+status: Standard

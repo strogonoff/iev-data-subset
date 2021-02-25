@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: élément conducteur d'un collecteur prévu pour le raccordement à l'extrémité
+    commune de sections consécutives d'un enroulement
+  examples: []
+  id: 411-41-14
+  language_code: fra
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: lame de collecteur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 021baa0f-a1ba-5759-aca6-6a7fd788a548
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-18-24
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Verknüpfungscode
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 49acac0f-0e33-58b2-9fe4-68b7800f35de
+status: Standard

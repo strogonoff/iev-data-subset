@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 净运量
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 350dcbe4-09bf-5052-ad01-8a68cc0f720c
+status: Standard

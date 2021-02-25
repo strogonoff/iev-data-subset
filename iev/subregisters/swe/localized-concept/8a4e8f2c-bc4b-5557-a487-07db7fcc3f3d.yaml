@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: beroende handmanöver
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8a4e8f2c-bc4b-5557-a487-07db7fcc3f3d
+status: Standard

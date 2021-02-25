@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 561-02-83
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 不要応答
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e4aaa1cf-0416-5128-8d45-d099232cccf8
+status: Standard

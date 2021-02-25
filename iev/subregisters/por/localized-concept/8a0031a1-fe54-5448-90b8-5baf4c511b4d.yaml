@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: por
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: comprimento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 8a0031a1-fe54-5448-90b8-5baf4c511b4d
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-10-01
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kilövergång
+    normative_status: preferred
+    type: expression
+  - designation: konövergång
+    type: expression
+dateAccepted: 2018-11-17
+id: 2f1c83b7-d987-5604-bc7c-46e83988d556
+status: Standard

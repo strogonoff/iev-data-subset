@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-31-41
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 陽極
+    normative_status: preferred
+    type: expression
+    usage_info: 非移行形又は移行形アークプラズマトーチの
+dateAccepted: 2018-11-17
+id: 64e6c4e9-7be8-5b3a-b634-25f7cd90139b
+status: Standard

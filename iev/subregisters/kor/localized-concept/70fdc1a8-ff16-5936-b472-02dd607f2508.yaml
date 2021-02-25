@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 순 교통량
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 70fdc1a8-ff16-5936-b472-02dd607f2508
+status: Standard

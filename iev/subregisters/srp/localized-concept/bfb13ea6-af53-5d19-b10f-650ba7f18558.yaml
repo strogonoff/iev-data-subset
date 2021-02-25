@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-16-13
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: почетна струја грејања
+    normative_status: preferred
+    type: expression
+  - designation: ударна струја грејања
+    type: expression
+dateAccepted: 2018-11-17
+id: bfb13ea6-af53-5d19-b10f-650ba7f18558
+status: Standard

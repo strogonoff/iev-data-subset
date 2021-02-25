@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-35
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 反射アレイアンテナ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f48d8b79-cb2b-516e-bee7-7ee9e091e646
+status: Standard

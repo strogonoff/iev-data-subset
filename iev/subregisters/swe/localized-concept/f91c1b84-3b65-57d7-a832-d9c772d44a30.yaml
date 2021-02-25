@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-47-15
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: dödtid
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f91c1b84-3b65-57d7-a832-d9c772d44a30
+status: Standard

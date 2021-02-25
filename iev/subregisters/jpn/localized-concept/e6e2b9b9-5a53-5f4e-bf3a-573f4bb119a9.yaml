@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ショット入換信号機
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e6e2b9b9-5a53-5f4e-bf3a-573f4bb119a9
+status: Standard

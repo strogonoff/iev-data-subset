@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-22
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 分路設置リレー
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 803b5fea-1637-5479-af5e-6b460d460f0b
+status: Standard

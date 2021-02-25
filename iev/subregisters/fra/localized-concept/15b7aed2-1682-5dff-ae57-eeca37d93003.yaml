@@ -1,0 +1,45 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '1998-08-01T00:00:00+00:00'
+  definition: '`V`, grandeur vectorielle égale au quotient, par le volume `V`, de
+    la somme, étendue à tous les porteurs de charge libres situés à l''intérieur de
+    l’élément d’espace, des produits de leur charge électrique par leur vitesse:
+
+
+    `J = (1)/(V) sum_((i = 1))^n Q_i v_i`
+
+
+    où `n` est le nombre de porteurs de charge libres à l''intérieur de l’élément
+    d’espace, `Q`~`i`~  la charge électrique du porteur de rang `i` et *`v`*~`i`~
+    sa vitesse.'
+  examples: []
+  id: 121-11-11
+  language_code: fra
+  notes:
+  - '`*J*`  à travers une surface orientée quelconque S est égal au courant électrique
+    `I` à travers cette surface:
+
+
+    `I = underset(S)( int ) J * e_n d A`
+
+
+    où `*e*`~n~d`A` est l''élément vectoriel de surface.'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: densité de courant (électrique)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: densité de courant (de conduction)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1998-08-01
+id: 15b7aed2-1682-5dff-ae57-eeca37d93003
+status: Standard

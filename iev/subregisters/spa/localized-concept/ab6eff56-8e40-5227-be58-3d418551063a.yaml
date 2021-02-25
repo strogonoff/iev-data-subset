@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: uego de barras seccionable (con interruptor o interruptor automático)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ab6eff56-8e40-5227-be58-3d418551063a
+status: Standard

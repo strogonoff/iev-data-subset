@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: at a stated operating point and frequency, the quotient of (1) the fundamental
+    frequency component of the short-circuit current into the accessible terminal
+    of an electrode by (2) the sinusoidal voltage applied to the terminal of another
+    electrode to cause the current, all other terminal potentials being maintained
+    constant
+  examples: []
+  id: 531-17-12
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: transadmittance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 3f9bf763-9fad-54f8-bbca-4738362e3025
+status: Standard

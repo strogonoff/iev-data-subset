@@ -1,0 +1,28 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: '`E`~rad~ by the product of `ρ` and d`l`, where d`E`~rad~ is the energy
+    lost by a charged particle of specified energy by radiation in traversing a path
+    length d`l` in a material of density `ρ`:
+
+
+    `((S_((rad))))/(rho) = (1)/(rho) (( ((d E))/((d l)) ))_((rad))`'
+  examples: []
+  id: 881-12-51
+  language_code: eng
+  notes:
+  - The energy losses included are those that produce bremsstrahlung.
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: radiative mass stopping power
+    normative_status: preferred
+    type: expression
+  - designation: '`S`~rad~/`ρ`'
+    international: true
+    type: symbol
+dateAccepted: 1983-01-01
+id: 460e7977-0a7b-5584-94a9-895f868a737c
+status: Standard

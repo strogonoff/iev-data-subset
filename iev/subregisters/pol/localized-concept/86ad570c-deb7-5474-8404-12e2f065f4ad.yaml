@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-14-19
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: szczotka
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: silnika
+dateAccepted: 2018-11-17
+id: 86ad570c-deb7-5474-8404-12e2f065f4ad
+status: Standard

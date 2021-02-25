@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-41-09
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 주파수 밈 지수
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c8527f35-e9ac-5843-b3bd-399b302b0205
+status: Standard

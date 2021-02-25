@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-53-58
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: lämpösuojaus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 52b4e180-b319-5ebb-a2ed-91c189b9fd6b
+status: Standard

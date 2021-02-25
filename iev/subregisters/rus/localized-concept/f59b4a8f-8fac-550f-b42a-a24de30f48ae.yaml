@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-75
+  language_code: rus
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: маска для калибровки и теста
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f59b4a8f-8fac-550f-b42a-a24de30f48ae
+status: Standard

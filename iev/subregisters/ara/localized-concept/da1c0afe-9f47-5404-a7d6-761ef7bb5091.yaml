@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  examples: []
+  id: 808-02-13
+  language_code: ara
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: خطأ تسجيل
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: da1c0afe-9f47-5404-a7d6-761ef7bb5091
+status: Standard

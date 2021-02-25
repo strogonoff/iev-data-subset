@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-43-11
+  language_code: pol
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: archiwizować
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 37808fc1-6b9b-514f-86f8-b25ad58c2c46
+status: Standard

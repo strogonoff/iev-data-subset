@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 448-14-04
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Distanzschutz mit Auswahlschaltung
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6af7b721-2c3b-58bd-b333-968eb962de43
+status: Standard

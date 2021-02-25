@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: ensemble des diverses opérations effectuées sur un signal de programme,
+    soit pour en faciliter la transmission, soit pour obtenir un son ou une image
+    mieux adaptés aux conditions de réception, soit pour introduire certains effets
+    sonores ou effets spéciaux sur les images, soit pour réduire les brouillages dans
+    les canaux adjacents
+  examples: []
+  id: 723-02-07
+  language_code: fra
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: traitement des signaux (de programme)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: traitement de la modulation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1997-03-01
+id: 94d798b4-897f-54d5-ad07-1fc3095b7314
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: poziom szarości
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c5d815d6-0e1e-5d18-9431-1b9171d1a841
+status: Standard

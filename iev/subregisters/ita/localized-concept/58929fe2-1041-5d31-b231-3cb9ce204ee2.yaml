@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 731-01-43
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: effetto magneto-ottico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 58929fe2-1041-5d31-b231-3cb9ce204ee2
+status: Standard

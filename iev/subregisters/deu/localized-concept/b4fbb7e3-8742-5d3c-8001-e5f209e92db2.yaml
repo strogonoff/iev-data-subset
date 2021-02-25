@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-22
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Nebenschlussrelais
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b4fbb7e3-8742-5d3c-8001-e5f209e92db2
+status: Standard

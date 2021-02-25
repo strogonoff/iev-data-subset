@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zbiralka z vzdolžnim odklopnikom
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dbd8f5d2-40bb-510f-9d8c-43f89d103ed5
+status: Standard

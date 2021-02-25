@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-15-18
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Umgebungsgeräusch
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: in der Telefonie
+dateAccepted: 2018-11-17
+id: b8f33f71-a149-5a57-9c60-e2a750e7a39a
+status: Standard

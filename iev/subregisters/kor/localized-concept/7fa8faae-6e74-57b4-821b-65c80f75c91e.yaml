@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 변조 처리
+    normative_status: preferred
+    type: expression
+  - designation: 신호 처리
+    type: expression
+dateAccepted: 2018-11-17
+id: 7fa8faae-6e74-57b4-821b-65c80f75c91e
+status: Standard

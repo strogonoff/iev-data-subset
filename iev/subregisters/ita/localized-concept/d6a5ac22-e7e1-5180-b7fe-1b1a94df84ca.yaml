@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-29-065
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: rapporto di uscita della luce verso l'alto
+    normative_status: preferred
+    type: expression
+  - designation: ULOR
+    type: expression
+dateAccepted: 2018-11-17
+id: d6a5ac22-e7e1-5180-b7fe-1b1a94df84ca
+status: Standard

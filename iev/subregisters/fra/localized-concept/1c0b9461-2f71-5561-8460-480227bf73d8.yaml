@@ -1,0 +1,77 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '`L_v = ((d I_v))/((d A)) (1)/((cos alpha))`
+
+
+    où `I`~v~ est l''intensité lumineuse, `A` est l''aire et `α` est l''angle entre
+    la perpendiculaire à la surface au point spécifié et la direction spécifiée'
+  examples: []
+  id: 845-21-050
+  language_code: fra
+  notes:
+  - '`I`~v~, dans la direction spécifiée. La luminance de la surface est alors l''intégrale
+    de ces éléments de luminance sur toute la surface.
+
+
+    L''équation dans la définition peut être interprétée mathématiquement comme une
+    dérivée (c''est-à-dire un taux de variation de l''intensité lumineuse avec l''aire
+    projetée) et peut en variante être reformulée en tant qu''intensité lumineuse
+    moyenne `bar I_v` sous la forme:
+
+
+    `L_v = underset((A -&gt; 0))((lim)) ((bar I_v))/(A) (1)/((cos alpha))`
+
+
+    De fait, la luminance est souvent considérée comme un quotient des grandeurs moyennées;
+    il convient que l''aire, `A`, soit suffisamment petite de sorte que les incertitudes
+    dues aux variations de l''intensité lumineuse dans cette surface soient négligeables;
+    à défaut, le quotient `bar L_v = ((bar I_v))/(A) (1)/((cos alpha))` donne la luminance
+    moyenne et les conditions de mesure spécifiques doivent être consignées avec le
+    résultat.'
+  - '`E`~v~, et d''angle solide, `Ω`, est `L_v = ((d E_v))/((d omega)) (1)/((cos theta))`,
+    où `θ` est l''angle entre la perpendiculaire à la surface irradiée et la direction
+    d''irradiation. Cette forme est utile lorsque la source n''a pas de surface (par
+    exemple, le ciel, le plasma d''une décharge).'
+  - '`L_v = ((d Phi_v))/((d G))`, où `Φ`~v~ est le flux lumineux et `G` est l''étendue
+    géométrique.'
+  - '`A`·cos `α`, et l''angle solide, `Ω`: `Phi_v = ​ ∬ L_v * cos alpha d A d omega`.'
+  - '`G·n`^2^, où `G` est l''étendue et `n` est l''indice de réfraction, est un invariant,
+    la grandeur exprimée par `L`~v~`·n`^−2^ est également un invariant le long du
+    trajet du faisceau si les pertes par absorption, réflexion et diffusion sont considérées
+    comme nulles. Cette grandeur est appelée "luminance réduite".'
+  - '`Φ`~v~. Dans ce cas, elle est mathématiquement interprétée comme une dérivée
+    partielle seconde du flux lumineux en un point spécifié (`x`, `y`) dans l''espace
+    dans une direction spécifiée (`ϑ`, `φ`) par rapport à l''aire projetée, `A`·cos
+    `α`, et l''angle solide, `Ω`.
+
+
+    `L_v ( x , y , vartheta , phi ) = ((del^2 Phi_v ( x , y , vartheta , phi )))/((del
+    A ( x , y ) * cos alpha * del omega ( vartheta , phi )))`
+
+
+    où `α` est l''angle entre la perpendiculaire à cette surface au point spécifié
+    et dans la direction spécifiée.'
+  - La grandeur radiométrique correspondante est la "luminance énergétique". La grandeur
+    correspondante pour les photons est la "luminance photonique".
+  - La luminance est exprimée en candela par mètre carré (cd· m^−2^ = lm·m^−2^·sr^−1^).
+  - Cet article était numéroté 845-01-35 dans l'IEC 60050-845:1987.
+  review_decision_event: published
+  terms:
+  - designation: luminance
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: luminance lumineuse
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: luminance visuelle
+    gender: f
+    normative_status: admitted
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1c0b9461-2f71-5561-8460-480227bf73d8
+status: Standard

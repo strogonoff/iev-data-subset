@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 851-15-07
+  language_code: zho
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 加强绝缘
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 821ceb9b-6409-5721-a0fd-ba1ae10e8af9
+status: Standard

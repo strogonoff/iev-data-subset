@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-24-13
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: aquecedor cerâmico de infravermelhos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b991e7bb-c581-5db1-b1b4-53054b44a0af
+status: Standard

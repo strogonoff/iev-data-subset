@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-21-20
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: presión acústica
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a180bc5f-9ea1-54b8-8c88-2c719a24b6c2
+status: Standard

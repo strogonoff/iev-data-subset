@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-03-04
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: servizio mobile satellitare
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3d8bace7-6b98-5872-8ab4-784e3e27a53f
+status: Standard

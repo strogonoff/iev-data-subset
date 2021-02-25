@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-10-14
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: cuanto de flujo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 07cbead5-767f-5e2b-9719-00cebe224374
+status: Standard

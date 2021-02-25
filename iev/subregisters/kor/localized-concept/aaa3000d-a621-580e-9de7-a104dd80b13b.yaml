@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 상전압 제어
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: aaa3000d-a621-580e-9de7-a104dd80b13b
+status: Standard

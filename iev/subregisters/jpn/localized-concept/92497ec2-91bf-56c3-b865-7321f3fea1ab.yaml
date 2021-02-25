@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 閉極
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 92497ec2-91bf-56c3-b865-7321f3fea1ab
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-12-39
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 무시시간
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d975264c-efa7-5a74-9bf8-9def75108177
+status: Standard

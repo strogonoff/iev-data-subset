@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 704-17-21
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Erhaltung der Digitreihenfolge
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 351d8ac5-c0fd-59e7-8973-9fb733ca7546
+status: Standard

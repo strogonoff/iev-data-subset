@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 수력 발전소
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 00f47ef7-45b8-506c-a780-4cbf4fd836b1
+status: Standard

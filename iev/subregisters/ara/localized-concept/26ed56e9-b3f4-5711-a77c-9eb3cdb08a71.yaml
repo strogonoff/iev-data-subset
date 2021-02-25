@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: إشارة اطلاق المناورة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 26ed56e9-b3f4-5711-a77c-9eb3cdb08a71
+status: Standard

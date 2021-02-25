@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-15-18
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ruido ambiente (en telefonía)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a94dbb01-8c01-5cea-8ca2-33fb453aea8c
+status: Standard

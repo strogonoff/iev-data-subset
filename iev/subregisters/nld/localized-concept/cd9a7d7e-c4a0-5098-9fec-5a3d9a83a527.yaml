@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 102-04-38
+  language_code: nld
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: cilindervlak
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cd9a7d7e-c4a0-5098-9fec-5a3d9a83a527
+status: Standard

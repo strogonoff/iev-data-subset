@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 351-42-39
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: päättelykone
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2816d221-ba9f-55a0-9ae2-d7fa83740142
+status: Standard

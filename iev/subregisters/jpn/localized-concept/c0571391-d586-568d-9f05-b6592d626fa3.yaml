@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: フォールトマスキング
+    normative_status: preferred
+    type: expression
+    usage_info: ソフトウェアに関する
+  - designation: 欠陥隠ぺい
+    type: expression
+    usage_info: ソフトウェアに関する
+dateAccepted: 2018-11-17
+id: c0571391-d586-568d-9f05-b6592d626fa3
+status: Standard

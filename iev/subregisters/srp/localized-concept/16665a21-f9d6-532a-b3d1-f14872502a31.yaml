@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: укључење
+    normative_status: preferred
+    type: expression
+  - designation: затварање
+    type: expression
+dateAccepted: 2018-11-17
+id: 16665a21-f9d6-532a-b3d1-f14872502a31
+status: Standard

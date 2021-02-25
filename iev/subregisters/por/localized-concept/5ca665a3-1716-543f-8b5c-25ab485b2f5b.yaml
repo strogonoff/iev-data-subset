@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-43-11
+  language_code: por
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: arquivar
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 5ca665a3-1716-543f-8b5c-25ab485b2f5b
+status: Standard

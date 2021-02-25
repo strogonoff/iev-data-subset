@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 固有再起電圧
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 09f6f060-b041-5fd7-a577-c91bafdeb7b2
+status: Standard

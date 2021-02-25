@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 장애 유효 처리
+    normative_status: preferred
+    type: expression
+    usage_info: 소프트웨어
+dateAccepted: 2018-11-17
+id: 61ed3e59-c2ca-5b75-a006-9b34ceafda6f
+status: Standard

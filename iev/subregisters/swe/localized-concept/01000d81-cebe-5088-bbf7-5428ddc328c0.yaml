@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-04-26
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kategorianalys
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 01000d81-cebe-5088-bbf7-5428ddc328c0
+status: Standard

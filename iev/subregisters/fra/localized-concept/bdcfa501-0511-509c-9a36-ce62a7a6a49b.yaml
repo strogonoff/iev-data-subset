@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: diminution de l'intensité anodique d'un faisceau de rayons X, due à
+    l'absorption dans l'anode
+  examples: []
+  id: 881-03-12
+  language_code: fra
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: effet de talon
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1983-01-01
+id: bdcfa501-0511-509c-9a36-ce62a7a6a49b
+status: Standard

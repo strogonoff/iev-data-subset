@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  examples: []
+  id: 841-24-13
+  language_code: deu
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Infrarot-Keramikheizkörper
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2004-09-01
+id: 80b5882e-c250-54ef-b8c2-c91ccdacda83
+status: Standard

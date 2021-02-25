@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-18-24
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: codice di gruppo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2d7d44fc-8365-5f1b-ac02-da2f6fcf3a2f
+status: Standard

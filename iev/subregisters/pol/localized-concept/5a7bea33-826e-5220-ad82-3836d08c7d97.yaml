@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-16-13
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: prąd żarzenia rozruchowy
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a7bea33-826e-5220-ad82-3836d08c7d97
+status: Standard

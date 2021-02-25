@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1991-10-01T00:00:00+00:00'
+  examples: []
+  id: 731-01-43
+  language_code: ara
+  notes: []
+  review_date: '1991-10-01T00:00:00+00:00'
+  review_decision_date: '1991-10-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تأثير مغناطيسي بصري
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-10-01
+id: 0f497b8f-59bb-54f7-90da-e5376b00fb7b
+status: Standard

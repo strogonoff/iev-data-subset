@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-90
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: descodificación (en transmisión digital)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a2a89651-15e0-5a7b-9620-89d87983500a
+status: Standard

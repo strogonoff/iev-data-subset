@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 461-09-05
+  language_code: ita
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: cavo di misura / cavo di strumentazione
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: c8f77e26-19d4-5f90-ac9e-1f10f19ba4e9
+status: Standard

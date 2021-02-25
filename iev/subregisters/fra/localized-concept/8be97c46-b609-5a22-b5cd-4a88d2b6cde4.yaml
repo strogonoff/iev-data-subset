@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  definition: vitesse tangentielle de défilement du sillon par rapport à un point
+    tel que la pointe du burin de gravure ou la pointe de lecture
+  examples: []
+  id: 806-13-32
+  language_code: fra
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: vitesse de défilement du sillon
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1996-12-01
+id: 8be97c46-b609-5a22-b5cd-4a88d2b6cde4
+status: Standard

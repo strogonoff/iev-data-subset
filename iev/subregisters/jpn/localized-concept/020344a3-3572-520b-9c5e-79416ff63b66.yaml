@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 561-04-05
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: オートクレーブ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 020344a3-3572-520b-9c5e-79416ff63b66
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-10-01
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: transizione progressiva (di guida d'onda)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c42e4de5-ebae-5245-b8f3-7ad9e88945f9
+status: Standard

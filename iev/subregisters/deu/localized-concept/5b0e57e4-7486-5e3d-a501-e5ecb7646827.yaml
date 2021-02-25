@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-18-02
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Wechselstrom-Hauptgenerator
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 5b0e57e4-7486-5e3d-a501-e5ecb7646827
+status: Standard

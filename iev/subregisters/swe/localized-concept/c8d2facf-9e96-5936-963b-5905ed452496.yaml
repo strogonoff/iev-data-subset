@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-13
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: återställning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c8d2facf-9e96-5936-963b-5905ed452496
+status: Standard

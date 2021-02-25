@@ -1,0 +1,45 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2017-12-01T00:00:00+00:00'
+  definition: sum of durations of all {{supply interruptions, IEV:692-07-01}} to individual
+    customers during a time interval, divided by the number of these supply interruptions
+  examples: []
+  id: 692-08-05
+  language_code: eng
+  notes:
+  - '`t`~`ij`~ is the duration of the `i`th interruption of supply to customer `j`
+    and `n`~`j`~ is the number of times customer `j` is affected during a time interval
+    of duration `T`, then the mean duration of a customer interruption is given by
+
+
+    `T_I = ((sum_i sum_j t_((i j))))/((sum_j n_j))`'
+  - Only {{sustained interruptions, IEV:692-07-02}} are considered.
+  - The term "customer" represents the end user and not some intermediate distribution
+    system or company.
+  - Mean duration of a customer interruption can be used to describe past performance
+    or to estimate expected future performance.
+  - This measure is also equal to {{service unavailability per customer served, IEV:692-08-03}}
+    divided by {{interruption frequency per customer served, IEV:692-08-01}}.
+  - This entry was numbered 191-27-05 in IEC 60050-191:1990.
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: mean duration of a customer interruption
+    normative_status: preferred
+    type: expression
+  - designation: customer average interruption duration index
+    geographical_area: US
+    normative_status: preferred
+    type: expression
+  - designation: CAIDI
+    normative_status: admitted
+    type: expression
+  - designation: '`T`~I~'
+    international: true
+    type: symbol
+dateAccepted: 2017-12-01
+id: fa9d5f58-4c57-5633-8441-d2d87ddcca4e
+status: Standard

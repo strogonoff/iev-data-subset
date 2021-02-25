@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-10-20
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: samtalstid
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fbdf25a3-8194-5e24-8325-1907537b1e84
+status: Standard

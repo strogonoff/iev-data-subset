@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-54
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 选择性
+    normative_status: preferred
+    type: expression
+    usage_info: 气体探测
+dateAccepted: 2018-11-17
+id: 63b426bb-83a4-54af-b2d9-fdb56f0fddde
+status: Standard

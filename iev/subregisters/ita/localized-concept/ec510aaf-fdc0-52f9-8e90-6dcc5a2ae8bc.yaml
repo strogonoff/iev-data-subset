@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-03-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: offset radiale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ec510aaf-fdc0-52f9-8e90-6dcc5a2ae8bc
+status: Standard

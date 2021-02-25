@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-11
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 結合コンデンサ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b09f2e68-1327-53a4-b8e8-ea67952455a9
+status: Standard

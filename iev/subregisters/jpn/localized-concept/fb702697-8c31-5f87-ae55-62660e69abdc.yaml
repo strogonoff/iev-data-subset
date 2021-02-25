@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 手動依存動作
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fb702697-8c31-5f87-ae55-62660e69abdc
+status: Standard

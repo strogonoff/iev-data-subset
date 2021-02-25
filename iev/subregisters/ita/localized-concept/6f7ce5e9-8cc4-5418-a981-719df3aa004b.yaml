@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-50-29
+  language_code: ita
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: elemento di mantenimento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 6f7ce5e9-8cc4-5418-a981-719df3aa004b
+status: Standard

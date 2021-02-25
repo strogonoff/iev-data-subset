@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: подужна регулација напона
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 48937404-acb8-5f9c-9a7f-8b185ba6ae4c
+status: Standard

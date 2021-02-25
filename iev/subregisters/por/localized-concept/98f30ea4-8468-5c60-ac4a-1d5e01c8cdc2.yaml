@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mascaramento de avaria
+    normative_status: preferred
+    type: expression
+    usage_info: em software
+dateAccepted: 2018-11-17
+id: 98f30ea4-8468-5c60-ac4a-1d5e01c8cdc2
+status: Standard

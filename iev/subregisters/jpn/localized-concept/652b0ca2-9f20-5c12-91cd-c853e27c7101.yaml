@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-15-01
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 真空管雑音
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 652b0ca2-9f20-5c12-91cd-c853e27c7101
+status: Standard

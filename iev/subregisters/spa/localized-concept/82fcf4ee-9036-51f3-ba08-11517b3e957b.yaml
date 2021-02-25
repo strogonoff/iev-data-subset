@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: girador de onda no recíproco
+    normative_status: preferred
+    type: expression
+  - designation: girador de polarización no recíproco
+    type: expression
+dateAccepted: 2018-11-17
+id: 82fcf4ee-9036-51f3-ba08-11517b3e957b
+status: Standard

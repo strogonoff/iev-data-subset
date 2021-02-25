@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-05-17
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 부호 단어
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: db91b7d4-299a-5c3f-bd1f-a4671c97fd39
+status: Standard

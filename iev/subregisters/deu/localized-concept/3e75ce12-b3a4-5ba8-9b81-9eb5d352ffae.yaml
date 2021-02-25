@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-055
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Spektralwertanteile
+    gender: m
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: 3e75ce12-b3a4-5ba8-9b81-9eb5d352ffae
+status: Standard

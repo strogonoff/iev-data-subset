@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-10-01
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: transición progresiva
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0612e7e3-d3fa-5678-8d03-3d35b46867f7
+status: Standard

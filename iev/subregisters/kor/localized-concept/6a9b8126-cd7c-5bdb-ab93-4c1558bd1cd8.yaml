@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-07-09
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 응답 신호 무료
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6a9b8126-cd7c-5bdb-ab93-4c1558bd1cd8
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 371-01-04
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: daljinska indikacija
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 971fbbac-76b0-5b0d-8a36-5c499d8bfecc
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-36-05
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 直巻
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0068d717-aa64-50d3-bf1e-deacb63c5502
+status: Standard

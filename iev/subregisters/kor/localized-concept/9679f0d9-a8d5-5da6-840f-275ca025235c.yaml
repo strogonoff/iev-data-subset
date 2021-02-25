@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-15-14
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 잔류가스 열전달
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9679f0d9-a8d5-5da6-840f-275ca025235c
+status: Standard

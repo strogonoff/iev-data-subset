@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-32
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ungleichförmige Quantisierung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b30012bf-8a01-58c2-80c8-02e1f6776f7a
+status: Standard

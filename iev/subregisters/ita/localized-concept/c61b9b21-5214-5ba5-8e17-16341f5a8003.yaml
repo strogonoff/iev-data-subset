@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 901-01-16
+  language_code: ita
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: protezione dell'ambiente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: c61b9b21-5214-5ba5-8e17-16341f5a8003
+status: Standard

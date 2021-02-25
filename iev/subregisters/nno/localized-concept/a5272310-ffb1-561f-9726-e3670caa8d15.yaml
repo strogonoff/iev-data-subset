@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-15-06
+  language_code: nno
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: elektrisk krinsmodell
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a5272310-ffb1-561f-9726-e3670caa8d15
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mittlere Dauer einer Versorgungsunterbrechung eines Abnehmers
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c274c96d-bec8-5277-9050-1ec1d39f39e3
+status: Standard

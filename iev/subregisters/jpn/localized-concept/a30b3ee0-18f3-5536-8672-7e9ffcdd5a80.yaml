@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 461-09-05
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 計装ケーブル
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a30b3ee0-18f3-5536-8672-7e9ffcdd5a80
+status: Standard

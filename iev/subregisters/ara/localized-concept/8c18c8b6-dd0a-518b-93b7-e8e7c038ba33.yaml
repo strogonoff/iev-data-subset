@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  examples: []
+  id: 881-04-58
+  language_code: ara
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تباين في التصوير الشعاعي
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: 8c18c8b6-dd0a-518b-93b7-e8e7c038ba33
+status: Standard

@@ -1,15 +1,15 @@
 data:
   identifier: 815-10-14
   localizedConcepts:
-    deu: 030ec18c-522d-52c5-afdc-736c5fef2bd0
-    eng: 4705e9f3-a413-5c3c-ae2c-4902135b2282
-    fra: 748a0227-082b-589c-b047-1e828855bb31
-    jpn: 1624f607-30c6-58ef-a06e-5f9e2eb56520
-    kor: e1a5de61-b7f5-548f-8b54-b48ffc4b1ed4
-    pol: f72cab16-d079-5f29-8709-4c6144b9263b
-    por: 9066b95c-935f-57ca-b9c1-0aa395201f2d
-    spa: 09e0b589-3f54-5c78-9a33-1af607d3b7f0
-    zho: 64400b1a-f076-5628-9a7f-86fd3cf388c6
+    deu: ecfe9f57-51b2-5a26-843a-fce4a98fa95c
+    eng: e44350a4-4085-5c21-9ad1-f58a3cb85ea1
+    fra: 67c7426f-7bca-5e35-9819-7bfdf8b5cbc5
+    jpn: c0e45d38-7029-5dde-8d02-6973f1e0c42a
+    kor: 4b466a4f-d3b8-5d26-8668-e627efb4c2c7
+    pol: 25f13089-2e58-51f9-bb85-309220a001b6
+    por: 17dade09-90d6-5d5d-8cfa-d036fc27df64
+    spa: 07cbead5-767f-5e2b-9719-00cebe224374
+    zho: e8a74ca5-bed6-597e-a4e9-dc41fdd7700f
 dateAccepted: 2018-11-17
 id: 5472e280-edcf-57b9-8f73-d6fcbb0240b4
 status: valid

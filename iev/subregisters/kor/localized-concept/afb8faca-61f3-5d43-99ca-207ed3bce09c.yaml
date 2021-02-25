@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-05-16
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 전기 소작기
+    normative_status: preferred
+    type: expression
+  - designation: 전기지짐기
+    type: expression
+dateAccepted: 2018-11-17
+id: afb8faca-61f3-5d43-99ca-207ed3bce09c
+status: Standard

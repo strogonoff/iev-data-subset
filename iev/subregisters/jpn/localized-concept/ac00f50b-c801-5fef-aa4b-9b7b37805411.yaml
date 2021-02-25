@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 非可逆偏波回転器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ac00f50b-c801-5fef-aa4b-9b7b37805411
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-02-21
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: トーンリンガ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 62360ddf-7cb3-592c-ab21-abe3fa57f731
+status: Standard

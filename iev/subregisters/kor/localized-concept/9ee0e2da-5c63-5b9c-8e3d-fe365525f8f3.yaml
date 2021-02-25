@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-02-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 선형기록밀도
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9ee0e2da-5c63-5b9c-8e3d-fe365525f8f3
+status: Standard

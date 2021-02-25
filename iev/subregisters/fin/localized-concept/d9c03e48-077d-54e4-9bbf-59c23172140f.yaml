@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 617-04-03
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: liittymissopimus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d9c03e48-077d-54e4-9bbf-59c23172140f
+status: Standard

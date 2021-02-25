@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 732-02-02
+  language_code: pol
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: centrum informacyjne sieci
+    normative_status: preferred
+    type: expression
+  - designation: NIC (akronim)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 3927ac6a-5458-5d0e-b40a-a9eac934e3f1
+status: Standard

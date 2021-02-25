@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-29-02
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: profundidad de penetración de la potencia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1ab9a93f-e74a-5b95-bdfa-7eb19fa3fd37
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: regulación (de tensión) en fase
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2e1491ea-6ff3-5418-b98a-bb7ea8c1f339
+status: Standard

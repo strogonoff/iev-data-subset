@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: متوسط فترة الانقطاع للعميل
+    normative_status: preferred
+    type: expression
+  - designation: مؤشر متوسط فترة الانقطاع للعميل
+    type: expression
+dateAccepted: 2018-11-17
+id: f40de662-ecab-574d-817a-36fa49dec572
+status: Standard

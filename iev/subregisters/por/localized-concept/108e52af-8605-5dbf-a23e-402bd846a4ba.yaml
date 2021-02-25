@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-19
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mira de ensaio com padrões em "V"
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 108e52af-8605-5dbf-a23e-402bd846a4ba
+status: Standard

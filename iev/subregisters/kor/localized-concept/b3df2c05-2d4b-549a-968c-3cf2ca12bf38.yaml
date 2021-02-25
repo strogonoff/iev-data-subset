@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-31-41
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 양극
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b3df2c05-2d4b-549a-968c-3cf2ca12bf38
+status: Standard

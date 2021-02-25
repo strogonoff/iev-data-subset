@@ -1,0 +1,25 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.32
+      link: https://webstore.iec.ch/publication/7001
+      original: IEC 62425:2007, 3.1.32
+      ref: IEC 62425:2007
+      relationship:
+        type: identical
+  date_amended: '2017-11-01T00:00:00+00:00'
+  definition: time interval which begins when the existence of a fault is detected
+    and ends when a safe state is enforced
+  examples: []
+  id: 821-12-39
+  language_code: eng
+  notes: []
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: negation time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: cbfcd678-fb81-54a5-be4d-0ef2615ef9c7
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-47-15
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Totzeit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 409580d9-d79b-5f2b-b91a-8a06e5480fac
+status: Standard

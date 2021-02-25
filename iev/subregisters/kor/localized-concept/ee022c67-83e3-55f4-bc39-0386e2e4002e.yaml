@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-082
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 등색온도선
+    normative_status: preferred
+    type: expression
+    usage_info: 색도 그림
+dateAccepted: 2018-11-17
+id: ee022c67-83e3-55f4-bc39-0386e2e4002e
+status: Standard

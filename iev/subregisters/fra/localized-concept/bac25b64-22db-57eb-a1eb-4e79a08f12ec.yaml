@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - - clause: 3.1.33
+      link: https://www.iso.org/standard/69470.html
+      original: ISO/IEC 20924:2018, 3.1.33
+      ref: ISO/IEC 20924:2018
+      relationship:
+        type: identical
+  definition: '{{entité numérique, IEV:741-01-14}} qui représente une {{entité physique,
+    IEV:741-01-26}}'
+  examples: []
+  id: 741-01-33
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: entité virtuelle
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bac25b64-22db-57eb-a1eb-4e79a08f12ec
+status: Standard

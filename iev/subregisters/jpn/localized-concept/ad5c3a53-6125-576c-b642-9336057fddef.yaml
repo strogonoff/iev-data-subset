@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 651-23-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 導電性履物
+    normative_status: preferred
+    type: expression
+  - designation: 導電靴
+    type: expression
+dateAccepted: 2018-11-17
+id: ad5c3a53-6125-576c-b642-9336057fddef
+status: Standard

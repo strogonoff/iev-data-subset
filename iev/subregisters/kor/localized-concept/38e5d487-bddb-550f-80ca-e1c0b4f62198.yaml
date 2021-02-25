@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 901-01-16
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 환경보호
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 38e5d487-bddb-550f-80ca-e1c0b4f62198
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-11-01T00:00:00+00:00'
+  examples: []
+  id: 722-15-18
+  language_code: ara
+  notes: []
+  review_date: '1992-11-01T00:00:00+00:00'
+  review_decision_date: '1992-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: ضجيج الوسط المحيط ( في نظام الهاتف )
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-11-01
+id: ac87ba6f-419f-559d-bcbc-c5558379da03
+status: Standard

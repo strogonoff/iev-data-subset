@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-03-13
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 半径方向偏差
+    normative_status: preferred
+    type: expression
+    usage_info: CDシステムの
+dateAccepted: 2018-11-17
+id: 064376d8-f8b3-5d36-bf98-ae6d288b17f6
+status: Standard

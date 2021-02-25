@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 732-02-02
+  language_code: spa
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: centro de información de red, NIC (abreviatura)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: a84203a7-9908-5bbe-9b9b-203c65216a5b
+status: Standard

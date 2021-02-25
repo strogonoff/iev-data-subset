@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-10
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: scansione interlacciata
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 968089cc-7625-5af5-837b-b8a951120f03
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-54
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: selektywność
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: detekcja gazów
+dateAccepted: 2018-11-17
+id: 12e40c80-2053-594c-8943-f80cc5d8c8c0
+status: Standard

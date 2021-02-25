@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-02-07
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: lineare Aufzeichnungsdichte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56792059-78b7-5c23-90f5-4dc3302dfbda
+status: Standard

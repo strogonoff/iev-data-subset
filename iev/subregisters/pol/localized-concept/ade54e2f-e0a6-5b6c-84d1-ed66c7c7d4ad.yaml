@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 444-04-01
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: obwód wyjściowy
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ade54e2f-e0a6-5b6c-84d1-ed66c7c7d4ad
+status: Standard

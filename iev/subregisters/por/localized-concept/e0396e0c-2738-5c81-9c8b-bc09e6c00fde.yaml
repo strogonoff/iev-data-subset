@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-15
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relé de controlo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e0396e0c-2738-5c81-9c8b-bc09e6c00fde
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-12-51
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: massbromsförmåga genom strålningsförluster
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 90fb78f7-effe-50d2-a6ac-ee2621be60f5
+status: Standard

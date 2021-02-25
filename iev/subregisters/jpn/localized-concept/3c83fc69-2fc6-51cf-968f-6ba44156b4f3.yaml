@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 617-04-03
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 接続契約
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3c83fc69-2fc6-51cf-968f-6ba44156b4f3
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-50-29
+  language_code: ara
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: عنصر حجز
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: f35bfbe2-6ff2-5de6-bc82-3b5293f7354e
+status: Standard

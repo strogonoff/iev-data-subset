@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-34
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: مُرَحِّل عطل أرضى
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fba4a9c4-a5a5-5f36-b64d-74d3163db9db
+status: Standard

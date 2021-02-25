@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-50-29
+  language_code: pol
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: element podtrzymujący
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 81fb3e03-7152-59b8-9aaf-fc0159fce1b6
+status: Standard

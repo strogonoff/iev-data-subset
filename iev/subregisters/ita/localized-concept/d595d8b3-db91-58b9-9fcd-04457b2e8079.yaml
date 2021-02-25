@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-01-15
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: fibrillazione atriale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d595d8b3-db91-58b9-9fcd-04457b2e8079
+status: Standard

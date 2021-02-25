@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-22
+  language_code: jpn
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: エントロピー
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: ac8c26c2-e6e0-5769-9238-0f5c108dbfbe
+status: Standard

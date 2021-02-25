@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tráfego útil
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eac49c79-a978-59e6-9cc8-7c22628c075b
+status: Standard

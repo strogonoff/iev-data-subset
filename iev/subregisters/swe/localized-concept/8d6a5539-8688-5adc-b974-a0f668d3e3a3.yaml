@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-15-01
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: rörbrus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8d6a5539-8688-5adc-b974-a0f668d3e3a3
+status: Standard

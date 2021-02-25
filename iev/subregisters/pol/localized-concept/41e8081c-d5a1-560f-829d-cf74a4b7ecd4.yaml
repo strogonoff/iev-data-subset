@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-21
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: analizator temperatury płomienia
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: FTA
+    type: expression
+dateAccepted: 2018-11-17
+id: 41e8081c-d5a1-560f-829d-cf74a4b7ecd4
+status: Standard

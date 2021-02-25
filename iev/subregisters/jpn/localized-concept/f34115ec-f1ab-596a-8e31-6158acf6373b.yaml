@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  examples: []
+  id: 131-15-06
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 電気回路モデル
+    normative_status: preferred
+    type: expression
+  - designation: 回路モデル
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f34115ec-f1ab-596a-8e31-6158acf6373b
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: '{{relais de mesure, IEV:447-01-02}} qui, par conception ou utilisation,
+    est prévu pour répondre principalement à des défauts à la terre dans le réseau
+    électrique'
+  examples: []
+  id: 447-01-34
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relais de défaut à la terre
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 8bafb2e1-6730-5c98-a812-14abdbb604d4
+status: Standard

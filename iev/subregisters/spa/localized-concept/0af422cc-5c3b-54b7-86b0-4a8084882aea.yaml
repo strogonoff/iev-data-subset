@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-50-29
+  language_code: spa
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: elemento de bloqueo
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: bloqueador
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2013-11-01
+id: 0af422cc-5c3b-54b7-86b0-4a8084882aea
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-15-18
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 주위 잡음
+    normative_status: preferred
+    type: expression
+    usage_info: 전신
+  - designation: 환경 소음
+    type: expression
+  - designation: 암 소음
+    type: expression
+dateAccepted: 2018-11-17
+id: 44aa5b2f-4828-5e7e-be12-3028fc073175
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 561-04-05
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 高压釜
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 98f3857b-b7e0-52f8-a0b2-7965a31197b1
+status: Standard

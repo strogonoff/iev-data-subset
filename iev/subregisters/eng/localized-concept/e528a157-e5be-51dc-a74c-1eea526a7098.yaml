@@ -1,0 +1,24 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2002-01-01T00:00:00+00:00'
+  definition: 'all the parts of a relay connected to the terminals where a predetermined
+    change is produced when certain conditions are fulfilled in the electric input
+    circuits controlling the device (see Figure 2)
+
+
+    <simg></simg>'
+  examples: []
+  id: 444-04-01
+  language_code: eng
+  notes: []
+  review_date: '2002-01-01T00:00:00+00:00'
+  review_decision_date: '2002-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: output circuit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-01-01
+id: e528a157-e5be-51dc-a74c-1eea526a7098
+status: Standard

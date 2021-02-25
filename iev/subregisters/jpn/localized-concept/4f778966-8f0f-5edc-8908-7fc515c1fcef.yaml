@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-18-24
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: インターロック符号
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4f778966-8f0f-5edc-8908-7fc515c1fcef
+status: Standard

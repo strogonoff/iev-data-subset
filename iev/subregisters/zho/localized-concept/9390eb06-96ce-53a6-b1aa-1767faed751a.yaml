@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-15-14
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 剩余气体传热
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9390eb06-96ce-53a6-b1aa-1767faed751a
+status: Standard

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1998-04-01T00:00:00+00:00'
+  examples: []
+  id: 807-03-13
+  language_code: ara
+  notes: []
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: إزاحة نصف قطرية ( في نظام القرص المدمج)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 60ec45be-0644-5bab-b7ab-93e460d26751
+status: Standard

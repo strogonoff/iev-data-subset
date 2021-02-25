@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: central hidroeléctrica
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bd78b8d4-8c8e-51e4-b727-131592514e3c
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 551-16-51
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: intervallo di blocco in contropolarizzazione
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 87e19e90-537c-5b81-8fa0-1263ea38d159
+status: Standard

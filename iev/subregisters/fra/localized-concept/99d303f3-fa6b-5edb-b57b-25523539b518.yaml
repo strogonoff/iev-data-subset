@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2002-01-01T00:00:00+00:00'
+  definition: 'ensemble des parties d''un relais connectées aux bornes, dans lesquelles
+    est produite une modification prédéterminée lorsque certaines conditions sont
+    remplies dans les circuits électriques d''entrée assurant la commande de l''appareil
+    (voir Figure 2)
+
+
+    <simg></simg>'
+  examples: []
+  id: 444-04-01
+  language_code: fra
+  notes: []
+  review_date: '2002-01-01T00:00:00+00:00'
+  review_decision_date: '2002-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: circuit de sortie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-01-01
+id: 99d303f3-fa6b-5edb-b57b-25523539b518
+status: Standard

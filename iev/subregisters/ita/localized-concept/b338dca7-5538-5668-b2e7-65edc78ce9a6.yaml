@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-02-21
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: soneria a frequenza vocale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b338dca7-5538-5668-b2e7-65edc78ce9a6
+status: Standard

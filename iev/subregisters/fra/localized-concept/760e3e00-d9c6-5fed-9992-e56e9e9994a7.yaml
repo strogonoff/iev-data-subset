@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2000-07-01T00:00:00+00:00'
+  definition: position dans laquelle la continuité prédéterminée du circuit principal
+    de l'appareil est assurée
+  examples: []
+  id: 441-16-22
+  language_code: fra
+  notes: []
+  review_date: '2000-07-01T00:00:00+00:00'
+  review_decision_date: '2000-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: position de fermeture
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2000-07-01
+id: 760e3e00-d9c6-5fed-9992-e56e9e9994a7
+status: Standard

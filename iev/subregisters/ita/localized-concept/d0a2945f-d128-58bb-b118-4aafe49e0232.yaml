@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2009-12-01T00:00:00+00:00'
+  examples: []
+  id: 103-04-12
+  language_code: ita
+  notes: []
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: trasformata continua in onda unitaria
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: d0a2945f-d128-58bb-b118-4aafe49e0232
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 731-01-43
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zjawisko magnetooptyczne
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ecb0bf9d-85bd-5f59-a9ef-fcfec3269005
+status: Standard

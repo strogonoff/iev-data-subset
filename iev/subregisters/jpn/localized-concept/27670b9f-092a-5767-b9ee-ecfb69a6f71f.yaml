@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-01-13
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 周波数ドリフト
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 27670b9f-092a-5767-b9ee-ecfb69a6f71f
+status: Standard

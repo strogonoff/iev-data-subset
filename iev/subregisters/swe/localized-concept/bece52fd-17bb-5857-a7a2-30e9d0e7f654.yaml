@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-01-15
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: förmaksflimmer
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bece52fd-17bb-5857-a7a2-30e9d0e7f654
+status: Standard

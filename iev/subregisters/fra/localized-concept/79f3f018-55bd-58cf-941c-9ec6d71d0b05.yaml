@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: douille conçue pour être incorporée à un luminaire, à une enveloppe
+    additionnelle ou tout dispositif analogue
+  examples: []
+  id: 845-28-028
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: douille à incorporer
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 79f3f018-55bd-58cf-941c-9ec6d71d0b05
+status: Standard

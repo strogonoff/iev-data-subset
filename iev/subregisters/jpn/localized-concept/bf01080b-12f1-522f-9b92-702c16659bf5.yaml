@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-17-12
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: トランスアドミタンス
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bf01080b-12f1-522f-9b92-702c16659bf5
+status: Standard

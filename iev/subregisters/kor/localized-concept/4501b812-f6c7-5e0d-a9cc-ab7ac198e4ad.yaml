@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-050
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 휘도
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4501b812-f6c7-5e0d-a9cc-ab7ac198e4ad
+status: Standard

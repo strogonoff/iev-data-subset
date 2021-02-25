@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-22
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: нийлсэн байрлал
+    normative_status: preferred
+    type: expression
+    usage_info: механик таслах, залгах төхөөрөмжийн
+dateAccepted: 2018-11-17
+id: 709ae583-ba36-5575-a110-e8800e2bd346
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-02-78
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: energiberoende
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 039e6c46-53ea-5cae-b22c-c86042c7ab37
+status: Standard

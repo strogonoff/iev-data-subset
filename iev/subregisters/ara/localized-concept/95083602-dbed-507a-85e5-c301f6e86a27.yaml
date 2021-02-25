@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1990-09-01T00:00:00+00:00'
+  examples: []
+  id: 436-02-12
+  language_code: ara
+  notes: []
+  review_date: '1990-09-01T00:00:00+00:00'
+  review_decision_date: '1990-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مكثف جهد عالي لمقسم جهد سعوي
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-09-01
+id: 95083602-dbed-507a-85e5-c301f6e86a27
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-09-02
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: radiación de radiofrecuencia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e1dc5d3-146d-5250-b2f1-d0dbfa251924
+status: Standard

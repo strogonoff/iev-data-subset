@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-31-09
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Eyringin absorptiosuhde
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 009afa87-0be0-5730-833b-6bb73528436f
+status: Standard

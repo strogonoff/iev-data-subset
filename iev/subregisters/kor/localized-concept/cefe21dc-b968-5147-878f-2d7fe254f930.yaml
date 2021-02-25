@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-41-14
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 정류자 편
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cefe21dc-b968-5147-878f-2d7fe254f930
+status: Standard

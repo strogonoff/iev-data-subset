@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-36-05
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: редно побуђена
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c5160ce8-c36c-5719-8d6d-a2fde747d1ed
+status: Standard

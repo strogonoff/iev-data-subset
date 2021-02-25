@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 741-01-33
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: virtuelle Entität
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6a0071c4-e68d-5557-8c00-72d1e5eacbf7
+status: Standard

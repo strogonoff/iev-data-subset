@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 可变调车信号
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f9caaf8f-42fd-512c-921e-4ab6baaa3eeb
+status: Standard

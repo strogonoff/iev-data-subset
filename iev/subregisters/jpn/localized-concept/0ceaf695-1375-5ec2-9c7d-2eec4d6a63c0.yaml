@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 密封巻線乾式変圧器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ceaf695-1375-5ec2-9c7d-2eec4d6a63c0
+status: Standard

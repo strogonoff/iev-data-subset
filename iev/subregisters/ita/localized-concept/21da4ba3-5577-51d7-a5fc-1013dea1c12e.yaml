@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-32
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: quantizzazione non uniforme
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 21da4ba3-5577-51d7-a5fc-1013dea1c12e
+status: Standard

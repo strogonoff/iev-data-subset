@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 444-04-01
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 출력 회로
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b919b27f-83ab-5b15-b15f-cdd4a18eda18
+status: Standard

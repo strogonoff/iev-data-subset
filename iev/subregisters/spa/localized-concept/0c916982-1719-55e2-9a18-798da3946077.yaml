@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: maniobra manual dependiente (de un aparato mecánico de conexión)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0c916982-1719-55e2-9a18-798da3946077
+status: Standard

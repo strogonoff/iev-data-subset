@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-10
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: barrido entrelazado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bac4aecd-af8d-5214-9407-f6ce4cb3bfbb
+status: Standard

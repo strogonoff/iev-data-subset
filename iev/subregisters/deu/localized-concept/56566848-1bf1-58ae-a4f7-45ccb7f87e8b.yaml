@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-07-09
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Beginnzeichen ohne Gebühr
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 56566848-1bf1-58ae-a4f7-45ccb7f87e8b
+status: Standard

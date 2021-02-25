@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 212-18-31
+  language_code: ara
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: غازات حرة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 7c8dd830-c854-5ed0-9d2b-377ccc26d0e7
+status: Standard

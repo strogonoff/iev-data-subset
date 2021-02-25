@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 705-05-37
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: propagación transhorizóntica
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 76b42448-bab7-52b1-a5ff-a7d5476ce1b9
+status: Standard

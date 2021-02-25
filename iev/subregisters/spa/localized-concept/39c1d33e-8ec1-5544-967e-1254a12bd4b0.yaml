@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-04-06
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: diodo unitúnel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 39c1d33e-8ec1-5544-967e-1254a12bd4b0
+status: Standard

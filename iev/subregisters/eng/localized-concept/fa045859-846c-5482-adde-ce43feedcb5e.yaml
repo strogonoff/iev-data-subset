@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  definition: to hold a device in its activated position without the use of external
+    power or holding circuitry
+  examples: []
+  id: 714-15-17
+  language_code: eng
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: latching
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: fa045859-846c-5482-adde-ce43feedcb5e
+status: Standard

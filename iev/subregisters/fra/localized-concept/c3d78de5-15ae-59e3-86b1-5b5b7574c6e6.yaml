@@ -1,0 +1,30 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: intégrale du produit d'une fonction et d'une ondelette décalée et dilatée
+    ou comprimée
+  examples: []
+  id: 103-04-12
+  language_code: fra
+  notes:
+  - '`f ( t )` et une ondelette `psi ( t )`:
+
+
+    `C_f ( a , b ) = int_(- oo)^(+ oo) f ( t ) psi_(a , b)^( ** ) ( t ) d t`
+
+
+    où `a` est le paramètre d’échelle, `b` est le paramètre de position et * note
+    le complexe conjugué.'
+  - Une transformée discrète en ondelettes est obtenue en choisissant un nombre fini
+    de valeurs des deux paramètres. La transformée inverse exprime la fonction du
+    temps comme une superposition d'ondelettes.
+  review_decision_event: published
+  terms:
+  - designation: transformée continue en ondelettes
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c3d78de5-15ae-59e3-86b1-5b5b7574c6e6
+status: Standard

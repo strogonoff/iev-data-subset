@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-31-09
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: coefficiente di assorbimento secondo Eyring
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 193d98b6-a4ca-5e74-ac30-e2fe84f91bf9
+status: Standard

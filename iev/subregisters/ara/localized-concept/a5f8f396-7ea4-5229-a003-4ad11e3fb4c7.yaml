@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  examples: []
+  id: 841-31-41
+  language_code: ara
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مصعد ( لمصباح بلازما القوس المتنقل أو غير المتنقل)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-09-01
+id: a5f8f396-7ea4-5229-a003-4ad11e3fb4c7
+status: Standard

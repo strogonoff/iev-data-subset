@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  examples: []
+  id: 881-02-65
+  language_code: ara
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: جسيم  الفا
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: 57cda941-1e00-5a36-9f11-0d4797ab0117
+status: Standard

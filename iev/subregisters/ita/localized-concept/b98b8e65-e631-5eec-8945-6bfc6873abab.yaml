@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: "trasformatore a secco con avvolgimento\r\n incapsulato"
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b98b8e65-e631-5eec-8945-6bfc6873abab
+status: Standard

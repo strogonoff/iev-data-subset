@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-08-01T00:00:00+00:00'
+  definition: set, the elements of which all belong to a given set
+  examples: []
+  id: 102-01-04
+  language_code: eng
+  notes:
+  - '`A sube B` expresses that the set `A` is a subset of the set `B`. The symbol
+    `sub` is sometimes used instead of `sube`, but this is not recommended. `A` is
+    also said to be included in `B`.'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: subset
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-08-01
+id: 72015710-747a-58f8-a6f8-3d31e31b66e5
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-082
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 等色温度線
+    normative_status: preferred
+    type: expression
+    usage_info: 色度図の
+dateAccepted: 2018-11-17
+id: 9bd0b5df-a439-5364-806c-b2b830b73c9e
+status: Standard

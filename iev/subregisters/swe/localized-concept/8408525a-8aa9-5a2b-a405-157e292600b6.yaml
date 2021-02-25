@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-15-18
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: omgivningsbuller
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8408525a-8aa9-5a2b-a405-157e292600b6
+status: Standard

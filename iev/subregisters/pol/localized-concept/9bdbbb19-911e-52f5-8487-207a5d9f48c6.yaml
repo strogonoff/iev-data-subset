@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-04-12
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zwrotnice ochronne selektywne
+    gender: f
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: 9bdbbb19-911e-52f5-8487-207a5d9f48c6
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-12
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kondensator wysokonapięciowy (dzielnika pojemnościowego)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bb053407-1587-52c1-bdb1-72b71295b3d2
+status: Standard

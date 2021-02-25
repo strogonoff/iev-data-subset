@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-04-12
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 选择性防护道岔
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 42260ef7-92dd-58c6-af60-ad6ae297171b
+status: Standard

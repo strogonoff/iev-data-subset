@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 617-04-03
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: договор о повезивању
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d107df91-7adc-5f5d-aafb-2bb6584a7972
+status: Standard

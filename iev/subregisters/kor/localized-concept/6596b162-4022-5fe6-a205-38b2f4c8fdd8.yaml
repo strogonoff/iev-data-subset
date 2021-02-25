@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 704-17-21
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 디지트 순차 완전성
+    normative_status: preferred
+    type: expression
+  - designation: 디지트 순차 보전
+    type: expression
+dateAccepted: 2018-11-17
+id: 6596b162-4022-5fe6-a205-38b2f4c8fdd8
+status: Standard

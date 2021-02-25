@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: abhängige Handbetätigung (eines mechanischen Schaltgeräts)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 42c06373-7b85-51c9-9751-093f99110f3d
+status: Standard

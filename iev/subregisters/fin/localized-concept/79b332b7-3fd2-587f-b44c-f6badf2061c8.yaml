@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: apertuurihyötysuhde
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 79b332b7-3fd2-587f-b44c-f6badf2061c8
+status: Standard

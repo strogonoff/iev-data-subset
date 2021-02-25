@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  examples: []
+  id: 808-03-10
+  language_code: ara
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مخطط المقياس الرمادي العمودي
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-06-01
+id: 1640e43e-2ed0-5818-9864-b1d5f547eca0
+status: Standard

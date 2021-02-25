@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 901-03-06
+  language_code: jpn
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 規格団体
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 6a509dab-c572-59f2-81a2-5ea9e45788a7
+status: Standard

@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1991-11-01T00:00:00+00:00'
+  definition: the phase of a data communication during which network control signals
+    are exchanged between data terminal equipment and the network for the purpose
+    of call establishment, call disconnection or for control signalling during the
+    data transfer phase
+  examples: []
+  id: 721-19-28
+  language_code: eng
+  notes: []
+  review_date: '1991-11-01T00:00:00+00:00'
+  review_decision_date: '1991-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: network control phase
+    normative_status: preferred
+    type: expression
+dateAccepted: 1991-11-01
+id: 8e0e25c6-3845-522a-8678-5fa0e8b34d8a
+status: Standard

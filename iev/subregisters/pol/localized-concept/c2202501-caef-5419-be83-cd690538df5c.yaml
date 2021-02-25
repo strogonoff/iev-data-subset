@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-33-08
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: silnik indukcyjny o uzwojonym wirniku
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c2202501-caef-5419-be83-cd690538df5c
+status: Standard

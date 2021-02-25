@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 113-03-52
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: teho
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bd07fad0-92e4-5656-9203-e79356b2a78d
+status: Standard

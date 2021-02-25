@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 371-01-04
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: teleseñalización
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2add1bd8-f27f-595b-9d64-43a1f4d35adb
+status: Standard

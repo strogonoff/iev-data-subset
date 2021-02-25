@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 351-56-02
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 기능 장치
+    normative_status: preferred
+    type: expression
+  - designation: 기능 단위
+    type: expression
+dateAccepted: 2018-11-17
+id: ee28e5aa-b43e-5b8e-921c-0128e9ead8e0
+status: Standard

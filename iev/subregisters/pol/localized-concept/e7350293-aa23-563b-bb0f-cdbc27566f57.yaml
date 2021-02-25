@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-09-08
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: intermodulacja
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e7350293-aa23-563b-bb0f-cdbc27566f57
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-016
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: linia widmowa
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7b92b16f-4cbf-5d5b-8ce5-6e5aa72076b9
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-08
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: slittamento verticale dell'immagine
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 43f25a4c-89f8-5c73-a331-45576a6e5fdb
+status: Standard

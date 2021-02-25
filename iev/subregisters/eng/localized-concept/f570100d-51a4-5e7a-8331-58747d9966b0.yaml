@@ -1,0 +1,47 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1994-07-01T00:00:00+00:00'
+  definition: sound power absorption coefficient attributed to a surface by the Eyring
+    reverberation-time equation
+  examples: []
+  id: 801-31-09
+  language_code: eng
+  notes:
+  - '`T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))`
+
+
+    where:
+
+
+    `T` is the reverberation time
+
+
+    `V` is the volume of the room
+
+
+    `c` is the speed of sound in the contained air
+
+
+    `S` = Σ `S`~`i`~ is the total area of surfaces of the room
+
+
+    `bar alpha = Sigma S_i alpha_i // S` is the area-weighted mean Eyring coefficient
+    of all the surfaces
+
+
+    `S`~`i`~ is the area of the `i`-th surface
+
+
+    `α`~`i`~ is Eyring sound power absorption coefficient attributed to the `i`-th
+    surface. The equivalent absorption area of the `i`-th surface is `S`~`i`~`α`~`i`~.'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Eyring absorption coefficient
+    normative_status: preferred
+    type: expression
+dateAccepted: 1994-07-01
+id: f570100d-51a4-5e7a-8331-58747d9966b0
+status: Standard

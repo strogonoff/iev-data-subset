@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: unbeeinflusste Einschwingspannung (eines Stromkreises)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ae764739-7f6b-50c4-8da1-76be73e8b78b
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: duração média de interrupção a clientes
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a7071915-aa65-55e3-be0b-1a17af39cd97
+status: Standard

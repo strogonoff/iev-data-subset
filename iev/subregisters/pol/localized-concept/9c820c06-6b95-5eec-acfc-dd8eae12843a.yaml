@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-28-028
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: oprawka do wbudowywania
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9c820c06-6b95-5eec-acfc-dd8eae12843a
+status: Standard

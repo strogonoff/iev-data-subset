@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-15-01
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: pol
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 45ef24ca-1734-505b-8cf0-3859b8910a99
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-21
+  language_code: rus
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: анализатор температуры пламени
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b5c69f18-35d7-508d-a059-8631f4f6e481
+status: Standard

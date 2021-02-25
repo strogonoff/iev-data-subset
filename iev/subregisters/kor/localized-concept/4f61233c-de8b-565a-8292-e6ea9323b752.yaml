@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-16-23
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 이차 방호벽
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4f61233c-de8b-565a-8292-e6ea9323b752
+status: Standard

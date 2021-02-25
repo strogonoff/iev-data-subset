@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: enmascaramiento de averías
+    normative_status: preferred
+    type: expression
+    usage_info: en el software
+dateAccepted: 2018-11-17
+id: e268ec98-2158-5e28-afef-c408959d6f4f
+status: Standard

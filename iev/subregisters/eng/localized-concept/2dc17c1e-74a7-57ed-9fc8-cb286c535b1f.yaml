@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2020-12-01T00:00:00+00:00'
+  definition: range over which the pilot of an aircraft on the centreline of a runway
+    can see the runway surface markings or the lights delineating the runway or identifying
+    its centreline
+  examples: []
+  id: 845-31-051
+  language_code: eng
+  notes:
+  - See also "<a href="IEV845-31-021">visual range</a>".
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: runway visual range
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-12-01
+id: 2dc17c1e-74a7-57ed-9fc8-cb286c535b1f
+status: Standard

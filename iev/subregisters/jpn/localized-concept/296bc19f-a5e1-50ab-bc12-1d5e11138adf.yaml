@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-16-13
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 磁気媒体の相対感度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 296bc19f-a5e1-50ab-bc12-1d5e11138adf
+status: Standard

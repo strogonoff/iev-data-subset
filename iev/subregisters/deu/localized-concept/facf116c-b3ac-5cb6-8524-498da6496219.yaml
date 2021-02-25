@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-02-13
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Deckungsabweichung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: facf116c-b3ac-5cb6-8524-498da6496219
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-10-14
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 磁束量子
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c0e45d38-7029-5dde-8d02-6973f1e0c42a
+status: Standard

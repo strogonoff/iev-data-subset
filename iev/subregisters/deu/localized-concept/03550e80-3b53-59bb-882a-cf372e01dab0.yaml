@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Startdauer
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: für Brennstoffzellen-Energiesysteme die externe Stromversorgung im
+      Lagerungszustand benötigen
+dateAccepted: 2018-11-17
+id: 03550e80-3b53-59bb-882a-cf372e01dab0
+status: Standard

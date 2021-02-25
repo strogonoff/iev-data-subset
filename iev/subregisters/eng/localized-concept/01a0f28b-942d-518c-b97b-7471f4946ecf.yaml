@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2017-11-01T00:00:00+00:00'
+  definition: trap points for two routes which according to the position of the points
+    can protect only one route
+  examples: []
+  id: 821-04-12
+  language_code: eng
+  notes: []
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: selective protective points
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 01a0f28b-942d-518c-b97b-7471f4946ecf
+status: Standard

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-31-41
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 阳极
+    normative_status: preferred
+    type: expression
+    usage_info: 非转移或转移弧等离子体炬的
+dateAccepted: 2018-11-17
+id: c0b4ffcb-f934-5b53-bc89-c9e039e61ece
+status: Standard

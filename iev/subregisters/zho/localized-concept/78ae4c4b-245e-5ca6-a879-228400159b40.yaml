@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-082
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 等温线
+    normative_status: preferred
+    type: expression
+    usage_info: 色品图中
+dateAccepted: 2018-11-17
+id: 78ae4c4b-245e-5ca6-a879-228400159b40
+status: Standard

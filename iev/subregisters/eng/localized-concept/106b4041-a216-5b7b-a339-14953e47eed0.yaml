@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2020-03-01T00:00:00+00:00'
+  definition: highest specified ambient temperature
+  examples: []
+  id: 426-20-17
+  language_code: eng
+  notes: []
+  review_date: '2020-03-01T00:00:00+00:00'
+  review_decision_date: '2020-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: maximum ambient temperature
+    normative_status: preferred
+    type: expression
+dateAccepted: 2020-03-01
+id: 106b4041-a216-5b7b-a339-14953e47eed0
+status: Standard

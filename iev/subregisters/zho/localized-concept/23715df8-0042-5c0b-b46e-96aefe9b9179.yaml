@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-055
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 光谱色度品坐标
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 23715df8-0042-5c0b-b46e-96aefe9b9179
+status: Standard

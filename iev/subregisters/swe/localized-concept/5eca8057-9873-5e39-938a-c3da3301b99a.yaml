@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-27
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: neutraliseringskrets
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5eca8057-9873-5e39-938a-c3da3301b99a
+status: Standard

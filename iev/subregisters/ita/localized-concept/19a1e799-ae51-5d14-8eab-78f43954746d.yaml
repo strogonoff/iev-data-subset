@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 448-14-04
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: protezione a distanza commutata
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 19a1e799-ae51-5d14-8eab-78f43954746d
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-02-22
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 中性子の拡散
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 31321593-39bf-5c05-a421-d6c97b69647c
+status: Standard

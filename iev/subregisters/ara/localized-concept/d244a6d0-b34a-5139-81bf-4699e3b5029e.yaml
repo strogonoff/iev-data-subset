@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 121-11-11
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: كثافة  تيار (كهربائي)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d244a6d0-b34a-5139-81bf-4699e3b5029e
+status: Standard

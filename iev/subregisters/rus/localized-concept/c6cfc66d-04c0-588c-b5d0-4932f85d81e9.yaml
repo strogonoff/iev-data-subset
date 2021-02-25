@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 121-11-11
+  language_code: rus
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: объемный электрический ток
+    normative_status: preferred
+    type: expression
+  - designation: плотность тока проводимости
+    type: expression
+dateAccepted: 2018-11-17
+id: c6cfc66d-04c0-588c-b5d0-4932f85d81e9
+status: Standard

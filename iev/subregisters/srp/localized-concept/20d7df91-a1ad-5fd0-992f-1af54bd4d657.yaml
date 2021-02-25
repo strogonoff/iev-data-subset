@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-15-01
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: пол расклопног апарата
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 20d7df91-a1ad-5fd0-992f-1af54bd4d657
+status: Standard

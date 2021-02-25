@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-37-34
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: yhdenkertainen aaltokäämitys
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6924e8f0-d0bc-521d-a57b-60d54dc5e608
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-29-065
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: oberer Betriebswirkungsgrad
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 32795f74-a255-5f45-b27b-7f0ba25a4bcd
+status: Standard

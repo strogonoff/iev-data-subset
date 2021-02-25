@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 启动时间
+    normative_status: preferred
+    type: expression
+    usage_info: 需要外部电源来维持存储状态的燃料电池电力系统
+dateAccepted: 2018-11-17
+id: 8b0c9c0d-d036-5095-b75c-bcae5a465bf7
+status: Standard

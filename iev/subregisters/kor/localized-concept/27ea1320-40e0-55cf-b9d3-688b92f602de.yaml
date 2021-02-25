@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-78
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 에일리어싱 성분
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 27ea1320-40e0-55cf-b9d3-688b92f602de
+status: Standard

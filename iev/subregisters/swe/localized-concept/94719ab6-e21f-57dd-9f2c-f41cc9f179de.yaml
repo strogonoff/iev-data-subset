@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-41-09
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relativ frekvensförskjutning (genom strömändring)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 94719ab6-e21f-57dd-9f2c-f41cc9f179de
+status: Standard

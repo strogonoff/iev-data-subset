@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-082
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: linha isotemperatura
+    normative_status: preferred
+    type: expression
+    usage_info: num diagrama de cromaticidade
+dateAccepted: 2018-11-17
+id: bc99b227-e7fb-52a3-86e3-82d2295a5934
+status: Standard

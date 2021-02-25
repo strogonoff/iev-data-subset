@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-47-15
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 불감 시간
+    normative_status: preferred
+    type: expression
+  - designation: 부동 시간
+    type: expression
+dateAccepted: 2018-11-17
+id: cb37c79c-ab58-59e7-825b-3a5e5139b330
+status: Standard

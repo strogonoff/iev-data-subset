@@ -1,15 +1,15 @@
 data:
   identifier: 815-16-08
   localizedConcepts:
-    deu: 595059f1-a81d-59b4-aea3-20fdcbade936
-    eng: f19250b1-9582-5dfe-a077-78fada40d6de
-    fra: 6f8f0d45-d47d-59dc-b6eb-7747e2748a01
-    jpn: 975517d9-21cd-572a-91d2-0fad57420c3d
-    kor: a4d44e7f-0537-508f-9e4e-4909deb164c9
-    pol: 38149a0b-caa4-57c7-aa4f-ad1c420c1147
-    por: e8f3d758-6c5a-5b52-87d9-50488cad1adc
-    spa: e2689969-aad2-57ba-893b-03cbdf5a6ea5
-    zho: 51ba35b7-d93f-5e11-940c-f5eca92293ba
+    deu: c9be0e5d-3be4-59a4-956f-c54e62122a2d
+    eng: 10076709-3d07-5391-be1b-8b80b4e670ba
+    fra: 31db9b52-235d-5279-9a1c-d3ce32cdd215
+    jpn: b2cd9364-6695-53ca-b6fa-bb5e7919acd2
+    kor: 82328fc3-c344-56fe-9d10-62c553ef70e5
+    pol: 391d4074-0090-5f57-a82b-95c537516698
+    por: 6e1d8e94-ed84-5d20-aeec-b2732f2d55f1
+    spa: f3588388-fdd9-5973-8f37-12acc9d643dc
+    zho: 58a4fac4-c5e7-5430-a00d-d2c55e91ba83
 dateAccepted: 2018-11-17
 id: fc29cee5-099b-5146-8689-b9e747c858c3
 status: valid

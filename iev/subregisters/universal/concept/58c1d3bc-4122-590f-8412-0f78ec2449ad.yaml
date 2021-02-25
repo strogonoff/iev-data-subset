@@ -1,19 +1,19 @@
 data:
   identifier: 732-02-02
   localizedConcepts:
-    ara: 6988d09c-a75f-5da3-a136-0287316cdcda
-    deu: 1e173901-c970-5fab-ad08-784857c5f683
-    eng: e6b5e67d-bb71-56f0-ba2f-d6d0cf8b0287
-    fin: 1e7dbaca-8196-59ff-9ced-a4df78863fa4
-    fra: a133c61d-d378-5d10-8285-ae092e6bba3f
-    jpn: 52883813-8d07-54b6-87cd-0a6cd8229d69
-    kor: 7a1dcd1b-44f8-5672-ab6b-868aa659290f
-    pol: 930c0bc7-3087-57cb-8c7b-93ec12c09aa7
-    por: 26607604-8000-5f3b-95a6-abb42c97569a
-    spa: 78480bd4-1f3b-5379-b76a-07ab8c82a6a8
-    srp: 45a8d817-f5cb-502b-b014-63a32133b3d1
-    swe: fb6a405e-6838-5a61-8164-48937a5000f8
-    zho: 7ce620a0-a9db-591b-8894-5419403b9ef4
+    ara: 78214746-1565-54d3-8b04-abfb7e718b4d
+    deu: 7375e368-ae05-5776-8135-09bdb63bd072
+    eng: 9b129556-e879-5bdc-9a52-5d38f6827fa1
+    fin: 02d278b7-a146-53a1-a336-f150ae50a60a
+    fra: e8d703dd-3f5f-5048-b244-9b4475819611
+    jpn: 4b589b49-5c0e-587e-b2ff-5935eb4ef22d
+    kor: 584b5ae4-2435-517b-9ea0-9bef10a9f84b
+    pol: 3927ac6a-5458-5d0e-b40a-a9eac934e3f1
+    por: a06782b6-dd3d-5f7e-9442-703f47943f94
+    spa: a84203a7-9908-5bbe-9b9b-203c65216a5b
+    srp: 12dc31e8-7236-518e-9746-533cfd903709
+    swe: 4070ec19-0209-5ac2-aeb3-ba195742da98
+    zho: 1ed14322-84e3-5f00-bc66-1952b7d0a6f3
 dateAccepted: 2018-11-17
 id: 58c1d3bc-4122-590f-8412-0f78ec2449ad
 status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-143
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mantello
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 013d2c28-5e22-51ce-98dd-0c0e8cf62269
+status: Standard

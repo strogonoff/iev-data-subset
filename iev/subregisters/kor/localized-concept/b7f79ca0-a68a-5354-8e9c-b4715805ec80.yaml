@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 351-50-29
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 유지 요소
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b7f79ca0-a68a-5354-8e9c-b4715805ec80
+status: Standard

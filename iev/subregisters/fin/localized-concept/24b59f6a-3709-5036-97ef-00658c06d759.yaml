@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-02-21
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: äänihälytin
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 24b59f6a-3709-5036-97ef-00658c06d759
+status: Standard

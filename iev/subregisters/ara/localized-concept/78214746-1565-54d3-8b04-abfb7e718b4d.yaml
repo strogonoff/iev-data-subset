@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 732-02-02
+  language_code: ara
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: إختصار (NIC)
+    normative_status: preferred
+    type: expression
+  - designation: مركز شبكة المعلومات
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: 78214746-1565-54d3-8b04-abfb7e718b4d
+status: Standard

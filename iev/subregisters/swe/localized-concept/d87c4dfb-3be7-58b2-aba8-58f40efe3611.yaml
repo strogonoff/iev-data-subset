@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-32
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: olikformig kvantisering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d87c4dfb-3be7-58b2-aba8-58f40efe3611
+status: Standard

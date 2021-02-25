@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-22
+  language_code: pol
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: entropia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: d74ea28b-8680-59cb-9090-30061ac3b84b
+status: Standard

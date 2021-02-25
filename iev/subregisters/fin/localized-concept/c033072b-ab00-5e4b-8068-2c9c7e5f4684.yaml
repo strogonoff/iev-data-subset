@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 113-05-38
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: isotooppi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c033072b-ab00-5e4b-8068-2c9c7e5f4684
+status: Standard

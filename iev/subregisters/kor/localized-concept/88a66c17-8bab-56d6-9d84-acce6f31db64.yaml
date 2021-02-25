@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 113-04-22
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 엔트로피
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 88a66c17-8bab-56d6-9d84-acce6f31db64
+status: Standard

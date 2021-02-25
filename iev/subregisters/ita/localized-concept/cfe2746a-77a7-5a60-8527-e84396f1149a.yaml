@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-10-21
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: proiezione laterale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cfe2746a-77a7-5a60-8527-e84396f1149a
+status: Standard

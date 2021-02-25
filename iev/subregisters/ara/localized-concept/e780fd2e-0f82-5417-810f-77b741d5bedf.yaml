@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-04-12
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: نقاط حماية مختارة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e780fd2e-0f82-5417-810f-77b741d5bedf
+status: Standard

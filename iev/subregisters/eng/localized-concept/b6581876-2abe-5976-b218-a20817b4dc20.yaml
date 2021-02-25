@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1996-12-01T00:00:00+00:00'
+  definition: the difference, expressed in decibels, between two levels of the same
+    signal, recorded, one on a stated magnetic medium and the other on a reference
+    magnetic medium, by the same magnetic head, energized by the same audio-frequency
+    current; the biasing current has in each case an adequate value
+  examples: []
+  id: 806-16-13
+  language_code: eng
+  notes: []
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: magnetic medium relative efficiency
+    normative_status: preferred
+    type: expression
+dateAccepted: 1996-12-01
+id: b6581876-2abe-5976-b218-a20817b4dc20
+status: Standard

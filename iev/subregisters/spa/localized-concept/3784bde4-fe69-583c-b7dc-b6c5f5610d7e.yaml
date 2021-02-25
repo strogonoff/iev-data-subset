@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-143
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: manto reproductor
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3784bde4-fe69-583c-b7dc-b6c5f5610d7e
+status: Standard

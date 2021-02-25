@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  examples: []
+  id: 723-10-78
+  language_code: ara
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تشويه مكوّناتِ
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 9aec33cc-1dc8-586a-9ec8-c46914b2f34e
+status: Standard

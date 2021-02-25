@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-14-19
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Bürste
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c386bb30-333e-5826-bd5d-6c8a5c68bf12
+status: Standard

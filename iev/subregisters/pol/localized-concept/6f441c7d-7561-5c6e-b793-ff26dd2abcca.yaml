@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-10-20
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: czas trwania rozmowy
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6f441c7d-7561-5c6e-b793-ff26dd2abcca
+status: Standard

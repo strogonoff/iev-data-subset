@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 851-15-07
+  language_code: swe
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: förstärkt isolering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 30def3d6-a5a2-525e-b818-d6effaedc6c8
+status: Standard

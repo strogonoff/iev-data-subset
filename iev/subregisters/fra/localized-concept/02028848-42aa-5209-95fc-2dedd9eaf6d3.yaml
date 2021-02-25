@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: intervalle de temps, suivant le début d'une décharge provoquant une
+    impulsion normale, pendant lequel un tube-compteur est insensible à d'autres événements
+    ionisants
+  examples: []
+  id: 531-47-15
+  language_code: fra
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: temps mort
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2021-01-01
+id: 02028848-42aa-5209-95fc-2dedd9eaf6d3
+status: Standard

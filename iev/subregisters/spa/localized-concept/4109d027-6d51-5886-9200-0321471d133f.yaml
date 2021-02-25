@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-03-52
+  language_code: spa
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: potencia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 4109d027-6d51-5886-9200-0321471d133f
+status: Standard

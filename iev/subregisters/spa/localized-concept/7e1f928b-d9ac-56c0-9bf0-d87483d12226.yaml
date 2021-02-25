@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 731-01-43
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: efecto magneto-óptico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e1f928b-d9ac-56c0-9bf0-d87483d12226
+status: Standard

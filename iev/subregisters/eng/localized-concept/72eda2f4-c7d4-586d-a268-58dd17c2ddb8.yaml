@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: spectral components arising from the process of sampling which are not
+    in the signal before sampling
+  examples: []
+  id: 723-10-78
+  language_code: eng
+  notes:
+  - These spurious components may fall inside or outside the spectrum of the original
+    signal.
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: aliasing components
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 72eda2f4-c7d4-586d-a268-58dd17c2ddb8
+status: Standard

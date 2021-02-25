@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: '`D`~2~ – `D`~1~) between two areas of a radiograph of densities `D`~2~
+    and `D`~1~'
+  examples: []
+  id: 881-04-58
+  language_code: eng
+  notes: []
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: radiographic contrast
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: 41517a50-b779-50d7-87a2-4795c89b3a93
+status: Standard

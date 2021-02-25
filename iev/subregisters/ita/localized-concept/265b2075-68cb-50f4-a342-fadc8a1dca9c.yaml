@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: manovra manuale dipendente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 265b2075-68cb-50f4-a342-fadc8a1dca9c
+status: Standard

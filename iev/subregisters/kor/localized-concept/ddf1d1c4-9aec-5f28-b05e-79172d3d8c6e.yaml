@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-29-02
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 전력의 투과심도
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ddf1d1c4-9aec-5f28-b05e-79172d3d8c6e
+status: Standard

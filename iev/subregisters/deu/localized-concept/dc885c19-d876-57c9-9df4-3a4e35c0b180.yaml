@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-34
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Erdschlussrelais
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dc885c19-d876-57c9-9df4-3a4e35c0b180
+status: Standard

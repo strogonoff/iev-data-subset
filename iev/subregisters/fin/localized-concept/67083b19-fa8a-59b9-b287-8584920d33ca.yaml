@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-09-02
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: radiotaajuinen säteily
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 67083b19-fa8a-59b9-b287-8584920d33ca
+status: Standard

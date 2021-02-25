@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  examples: []
+  id: 714-05-09
+  language_code: ara
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: فصل ووصل (تبديل) حزم البيانات
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: 5db892d7-7c0b-5cbc-b536-53674e302c11
+status: Standard

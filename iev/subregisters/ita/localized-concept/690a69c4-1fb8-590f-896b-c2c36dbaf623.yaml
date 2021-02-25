@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 705-05-37
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: propagazione oltre l'orizzonte
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 690a69c4-1fb8-590f-896b-c2c36dbaf623
+status: Standard

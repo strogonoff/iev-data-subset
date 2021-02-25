@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-29-065
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: نسبة خرج ضوء صاعد
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 37f7d17f-e741-54ee-8645-10a1f0c2eb4a
+status: Standard

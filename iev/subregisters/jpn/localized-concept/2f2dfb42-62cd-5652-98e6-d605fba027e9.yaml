@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-016
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: スペクトル線
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2f2dfb42-62cd-5652-98e6-d605fba027e9
+status: Standard

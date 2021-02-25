@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-03-13
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: radialni odmik pri sistemu CD
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d8ca9ed6-3d24-5b53-9d28-88a89d5d3625
+status: Standard

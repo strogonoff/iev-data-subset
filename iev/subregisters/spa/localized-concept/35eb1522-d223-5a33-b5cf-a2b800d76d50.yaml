@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-42
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: actividad (nuclear)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 35eb1522-d223-5a33-b5cf-a2b800d76d50
+status: Standard

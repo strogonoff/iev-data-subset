@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-20-17
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: temperatura ambiente máxima
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e763b847-aa61-5215-8216-5fb32bfdd457
+status: Standard

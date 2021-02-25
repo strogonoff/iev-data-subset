@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1998-04-01T00:00:00+00:00'
+  examples: []
+  id: 713-07-19
+  language_code: ara
+  notes: []
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تضمين متعدد الحالات
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 2a43738a-45b8-5a57-88d4-43d656000af3
+status: Standard

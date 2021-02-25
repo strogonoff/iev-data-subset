@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sistema di sbarre con interruzione
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 304254ce-9896-5ccc-a3f5-7a021732aec0
+status: Standard

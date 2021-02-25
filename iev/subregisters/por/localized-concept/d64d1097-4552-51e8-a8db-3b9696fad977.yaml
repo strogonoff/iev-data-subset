@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-01-15
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: fibrilhação auricular
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d64d1097-4552-51e8-a8db-3b9696fad977
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  examples: []
+  id: 715-06-05
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 最終選択回線群
+    normative_status: preferred
+    type: expression
+  - designation: 最終選択回線
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a857a7d1-2bd8-5dd7-aa66-74565d192c7e
+status: Standard

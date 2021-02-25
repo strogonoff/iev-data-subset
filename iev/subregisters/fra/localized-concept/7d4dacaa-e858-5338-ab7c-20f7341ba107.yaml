@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2002-06-01T00:00:00+00:00'
+  definition: déplacement relatif des images fournies par chaque dispositif capteur
+    d’image dans une caméra vidéo utilisant plus d’un capteur d’image
+  examples: []
+  id: 808-02-13
+  language_code: fra
+  notes: []
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: erreur de convergence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2002-06-01
+id: 7d4dacaa-e858-5338-ab7c-20f7341ba107
+status: Standard

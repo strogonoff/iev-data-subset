@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-20-17
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: اقصى درجة حرارة محيطة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6b1ec218-8217-55e0-80c0-0c00c6e2a4c9
+status: Standard

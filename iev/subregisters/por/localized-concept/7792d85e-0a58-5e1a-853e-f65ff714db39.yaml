@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: dispositivo indicador
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7792d85e-0a58-5e1a-853e-f65ff714db39
+status: Standard

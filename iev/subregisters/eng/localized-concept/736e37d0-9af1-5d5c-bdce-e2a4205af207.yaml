@@ -1,0 +1,32 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-08-01T00:00:00+00:00'
+  definition: '`n`-dimensional Euclidean vector space'
+  examples: []
+  id: 102-03-39
+  language_code: eng
+  notes:
+  - '`T` of the second order can be represented by `n^2` components `T_((i j))`, generally
+    presented in the form of a square matrix, such that `T` attributes to the pair
+    of vectors *`U`* and *`V`* the scalar `sum_((i , j = 1))^n T_((i j)) U_i V_j`,
+    where `U_i` and `V_j` are the coordinates of vectors *`U`* and *`V`*.'
+  - '`n` defined by `n`-linear forms and for which the components have `n` indices.
+    Tensors of order 1 are considered as vectors and tensors of order 0 are considered
+    as scalars.'
+  - '`T`* or `T` ou `vec vec T`. The tensor `T` with components `T_((i j))` can be
+    denoted `( T_((i j)) )`.'
+  - '`T` is defined by a real part and an imaginary part: `T = A + j B` where `A`
+    and `B` are real tensors.'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tensor of the second order
+    normative_status: preferred
+    type: expression
+  - designation: tensor
+    type: expression
+dateAccepted: 2008-08-01
+id: 736e37d0-9af1-5d5c-bdce-e2a4205af207
+status: Standard

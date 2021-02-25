@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 902-02-02
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: процедура
+    normative_status: preferred
+    type: expression
+  - designation: поступак
+    type: expression
+dateAccepted: 2018-11-17
+id: 891e2de4-28ce-57ee-b433-1577333473d0
+status: Standard

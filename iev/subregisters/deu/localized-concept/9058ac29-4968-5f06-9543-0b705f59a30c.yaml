@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-15-01
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Pol eines Schaltgeräts
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9058ac29-4968-5f06-9543-0b705f59a30c
+status: Standard

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-35
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 반사적 배열 안테나
+    normative_status: preferred
+    type: expression
+  - designation: 반응성 반사 안테나
+    type: expression
+dateAccepted: 2018-11-17
+id: 25519f82-f237-549e-8658-7efe3f43247b
+status: Standard

@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-01-58
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Automatisierungsgrad
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: GOA
+    type: expression
+dateAccepted: 2018-11-17
+id: ea5c9322-224c-50a4-aa31-aed54f6f022e
+status: Standard

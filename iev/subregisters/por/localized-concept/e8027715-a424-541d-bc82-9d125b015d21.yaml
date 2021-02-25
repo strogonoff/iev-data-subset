@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tempo de arranque
+    normative_status: preferred
+    type: expression
+    usage_info: para sistemas de alimentação de pilhas de combustível que não requerem
+      energia externa para manter um estado de armazenamento
+dateAccepted: 2018-11-17
+id: e8027715-a424-541d-bc82-9d125b015d21
+status: Standard

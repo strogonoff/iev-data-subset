@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-22-14
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 冷却
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b3bb226a-2e6a-5959-abd3-5b425dd4790e
+status: Standard

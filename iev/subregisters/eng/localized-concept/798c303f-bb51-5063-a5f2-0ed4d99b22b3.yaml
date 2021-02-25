@@ -1,0 +1,71 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2020-12-01T00:00:00+00:00'
+  definition: '`L_v = ((d I_v))/((d A)) (1)/((cos alpha))`
+
+
+    where `I`~v~ is luminous intensity, `A` is area and `α` is the angle between the
+    normal to the surface at the specified point and the specified direction'
+  examples: []
+  id: 845-21-050
+  language_code: eng
+  notes:
+  - '`I`~v~, in the specified direction. The luminance of the surface is then the
+    integral of these luminance elements over the whole surface.
+
+
+    The equation in the definition can mathematically be interpreted as a derivative
+    (i.e. a rate of change of luminous intensity with projected area) and could alternatively
+    be rewritten in terms of the average luminous intensity, `bar I_v`, as:
+
+
+    `L_v = underset((A -&gt; 0))((lim)) ((bar I_v))/(A) (1)/((cos alpha))`.
+
+
+    Hence, luminance is often considered as a quotient of averaged quantities; the
+    area, `A`, should be small enough so that uncertainties due to variations in luminous
+    intensity within that area are negligible; otherwise, the quotient `bar L_v =
+    ((bar I_v))/(A) (1)/((cos alpha))` gives the average luminance and the specific
+    measurement conditions have to be reported with the result.'
+  - '`E`~v~, and solid angle, `Ω`, is `L_v = ((d E_v))/((d omega)) (1)/((cos theta))`,
+    where `θ` is the angle between the normal to the surface being irradiated and
+    the direction of irradiation. This form is useful when the source has no surface
+    (e.g. the sky, the plasma of a discharge).'
+  - '`L_v = ((d Phi_v))/((d G))`, where `Φ`~v~ is luminous flux and `G` is geometric
+    extent.'
+  - "`A`·cos `α`, and solid angle, `Ω`:\r\n`Phi_v = ​ ∬ L_v * cos alpha d A d omega`."
+  - '`G·n`^2^, where `G` is geometric extent and `n` is refractive index, is invariant,
+    the quantity expressed by `L`~v~`·n`^−2^ is also invariant along the path of the
+    beam if the losses by absorption, reflection and diffusion are taken as 0. That
+    quantity is called "basic luminance".'
+  - '`Φ`~v~. In this case, it is mathematically interpreted as a second partial derivative
+    of the luminous flux at a specified point (`x`, `y`) in space in a specified direction
+    (`ϑ`, `φ`) with respect to projected area, `A`·cos `α`, and solid angle, `Ω`,
+
+
+    `L_v ( x , y , vartheta , phi ) = ((del^2 Phi_v ( x , y , vartheta , phi )))/((del
+    A ( x , y ) * cos alpha * del omega ( vartheta , phi )))`
+
+
+    where `α` is the angle between the normal to that area at the specified point
+    and the specified direction.'
+  - The corresponding radiometric quantity is "radiance". The corresponding quantity
+    for photons is "photon radiance".
+  - The luminance is expressed in candela per square metre (cd·m^−2^ = lm·m^−2^·sr^−1^).
+  - This entry was numbered 845-01-35 in IEC 60050-845:1987.
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: luminance
+    normative_status: preferred
+    type: expression
+  - designation: '`L`~v~
+
+      `L`'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: 798c303f-bb51-5063-a5f2-0ed4d99b22b3
+status: Standard

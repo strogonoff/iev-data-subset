@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-13
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ホーミング
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 599bf7d7-0b52-573d-9ca3-918be879d265
+status: Standard

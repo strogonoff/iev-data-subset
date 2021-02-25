@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-22
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 분로 계전기
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 999157a1-2ffc-5f48-9331-aa201152bf2a
+status: Standard

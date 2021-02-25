@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 회색 레벨
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 978e15b8-444c-54ba-ae83-6f1c97dfe416
+status: Standard

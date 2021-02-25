@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-10-14
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: quantum de fluxo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 17dade09-90d6-5d5d-8cfa-d036fc27df64
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-016
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: خط طيفي
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ddfe0eb5-aa22-5360-89e9-b0400ec3b79f
+status: Standard

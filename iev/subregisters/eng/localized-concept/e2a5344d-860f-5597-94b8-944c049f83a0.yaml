@@ -1,0 +1,49 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2020-12-01T00:00:00+00:00'
+  definition: quantity that determines the maximum geometric throughput of radiation
+    transmitted, received or emitted in a single-pass, passive optical arrangement
+  examples: []
+  id: 845-21-047
+  language_code: eng
+  notes:
+  - '`A` and d`A`′ at distance `l`, with normal vectors `n_A` and `n^( '' )_A` and
+    orientation angles `θ` and `θ`′ with respect to a common optical axis, the geometric
+    extent is equal to the action of all possible rays between both surface areas
+    `A` and `A`′. This is expressed by the integral over the product of all projected
+    area elements d`A` cos `θ` and d`A`′ cos `θ`′ weighted by the distance squared
+    to account for the apparent size of the subtending surfaces areas:
+
+
+    `G = (1)/((l^2)) underset(A)( int ) underset(A^( '' ))( int ) d A cos theta *
+    d A^( '' ) cos theta^( '' ) = int d G`
+
+
+    with
+
+
+    `d G \ = ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2)) = d A cos Theta
+    * d omega = d A^( '' ) cos theta^( '' ) * d omega^( '' ) = d G^( '' )`
+
+
+    where d`Ω` and d`Ω`′ are the solid angle elements defining the angular extent
+    of d`A`′ from d`A` and d`A` from d`A`′ respectively.'
+  - '"Single-pass" means that the term applies only for radiation transfer in a single
+    defined direction. It does not apply to devices such as Fabry–Pérot cavities.'
+  - See also "<a href="IEV845-21-048">optical extent</a>".
+  - The geometric extent is expressed in square metre times steradian (m^2^·sr).
+  - This entry was numbered 845-01-33 in IEC 60050-845:1987.
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: geometric extent
+    normative_status: preferred
+    type: expression
+  - designation: '`G`*'
+    international: true
+    type: symbol
+dateAccepted: 2020-12-01
+id: e2a5344d-860f-5597-94b8-944c049f83a0
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 741-01-33
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 虚拟实体
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ee0d6d56-a881-587a-846c-4f345e3761e1
+status: Standard

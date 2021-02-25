@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: transformador de tipo seco con arrollamientos cubiertos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b789f46b-1b09-5ff6-9cb8-f923d6219d1e
+status: Standard

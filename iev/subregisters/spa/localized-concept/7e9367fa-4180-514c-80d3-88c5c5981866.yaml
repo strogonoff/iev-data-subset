@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: cierre
+    normative_status: preferred
+    type: expression
+  - designation: cierre de un interruptor
+    type: expression
+  - designation: disparo
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e9367fa-4180-514c-80d3-88c5c5981866
+status: Standard

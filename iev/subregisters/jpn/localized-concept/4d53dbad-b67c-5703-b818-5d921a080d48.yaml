@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 851-15-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 強化絶縁
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4d53dbad-b67c-5703-b818-5d921a080d48
+status: Standard

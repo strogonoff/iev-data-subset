@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 371-01-04
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: telesegnalazione
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 380d1ea3-c60b-5d59-8dec-478b928f3a2a
+status: Standard

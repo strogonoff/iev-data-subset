@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-30-02
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: загревање електронским млазом
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c2464793-934c-5bae-a7d2-87e883bd4d05
+status: Standard

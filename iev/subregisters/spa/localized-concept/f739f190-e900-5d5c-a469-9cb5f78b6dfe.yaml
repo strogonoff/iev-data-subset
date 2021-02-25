@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-41-09
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: coeficiente de acortamiento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f739f190-e900-5d5c-a469-9cb5f78b6dfe
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-17-12
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: transadmittans
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 921d3666-f4c8-58a8-9369-83a4b07a7ba6
+status: Standard

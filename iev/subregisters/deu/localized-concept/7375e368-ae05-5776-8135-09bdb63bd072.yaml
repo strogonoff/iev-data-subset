@@ -1,0 +1,26 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 732-02-02
+  language_code: deu
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Netzinformationszentrum
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: NIC
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2010-06-01
+id: 7375e368-ae05-5776-8135-09bdb63bd072
+status: Standard

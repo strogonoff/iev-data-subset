@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Fehlermaskierung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: in der Software
+dateAccepted: 2018-11-17
+id: 13ffd6e1-b87a-5965-9f23-71b87e01e84c
+status: Standard

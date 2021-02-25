@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-22
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 閉鎖位置
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 81973a0e-c1da-5b8f-8392-11e3334d7b18
+status: Standard

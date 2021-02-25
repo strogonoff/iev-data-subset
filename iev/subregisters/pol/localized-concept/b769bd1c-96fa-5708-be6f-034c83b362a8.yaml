@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-18-02
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: prądnica główna prądu przemiennego
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: główny alternator
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b769bd1c-96fa-5708-be6f-034c83b362a8
+status: Standard

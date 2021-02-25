@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tráfico neto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c81cd9b4-a53f-5490-b50e-8e56b0337d87
+status: Standard

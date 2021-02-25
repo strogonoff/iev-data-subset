@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-02-13
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 重合误差
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b5cdfaa1-2244-5e78-bd5d-d533b53fca51
+status: Standard

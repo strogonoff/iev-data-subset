@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-90
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Entwürfelung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: bei digitaler Übertragung
+  - designation: Descrambling
+    gender: n
+    plurality: singular
+    type: expression
+    usage_info: bei digitaler Übertragung
+dateAccepted: 2018-11-17
+id: 186c03ed-5a0b-5e57-a53e-b6a5d71cead6
+status: Standard

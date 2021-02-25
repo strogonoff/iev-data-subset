@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: maskowanie defektu
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: w oprogramowaniu
+  - designation: zasłanianie defektu
+    gender: n
+    plurality: singular
+    type: expression
+    usage_info: w oprogramowaniu
+dateAccepted: 2018-11-17
+id: f734a786-d29b-5d09-a806-e52e2cd185ef
+status: Standard

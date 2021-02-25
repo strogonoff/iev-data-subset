@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: показивач
+    normative_status: preferred
+    type: expression
+    usage_info: стања осигурача
+dateAccepted: 2018-11-17
+id: 28920ba4-809b-5eef-9466-f867383a3aac
+status: Standard

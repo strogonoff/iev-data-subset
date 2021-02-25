@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-13-32
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: spårhastighet
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 28c219b2-52dd-5247-904d-3372805de3af
+status: Standard

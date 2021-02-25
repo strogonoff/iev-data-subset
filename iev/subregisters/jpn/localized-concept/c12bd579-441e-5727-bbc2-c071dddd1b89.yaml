@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-29-065
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 上向照明器具効率
+    normative_status: preferred
+    type: expression
+  - designation: 上半球照明器具効率
+    type: expression
+dateAccepted: 2018-11-17
+id: c12bd579-441e-5727-bbc2-c071dddd1b89
+status: Standard

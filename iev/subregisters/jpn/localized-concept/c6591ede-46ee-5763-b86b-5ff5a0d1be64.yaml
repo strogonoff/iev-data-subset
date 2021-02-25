@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-01-58
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 自動化の度合
+    normative_status: preferred
+    type: expression
+  - designation: GOA
+    type: expression
+dateAccepted: 2018-11-17
+id: c6591ede-46ee-5763-b86b-5ff5a0d1be64
+status: Standard

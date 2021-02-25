@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-31-051
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Sichtweite der Landebahn
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3e3fd3a6-7e2c-5d18-a1eb-d05fe2fa2537
+status: Standard

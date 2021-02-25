@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-11-01T00:00:00+00:00'
+  examples: []
+  id: 722-02-21
+  language_code: ara
+  notes: []
+  review_date: '1992-11-01T00:00:00+00:00'
+  review_decision_date: '1992-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: رنان نغمة
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-11-01
+id: 04f573ab-111c-5dd5-a645-06c391f401d0
+status: Standard

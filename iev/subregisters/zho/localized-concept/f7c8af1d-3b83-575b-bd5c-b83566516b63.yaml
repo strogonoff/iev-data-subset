@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2009-12-01T00:00:00+00:00'
+  examples: []
+  id: 103-04-12
+  language_code: zho
+  notes: []
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 连续小波变换
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-12-01
+id: f7c8af1d-3b83-575b-bd5c-b83566516b63
+status: Standard

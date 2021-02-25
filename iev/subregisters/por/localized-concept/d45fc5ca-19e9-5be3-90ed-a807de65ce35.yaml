@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: eficiência de abertura
+    normative_status: preferred
+    type: expression
+  - designation: rendimento de abertura
+    type: expression
+dateAccepted: 2018-11-17
+id: d45fc5ca-19e9-5be3-90ed-a807de65ce35
+status: Standard

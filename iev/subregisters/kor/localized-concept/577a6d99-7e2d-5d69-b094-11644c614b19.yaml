@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-05-09
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 패킷 교환
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 577a6d99-7e2d-5d69-b094-11644c614b19
+status: Standard

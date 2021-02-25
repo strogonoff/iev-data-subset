@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-07
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: procesamiento de señales
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dfb3c9bc-02c4-5d0a-83f2-9267b77fae4c
+status: Standard

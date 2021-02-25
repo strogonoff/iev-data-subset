@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sulkeminen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f0a60b0d-7b98-521a-95be-284d8cea91b6
+status: Standard

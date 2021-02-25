@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 466-08-25
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 본체 확장자
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8f34be60-636b-543d-9bc9-71715124f7d8
+status: Standard

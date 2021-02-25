@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: grånivå
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b28835c6-983b-5123-a2d0-cf2af5696212
+status: Standard

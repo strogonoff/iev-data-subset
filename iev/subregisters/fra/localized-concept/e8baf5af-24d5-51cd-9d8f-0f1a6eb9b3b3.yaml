@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - - clause: définition 93
+      link: https://www.iso.org/standard/5333.html
+      original: ISO 921:1997, définition 93, modifiée
+      ref: ISO 921:1997
+      relationship:
+        type: modified
+  definition: région de matière fertile placée autour ou à l'intérieur du cœur d’un
+    réacteur nucléaire pour assurer la conversion de cette matière
+  examples: []
+  id: 395-07-143
+  language_code: fra
+  notes:
+  - Par extension le terme "couverture" peut être utilisé pour le dispositif permettant
+    la production de tritium dans un réacteur à fusion.
+  - Cet article était numéroté 393-17-17 dans la CEI 60050-393:2003.
+  review_decision_event: published
+  terms:
+  - designation: couche fertile
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: couverture fertile
+    gender: f
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e8baf5af-24d5-51cd-9d8f-0f1a6eb9b3b3
+status: Standard

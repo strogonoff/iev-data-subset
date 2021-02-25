@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Nettoverkehr
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 704669e0-b344-5afe-bb39-8a040eaa9f9a
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  definition: electric heating consisting of heat generation as the result of absorption
+    of the kinetic energy of one or more electron beams, accelerated in electric field
+  examples: []
+  id: 841-30-02
+  language_code: eng
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: electron beam heating
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-09-01
+id: ec5c095e-a6a5-53c6-bd31-85c39259e758
+status: Standard

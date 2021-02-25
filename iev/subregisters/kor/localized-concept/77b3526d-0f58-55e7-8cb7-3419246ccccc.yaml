@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-37-34
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 단파권
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 77b3526d-0f58-55e7-8cb7-3419246ccccc
+status: Standard

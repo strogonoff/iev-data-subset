@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-03-12
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: efeito (de absorção) anódico
+    normative_status: preferred
+    type: expression
+  - designation: efeito de calcanhar
+    type: expression
+dateAccepted: 2018-11-17
+id: 83c0e0b6-86ab-5c14-9f16-12dff5d41e1c
+status: Standard

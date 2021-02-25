@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 651-23-07
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: obuwie przewodzące
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: buty przewodzące
+    gender: m
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: a414134d-9a2a-593e-85eb-93be2e009427
+status: Standard

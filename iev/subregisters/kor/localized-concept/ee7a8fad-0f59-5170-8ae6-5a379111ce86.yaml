@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-53-58
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 열 보호
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ee7a8fad-0f59-5170-8ae6-5a379111ce86
+status: Standard

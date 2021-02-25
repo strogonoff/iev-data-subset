@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-076
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: spazio del colore CIE 1976 L*a*b*
+    normative_status: preferred
+    type: expression
+  - designation: spazio del colore CIELAB
+    type: expression
+dateAccepted: 2018-11-17
+id: df46fa53-bf6c-5062-a261-52b3cba252d2
+status: Standard

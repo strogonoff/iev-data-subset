@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-34
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 지락 고장 계전기
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 29445418-cd65-5ed8-bfd7-62916a579a27
+status: Standard

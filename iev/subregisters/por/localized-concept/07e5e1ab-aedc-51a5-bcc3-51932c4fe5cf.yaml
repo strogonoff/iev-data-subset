@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-90
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: desembaralhamento (em transmissão digital)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 07e5e1ab-aedc-51a5-bcc3-51932c4fe5cf
+status: Standard

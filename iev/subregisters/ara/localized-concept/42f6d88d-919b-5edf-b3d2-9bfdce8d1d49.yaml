@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 726-17-06
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: مدوِّر غير تبادلي للقطبية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 42f6d88d-919b-5edf-b3d2-9bfdce8d1d49
+status: Standard

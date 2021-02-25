@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-33-08
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 권선형 유도 전동기
+    normative_status: preferred
+    type: expression
+  - designation: 권선형 전동기
+    type: expression
+dateAccepted: 2018-11-17
+id: c6facdb5-cbef-5535-92c9-bb3c8a4fe153
+status: Standard

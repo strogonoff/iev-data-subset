@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 151-15-28
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 과전류
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7af1efeb-57ce-5b16-9e2b-2c2a89e225d5
+status: Standard

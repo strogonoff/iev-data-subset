@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-22
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: '`shunt`'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 95ebc8ee-4e9e-5a42-a131-ea56e8429d95
+status: Standard

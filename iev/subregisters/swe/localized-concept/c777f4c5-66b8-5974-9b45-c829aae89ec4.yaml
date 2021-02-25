@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-05-38
+  language_code: swe
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: isotop
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: c777f4c5-66b8-5974-9b45-c829aae89ec4
+status: Standard

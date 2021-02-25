@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-10
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 비월 주사
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c80f3d8b-a19c-5079-8e7c-8b0cfd5abe76
+status: Standard

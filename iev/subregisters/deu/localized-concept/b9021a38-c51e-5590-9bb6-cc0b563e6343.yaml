@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-04-12
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Zwieschutzweiche
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b9021a38-c51e-5590-9bb6-cc0b563e6343
+status: Standard

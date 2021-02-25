@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 448-14-04
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: таслууртай зайн реле хамгаалалт
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5117cebd-398d-57ce-8ccd-17fb98b9cbd4
+status: Standard

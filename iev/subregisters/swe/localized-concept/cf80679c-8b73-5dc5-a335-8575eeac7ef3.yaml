@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-16-23
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sekundärstrålskydd
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cf80679c-8b73-5dc5-a335-8575eeac7ef3
+status: Standard

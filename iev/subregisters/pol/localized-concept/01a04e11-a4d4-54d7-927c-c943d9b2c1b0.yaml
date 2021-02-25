@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sygnał warunkowej zgody na manewrowanie
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 01a04e11-a4d4-54d7-927c-c943d9b2c1b0
+status: Standard

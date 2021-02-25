@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-10-14
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 磁通量子
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e8a74ca5-bed6-597e-a4e9-dc41fdd7700f
+status: Standard

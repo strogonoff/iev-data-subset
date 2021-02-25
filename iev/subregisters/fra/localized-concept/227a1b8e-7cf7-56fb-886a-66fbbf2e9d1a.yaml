@@ -1,0 +1,48 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: grandeur qui détermine la puissance géométrique maximale de rayonnement
+    transmis, reçu ou émis selon une configuration optique passive monopasse
+  examples: []
+  id: 845-21-047
+  language_code: fra
+  notes:
+  - '`A` et d`A`′ à une distance `l`, avec les vecteurs normaux `n_A` et `n^( '' )_A`
+    et les angles d''orientation `θ` et `θ`′ par rapport à un axe optique commun,
+    l''étendue géométrique est égale à l''action de tous les rayons possibles entre
+    les deux surfaces `A` et `A`′. Ce phénomène est exprimé par l''intégrale étendue
+    au produit de tous les éléments de surface projetée d`A` cos `θ` et d`A`′ cos `θ` ′
+    pondérés par la distance au carré afin de tenir compte de la dimension apparente
+    des surfaces correspondantes:
+
+
+    `G = (1)/((l^2)) underset(A)( int ) underset(A^( '' ))( int ) d A cos theta *
+    d A^( '' ) cos theta^( '' ) = int d G`
+
+
+    avec
+
+
+    `d G \ = ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2)) = d A cos Theta
+    * d omega = d A^( '' ) cos theta^( '' ) * d omega^( '' ) = d G^( '' )`
+
+
+    où d`Ω` et d`Ω`′ sont les éléments des angles solides qui définissent l''étendue
+    angulaire de d`A`′ à partir de d`A` et de d`A` à partir de d`A`′ respectivement.'
+  - '"Monopasse" signifie que le terme s''applique uniquement au transfert de rayonnement
+    dans une direction définie unique. Il ne s''applique pas à des dispositifs tels
+    que les cavités Fabry–Pérot.'
+  - Voir aussi "<a href="IEV845-21-048">étendue optique</a>".
+  - L'étendue géométrique est exprimée en mètre carré multipliée par le stéradian
+    (m^2^·sr).
+  - Cet article était numéroté 845-01-33 dans l'IEC 60050-845:1987.
+  review_decision_event: published
+  terms:
+  - designation: étendue géométrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 227a1b8e-7cf7-56fb-886a-66fbbf2e9d1a
+status: Standard

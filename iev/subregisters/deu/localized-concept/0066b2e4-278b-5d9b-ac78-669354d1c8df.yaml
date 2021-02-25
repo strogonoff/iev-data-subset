@@ -1,0 +1,31 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-39
+  language_code: deu
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Wärmedurchgangskoeffizient
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Wärmedämmwert (im Bauwesen)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Wärmedurchgangszahl
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2011-04-01
+id: 0066b2e4-278b-5d9b-ac78-669354d1c8df
+status: Standard

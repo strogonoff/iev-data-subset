@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 故障屏蔽
+    normative_status: preferred
+    type: expression
+    usage_info: 软件领域
+dateAccepted: 2018-11-17
+id: c195e4e7-3c2b-5849-8e17-5101c3227000
+status: Standard

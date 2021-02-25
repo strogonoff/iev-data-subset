@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-03-04
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mobiler Funkdienst über Satelliten
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c4d83f8d-3597-531e-afe2-cc8863b20449
+status: Standard

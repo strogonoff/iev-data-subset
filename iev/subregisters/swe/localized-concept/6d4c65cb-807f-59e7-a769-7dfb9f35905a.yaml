@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-07
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: signalbehandling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6d4c65cb-807f-59e7-a769-7dfb9f35905a
+status: Standard

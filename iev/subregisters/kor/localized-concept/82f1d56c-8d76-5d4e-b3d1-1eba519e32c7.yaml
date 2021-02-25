@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 고객 정전 평균 지속시간
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 82f1d56c-8d76-5d4e-b3d1-1eba519e32c7
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-07-09
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: señal de respuesta (sin tasación)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a332f8b6-4114-590f-adf3-b0815ce43963
+status: Standard

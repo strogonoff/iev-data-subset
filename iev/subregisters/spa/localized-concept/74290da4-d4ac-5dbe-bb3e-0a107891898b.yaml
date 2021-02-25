@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 851-15-07
+  language_code: spa
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: aislamiento reforzado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 74290da4-d4ac-5dbe-bb3e-0a107891898b
+status: Standard

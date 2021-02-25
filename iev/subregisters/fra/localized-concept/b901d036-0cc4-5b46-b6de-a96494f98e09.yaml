@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - - clause: '4.4'
+      link: https://www.iso.org/standard/39976.html
+      original: Guide ISO/CEI 2:2004, 4.4
+      ref: ISO/IEC Guide 2:2004
+      relationship:
+        type: identical
+  definition: '{{organisme à activités normatives, IEV:901-03-03}} reconnu au niveau
+    national, régional ou international, dont l''une des principales fonctions, en
+    vertu de ses statuts, est la préparation, l''approbation ou l''adoption de {{norme,
+    IEV:901-02-02}}s qui sont mises à la disposition du public'
+  examples: []
+  id: 901-03-06
+  language_code: fra
+  notes:
+  - Un organisme de normalisation peut également avoir d'autres fonctions principales.
+  review_decision_event: published
+  terms:
+  - designation: organisme de normalisation
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: b901d036-0cc4-5b46-b6de-a96494f98e09
+status: Standard

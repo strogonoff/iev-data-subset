@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-02-78
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: dependencia de la energía
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cc1e978a-7183-5073-bd7c-194bb2caa8ca
+status: Standard

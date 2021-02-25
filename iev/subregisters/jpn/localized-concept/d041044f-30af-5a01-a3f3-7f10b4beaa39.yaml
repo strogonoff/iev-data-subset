@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2007-08-01T00:00:00+00:00'
+  examples: []
+  id: 102-04-38
+  language_code: jpn
+  notes: []
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 柱面
+    normative_status: preferred
+    type: expression
+  - designation: 円筒面
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-08-01
+id: d041044f-30af-5a01-a3f3-7f10b4beaa39
+status: Standard

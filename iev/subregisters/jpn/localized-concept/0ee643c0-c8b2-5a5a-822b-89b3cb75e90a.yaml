@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-20-17
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 最高周囲温度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0ee643c0-c8b2-5a5a-822b-89b3cb75e90a
+status: Standard

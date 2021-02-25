@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-16-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 필라멘트 또는 가열기 기동 서지 전류
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8d9ecbc2-bf55-5acd-aa39-fafd188b69c9
+status: Standard

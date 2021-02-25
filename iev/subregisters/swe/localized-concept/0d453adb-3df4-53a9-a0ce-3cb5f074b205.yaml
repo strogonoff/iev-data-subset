@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-13-07
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kontinuerlig mottagare
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0d453adb-3df4-53a9-a0ce-3cb5f074b205
+status: Standard

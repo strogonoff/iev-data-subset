@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2009-03-01T00:00:00+00:00'
+  examples: []
+  id: 617-04-03
+  language_code: por
+  notes: []
+  review_date: '2009-03-01T00:00:00+00:00'
+  review_decision_date: '2009-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: contrato de ligação
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-03-01
+id: 94e0549e-fb71-582f-b919-ea54399af5c9
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-07-07
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: massimo carico nominale di un tubo radiogeno
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d087fc38-f7a6-5aae-9e51-77e30c5da610
+status: Standard

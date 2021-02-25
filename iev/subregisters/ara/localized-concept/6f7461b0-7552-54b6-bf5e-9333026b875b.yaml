@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  examples: []
+  id: 723-06-08
+  language_code: ara
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: انزلاق الصورة عاموديا
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 6f7461b0-7552-54b6-bf5e-9333026b875b
+status: Standard

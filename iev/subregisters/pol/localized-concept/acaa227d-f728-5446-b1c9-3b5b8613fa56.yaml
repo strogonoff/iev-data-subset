@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2009-12-01T00:00:00+00:00'
+  examples: []
+  id: 103-04-12
+  language_code: pol
+  notes: []
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: transformata falkowa ciągła
+    normative_status: preferred
+    type: expression
+  - designation: CWT (akronim)
+    type: expression
+dateAccepted: 2009-12-01
+id: acaa227d-f728-5446-b1c9-3b5b8613fa56
+status: Standard

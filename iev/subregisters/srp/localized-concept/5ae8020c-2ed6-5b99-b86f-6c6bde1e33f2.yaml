@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 151-15-28
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: прекомерна струја
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ae8020c-2ed6-5b99-b86f-6c6bde1e33f2
+status: Standard

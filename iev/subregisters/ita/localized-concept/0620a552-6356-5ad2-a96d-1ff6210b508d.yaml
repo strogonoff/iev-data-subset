@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-48
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: effetto di aumento (della luminosità media)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0620a552-6356-5ad2-a96d-1ff6210b508d
+status: Standard

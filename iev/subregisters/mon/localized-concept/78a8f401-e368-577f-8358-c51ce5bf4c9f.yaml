@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: фазын хүчдэлийн хяналт
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 78a8f401-e368-577f-8358-c51ce5bf4c9f
+status: Standard

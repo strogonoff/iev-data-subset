@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  examples: []
+  id: 714-15-17
+  language_code: ara
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: تثبيت
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: b364819b-8922-5294-bf17-271e0050c786
+status: Standard

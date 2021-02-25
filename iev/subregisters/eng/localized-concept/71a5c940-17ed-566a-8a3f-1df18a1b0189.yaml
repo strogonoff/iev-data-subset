@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1983-01-01T00:00:00+00:00'
+  definition: '`f` = 1'
+  examples: []
+  id: 881-07-07
+  language_code: eng
+  notes:
+  - '`f` = 1.'
+  review_date: '1983-01-01T00:00:00+00:00'
+  review_decision_date: '1983-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: maximum rated X-ray tube load
+    normative_status: preferred
+    type: expression
+dateAccepted: 1983-01-01
+id: 71a5c940-17ed-566a-8a3f-1df18a1b0189
+status: Standard

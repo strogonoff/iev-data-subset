@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-16-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: corrente di riscaldamento all'inserzione
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3fa35138-498e-5919-8fb3-45c2526da3fe
+status: Standard

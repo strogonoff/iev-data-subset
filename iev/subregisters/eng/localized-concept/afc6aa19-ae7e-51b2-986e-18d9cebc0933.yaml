@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: an induction motor with secondary polyphase coil winding(s)
+  examples: []
+  id: 411-33-08
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: wound-rotor induction motor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: afc6aa19-ae7e-51b2-986e-18d9cebc0933
+status: Standard

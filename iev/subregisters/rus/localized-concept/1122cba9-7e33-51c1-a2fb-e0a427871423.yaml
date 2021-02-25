@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 551-16-51
+  language_code: rus
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: блокирующее интервал обратного блокирующего состояния
+    normative_status: preferred
+    type: expression
+  - designation: интервал обратного блокирующего состояния
+    type: expression
+dateAccepted: 2018-11-17
+id: 1122cba9-7e33-51c1-a2fb-e0a427871423
+status: Standard

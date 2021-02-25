@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ilmaisin
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1f7ccc23-dad5-5560-81fe-1c93b6d7a6f8
+status: Standard

@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 901-01-16
+  language_code: jpn
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 環境保全 保護
+    normative_status: preferred
+    type: expression
+  - designation: 環境保護
+    type: expression
+dateAccepted: 2013-11-01
+id: 6fa86fe2-51a4-591a-8441-591df94eabbe
+status: Standard

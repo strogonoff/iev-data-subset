@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-12-39
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 故障导向安全时间
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ed0f9805-581e-5620-98b2-e217f0f2ec39
+status: Standard

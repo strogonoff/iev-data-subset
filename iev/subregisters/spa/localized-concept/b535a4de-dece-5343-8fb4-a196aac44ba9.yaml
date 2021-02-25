@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-24-13
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: calentador de cerámica por infrarrojos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b535a4de-dece-5343-8fb4-a196aac44ba9
+status: Standard

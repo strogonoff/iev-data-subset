@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 448-14-04
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 切換式距離保護
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bd9222da-95ef-51e3-b7fd-8e824d9dd150
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-07
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 外部重整
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 52f89d3f-cdae-5881-9da5-c3e941e1a7ab
+status: Standard

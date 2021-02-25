@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 包封绕组的干式变压器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3765c024-deda-5140-bbd0-397876546808
+status: Standard

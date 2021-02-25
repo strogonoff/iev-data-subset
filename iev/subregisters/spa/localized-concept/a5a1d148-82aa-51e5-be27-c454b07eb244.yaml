@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 444-04-01
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: circuito de salida
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a5a1d148-82aa-51e5-be27-c454b07eb244
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 351-50-29
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: pitoelementti
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 24bdd05a-c7e8-5e76-b564-8d1049762ba3
+status: Standard

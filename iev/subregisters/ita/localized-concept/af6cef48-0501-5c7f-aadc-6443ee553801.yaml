@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-75
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: maschera di taratura e prova
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: af6cef48-0501-5c7f-aadc-6443ee553801
+status: Standard

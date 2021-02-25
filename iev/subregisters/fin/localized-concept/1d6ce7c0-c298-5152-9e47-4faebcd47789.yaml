@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-15-18
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: taustamelu
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1d6ce7c0-c298-5152-9e47-4faebcd47789
+status: Standard

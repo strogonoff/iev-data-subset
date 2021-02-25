@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-21-20
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 音圧
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 37113ed1-98c5-5a48-aa60-a680675ec4e7
+status: Standard

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-22-14
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 冷却
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8dfa77a0-8132-525f-b21b-511e9799c2cb
+status: Standard

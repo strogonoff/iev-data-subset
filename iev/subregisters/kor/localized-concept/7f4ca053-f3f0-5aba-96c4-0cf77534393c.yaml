@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 비가역 편파 회전자
+    normative_status: preferred
+    type: expression
+  - designation: 비가역 파 회전자
+    type: expression
+dateAccepted: 2018-11-17
+id: 7f4ca053-f3f0-5aba-96c4-0cf77534393c
+status: Standard

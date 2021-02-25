@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-32
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 不均一量子化
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c2071019-06e3-5aac-b573-ebba520d04ff
+status: Standard

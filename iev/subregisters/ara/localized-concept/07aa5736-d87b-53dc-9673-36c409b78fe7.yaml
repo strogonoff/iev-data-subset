@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  examples: []
+  id: 531-15-01
+  language_code: ara
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: ضجيج انبوبي
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 07aa5736-d87b-53dc-9673-36c409b78fe7
+status: Standard

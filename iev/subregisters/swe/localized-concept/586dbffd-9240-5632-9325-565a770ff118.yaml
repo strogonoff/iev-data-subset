@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: swe
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: längd
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 586dbffd-9240-5632-9325-565a770ff118
+status: Standard
