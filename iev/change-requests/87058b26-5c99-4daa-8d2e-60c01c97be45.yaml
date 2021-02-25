@@ -7,9 +7,22 @@ proposals:
     payload:
       identifier: 111-11-11
       localizedConcepts:
-        eng: 3ea93cf8-8e37-43c9-86ff-46a03b3decda
+        eng: db099d09-9a37-419c-b2b4-5d28fe40a192
     classID: concept
     subregisterID: universal
+  db099d09-9a37-419c-b2b4-5d28fe40a192:
+    type: addition
+    payload:
+      terms:
+        - designation: Test designation
+          type: expression
+          normative_status: preferred
+          partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
+      definition: Test definition with `m`ath!
+      notes: []
+      examples: []
+    classID: localized-concept
+    subregisterID: eng
 sponsor:
   role: manager
   name: Demo user
