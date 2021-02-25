@@ -22,6 +22,7 @@ proposals:
         zho: 913fd947-005b-4ff9-9018-e322ac2d10d4
     classID: concept
     subregisterID: universal
+    accepted: true
   913fd947-005b-4ff9-9018-e322ac2d10d4:
     type: addition
     payload:
