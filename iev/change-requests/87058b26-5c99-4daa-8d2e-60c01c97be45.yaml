@@ -8,35 +8,8 @@ proposals:
       identifier: 111-11-11
       localizedConcepts:
         eng: 3ea93cf8-8e37-43c9-86ff-46a03b3decda
-        rus: 71e22347-98ee-4aad-9b31-49cf4d19b53a
     classID: concept
     subregisterID: universal
-  3ea93cf8-8e37-43c9-86ff-46a03b3decda:
-    type: addition
-    payload:
-      terms:
-        - designation: Test!
-          type: expression
-          normative_status: preferred
-          partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
-      definition: ''
-      notes: []
-      examples: []
-    classID: localized-concept
-    subregisterID: eng
-  71e22347-98ee-4aad-9b31-49cf4d19b53a:
-    type: addition
-    payload:
-      terms:
-        - designation: New designation
-          type: expression
-          normative_status: preferred
-          partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
-      definition: ''
-      notes: []
-      examples: []
-    classID: localized-concept
-    subregisterID: rus
 sponsor:
   role: manager
   name: Demo user
