@@ -1,7 +1,28 @@
 id: 87058b26-5c99-4daa-8d2e-60c01c97be45
 justification: Test2-alpha19
 timeStarted: 2021-02-25T11:08:39.543Z
-proposals: {}
+proposals:
+  d1639803-0513-405c-ad5e-684a98c5baac:
+    type: addition
+    payload:
+      identifier: 111-11-11
+      localizedConcepts:
+        eng: 3ea93cf8-8e37-43c9-86ff-46a03b3decda
+    classID: concept
+    subregisterID: universal
+  3ea93cf8-8e37-43c9-86ff-46a03b3decda:
+    type: addition
+    payload:
+      terms:
+        - designation: Test!
+          type: expression
+          normative_status: preferred
+          partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
+      definition: ''
+      notes: []
+      examples: []
+    classID: localized-concept
+    subregisterID: eng
 sponsor:
   role: manager
   name: Demo user
