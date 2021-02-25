@@ -10,6 +10,7 @@ proposals:
         eng: db099d09-9a37-419c-b2b4-5d28fe40a192
     classID: concept
     subregisterID: universal
+    accepted: true
   db099d09-9a37-419c-b2b4-5d28fe40a192:
     type: addition
     payload:
