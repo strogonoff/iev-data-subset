@@ -1,7 +1,26 @@
 id: 1500d366-b72c-4b24-9970-deb4df78d7d1
 justification: Test 2
 timeStarted: 2021-04-14T09:38:23.992Z
-proposals: {}
+proposals:
+  7709b4d7-2086-5417-8d42-8f230f54fd23:
+    type: clarification
+    payload:
+      identifier: 102-04-38
+      localizedConcepts:
+        deu: da728e94-52bf-54b2-9c67-d04af577e2e7
+        eng: 1df461db-f28b-5e48-8336-c09316b9a29f
+        fra: 14046fad-f675-5d6c-b789-f13e0e704904
+        jpn: d041044f-30af-5a01-a3f3-7f10b4beaa39
+        kor: 78b234bc-6a59-5d8a-95f1-be69e26a5c87
+        nld: cd9a7d7e-c4a0-5098-9fec-5a3d9a83a527
+        pol: 75b6d613-b37f-5878-a559-604be2445879
+        por: d03a6c7c-b15e-53ee-8b5d-0385072a0956
+        spa: 8b5ebfb7-4f70-59d2-bbcd-a7dcc86f98c5
+        srp: 2c82d169-17b5-590b-b9fb-2ab6f5349be8
+        swe: b2a2645c-7eb7-5121-9b33-d9c6b4ab20ee
+        zho: 140d5f19-fed1-5f1d-aa32-cef2e1a09557
+    classID: concept
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: manager
   name: Demo user
