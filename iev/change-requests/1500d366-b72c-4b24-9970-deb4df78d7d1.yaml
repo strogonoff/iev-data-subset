@@ -21,6 +21,28 @@ proposals:
         zho: 140d5f19-fed1-5f1d-aa32-cef2e1a09557
     classID: concept
     subregisterID: !<tag:yaml.org,2002:js/undefined> ''
+  0361bc09-476e-5371-b325-a295a9403eaf:
+    type: clarification
+    payload:
+      authoritativeSource:
+        - {}
+      date_amended: '1994-07-01T00:00:00+00:00'
+      definition: >-
+        root-mean-square of instantaneous sound pressures over a given time
+        interval, unless specified otherwise
+      examples: []
+      id: 801-21-20
+      language_code: eng
+      notes: []
+      review_date: '1994-07-01T00:00:00+00:00'
+      review_decision_date: '1994-07-01T00:00:00+00:00'
+      review_decision_event: published
+      terms:
+        - designation: sound pressure
+          normative_status: preferred
+          type: expression
+    classID: localized-concept
+    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: manager
   name: Demo user
