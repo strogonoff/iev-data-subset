@@ -6,7 +6,6 @@ data:
     - designation: Test designation
       type: expression
       normative_status: preferred
-      partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
   definition: Test definition with `m`ath!
   notes: []
   examples: []

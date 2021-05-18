@@ -20,7 +20,6 @@ proposals:
         swe: b2a2645c-7eb7-5121-9b33-d9c6b4ab20ee
         zho: 140d5f19-fed1-5f1d-aa32-cef2e1a09557
     classID: concept
-    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
   0361bc09-476e-5371-b325-a295a9403eaf:
     type: clarification
     payload:
@@ -42,7 +41,6 @@ proposals:
           normative_status: preferred
           type: expression
     classID: localized-concept
-    subregisterID: !<tag:yaml.org,2002:js/undefined> ''
 sponsor:
   role: manager
   name: Demo user

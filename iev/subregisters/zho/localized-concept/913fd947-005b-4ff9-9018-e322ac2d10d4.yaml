@@ -6,7 +6,6 @@ data:
     - designation: neutrodyne in Chinese
       type: expression
       normative_status: preferred
-      partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
   definition: Definitionas
   notes: []
   examples: []

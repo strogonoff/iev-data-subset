@@ -18,7 +18,6 @@ proposals:
         - designation: Test designation
           type: expression
           normative_status: preferred
-          partOfSpeech: !<tag:yaml.org,2002:js/undefined> ''
       definition: Test definition with `m`ath!
       notes: []
       examples: []
@@ -41,5 +40,4 @@ sponsor:
         - label: email
           value: open@ribose.com
 status: pending
-disposition: !<tag:yaml.org,2002:js/undefined> ''
 timeProposed: 2021-02-25T11:16:56.951Z
