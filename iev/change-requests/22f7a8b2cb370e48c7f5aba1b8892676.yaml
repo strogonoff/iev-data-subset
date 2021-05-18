@@ -1,0 +1,41 @@
+justification: Test
+controlBodyNotes: ''
+proposals:
+  /subregisters/eng/localized-concept/5d75a172-2940-5e5e-8f58-3719d59b47f8.yaml:
+    type: clarification
+    payload:
+      authoritativeSource:
+        - {}
+      date_amended: '2017-11-01T00:00:00+00:00'
+      definition: >-
+        product of the length of a journey and the payload conveyed over that
+        distance during a certain period
+      examples: []
+      id: 811-03-04
+      language_code: eng
+      notes: []
+      review_date: '2017-11-01T00:00:00+00:00'
+      review_decision_date: '2017-11-01T00:00:00+00:00'
+      review_decision_event: published
+      terms:
+        - designation: net traffic
+          normative_status: preferred
+          type: expression
+        - type: expression
+          designation: Test
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 22f7a8b2cb370e48c7f5aba1b8892676
+timeStarted: 2021-05-18T05:09:03.517Z
+timeProposed: 2021-05-18T05:09:03.517Z
+timeDisposed: 2021-05-18T05:09:03.517Z
+status: final
+disposition: accepted
