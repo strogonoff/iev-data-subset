@@ -1,0 +1,29 @@
+justification: new45
+controlBodyNotes: ''
+proposals:
+  /subregisters/dan/localized-concept/ad249157c01f24923485fde7f25d6afe.yaml:
+    type: addition
+    payload:
+      terms:
+        - designation: New designation
+          type: expression
+          normative_status: preferred
+      definition: ''
+      notes: []
+      examples: []
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 8a86c012aa17d9a9061cda14c918ba46
+timeStarted: 2021-05-18T23:00:07.964Z
+timeProposed: 2021-05-18T23:00:07.964Z
+timeDisposed: 2021-05-18T23:00:07.964Z
+status: final
+disposition: accepted
