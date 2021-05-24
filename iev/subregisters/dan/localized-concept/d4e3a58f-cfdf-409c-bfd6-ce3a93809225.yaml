@@ -1,11 +1,11 @@
 id: d4e3a58f-cfdf-409c-bfd6-ce3a93809225
 data:
   terms:
-    - designation: New designation
+    - designation: Fix Danish designation
       type: expression
       normative_status: preferred
-  definition: ''
+  definition: Definition goes here
   notes: []
   examples: []
 status: valid
-dateAccepted: 2021-05-24T02:34:30.781Z
+dateAccepted: '2021-05-24T02:34:30.781Z'

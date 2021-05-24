@@ -1,0 +1,29 @@
+justification: Update Danish designation
+controlBodyNotes: ''
+proposals:
+  /subregisters/dan/localized-concept/d4e3a58f-cfdf-409c-bfd6-ce3a93809225.yaml:
+    type: clarification
+    payload:
+      terms:
+        - designation: Fix Danish designation
+          type: expression
+          normative_status: preferred
+      definition: Definition goes here
+      notes: []
+      examples: []
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: c082d081-bd14-48e6-845a-5dde2af4c160
+timeStarted: 2021-05-24T02:35:09.811Z
+timeProposed: 2021-05-24T02:35:09.811Z
+timeDisposed: 2021-05-24T02:35:09.811Z
+status: final
+disposition: accepted
