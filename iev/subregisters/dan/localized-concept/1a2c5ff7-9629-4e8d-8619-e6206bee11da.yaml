@@ -1,0 +1,11 @@
+id: 1a2c5ff7-9629-4e8d-8619-e6206bee11da
+data:
+  terms:
+    - designation: New designation
+      type: expression
+      normative_status: preferred
+  definition: ''
+  notes: []
+  examples: []
+status: valid
+dateAccepted: 2021-05-24T02:33:23.111Z
