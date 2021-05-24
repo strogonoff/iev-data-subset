@@ -1,0 +1,38 @@
+justification: connect Danish designation
+controlBodyNotes: ''
+proposals:
+  /subregisters/universal/concept/ab32f306-6d39-57f2-bf63-154a2f9e75be.yaml:
+    type: clarification
+    payload:
+      identifier: 113-04-46
+      localizedConcepts:
+        ara: d4085f26-3dce-530e-88e6-a1fbb24455a0
+        deu: a6d517ca-0a1c-5d9f-b869-36f0a8589697
+        eng: 639c6064-e2ad-5f2c-adee-d4f2be6b6b0a
+        fin: 04bdf0ac-93fb-5027-9fd9-2b000837ae90
+        fra: 6ee384b7-a6e1-5308-bbc4-d69f207c5085
+        ita: bef66a2a-a056-58d2-b01f-c66254566a47
+        jpn: 468a5b08-636f-51d5-9bba-7b1c48b9aa43
+        kor: 8f23a453-175a-5f74-8a23-13fe45a644ee
+        pol: b12a3544-53be-55c0-9367-aa80894d83cd
+        por: dfb44c6a-7e0a-5039-a010-058b5190c16c
+        spa: c6ab10e9-bd47-56cb-bf16-2c90a0104025
+        swe: 402ccc0f-e070-5fbb-a1aa-1b6dabf27fc0
+        zho: baf32c50-cc9c-5077-a368-67abe83423d5
+        dan: d4e3a58f-cfdf-409c-bfd6-ce3a93809225
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 6840fee1-ead1-48bf-967e-638da59cbbfe
+timeStarted: 2021-05-24T02:34:46.390Z
+timeProposed: 2021-05-24T02:34:46.390Z
+timeDisposed: 2021-05-24T02:34:46.390Z
+status: final
+disposition: accepted
