@@ -1,11 +1,11 @@
 id: 06b3d7b2-22e8-4c1e-8b43-d001bd0ba596
 data:
   terms:
-    - designation: New designation
+    - designation: tensor in Danish
       type: expression
       normative_status: preferred
-  definition: ''
+  definition: some definition with `math`
   notes: []
   examples: []
 status: valid
-dateAccepted: 2021-05-25T09:47:18.286Z
+dateAccepted: '2021-05-25T09:47:18.286Z'
