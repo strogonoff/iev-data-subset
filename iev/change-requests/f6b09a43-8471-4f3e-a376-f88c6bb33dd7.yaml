@@ -1,0 +1,29 @@
+justification: change definition
+controlBodyNotes: ''
+proposals:
+  /subregisters/dan/localized-concept/06b3d7b2-22e8-4c1e-8b43-d001bd0ba596.yaml:
+    type: clarification
+    payload:
+      terms:
+        - designation: tensor in Danish
+          type: expression
+          normative_status: preferred
+      definition: some definition with `m`
+      notes: []
+      examples: []
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: f6b09a43-8471-4f3e-a376-f88c6bb33dd7
+timeStarted: 2021-05-25T09:48:48.946Z
+timeProposed: 2021-05-25T09:48:48.946Z
+timeDisposed: 2021-05-25T09:48:48.946Z
+status: final
+disposition: accepted
