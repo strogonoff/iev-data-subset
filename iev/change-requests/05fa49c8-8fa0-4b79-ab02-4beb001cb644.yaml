@@ -1,0 +1,44 @@
+justification: edited power
+controlBodyNotes: ''
+proposals:
+  /subregisters/eng/localized-concept/dadd93d9-c8b0-579c-8f71-a9889a946b86.yaml:
+    type: clarification
+    payload:
+      authoritativeSource:
+        - {}
+      date_amended: '2011-04-01T00:00:00+00:00'
+      definition: >-
+        `t` of energy `E` being transferred or transformed, thus `P = ((d
+        E))/((d t))` edited
+      examples: []
+      id: 113-03-52
+      language_code: eng
+      notes:
+        - 1 For power in electric circuits, see IEC 60050-131.
+        - 2 The coherent SI unit of power is watt, W.
+      review_date: '2011-04-01T00:00:00+00:00'
+      review_decision_date: '2011-04-01T00:00:00+00:00'
+      review_decision_event: published
+      terms:
+        - designation: power
+          normative_status: preferred
+          type: expression
+        - designation: '`P`'
+          international: true
+          type: symbol
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 05fa49c8-8fa0-4b79-ab02-4beb001cb644
+timeStarted: 2021-05-25T10:17:15.612Z
+timeProposed: 2021-05-25T10:17:15.612Z
+timeDisposed: 2021-05-25T10:17:15.612Z
+status: final
+disposition: accepted

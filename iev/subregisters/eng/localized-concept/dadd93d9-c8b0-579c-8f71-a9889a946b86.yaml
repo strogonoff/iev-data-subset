@@ -1,25 +1,26 @@
 data:
   authoritativeSource:
-  - {}
+    - {}
   date_amended: '2011-04-01T00:00:00+00:00'
-  definition: '`t` of energy `E` being transferred or transformed, thus `P = ((d E))/((d
-    t))`'
+  definition: >-
+    `t` of energy `E` being transferred or transformed, thus `P = ((d E))/((d
+    t))` edited
   examples: []
   id: 113-03-52
   language_code: eng
   notes:
-  - 1 For power in electric circuits, see IEC 60050-131.
-  - 2 The coherent SI unit of power is watt, W.
+    - 1 For power in electric circuits, see IEC 60050-131.
+    - 2 The coherent SI unit of power is watt, W.
   review_date: '2011-04-01T00:00:00+00:00'
   review_decision_date: '2011-04-01T00:00:00+00:00'
   review_decision_event: published
   terms:
-  - designation: power
-    normative_status: preferred
-    type: expression
-  - designation: '`P`'
-    international: true
-    type: symbol
-dateAccepted: 2011-04-01
+    - designation: power
+      normative_status: preferred
+      type: expression
+    - designation: '`P`'
+      international: true
+      type: symbol
+dateAccepted: '2011-04-01T00:00:00.000Z'
 id: dadd93d9-c8b0-579c-8f71-a9889a946b86
 status: Standard
