@@ -1,0 +1,55 @@
+justification: test edit
+controlBodyNotes: ''
+proposals:
+  /subregisters/eng/localized-concept/45c1f76b-589b-59d2-b592-9d2174b0c676.yaml:
+    type: clarification
+    payload:
+      authoritativeSource:
+        - {}
+      classification: Preferred
+      date_amended: '2011-04-01T00:00:00+00:00'
+      definition: >-
+        `φ`* divided by the absolute value of temperature difference Δ`T`, thus
+        `K = ((| phi |))/((| Delta T |))` (edited)
+      examples: []
+      id: 113-04-39
+      language_code: eng
+      notes:
+        - >-
+          1 The coefficient of heat transfer is zero for an adiabatic boundary
+          and infinity for a diathermic boundary.
+        - '`U` are mainly used in building technology.'
+        - >-
+          3 The coherent SI unit of coefficient of heat transfer is watt per
+          square metre kelvin, W/(m^2^·K).
+      review_date: '2011-04-01T00:00:00+00:00'
+      review_decision_date: '2011-04-01T00:00:00+00:00'
+      review_decision_event: published
+      terms:
+        - designation: coefficient of heat transfer
+          normative_status: preferred
+          type: expression
+        - designation: thermal transmittance
+          normative_status: preferred
+          type: expression
+        - designation: |-
+            `K`
+            `U`
+          international: true
+          type: symbol
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 06b47883-d535-4ad8-b68f-0c011c24cffe
+timeStarted: 2021-05-31T09:03:00.879Z
+timeProposed: 2021-05-31T09:03:00.879Z
+timeDisposed: 2021-05-31T09:03:00.879Z
+status: final
+disposition: accepted

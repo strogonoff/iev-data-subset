@@ -1,34 +1,37 @@
 data:
   authoritativeSource:
-  - {}
+    - {}
   classification: Preferred
   date_amended: '2011-04-01T00:00:00+00:00'
-  definition: '`φ`* divided by the absolute value of temperature difference Δ`T`,
-    thus `K = ((| phi |))/((| Delta T |))`'
+  definition: >-
+    `φ`* divided by the absolute value of temperature difference Δ`T`, thus `K =
+    ((| phi |))/((| Delta T |))` (edited)
   examples: []
   id: 113-04-39
   language_code: eng
   notes:
-  - 1 The coefficient of heat transfer is zero for an adiabatic boundary and infinity
-    for a diathermic boundary.
-  - '`U` are mainly used in building technology.'
-  - 3 The coherent SI unit of coefficient of heat transfer is watt per square metre
-    kelvin, W/(m^2^·K).
+    - >-
+      1 The coefficient of heat transfer is zero for an adiabatic boundary and
+      infinity for a diathermic boundary.
+    - '`U` are mainly used in building technology.'
+    - >-
+      3 The coherent SI unit of coefficient of heat transfer is watt per square
+      metre kelvin, W/(m^2^·K).
   review_date: '2011-04-01T00:00:00+00:00'
   review_decision_date: '2011-04-01T00:00:00+00:00'
   review_decision_event: published
   terms:
-  - designation: coefficient of heat transfer
-    normative_status: preferred
-    type: expression
-  - designation: thermal transmittance
-    normative_status: preferred
-    type: expression
-  - designation: '`K`
-
-      `U`'
-    international: true
-    type: symbol
-dateAccepted: 2011-04-01
+    - designation: coefficient of heat transfer
+      normative_status: preferred
+      type: expression
+    - designation: thermal transmittance
+      normative_status: preferred
+      type: expression
+    - designation: |-
+        `K`
+        `U`
+      international: true
+      type: symbol
+dateAccepted: '2011-04-01T00:00:00.000Z'
 id: 45c1f76b-589b-59d2-b592-9d2174b0c676
 status: Standard
