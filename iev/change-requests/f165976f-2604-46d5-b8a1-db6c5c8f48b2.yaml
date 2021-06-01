@@ -1,0 +1,47 @@
+justification: edit activity
+controlBodyNotes: ''
+proposals:
+  /subregisters/eng/localized-concept/0ef9dd3d-c5f5-564e-bda8-36539ae3d3ea.yaml:
+    type: clarification
+    payload:
+      authoritativeSource:
+        - {}
+      date_amended: '1983-01-01T00:00:00+00:00'
+      definition: >-
+        `N` by d`t`, where d`N` is the expectation value of the number of
+        spontaneous nuclear transitions from that energy state in the time
+        interval d`t`:
+
+
+        `A = ((d N))/((d t))` (edited)
+      examples: []
+      id: 881-04-42
+      language_code: eng
+      notes:
+        - "The SI unit of activity is the reciprocal second (s^−1^) and is given the special name becquerel (Bq). The earlier special unit of activity, still in temporary use, was the curie (Ci). 1\_Bq\_=\_1\_s^−1^\_=\_2,703 × 10^−11^\_Ci approximately."
+      review_date: '1983-01-01T00:00:00+00:00'
+      review_decision_date: '1983-01-01T00:00:00+00:00'
+      review_decision_event: published
+      terms:
+        - designation: activity
+          normative_status: preferred
+          type: expression
+        - designation: '`A`'
+          international: true
+          type: symbol
+    disposition: accepted
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: f165976f-2604-46d5-b8a1-db6c5c8f48b2
+timeStarted: 2021-06-01T13:22:34.496Z
+timeProposed: 2021-06-01T13:22:34.496Z
+timeDisposed: 2021-06-01T13:22:34.496Z
+status: final
+disposition: accepted
